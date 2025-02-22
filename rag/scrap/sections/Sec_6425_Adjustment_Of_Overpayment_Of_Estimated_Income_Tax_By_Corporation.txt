@@ -1,0 +1,165 @@
+Sec. 6425. Adjustment Of Overpayment Of Estimated Income Tax By Corporation
+
+I.R.C. § 6425(a) Application Of Adjustment
+
+
+I.R.C. § 6425(a)(1) Time For Filing — 
+                  
+                  
+A corporation may, after the close
+                     of the taxable year and on or before the 15th day of the fourth month
+                     thereafter, and before the day on which it files a return for such
+                     taxable year, file an application for an adjustment of an overpayment
+                     by it of estimated income tax for such taxable year. An application
+                     under this subsection shall not constitute a claim for credit or refund. 
+
+
+I.R.C. § 6425(a)(2) Form Of Application, Etc. — 
+                  
+                  
+An application under this subsection shall be verified
+                     in the manner prescribed by section 6065 in
+                     the case of a return of the taxpayer, and shall be filed in the manner
+                     and form required by regulations prescribed by the Secretary. The
+                     application shall set forth— 
+
+I.R.C. § 6425(a)(2)(A)  — 
+                     
+                     
+the estimated income tax paid by
+                        the corporation during the taxable year, 
+
+
+I.R.C. § 6425(a)(2)(B)  — 
+                     
+                     
+the amount which, at the time of
+                        filing the application, the corporation estimates as its income tax
+                        liability for the taxable year, 
+
+
+I.R.C. § 6425(a)(2)(C)  — 
+                     
+                     
+the amount of the adjustment, and 
+
+
+I.R.C. § 6425(a)(2)(D)  — 
+                     
+                     
+such other information for purposes
+                        of carrying out the provisions of this section as may be required
+                        by such regulations.
+I.R.C. § 6425(b) Allowance Of Adjustment
+
+
+I.R.C. § 6425(b)(1) Limited Examination Of Application — 
+                  
+                  
+Within a period of 45 days from the date on which an
+                     application for an adjustment is filed under subsection (a), the Secretary
+                     shall make, to the extent he deems practicable in such period, a limited
+                     examination of the application to discover omissions and errors therein,
+                     and shall determine the amount of the adjustment upon the basis of
+                     the application and the examination; except that the Secretary may
+                     disallow, without further action, any application which he finds contains
+                     material omissions or errors which he deems cannot be corrected within
+                     such 45 days. 
+
+
+I.R.C. § 6425(b)(2) Adjustment Credited Or Refunded — 
+                  
+                  
+The Secretary, within the 45-day period referred to
+                     in paragraph (1), may credit the amount of the adjustment against
+                     any liability in respect of an internal revenue tax on the part of
+                     the corporation and shall refund the remainder to the corporation. 
+
+
+I.R.C. § 6425(b)(3) Limitation — 
+                  
+                  
+No application under this section shall be allowed unless
+                     the amount of the adjustment equals or exceeds (A) 10 percent of the
+                     amount estimated by the corporation on its application as its income
+                     tax liability for the taxable year, and (B) $500. 
+
+
+I.R.C. § 6425(b)(4) Effect Of Adjustment — 
+                  
+                  
+For purposes of this title (other than section 6655), any adjustment under this
+                     section shall be treated as a reduction, in the estimated income tax
+                     paid, made on the day the credit is allowed or the refund is paid.
+I.R.C. § 6425(c) Definitions — 
+               
+               
+For purposes of this section and section 6655(h) (relating to excessive
+                  adjustment)— 
+
+I.R.C. § 6425(c)(1)  — 
+                  
+                  
+The term “income tax liability”
+                     means the excess of— 
+
+I.R.C. § 6425(c)(1)(A)  — 
+                     
+                     
+the sum of— 
+
+I.R.C. § 6425(c)(1)(A)(i)  — 
+                        
+                        
+the tax imposed by section 11 or subchapter L of chapter 1, whichever
+                           is applicable, plus 
+
+
+I.R.C. § 6425(c)(1)(A)(ii)  — 
+                        
+                        
+the tax imposed by section 55, plus 
+
+
+I.R.C. § 6425(c)(1)(A)(iii)  — 
+                        
+                        
+the tax imposed by section 59A, over 
+
+
+
+I.R.C. § 6425(c)(1)(B)  — 
+                     
+                     
+the credits against tax provided
+                        by part IV of subchapter A of chapter 1. 
+
+
+
+I.R.C. § 6425(c)(2)  — 
+                  
+                  
+The amount of an adjustment under
+                     this section is equal to the excess of— 
+
+I.R.C. § 6425(c)(2)(A)  — 
+                     
+                     
+the estimated income tax paid by
+                        the corporation during the taxable year, over 
+
+
+I.R.C. § 6425(c)(2)(B)  — 
+                     
+                     
+the amount which, at the time of
+                        filing the application, the corporation estimates as its income tax
+                        liability for the taxable year.
+I.R.C. § 6425(d) Consolidated Returns — 
+               
+               
+If the corporation seeking an adjustment under this
+                  section paid its estimated income tax on a consolidated basis or expects
+                  to make a consolidated return for the taxable year, this section shall
+                  apply only to such extent and subject to such conditions, limitations,
+                  and exceptions as the Secretary may by regulations prescribe.

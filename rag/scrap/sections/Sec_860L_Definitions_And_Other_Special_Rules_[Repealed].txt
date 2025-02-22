@@ -1,0 +1,868 @@
+Sec. 860L. Definitions And Other Special Rules [Repealed]
+
+I.R.C. § 860L(a)  FASIT
+
+
+I.R.C. § 860L(a)(1)  In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this title, the terms “financial asset  securitization investment
+                        trust”
+                        and “FASIT” mean any entity—
+
+
+I.R.C. § 860L(a)(1)(A)  — 
+                     
+                     
+for which an election to be treated as a FASIT applies  for the taxable year, 
+
+
+I.R.C. § 860L(a)(1)(B)  — 
+                     
+                     
+all of the interests in which are regular interests or  the ownership interest, 
+
+
+I.R.C. § 860L(a)(1)(C)  — 
+                     
+                     
+which has only 1 ownership interest and such ownership  interest is held directly
+                        by an eligible corporation, 
+
+
+I.R.C. § 860L(a)(1)(D)  — 
+                     
+                     
+as of the close of the 3rd month beginning after the  day of its formation and at
+                        all times thereafter, substantially all of the  assets of which (including assets
+                        treated as held by the entity under  section 860I(b)(2)) consist of permitted assets, and 
+
+
+I.R.C. § 860L(a)(1)(E)  — 
+                     
+                     
+which is not described in section 851(a). 
+
+A rule similar to the rule of the  last sentence of section 860D(a) shall apply for purposes of this  paragraph.
+
+
+
+
+I.R.C. § 860L(a)(2)  Eligible Corporation — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of paragraph (1)(C), the term “eligible  corporation” means any domestic
+                        C corporation other than—
+
+
+I.R.C. § 860L(a)(2)(A)  — 
+                     
+                     
+a corporation which is exempt from, or is not subject  to, tax under this chapter, 
+
+
+I.R.C. § 860L(a)(2)(B)  — 
+                     
+                     
+an entity described in section 851(a) or  856(a), 
+
+
+I.R.C. § 860L(a)(2)(C)  — 
+                     
+                     
+a REMIC, and 
+
+
+I.R.C. § 860L(a)(2)(D)  — 
+                     
+                     
+an organization to which part I of subchapter T  applies. 
+
+
+
+I.R.C. § 860L(a)(3)  Election — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+An entity (otherwise meeting the requirements of  paragraph (1)) may elect to be treated
+                        as a FASIT. Except as provided in  paragraph (5), such an election shall apply to
+                        the taxable year for which  made and all subsequent taxable years unless revoked with
+                        the consent of  the Secretary.
+
+
+
+I.R.C. § 860L(a)(4)  Termination — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+If any entity ceases to be a FASIT at any time during  the taxable year, such entity
+                        shall not be treated as a FASIT after the  date of such cessation.
+
+
+
+I.R.C. § 860L(a)(5)  Inadvertent Terminations, Etc — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Rules similar to the rules of section 860D(b)(2)(B)  shall apply to inadvertent failures to qualify or remain qualified as a
+                        FASIT.
+
+
+
+I.R.C. § 860L(a)(6)  Permitted Assets Not Treated As Interest In FASIT — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Except as provided in regulations prescribed by the  Secretary, any asset which is
+                        a permitted asset at the time acquired by a  FASIT shall not be treated at any time
+                        as an interest in such  FASIT.
+I.R.C. § 860L(b)  Interests In FASIT — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this part—
+
+
+I.R.C. § 860L(b)(1)  Regular Interest
+
+
+I.R.C. § 860L(b)(1)(A)  In General — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “regular interest”
+                           means any interest which is  issued by a FASIT on or after the startup date with fixed
+                           terms and which  is designated as a regular interest if—
+
+
+I.R.C. § 860L(b)(1)(A)(i)  — 
+                        
+                        
+such interest unconditionally entitles the holder to  receive a specified principal
+                           amount (or other similar
+                           amount), 
+
+
+I.R.C. § 860L(b)(1)(A)(ii)  — 
+                        
+                        
+interest payments (or other similar amounts), if any,  with respect to such interest
+                           are determined based on a fixed rate, or,  except as otherwise provided by the Secretary,
+                           at a variable rate  permitted under section 860G(a)(1)(B)(i), 
+
+
+I.R.C. § 860L(b)(1)(A)(iii)  — 
+                        
+                        
+such interest does not have a stated maturity  (including options to renew) greater
+                           than 30 years (or such longer period  as may be permitted by regulations), 
+
+
+I.R.C. § 860L(b)(1)(A)(iv)  — 
+                        
+                        
+the issue price of such interest does not exceed 125  percent of its stated principal
+                           amount, and 
+
+
+I.R.C. § 860L(b)(1)(A)(v)  — 
+                        
+                        
+the yield to maturity on such interest is less than the  sum determined under section
+                           163(i)(1)(B) with respect to such interest. 
+
+
+An interest shall not fail to meet
+                           the requirements of clause (i) merely because the timing (but not the  amount) of
+                           the principal payments (or other similar amounts)
+                           may be  contingent on the extent that payments on debt instruments held by the  FASIT
+                           are made in advance of anticipated payments and on the amount of  income from permitted
+                           assets.
+
+
+
+I.R.C. § 860L(b)(1)(B)  High-Yield Interests
+
+
+I.R.C. § 860L(b)(1)(B)(i)  In General — 
+                        
+                        
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                    the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “regular interest”
+                              includes any high-yield  interest.
+
+
+
+I.R.C. § 860L(b)(1)(B)(ii)  High-Yield Interest — 
+                        
+                        
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                    the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term ‘high-yield interest’ means any interest which  would be described in subparagraph
+                              (A) but for—
+
+
+I.R.C. § 860L(b)(1)(B)(ii)(I)  — 
+                           
+                           
+failing to meet the requirements of one or more of  clauses (i), (iv), or (v) thereof,
+                              or 
+
+
+I.R.C. § 860L(b)(1)(B)(ii)(II)  — 
+                           
+                           
+failing to meet the requirement of clause (ii) thereof  but only if interest payments
+                              (or other similar amounts), if any, with  respect to such interest consist of a specified
+                              portion of the interest  payments on permitted assets and such portion does not vary
+                              during the  period such interest is  outstanding. 
+
+
+
+
+
+I.R.C. § 860L(b)(2)  Ownership Interest — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term ‘ownership interest’ means the interest issued  by a FASIT after the startup
+                        day which is designated as an ownership  interest and which is not a regular interest.
+I.R.C. § 860L(c)  Permitted Assets — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this part—
+
+
+I.R.C. § 860L(c)(1)  In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “permitted asset”
+                        means--
+
+
+I.R.C. § 860L(c)(1)(A)  — 
+                     
+                     
+cash or cash equivalents, 
+
+
+I.R.C. § 860L(c)(1)(B)  — 
+                     
+                     
+any debt instrument (as defined in section 1275(a)(1))
+                        under which interest payments (or other similar amounts), if any, at or  before maturity
+                        meet the requirements applicable under clause
+                        (i) or (ii)  of section 860G(a)(1)(B), 
+
+
+I.R.C. § 860L(c)(1)(C)  — 
+                     
+                     
+foreclosure property, 
+
+
+I.R.C. § 860L(c)(1)(D)  — 
+                     
+                     
+any asset— 
+
+I.R.C. § 860L(c)(1)(D)(i)  — 
+                        
+                        
+which is an interest rate or foreign currency notional  principal contract, letter
+                           of credit, insurance, guarantee against payment  defaults, or other similar instrument
+                           permitted by the Secretary,  and 
+
+
+I.R.C. § 860L(c)(1)(D)(ii)  — 
+                        
+                        
+which is reasonably required to guarantee or hedge  against the FASIT's risks associated
+                           with being the obligor on interests  issued by the FASIT, 
+
+
+
+I.R.C. § 860L(c)(1)(E)  — 
+                     
+                     
+contract rights to acquire debt instruments described  in subparagraph (B) or assets
+                        described in subparagraph (D), 
+
+
+I.R.C. § 860L(c)(1)(F)  — 
+                     
+                     
+any regular interest in another FASIT, and 
+
+
+I.R.C. § 860L(c)(1)(G)  — 
+                     
+                     
+any regular interest in a  REMIC. 
+
+
+
+I.R.C. § 860L(c)(2)  Debt Issued By Holder Of Ownership Interest Not Permitted Asset — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “permitted asset”
+                        shall not include any debt  instrument issued by the holder of the ownership interest
+                        in the FASIT or  by any person related to such holder or any direct or indirect interest
+                        in  such a debt instrument. The preceding sentence shall not apply to cash  equivalents
+                        and to any other investment specified in regulations  prescribed by the Secretary.
+
+
+
+I.R.C. § 860L(c)(3)  Foreclosure Property
+
+
+I.R.C. § 860L(c)(3)(A)  In General — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “foreclosure property”
+                           means property—
+
+
+I.R.C. § 860L(c)(3)(A)(i)  — 
+                        
+                        
+which would be foreclosure property under section  856(e) (determined without regard to paragraph (5) thereof) if such  property were real
+                           property acquired by a real estate investment trust,  and 
+
+
+I.R.C. § 860L(c)(3)(A)(ii)  — 
+                        
+                        
+which is acquired in connection with the default or  imminent default of a debt instrument
+                           held by the FASIT unless the  security interest in such property was created for the
+                           principal purpose  of permitting the FASIT to invest in such property. 
+
+
+Solely for purposes of subsection
+                           (a)(1), the determination of whether any property is foreclosure property  shall be
+                           made without regard to section  856(e)(4).
+
+
+
+I.R.C. § 860L(c)(3)(B)  Authority To Reduce Grace Period — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+In the case of property other than real property and  other than personal property
+                           incident to real property, the Secretary may  by regulation reduce for purposes of
+                           subparagraph
+                           (A) the periods  otherwise applicable under paragraphs (2) and (3)
+                           of section  856(e).
+I.R.C. § 860L(d)  Startup Day — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this part—
+
+
+I.R.C. § 860L(d)(1)  In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The term “startup day”
+                        means the date designated in the  election under subsection (a)(3)
+                        as the startup day of the FASIT. Such day  shall be the beginning of the first taxable
+                        year of the FASIT.
+
+
+
+I.R.C. § 860L(d)(2)  Treatment Of Property Held On Startup Day — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+All property held (or treated as held under section  860I(b)(2))
+                        by an entity as of the startup day shall be treated as  contributed to such entity
+                        on such day by the holder of the ownership  interest in such entity.
+I.R.C. § 860L(e)  Tax On Prohibited Transactions
+
+
+I.R.C. § 860L(e)(1)  In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+There is hereby imposed for each taxable year of a FASIT  a tax equal to 100 percent
+                        of the net income derived from prohibited  transactions. Such tax shall be paid by
+                        the holder of the ownership  interest in the FASIT.
+
+
+
+I.R.C. § 860L(e)(2)  Prohibited Transactions — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this part, the term “prohibited
+                        transaction” means—
+
+
+I.R.C. § 860L(e)(2)(A)  — 
+                     
+                     
+except as provided in paragraph
+                        (3), the receipt of any  income derived from any asset that is not a permitted asset, 
+
+
+I.R.C. § 860L(e)(2)(B)  — 
+                     
+                     
+the disposition of any permitted asset other than  foreclosure property, 
+
+
+I.R.C. § 860L(e)(2)(C)  — 
+                     
+                     
+the receipt of any income derived from any loan  originated by the FASIT, and 
+
+
+I.R.C. § 860L(e)(2)(D)  — 
+                     
+                     
+the receipt of any income representing a fee or other  compensation for services (other
+                        than any fee received as compensation for  a waiver, amendment, or consent under permitted
+                        assets (other than  foreclosure property) held by the FASIT). 
+
+
+
+I.R.C. § 860L(e)(3)  Exception For Income From Certain Dispositions
+
+
+I.R.C. § 860L(e)(3)(A)  In General — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Paragraph (2)(B) shall not apply to a disposition which  would not be a prohibited
+                           transaction (as defined in section 860F(a)(2))
+                           by reason of—
+
+
+I.R.C. § 860L(e)(3)(A)(i)  — 
+                        
+                        
+clause (ii), (iii), or (iv) of section 860F(a)(2)(A),
+                           or 
+
+
+I.R.C. § 860L(e)(3)(A)(ii)  — 
+                        
+                        
+section 860F(a)(5), 
+
+if the FASIT were treated as a REMIC  and permitted assets (other than cash or cash
+                              equivalents) were treated as  qualified mortgages.
+
+
+
+
+I.R.C. § 860L(e)(3)(B)  Substitution Of Debt Instruments; Reduction Of Over-Collateralization — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Paragraph (2)(B) shall not apply to—
+
+
+I.R.C. § 860L(e)(3)(B)(i)  — 
+                        
+                        
+the substitution of a debt instrument described in  subsection (c)(1)(B) for another
+                           debt instrument which is a permitted  asset, or 
+
+
+I.R.C. § 860L(e)(3)(B)(ii)  — 
+                        
+                        
+the distribution of a debt instrument contributed by  the holder of the ownership
+                           interest to such holder in order to reduce  over-collateralization of the FASIT, 
+
+but only if a principal purpose of  acquiring the debt instrument which is disposed
+                              of was not the recognition  of gain (or the reduction of a loss) as a result of an
+                              increase in the  market value of the debt instrument after its acquisition by the
+                              FASIT.
+
+
+
+
+I.R.C. § 860L(e)(3)(C)  Liquidation Of Class Of Regular Interests — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Paragraph (2)(B) shall not apply to the complete  liquidation of any class of regular
+                           interests.
+
+
+
+I.R.C. § 860L(e)(3)(D)  Income From Dispositions Of Former Hedge Assets — 
+                     
+                     
+Paragraph  (2)(A) shall not apply to income derived from the disposition of— 
+
+I.R.C. § 860L(e)(3)(D)(i)  — 
+                        
+                        
+an asset which was described in subsection (c)(1)(D)  when first acquired by the FASIT
+                           but on the date of such disposition was  no longer described in subsection (c)(1)(D)(ii),
+                           or 
+
+
+I.R.C. § 860L(e)(3)(D)(ii)  — 
+                        
+                        
+a contract right to acquire an asset described in  clause (i). 
+
+
+
+
+I.R.C. § 860L(e)(4)  Net Income — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this subsection, net income shall be  determined in accordance with
+                        section 860F(a)(3).
+I.R.C. § 860L(f)  Coordination With Other Provisions — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+I.R.C. § 860L(f)(1)  Wash Sales Rules — 
+                  
+                  
+Rules  similar to the rules of section 860F(d) shall apply to the ownership  interest in a FASIT. 
+
+
+I.R.C. § 860L(f)(2)  Section 475 — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Except as provided by the Secretary by regulations, if  any security which is sold
+                        or contributed to a FASIT by the holder of the  ownership interest in such FASIT was
+                        required to be marked-to-market under  section 475 by such holder, section 475 shall continue to apply to such  security; except that in applying section 475 while such security is held
+                        by the FASIT, the fair market value of such security for purposes of  section 475 shall not be less than its value under section  860I(d).
+I.R.C. § 860L(g)  Related Person — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this part, a person  (hereinafter in this subsection referred to as
+                     the “related person”) is  related to any person if—
+
+
+I.R.C. § 860L(g)(1)  — 
+                  
+                  
+the related person bears a relationship to such person  specified in section 267(b) or section 707(b)(1), or 
+
+
+I.R.C. § 860L(g)(2)  — 
+                  
+                  
+the related person and such person are engaged in  trades or businesses under common
+                     control (within the meaning of  subsections (a) and (b) of section 52). 
+
+
+For purposes of paragraph (1), in
+                     applying section 267(b) or 707(b)(1), “20 percent”
+                     shall be substituted  for “50 percent”.
+I.R.C. § 860L(h)  Regulations — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860L, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The Secretary shall prescribe such regulations as may be  necessary or appropriate
+                     to carry out the purposes of this part, including  regulations to prevent the abuse
+                     of the purposes of this part through  transactions which are not primarily related
+                     to securitization of debt  instruments by a FASIT.

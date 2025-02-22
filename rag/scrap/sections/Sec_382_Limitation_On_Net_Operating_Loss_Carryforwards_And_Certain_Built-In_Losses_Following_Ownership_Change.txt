@@ -1,0 +1,1410 @@
+Sec. 382. Limitation On Net Operating Loss Carryforwards And Certain Built-In Losses Following Ownership Change
+
+I.R.C. § 382(a) General Rule — 
+               
+               
+The  amount of the taxable income of any new loss corporation for any  post-change
+                  year which may be offset by pre-change losses shall not exceed  the section 382 limitation
+                  for such year.
+I.R.C. § 382(b) Section 382 Limitation — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(b)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this section, the section 382 limitation for any
+                     post-change year is an amount equal to— 
+
+I.R.C. § 382(b)(1)(A)  — 
+                     
+                     
+the  value of the old loss corporation, multiplied by 
+
+
+I.R.C. § 382(b)(1)(B)  — 
+                     
+                     
+the  long-term tax-exempt rate. 
+
+
+
+I.R.C. § 382(b)(2) Carryforward Of Unused Limitation — 
+                  
+                  
+If  the section 382 limitation for any post-change year exceeds the taxable  income
+                     of the new loss corporation for such year which was offset by  pre-change losses,
+                     the section 382 limitation for the next post-change  year shall be increased by the
+                     amount of such excess. 
+
+
+I.R.C. § 382(b)(3) Special Rule For Post-Change Year Which Includes Change Date — 
+                  
+                  
+In  the case of any post-change year which includes the change date— 
+
+I.R.C. § 382(b)(3)(A) Limitation Does Not Apply To Taxable Income Before Change — 
+                     
+                     
+Subsection  (a) shall not apply to the portion of the taxable income for such year
+                        which is allocable to the period in such year on or before the change  date. Except
+                        as provided in subsection
+                        (h)(5) and in regulations, taxable  income shall be allocated ratably to each day
+                        in the year. 
+
+
+I.R.C. § 382(b)(3)(B) Limitation For Period After Change — 
+                     
+                     
+For  purposes of applying the limitation of subsection
+                        (a) to the remainder of  the taxable income for such year, the section 382 limitation
+                        shall be an  amount which bears the same ratio to such limitation (determined without
+                        regard to this paragraph) as— 
+
+I.R.C. § 382(b)(3)(B)(i)  — 
+                        
+                        
+the  number of days in such year after the change date, bears to 
+
+
+I.R.C. § 382(b)(3)(B)(ii)  — 
+                        
+                        
+the  total number of days in such year.
+I.R.C. § 382(c) Carryforwards Disallowed If Continuity Of Business Requirements Not Met
+
+
+I.R.C. § 382(c)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), if the new loss corporation does not  continue
+                     the business enterprise of the old loss corporation at all times  during the 2-year
+                     period beginning on the change date, the section 382  limitation for any post-change
+                     year shall be zero. 
+
+
+I.R.C. § 382(c)(2) Exception For Certain Gains — 
+                  
+                  
+The  section 382 limitation for any post-change year shall not be less than the  sum
+                     of— 
+
+I.R.C. § 382(c)(2)(A)  — 
+                     
+                     
+any  increase in such limitation under— 
+
+I.R.C. § 382(c)(2)(A)(i)  — 
+                        
+                        
+subsection  (h)(1)(A) for recognized built-in gains for such year, and 
+
+
+I.R.C. § 382(c)(2)(A)(ii)  — 
+                        
+                        
+subsection  (h)(1)(C) for gain recognized by reason of an election under section 338,
+                           plus 
+
+
+
+I.R.C. § 382(c)(2)(B)  — 
+                     
+                     
+any  increase in such limitation under subsection (b)(2) for amounts described  in
+                        subparagraph (A) which are carried forward to such year.
+I.R.C. § 382(d) Pre-Change Loss And Post-Change Year — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(d)(1) Pre-Change Loss — 
+                  
+                  
+The  term “pre-change loss” means— 
+
+I.R.C. § 382(d)(1)(A)  — 
+                     
+                     
+any  net operating loss carryforward of the old loss corporation to the taxable  year
+                        ending with the ownership change or in which the change date occurs,  and 
+
+
+I.R.C. § 382(d)(1)(B)  — 
+                     
+                     
+the  net operating loss of the old loss corporation for the taxable year in  which
+                        the ownership change occurs to the extent such loss is allocable to  the period in
+                        such year on or before the change date. 
+
+
+Except as provided in subsection (h)(5) and in  regulations, the net operating loss
+                        shall, for purposes of subparagraph  (B), be allocated ratably to each day in the
+                        year.
+
+
+
+I.R.C. § 382(d)(2) Post-Change Year — 
+                  
+                  
+The  term “post-change year” means any taxable year ending after the change  date. 
+
+
+I.R.C. § 382(d)(3) Application To Carryforward Of Disallowed Interest — 
+                  
+                  
+The term “pre-change loss”
+                     shall include any carryover of disallowed interest described in section 163(j)(2) under rules similar to the rules of paragraph (1).
+I.R.C. § 382(e) Value Of Old Loss Corporation — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(e)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this subsection, the value of the old loss  corporation
+                     is the value of the stock of such corporation (including any  stock described in section
+                     1504(a)(4)) immediately before the ownership  change. 
+
+
+I.R.C. § 382(e)(2) Special Rule In The Case Of Redemption Or Other Corporate Contraction — 
+                  
+                  
+If  a redemption or other corporate contraction occurs in connection with an  ownership
+                     change, the value under paragraph
+                     (1) shall be determined after  taking such redemption or other corporate contraction
+                     into account. 
+
+
+I.R.C. § 382(e)(3) Treatment Of Foreign Corporations — 
+                  
+                  
+Except  as otherwise provided in regulations, in determining the value of any old
+                     loss corporation which is a foreign corporation, there shall be taken into  account
+                     only items treated as connected with the conduct of a trade or  business in the United
+                     States.
+I.R.C. § 382(f) Long-Term Tax-Exempt Rate — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(f)(1) In General — 
+                  
+                  
+The  long-term tax-exempt rate shall be the highest of the adjusted Federal  long-term
+                     rates in effect for any month in the 3-calendar-month period  ending with the calendar
+                     month in which the change date occurs. 
+
+
+I.R.C. § 382(f)(2) Adjusted Federal Long-Term Rate — 
+                  
+                  
+For  purposes of paragraph (1), the term “adjusted Federal long-term rate”  means
+                     the Federal long-term rate determined under section 1274(d), except  that— 
+
+I.R.C. § 382(f)(2)(A)  — 
+                     
+                     
+paragraphs  (2) and (3) thereof shall not apply, and 
+
+
+I.R.C. § 382(f)(2)(B)  — 
+                     
+                     
+such  rate shall be properly adjusted for differences between rates on long-term 
+                        taxable and tax-exempt obligations.
+I.R.C. § 382(g) Ownership Change — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(g)(1) In General — 
+                  
+                  
+There  is an ownership change if, immediately after any owner shift involving a  5-percent
+                     shareholder or any equity structure shift-- 
+
+I.R.C. § 382(g)(1)(A)  — 
+                     
+                     
+the  percentage of the stock of the loss corporation owned by 1 or more  5-percent
+                        shareholders has increased by more than 50 percentage points,  over 
+
+
+I.R.C. § 382(g)(1)(B)  — 
+                     
+                     
+the  lowest percentage of stock of the loss corporation (or any predecessor  corporation)
+                        owned by such shareholders at any time during the testing  period. 
+
+
+
+I.R.C. § 382(g)(2) Owner Shift Involving 5-Percent Shareholder — 
+                  
+                  
+There  is an owner shift involving a 5-percent shareholder if— 
+
+I.R.C. § 382(g)(2)(A)  — 
+                     
+                     
+there  is any change in the respective ownership of stock of a corporation, and 
+
+
+I.R.C. § 382(g)(2)(B)  — 
+                     
+                     
+such  change affects the percentage of stock of such corporation owned by any  person
+                        who is a 5-percent shareholder before or after such change. 
+
+
+
+I.R.C. § 382(g)(3) Equity Structure Shift Defined
+
+
+I.R.C. § 382(g)(3)(A) In General — 
+                     
+                     
+The  term “equity structure shift” means any reorganization
+                        (within the meaning  of section 368). Such term shall not include— 
+
+I.R.C. § 382(g)(3)(A)(i)  — 
+                        
+                        
+any  reorganization described in subparagraph
+                           (D) or (G) of section 368(a)(1) 
+                           unless the requirements of section 354(b)(1) are met, and 
+
+
+I.R.C. § 382(g)(3)(A)(ii)  — 
+                        
+                        
+any  reorganization described in subparagraph
+                           (F) of section 368(a)(1). 
+
+
+
+I.R.C. § 382(g)(3)(B) Taxable Reorganization-Type Transactions, Etc. — 
+                     
+                     
+To  the extent provided in regulations, the term “equity structure shift”  includes
+                        taxable reorganization-type transactions, public offerings, and  similar transactions. 
+
+
+
+I.R.C. § 382(g)(4) Special Rules For Application Of Subsection
+
+
+I.R.C. § 382(g)(4)(A) Treatment Of Less Than 5-Percent Shareholders — 
+                     
+                     
+Except  as provided in subparagraphs (B)(i) and (C), in determining whether an  ownership
+                        change has occurred, all stock owned by shareholders of a  corporation who are not
+                        5-percent shareholders of such corporation shall  be treated as stock owned by 1 5-percent
+                        shareholder of such corporation. 
+
+
+I.R.C. § 382(g)(4)(B) Coordination With Equity Structure Shifts — 
+                     
+                     
+For  purposes of determining whether an equity structure shift (or subsequent  transaction)
+                        is an ownership change— 
+
+I.R.C. § 382(g)(4)(B)(i) Less Than 5-Percent Shareholders — 
+                        
+                        
+Subparagraph  (A) shall be applied separately with respect to each group of shareholders
+                           (immediately before such equity structure shift) of each corporation which  was a
+                           party to the reorganization involved in such equity structure shift. 
+
+
+I.R.C. § 382(g)(4)(B)(ii) Acquisitions Of Stock — 
+                        
+                        
+Unless  a different proportion is established, acquisitions of stock after such  equity
+                           structure shift shall be treated as being made proportionately from  all shareholders
+                           immediately before such acquisition. 
+
+
+
+I.R.C. § 382(g)(4)(C) Coordination With Other Owner Shifts — 
+                     
+                     
+Except  as provided in regulations, rules similar to the rules of subparagraph (B)
+                        shall apply in determining whether there has been an owner shift involving  a 5-percent
+                        shareholder and whether such shift (or subsequent transaction)  results in an ownership
+                        change. 
+
+
+I.R.C. § 382(g)(4)(D) Treatment Of Worthless Stock — 
+                     
+                     
+If  any stock held by a 50-percent shareholder is treated by such shareholder  as
+                        becoming worthless during any taxable year of such shareholder and such  stock is
+                        held by such shareholder as of the close of such taxable year,  for purposes of determining
+                        whether an ownership change occurs after the  close of such taxable year, such shareholder— 
+
+I.R.C. § 382(g)(4)(D)(i)  — 
+                        
+                        
+shall  be treated as having acquired such stock on the 1st day of his 1st  succeeding
+                           taxable year, and 
+
+
+I.R.C. § 382(g)(4)(D)(ii)  — 
+                        
+                        
+shall  not be treated as having owned such stock during any prior period. 
+
+
+For purposes of the preceding sentence, the term  “50-percent shareholder” means any
+                           person owning 50 percent or more of the  stock of the corporation at any time during
+                           the 3-year period ending on
+                           the last day of the taxable year with respect to which the stock was so  treated.
+I.R.C. § 382(h) Special Rules For Built-In Gains And Losses And Section 338 Gains — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(h)(1) In General
+
+
+I.R.C. § 382(h)(1)(A) Net Unrealized Built-In Gain
+
+
+I.R.C. § 382(h)(1)(A)(i) In General — 
+                        
+                        
+If  the old loss corporation has a net unrealized built-in gain, the section  382
+                           limitation for any recognition period taxable year shall be increased  by the recognized
+                           built-in gains for such taxable year. 
+
+
+I.R.C. § 382(h)(1)(A)(ii) Limitation — 
+                        
+                        
+The  increase under clause (i) for any recognition period taxable year shall  not
+                           exceed— 
+
+I.R.C. § 382(h)(1)(A)(ii)(I)  — 
+                           
+                           
+the  net unrealized built-in gain, reduced by 
+
+
+I.R.C. § 382(h)(1)(A)(ii)(II)  — 
+                           
+                           
+recognized  built-in gains for prior years ending in the recognition period. 
+
+
+
+
+I.R.C. § 382(h)(1)(B) Net Unrealized Built-In Loss
+
+
+I.R.C. § 382(h)(1)(B)(i) In General — 
+                        
+                        
+If  the old loss corporation has a net unrealized built-in loss, the  recognized built-in
+                           loss for any recognition period taxable year shall be  subject to limitation under
+                           this section in the same manner as if such  loss were a pre-change loss. 
+
+
+I.R.C. § 382(h)(1)(B)(ii) Limitation — 
+                        
+                        
+Clause  (i) shall apply to recognized built-in losses for any recognition period 
+                           taxable year only to the extent such losses do not exceed— 
+
+I.R.C. § 382(h)(1)(B)(ii)(I)  — 
+                           
+                           
+the  net unrealized built-in loss, reduced by 
+
+
+I.R.C. § 382(h)(1)(B)(ii)(II)  — 
+                           
+                           
+recognized  built-in losses for prior taxable years ending in the recognition period. 
+
+
+
+
+I.R.C. § 382(h)(1)(C) Special Rules For Certain Section 338 Gains — 
+                     
+                     
+If  an election under section 338 is made in connection with an ownership  change and the net unrealized built-in gain
+                        is zero by reason of paragraph  (3)(B), then, with respect to such change, the section
+                        382 limitation for  the post-change year in which gain is recognized by reason of
+                        such  election shall be increased by the lesser of— 
+
+I.R.C. § 382(h)(1)(C)(i)  — 
+                        
+                        
+the  recognized built-in gains by reason of such election, or 
+
+
+I.R.C. § 382(h)(1)(C)(ii)  — 
+                        
+                        
+the  net unrealized built-in gain (determined without regard to paragraph  (3)(B)). 
+
+
+
+
+I.R.C. § 382(h)(2) Recognized Built-In Gain And Loss
+
+
+I.R.C. § 382(h)(2)(A) Recognized Built-In Gain — 
+                     
+                     
+The  term “recognized built-in gain” means any gain recognized during the  recognition
+                        period on the disposition of any asset to the extent the new  loss corporation establishes
+                        that— 
+
+I.R.C. § 382(h)(2)(A)(i)  — 
+                        
+                        
+such  asset was held by the old loss corporation immediately before the change  date,
+                           and 
+
+
+I.R.C. § 382(h)(2)(A)(ii)  — 
+                        
+                        
+such  gain does not exceed the excess of— 
+
+I.R.C. § 382(h)(2)(A)(ii)(I)  — 
+                           
+                           
+the  fair market value of such asset on the change date, over 
+
+
+I.R.C. § 382(h)(2)(A)(ii)(II)  — 
+                           
+                           
+the  adjusted basis of such asset on such date. 
+
+
+
+
+I.R.C. § 382(h)(2)(B) Recognized Built-In Loss — 
+                     
+                     
+The  term “recognized built-in loss” means any loss recognized during the  recognition
+                        period on the disposition of any asset except to the extent  the new loss corporation
+                        establishes that— 
+
+I.R.C. § 382(h)(2)(B)(i)  — 
+                        
+                        
+such  asset was not held by the old loss corporation immediately before the  change
+                           date, or 
+
+
+I.R.C. § 382(h)(2)(B)(ii)  — 
+                        
+                        
+such  loss exceeds the excess of— 
+
+I.R.C. § 382(h)(2)(B)(ii)(I)  — 
+                           
+                           
+the  adjusted basis of such asset on the change date, over 
+
+
+I.R.C. § 382(h)(2)(B)(ii)(II)  — 
+                           
+                           
+the  fair market value of such asset on such date. 
+
+
+Such term includes any amount allowable as depreciation,
+                              amortization, or depletion for any period within the recognition period  except to
+                              the extent the new loss corporation establishes that the amount  so allowable is not
+                              attributable to the excess described in clause (ii).
+
+
+
+
+
+I.R.C. § 382(h)(3) Net Unrealized Built-In Gain And Loss Defined
+
+
+I.R.C. § 382(h)(3)(A) Net Unrealized Built-In Gain And Loss
+
+
+I.R.C. § 382(h)(3)(A)(i) In General — 
+                        
+                        
+The  terms “net unrealized built-in gain” and “net unrealized built-in loss”  mean,
+                           with respect to any old loss corporation, the amount by which— 
+
+I.R.C. § 382(h)(3)(A)(i)(I)  — 
+                           
+                           
+the  fair market value of the assets of such corporation immediately before an  ownership
+                              change is more or less, respectively, than 
+
+
+I.R.C. § 382(h)(3)(A)(i)(II)  — 
+                           
+                           
+the  aggregate adjusted basis of such assets at such time. 
+
+
+
+I.R.C. § 382(h)(3)(A)(ii) Special Rule For Redemptions Or Other Corporate Contractions — 
+                        
+                        
+If  a redemption or other corporate contraction occurs in connection with an  ownership
+                           change, to the extent provided in regulations, determinations  under clause (i) shall
+                           be made after taking such redemption or other  corporate contraction into account. 
+
+
+
+I.R.C. § 382(h)(3)(B) Threshold Requirement
+
+
+I.R.C. § 382(h)(3)(B)(i) In General — 
+                        
+                        
+If  the amount of the net unrealized built-in gain or net unrealized built-in  loss
+                           (determined without regard to this subparagraph)
+                           of any old loss  corporation is not greater than the lesser of— 
+
+I.R.C. § 382(h)(3)(B)(i)(I)  — 
+                           
+                           
+15  percent of the amount determined for purposes of subparagraph (A)(i)(I),  or 
+
+
+I.R.C. § 382(h)(3)(B)(i)(II)  — 
+                           
+                           
+$10,000,000,  the net unrealized built-in gain or net unrealized built-in loss shall
+                              be  zero. 
+
+
+
+I.R.C. § 382(h)(3)(B)(ii) Cash And Cash Items Not Taken Into Account — 
+                        
+                        
+In  computing any net unrealized built-in gain or net unrealized built-in loss  under
+                           clause (i), except as provided in regulations, there shall not be  taken into account— 
+
+I.R.C. § 382(h)(3)(B)(ii)(I)  — 
+                           
+                           
+any  cash or cash item, or 
+
+
+I.R.C. § 382(h)(3)(B)(ii)(II)  — 
+                           
+                           
+any  marketable security which has a value which does not substantially differ  from
+                              adjusted basis. 
+
+
+
+
+
+I.R.C. § 382(h)(4) Disallowed Loss Allowed As A Carryforward — 
+                  
+                  
+If  a deduction for any portion of a recognized built-in loss is disallowed  for any
+                     post-change year, such portion— 
+
+I.R.C. § 382(h)(4)(A)  — 
+                     
+                     
+shall  be carried forward to subsequent taxable years under rules similar to the 
+                        rules for the carrying forward of net operating losses (or to the extent  the amount
+                        so disallowed is attributable to capital losses, under rules  similar to the rules
+                        for the carrying forward of net capital losses), but 
+
+
+I.R.C. § 382(h)(4)(B)  — 
+                     
+                     
+shall  be subject to limitation under this section in the same manner as a  pre-change
+                        loss. 
+
+
+
+I.R.C. § 382(h)(5) Special Rules For Post-Change Year Which Includes Change Date — 
+                  
+                  
+For  purposes of subsection (b)(3)— 
+
+I.R.C. § 382(h)(5)(A)  — 
+                     
+                     
+in  applying subparagraph (A) thereof, taxable income shall be computed  without regard
+                        to recognized built-in gains to the extent such gains  increased the section 382 limitation
+                        for the year (or recognized built-in  losses to the extent such losses are treated
+                        as pre-change losses), and  gain described in paragraph
+                        (1)(C), for the year, and 
+
+
+I.R.C. § 382(h)(5)(B)  — 
+                     
+                     
+in  applying subparagraph (B) thereof, the section 382 limitation shall be  computed
+                        without regard to recognized built-in gains, and gain described  in paragraph (1)(C),
+                        for the year. 
+
+
+
+I.R.C. § 382(h)(6) Treatment Of Certain Built-In Items
+
+
+I.R.C. § 382(h)(6)(A) Income Items — 
+                     
+                     
+Any  item of income which is properly taken into account during the recognition  period
+                        but which is attributable to periods before the change date shall  be treated as a
+                        recognized built-in gain for the taxable year in which it  is properly taken into
+                        account. 
+
+
+I.R.C. § 382(h)(6)(B) Deduction Items — 
+                     
+                     
+Any  amount which is allowable as a deduction during the recognition period  (determined
+                        without regard to any carryover)
+                        but which is attributable to  periods before the change date shall be treated as a
+                        recognized built-in  loss for the taxable year for which it is allowable as a deduction. 
+
+
+I.R.C. § 382(h)(6)(C) Adjustments — 
+                     
+                     
+The  amount of the net unrealized built-in gain or loss shall be properly  adjusted
+                        for amounts which would be treated as recognized built-in gains or losses under this
+                        paragraph if such amounts were properly taken into  account (or allowable as a deduction)
+                        during the recognition period. 
+
+
+
+I.R.C. § 382(h)(7) Recognition Period, Etc.
+
+
+I.R.C. § 382(h)(7)(A) Recognition Period — 
+                     
+                     
+The  term “recognition period” means, with respect to any ownership change, the  5-year
+                        period beginning on the change date. 
+
+
+I.R.C. § 382(h)(7)(B) Recognition Period Taxable Year — 
+                     
+                     
+The  term “recognition period taxable year” means any taxable year any portion  of
+                        which is in the recognition period. 
+
+
+
+I.R.C. § 382(h)(8) Determination Of Fair Market Value In Certain Cases — 
+                  
+                  
+If  80 percent or more in value of the stock of a corporation is acquired in 1  transaction
+                     (or in a series of related transactions during any 12-month  period), for purposes
+                     of determining the net unrealized built-in loss, the  fair market value of the assets
+                     of such corporation shall not exceed the  grossed up amount paid for such stock properly
+                     adjusted for indebtedness  of the corporation and other relevant items. 
+
+
+I.R.C. § 382(h)(9) Tax-Free Exchanges Or Transfers — 
+                  
+                  
+The  Secretary shall prescribe such regulations as may be necessary to carry  out
+                     the purposes of this subsection where property held on the change date  was acquired
+                     (or is subsequently transferred)
+                     in a transaction where gain  or loss is not recognized (in whole or in part).
+I.R.C. § 382(i) Testing Period — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(i)(1) 3-Year Period — 
+                  
+                  
+Except  as otherwise provided in this section, the testing period is the 3-year  period
+                     ending on the day of any owner shift involving a 5-percent  shareholder or equity
+                     structure shift. 
+
+
+I.R.C. § 382(i)(2) Shorter Period Where There Has Been Recent Ownership Change — 
+                  
+                  
+If  there has been an ownership change under this section, the testing period  for
+                     determining whether a 2nd ownership change has occurred shall not  begin before the
+                     1st day following the change date for such earlier  ownership change. 
+
+
+I.R.C. § 382(i)(3) Shorter Period Where All Losses Arise After 3-Year Period Begins — 
+                  
+                  
+The  testing period shall not begin before the earlier of the 1st day of the  1st
+                     taxable year from which there is a carryforward of a loss or of an  excess credit
+                     to the 1st post-change year or the taxable year in which the  transaction being tested
+                     occurs. Except as provided in regulations, this  paragraph shall not apply to any
+                     loss corporation which has a net  unrealized built-in loss (determined after application
+                     of subsection  (h)(3)(B)).
+I.R.C. § 382(j) Change Date — 
+               
+               
+For  purposes of this section, the change date is— 
+
+I.R.C. § 382(j)(1)  — 
+                  
+                  
+in  the case where the last component of an ownership change is an owner shift  involving
+                     a 5-percent shareholder, the date on which such shift occurs,  and 
+
+
+I.R.C. § 382(j)(2)  — 
+                  
+                  
+in  the case where the last component of an ownership change is an equity  structure
+                     shift, the date of the reorganization.
+I.R.C. § 382(k) Definitions And Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(k)(1) Loss Corporation — 
+                  
+                  
+The  term “loss corporation” means a corporation entitled to use a net  operating
+                     loss carryover or having a net operating loss for the taxable  year in which the ownership
+                     change occurs. Such term shall include any corporation entitled to use a carryforward
+                     of disallowed interest described in section 381(c)(20). Except to the extent provided  in regulations, such term includes any corporation
+                     with a net unrealized  built-in loss. 
+
+
+I.R.C. § 382(k)(2) Old Loss Corporation — 
+                  
+                  
+The  term “old loss corporation” means any corporation— 
+
+I.R.C. § 382(k)(2)(A)  — 
+                     
+                     
+with  respect to which there is an ownership change, and 
+
+
+I.R.C. § 382(k)(2)(B)  — 
+                     
+                     
+which  (before the ownership change)
+                        was a loss corporation. 
+
+
+
+I.R.C. § 382(k)(3) New Loss Corporation — 
+                  
+                  
+The  term “new loss corporation” means a corporation which (after an ownership  change)
+                     is a loss corporation. Nothing in this section shall be treated as  implying that
+                     the same corporation may not be both the old loss  corporation and the new loss corporation. 
+
+
+I.R.C. § 382(k)(4) Taxable Income — 
+                  
+                  
+Taxable  income shall be computed with the modifications set forth in section  172(d). 
+
+
+I.R.C. § 382(k)(5) Value — 
+                  
+                  
+The  term “value” means fair market value. 
+
+
+I.R.C. § 382(k)(6) Rules Relating To Stock
+
+
+I.R.C. § 382(k)(6)(A) Preferred Stock — 
+                     
+                     
+Except  as provided in regulations and subsection (e), the term “stock” means  stock
+                        other than stock described in section 1504(a)(4). 
+
+
+I.R.C. § 382(k)(6)(B) Treatment Of Certain Rights, Etc. — 
+                     
+                     
+The  Secretary shall prescribe such regulations as may be necessary— 
+
+I.R.C. § 382(k)(6)(B)(i)  — 
+                        
+                        
+to  treat warrants, options, contracts to acquire stock, convertible debt  interests,
+                           and other similar interests as stock, and 
+
+
+I.R.C. § 382(k)(6)(B)(ii)  — 
+                        
+                        
+to  treat stock as not stock. 
+
+
+
+I.R.C. § 382(k)(6)(C) Determinations On Basis Of Value — 
+                     
+                     
+Determinations  of the percentage of stock of any corporation held by any person shall
+                        be  made on the basis of value. 
+
+
+
+I.R.C. § 382(k)(7) 5-Percent Shareholder — 
+                  
+                  
+The  term “5-percent shareholder” means any person holding 5 percent or more of  the
+                     stock of the corporation at any time during the testing period.
+I.R.C. § 382(l) Certain Additional Operating Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 382(l)(1) Certain Capital Contributions Not Taken Into Account
+
+
+I.R.C. § 382(l)(1)(A) In General — 
+                     
+                     
+Any  capital contribution received by an old loss corporation as part of a plan  a
+                        principal purpose of which is to avoid or increase any limitation under  this section
+                        shall not be taken into account for purposes of this section. 
+
+
+I.R.C. § 382(l)(1)(B) Certain Contributions Treated As Part Of Plan — 
+                     
+                     
+For  purposes of subparagraph (A), any capital contribution made during the  2-year
+                        period ending on the change date shall, except as provided in  regulations, be treated
+                        as part of a plan described in subparagraph (A). 
+
+
+
+I.R.C. § 382(l)(2) Ordering Rules For Application Of Section
+
+
+I.R.C. § 382(l)(2)(A) Coordination With Section 172(b) Carryover Rules — 
+                     
+                     
+In  the case of any pre-change loss for any taxable year (hereinafter in this  subparagraph
+                        referred to as the “loss year”)
+                        subject to limitation under  this section, for purposes of determining under the 2nd
+                        sentence of  section 172(b)(2) the amount of such loss which may be carried to any  taxable year, taxable income
+                        for any taxable year shall be treated as not  greater than— 
+
+I.R.C. § 382(l)(2)(A)(i)  — 
+                        
+                        
+the  section 382 limitation for such taxable year, reduced by 
+
+
+I.R.C. § 382(l)(2)(A)(ii)  — 
+                        
+                        
+the  unused pre-change losses for taxable years preceding the loss year. 
+
+
+Similar rules shall apply in the case of any credit or  loss subject to limitation
+                           under section 383.
+
+
+
+I.R.C. § 382(l)(2)(B) Ordering Rule For Losses Carried From Same Taxable Year — 
+                     
+                     
+In  any case in which— 
+
+I.R.C. § 382(l)(2)(B)(i)  — 
+                        
+                        
+a  pre-change loss of a loss corporation for any taxable year is subject to a  section
+                           382 limitation, and 
+
+
+I.R.C. § 382(l)(2)(B)(ii)  — 
+                        
+                        
+a  net operating loss of such corporation from such taxable year is not  subject to
+                           such limitation, taxable income shall be treated as having been  offset first by the
+                           loss subject to such limitation. 
+
+
+
+
+I.R.C. § 382(l)(3) Operating Rules Relating To Ownership Of Stock
+
+
+I.R.C. § 382(l)(3)(A) Constructive Ownership — 
+                     
+                     
+Section  318 (relating to constructive ownership of stock) shall apply in  determining
+                        ownership of stock, except that— 
+
+I.R.C. § 382(l)(3)(A)(i)  — 
+                        
+                        
+paragraphs  (1) and (5)(B) of section 318(a) shall not apply and an individual and all  members of his family described in paragraph
+                           (1)
+                           of section 318(a) shall
+                           be treated as 1 individual for purposes of applying this section, 
+
+
+I.R.C. § 382(l)(3)(A)(ii)  — 
+                        
+                        
+paragraph  (2) of section 318(a) shall be applied-- 
+
+I.R.C. § 382(l)(3)(A)(ii)(I)  — 
+                           
+                           
+without  regard to the 50-percent limitation contained in subparagraph (C) thereof,
+                              and 
+
+
+I.R.C. § 382(l)(3)(A)(ii)(II)  — 
+                           
+                           
+except  as provided in regulations, by treating stock attributed thereunder as no
+                              longer being held by the entity from which attributed, 
+
+
+
+I.R.C. § 382(l)(3)(A)(iii)  — 
+                        
+                        
+paragraph  (3) of section 318(a) shall be applied only to the extent provided in  regulations, 
+
+
+I.R.C. § 382(l)(3)(A)(iv)  — 
+                        
+                        
+except  to the extent provided in regulations, an option to acquire stock shall be
+                           treated as exercised if such exercise results in an ownership change, and 
+
+
+I.R.C. § 382(l)(3)(A)(v)  — 
+                        
+                        
+in  attributing stock from an entity under paragraph (2) of section 318(a),
+                           there shall not be taken into account— 
+
+I.R.C. § 382(l)(3)(A)(v)(I)  — 
+                           
+                           
+in  the case of attribution from a corporation, stock which is not treated as  stock
+                              for purposes of this section, or 
+
+
+I.R.C. § 382(l)(3)(A)(v)(II)  — 
+                           
+                           
+in  the case of attribution from another entity, an interest in such entity  similar
+                              to stock described in subclause (I). 
+
+
+A rule similar to the rule of clause (iv) shall apply in  the case of any contingent
+                              purchase, warrant, convertible debt, put, stock  subject to a risk of forfeiture,
+                              contract to acquire stock, or similar  interests.
+
+
+
+
+I.R.C. § 382(l)(3)(B) Stock Acquired By Reason Of Death, Gift, Divorce, Separation, Etc. — 
+                     
+                     
+If— 
+
+I.R.C. § 382(l)(3)(B)(i)  — 
+                        
+                        
+the  basis of any stock in the hands of any person is determined— 
+
+I.R.C. § 382(l)(3)(B)(i)(I)  — 
+                           
+                           
+under  section 1014 (relating to property acquired from a decedent), 
+
+
+I.R.C. § 382(l)(3)(B)(i)(II)  — 
+                           
+                           
+section  1015 (relating to property acquired by a gift or transfer in trust), or 
+
+
+I.R.C. § 382(l)(3)(B)(i)(III)  — 
+                           
+                           
+section  1041(b)(2) (relating to transfers of property between spouses or incident
+                              to divorce), 
+
+
+
+I.R.C. § 382(l)(3)(B)(ii)  — 
+                        
+                        
+stock  is received by any person in satisfaction of a right to receive a  pecuniary
+                           bequest, or 
+
+
+I.R.C. § 382(l)(3)(B)(iii)  — 
+                        
+                        
+stock  is acquired by a person pursuant to any divorce or separation instrument (within
+                           the meaning of section 121(d)(3)(C)), 
+
+
+such person shall be  treated as owning such stock during the period such stock was
+                           owned by the  person from whom it was acquired.
+
+
+
+I.R.C. § 382(l)(3)(C) Certain Changes In Percentage Ownership Which Are Attributable To Fluctuations In
+                        Value Not Taken Into Account — 
+                     
+                     
+Except  as provided in regulations, any change in proportionate ownership which is
+                        attributable solely to fluctuations in the relative fair market values of  different
+                        classes of stock shall not be taken into account. 
+
+
+
+I.R.C. § 382(l)(4) Reduction In Value Where Substantial Nonbusiness Assets
+
+
+I.R.C. § 382(l)(4)(A) In General — 
+                     
+                     
+If,  immediately after an ownership change, the new loss corporation has  substantial
+                        nonbusiness assets, the value of the old loss corporation  shall be reduced by the
+                        excess (if any)
+                        of— 
+
+I.R.C. § 382(l)(4)(A)(i)  — 
+                        
+                        
+the  fair market value of the nonbusiness assets of the old loss corporation,  over 
+
+
+I.R.C. § 382(l)(4)(A)(ii)  — 
+                        
+                        
+the  nonbusiness asset share of indebtedness for which such corporation is  liable. 
+
+
+
+I.R.C. § 382(l)(4)(B) Corporation Having Substantial Nonbusiness Assets — 
+                     
+                     
+For  purposes of subparagraph (A)— 
+
+I.R.C. § 382(l)(4)(B)(i) In General — 
+                        
+                        
+The  old loss corporation shall be treated as having substantial nonbusiness  assets
+                           if at least 1/3 of the value of the total assets of such  corporation consists of
+                           nonbusiness assets. 
+
+
+I.R.C. § 382(l)(4)(B)(ii) Exception For Certain Investment Entities — 
+                        
+                        
+A  regulated investment company to which part I of subchapter M applies, a  real estate
+                           investment trust to which part II of subchapter M applies,    or a REMIC to which
+                           part IV of subchapter M applies, shall not be treated  as a new loss corporation having
+                           substantial nonbusiness assets. 
+
+
+
+I.R.C. § 382(l)(4)(C) Nonbusiness Assets — 
+                     
+                     
+For  purposes of this paragraph, the term “nonbusiness assets” means assets  held
+                        for investment. 
+
+
+I.R.C. § 382(l)(4)(D) Nonbusiness Asset Share — 
+                     
+                     
+For  purposes of this paragraph, the nonbusiness asset share of the  indebtedness
+                        of the corporation is an amount which bears the same ratio to  such indebtedness as— 
+
+I.R.C. § 382(l)(4)(D)(i)  — 
+                        
+                        
+the  fair market value of the nonbusiness assets of the corporation, bears to 
+
+
+I.R.C. § 382(l)(4)(D)(ii)  — 
+                        
+                        
+the  fair market value of all assets of such corporation. 
+
+
+
+I.R.C. § 382(l)(4)(E) Treatment Of Subsidiaries — 
+                     
+                     
+For  purposes of this paragraph, stock and securities in any subsidiary  corporation
+                        shall be disregarded and the parent corporation shall be  deemed to own its ratable
+                        share of the subsidiary's assets. For purposes  of the preceding sentence, a corporation
+                        shall be treated as a subsidiary  if the parent owns 50 percent or more of the combined
+                        voting power of all  classes of stock entitled to vote, and 50 percent or more of
+                        the total  value of shares of all classes of stock. 
+
+
+
+I.R.C. § 382(l)(5) Title 11 Or Similar Case
+
+
+I.R.C. § 382(l)(5)(A) In General — 
+                     
+                     
+Subsection  (a) shall not apply to any ownership change if— 
+
+I.R.C. § 382(l)(5)(A)(i)  — 
+                        
+                        
+the  old loss corporation is (immediately before such ownership change) under  the
+                           jurisdiction of the court in a title 11 or similar case, and 
+
+
+I.R.C. § 382(l)(5)(A)(ii)  — 
+                        
+                        
+the  shareholders and creditors of the old loss corporation (determined  immediately
+                           before such ownership change) own (after such ownership change  and as a result of
+                           being shareholders or creditors immediately before such  change) stock of the new
+                           loss corporation (or stock of a controlling  corporation if also in bankruptcy) which
+                           meets the requirements of section  1504(a)(2)
+                           (determined by substituting “50 percent” for “80 percent” each  place it appears). 
+
+
+
+I.R.C. § 382(l)(5)(B) Reduction For Interest Payments To Creditors Becoming Shareholders — 
+                     
+                     
+In  any case to which subparagraph (A) applies, the pre-change losses and  excess
+                        credits (within the meaning of section 383(a)(2)) which may be 
+                        carried to a post-change year shall be computed as if no deduction was  allowable
+                        under this chapter for the interest paid or accrued by the old  loss corporation on
+                        indebtedness which was converted into stock pursuant  to title 11 or similar case
+                        during— 
+
+I.R.C. § 382(l)(5)(B)(i)  — 
+                        
+                        
+any  taxable year ending during the 3-year period preceding the taxable year in  which
+                           the ownership change occurs, and 
+
+
+I.R.C. § 382(l)(5)(B)(ii)  — 
+                        
+                        
+the  period of the taxable year in which the ownership change occurs on or  before
+                           the change date. 
+
+
+
+I.R.C. § 382(l)(5)(C) Coordination With Section 108 — 
+                     
+                     
+In  applying section 108(e)(8) to any case to which subparagraph (A)  applies, there shall not be taken into account
+                        any indebtedness for  interest described in subparagraph (B). 
+
+
+I.R.C. § 382(l)(5)(D) Section 382 Limitation Zero If Another Change Within 2 Years — 
+                     
+                     
+If,  during the 2-year period immediately following an ownership change to  which
+                        this paragraph applies, an ownership change of the new loss  corporation occurs, this
+                        paragraph shall not apply and the section 382  limitation with respect to the 2nd
+                        ownership change for any post-change  year ending after the change date of the 2nd
+                        ownership change shall be  zero. 
+
+
+I.R.C. § 382(l)(5)(E) Only Certain Stock Taken Into Account — 
+                     
+                     
+For  purposes of subparagraph (A)(ii), stock transferred to a creditor shall be  taken
+                        into account only to the extent such stock is transferred in  satisfaction of indebtedness
+                        and only if such indebtedness— 
+
+I.R.C. § 382(l)(5)(E)(i)  — 
+                        
+                        
+was  held by the creditor at least 18 months before the date of the filing of  the
+                           title 11 or similar case, or 
+
+
+I.R.C. § 382(l)(5)(E)(ii)  — 
+                        
+                        
+arose  in the ordinary course of the trade or business of the old loss  corporation
+                           and is held by the person who at all times held the beneficial  interest in such indebtedness. 
+
+
+
+I.R.C. § 382(l)(5)(F) Title 11 Or Similar Case — 
+                     
+                     
+For  purposes of this paragraph, the term “title 11 or similar case” has the  meaning
+                        given such term by section 368(a)(3)(A). 
+
+
+I.R.C. § 382(l)(5)(G) Election Not To Have Paragraph Apply — 
+                     
+                     
+A  new loss corporation may elect, subject to such terms and conditions as  the Secretary
+                        may prescribe, not to have the provisions of this paragraph  apply. 
+
+
+
+I.R.C. § 382(l)(6) Special Rule For Insolvency Transactions — 
+                  
+                  
+If  paragraph (5) does not apply to any reorganization described in  subparagraph
+                     (G) of section 368(a)(1) or any exchange of debt for stock in  a title 11 or similar case (as defined in section
+                     368(a)(3)(A)), the value
+                     under subsection (e) shall reflect the increase (if any) in value of the  old loss
+                     corporation resulting from any surrender or cancellation of  creditors' claims in
+                     the transaction. 
+
+
+I.R.C. § 382(l)(7) Coordination With Alternative Minimum Tax — 
+                  
+                  
+The  Secretary shall by regulation provide for the application of this section  to
+                     the alternative tax net operating loss deduction under section 56(d). 
+
+
+I.R.C. § 382(l)(8) Predecessor And Successor Entities — 
+                  
+                  
+Except  as provided in regulations, any entity and any predecessor or successor  entities
+                     of such entity shall be treated as 1 entity.
+I.R.C. § 382(m) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary or  appropriate
+                  to carry out the purposes of this section and section 383,
+                  including (but not limited to) regulations— 
+
+I.R.C. § 382(m)(1)  — 
+                  
+                  
+providing  for the application of this section and section 383 where an ownership  change with respect to the old loss corporation is followed by
+                     an  ownership change with respect to the new loss corporation, and 
+
+
+I.R.C. § 382(m)(2)  — 
+                  
+                  
+providing  for the application of this section and section 383 in the case of a short  taxable year, 
+
+
+I.R.C. § 382(m)(3)  — 
+                  
+                  
+providing  for such adjustments to the application of this section and section 383 as
+                     is necessary to prevent the avoidance of the purposes of this section and  section
+                     383, including the avoidance of such purposes through the use of  related persons, pass-thru
+                     entities, or other intermediaries, 
+
+
+I.R.C. § 382(m)(4)  — 
+                  
+                  
+providing  for the application of subsection
+                     (g)(4) where there is only 1 corporation  involved, and 
+
+
+I.R.C. § 382(m)(5)  — 
+                  
+                  
+providing,  in the case of any group of corporations described in section 1563(a)  (determined by substituting
+                     “50 percent” for “80 percent” each place it  appears and determined without regard
+                     to paragraph (4) thereof),  appropriate adjustments to value, built-in gain or loss,
+                     and other items  so that items are not omitted or taken into account more than once.
+I.R.C. § 382(n) Special Rule For Certain Ownership Changes
+
+
+I.R.C. § 382(n)(1) In General — 
+                  
+                  
+The limitation contained in subsection (a) shall not apply in the case of an ownership
+                     change which is pursuant to a restructuring plan of a taxpayer which— 
+
+I.R.C. § 382(n)(1)(A)  — 
+                     
+                     
+is required under a loan agreement or a commitment for a line of credit entered into
+                        with the Department of the Treasury under the Emergency Economic Stabilization Act
+                        of 2008, and 
+
+
+I.R.C. § 382(n)(1)(B)  — 
+                     
+                     
+is intended to result in a rationalization of the costs, capitalization, and capacity
+                        with respect to the manufacturing workforce of, and suppliers to, the taxpayer and
+                        its subsidiaries. 
+
+
+
+I.R.C. § 382(n)(2) Subsequent Acquisitions — 
+                  
+                  
+Paragraph (1) shall not apply in the case of any subsequent ownership change unless
+                     such ownership change is described in such paragraph. 
+
+
+I.R.C. § 382(n)(3) Limitation Based On Control In Corporation
+
+
+I.R.C. § 382(n)(3)(A) In General — 
+                     
+                     
+Paragraph (1) shall not apply in the case of any ownership change if, immediately
+                        after such ownership change, any person (other than a voluntary employees' beneficiary
+                        association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total
+                        combined voting power of all classes of stock entitled to vote, or of the total value
+                        of the stock of such corporation. 
+
+
+I.R.C. § 382(n)(3)(B) Treatment Of Related Persons
+
+
+I.R.C. § 382(n)(3)(B)(i) In General — 
+                        
+                        
+Related persons shall be treated as a single person for purposes of this paragraph. 
+
+
+I.R.C. § 382(n)(3)(B)(ii) Related Persons — 
+                        
+                        
+For purposes of clause (i), a person shall be treated as related to another person
+                           if— 
+
+I.R.C. § 382(n)(3)(B)(ii)(I)  — 
+                           
+                           
+such person bears a relationship to such other person described in section 267(b) or 707(b), or 
+
+
+I.R.C. § 382(n)(3)(B)(ii)(II)  — 
+                           
+                           
+such persons are members of a group of persons acting in concert.

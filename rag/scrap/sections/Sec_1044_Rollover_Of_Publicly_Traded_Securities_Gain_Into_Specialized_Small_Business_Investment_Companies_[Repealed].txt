@@ -1,0 +1,208 @@
+Sec. 1044. Rollover Of Publicly Traded Securities Gain Into Specialized Small Business Investment Companies [Repealed]
+
+I.R.C. § 1044(a) Nonrecognition Of Gain — 
+               
+               
+
+
+
+
+
+Editor's Note: 
+Pub. L. 115-97, Sec. 13313(a), struck Sec. 1044, effective for sales after December 31, 2017.
+
+
+
+
+
+In  the case of the sale of any publicly traded securities with respect to  which
+                     the taxpayer elects the application of this section, gain from such
+                     sale shall be recognized only to the extent that the amount realized on  such sale
+                     exceeds—
+
+
+I.R.C. § 1044(a)(1)  — 
+                  
+                  
+the  cost of any common stock or partnership interest in a specialized small  business
+                     investment company purchased by the taxpayer during the 60-day  period beginning on
+                     the date of such sale, reduced by 
+
+
+I.R.C. § 1044(a)(2)  — 
+                  
+                  
+any  portion of such cost previously taken into account under this section. 
+
+
+This section shall not apply to any
+                     gain which is treated as ordinary income for purposes of this  subtitle.
+I.R.C. § 1044(b) Limitations — 
+               
+               
+
+
+
+
+
+Editor's Note: 
+Pub. L. 115-97, Sec. 13313(a), struck Sec. 1044, effective for sales after December 31, 2017.
+
+
+
+
+
+I.R.C. § 1044(b)(1) Limitation On Individuals — 
+                  
+                  
+In  the case of an individual, the amount of gain which may be excluded under  subsection
+                     (a) for any taxable year shall not exceed the lesser of— 
+
+I.R.C. § 1044(b)(1)(A)  — 
+                     
+                     
+$50,000,  or 
+
+
+I.R.C. § 1044(b)(1)(B)  — 
+                     
+                     
+$500,000,  reduced by the amount of gain excluded under subsection (a) for all  preceding
+                        taxable years. 
+
+
+
+I.R.C. § 1044(b)(2) Limitation On C Corporations — 
+                  
+                  
+In  the case of a C corporation, the amount of gain which may be excluded  under subsection
+                     (a) for any taxable year shall not exceed the lesser of— 
+
+I.R.C. § 1044(b)(2)(A)  — 
+                     
+                     
+$250,000,  or 
+
+
+I.R.C. § 1044(b)(2)(B)  — 
+                     
+                     
+$1,000,000,  reduced by the amount of gain excluded under subsection (a) for all 
+                        preceding taxable years. 
+
+
+
+I.R.C. § 1044(b)(3) Special Rules For Married Individuals — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1044(b)(3)(A) Separate Returns — 
+                     
+                     
+In  the case of a separate return by a married individual, paragraph (1) shall  be
+                        applied by substituting “$25,000”
+                        for “$50,000” and “$250,000” for “$500,000”. 
+
+
+I.R.C. § 1044(b)(3)(B) Allocation Of Gain — 
+                     
+                     
+In  the case of any joint return, the amount of gain excluded under subsection  (a)
+                        for any taxable year shall be allocated equally between the spouses  for purposes
+                        of applying this subsection to subsequent taxable  years. 
+
+
+I.R.C. § 1044(b)(3)(C) Marital Status — 
+                     
+                     
+For  purposes of this subsection, marital status shall be determined under  section
+                        7703. 
+
+
+
+I.R.C. § 1044(b)(4) Special Rules For C Corporation — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1044(b)(4)(A)  — 
+                     
+                     
+all  corporations which are members of the same controlled group of  corporations
+                        (within the meaning of section 52(a))
+                        shall be treated as 1  taxpayer, and 
+
+
+I.R.C. § 1044(b)(4)(B)  — 
+                     
+                     
+any  gain excluded under subsection
+                        (a) by a predecessor of any C corporation  shall be treated as having been excluded
+                        by such C  corporation.
+I.R.C. § 1044(c) Definitions And Special Rules — 
+               
+               
+
+
+
+
+
+Editor's Note: 
+Pub. L. 115-97, Sec. 13313(a), struck Sec. 1044, effective for sales after December 31, 2017.
+
+
+
+
+
+For  purposes of this section—
+
+
+I.R.C. § 1044(c)(1) Publicly Traded Securities — 
+                  
+                  
+The  term “publicly traded securities” means securities which are traded on an  established
+                     securities market. 
+
+
+I.R.C. § 1044(c)(2) Purchase — 
+                  
+                  
+The  taxpayer shall be considered to have purchased any property if, but for  subsection
+                     (d), the unadjusted basis of such property would be its cost  within the meaning of
+                     section 1012. 
+
+
+I.R.C. § 1044(c)(3) Specialized Small Business Investment Company — 
+                  
+                  
+The  term “specialized small business investment company” means any partnership  or
+                     corporation which is licensed by the Small Business Administration  under section
+                     301(d) of the Small Business Investment Act of 1958 (as in  effect on May 13, 1993). 
+
+
+I.R.C. § 1044(c)(4) Certain Entities Not Eligible — 
+                  
+                  
+This  section shall not apply to any estate, trust, partnership, or S  corporation.
+I.R.C. § 1044(d) Basis Adjustments — 
+               
+               
+
+
+
+
+
+Editor's Note: 
+Pub. L. 115-97, Sec. 13313(a), struck Sec. 1044, effective for sales after December 31, 2017.
+
+
+
+
+
+If  gain from any sale is not recognized by reason of subsection (a), such  gain shall
+                     be applied to reduce (in the order acquired) the basis for 
+                     determining gain or loss of any common stock or partnership interest in  any specialized
+                     small business investment company which is purchased by  the taxpayer during the 60-day
+                     period described in subsection
+                     (a). This  subsection shall not apply for purposes of section 1202.

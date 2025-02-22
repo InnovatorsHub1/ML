@@ -1,0 +1,76 @@
+Sec. 15. Effect Of Changes
+
+I.R.C. § 15(a) General Rule — 
+               
+               
+If  any rate of tax imposed by this chapter changes, and if the taxable year  includes
+                  the effective date of the change
+                  (unless that date is the first  day of the taxable year), then— 
+
+I.R.C. § 15(a)(1)  — 
+                  
+                  
+tentative  taxes shall be computed by applying the rate for the period before the
+                     effective date of the change, and the rate for the period on and after  such date,
+                     to the taxable income for the entire taxable year; and 
+
+
+I.R.C. § 15(a)(2)  — 
+                  
+                  
+the  tax for such taxable year shall be the sum of that proportion of each  tentative
+                     tax which the number of days in each period bears to the number  of days in the entire
+                     taxable year.
+I.R.C. § 15(b) Repeal Of Tax — 
+               
+               
+For  purposes of subsection (a)— 
+
+I.R.C. § 15(b)(1)  — 
+                  
+                  
+if a  tax is repealed, the repeal shall be considered a change of rate; and 
+
+
+I.R.C. § 15(b)(2)  — 
+                  
+                  
+the  rate for the period after the repeal shall be zero.
+I.R.C. § 15(c) Effective Date Of Change — 
+               
+               
+For  purposes of subsections (a) and (b)
+
+
+I.R.C. § 15(c)(1)  — 
+                  
+                  
+if  the rate changes for taxable years “beginning after” or “ending after”
+                     a  certain date, the following day shall be considered the effective date of  the
+                     change; and 
+
+
+I.R.C. § 15(c)(2)  — 
+                  
+                  
+if a  rate changes for taxable years “beginning on or after” a certain date,  that
+                     date shall be considered the effective date of the change.
+I.R.C. § 15(d) Section Not To Apply To Inflation Adjustments — 
+               
+               
+This  section shall not apply to any change in rates under subsection (f) of
+                  section 1 (relating to adjustments in tax tables so that inflation will  not result in tax
+                  increases).
+I.R.C. § 15(e) References To Highest Rate — 
+               
+               
+If  the change referred to in subsection (a) involves a change in the highest  rate of tax imposed by section 1 or 11(b), any reference in this chapter  to such highest rate (other than in a provision imposing
+                  a tax by  reference to such rate) shall be treated as a reference to the weighted
+                  average of the highest rates before and after the change determined on the  basis
+                  of the respective portions of the taxable year before the date of  the change and
+                  on or after the date of the change.
+I.R.C. § 15(f) Rate Reductions Enacted By Economic Growth And Tax Relief Reconciliation Act Of 2001 — 
+               
+               
+This  section shall not apply to any change in rates under subsection (i) of  section
+                  1 (relating to rate reductions after 2000).

@@ -1,0 +1,735 @@
+Sec. 59. Other Definitions And Special Rules
+
+I.R.C. § 59(a) Alternative Minimum Tax Foreign Tax Credit — 
+               
+               
+For purposes of this part— 
+
+I.R.C. § 59(a)(1) In General — 
+                  
+                  
+The alternative minimum tax foreign
+                     tax credit for any taxable year shall be the credit which would be
+                     determined under section 27 for
+                     such taxable year if— 
+
+I.R.C. § 59(a)(1)(A)  — 
+                     
+                     
+the pre-credit tentative minimum tax
+                        were the tax against which such credit was taken for purposes of section 904 for the taxable year and all
+                        prior taxable years beginning after December 31, 1986, 
+
+
+I.R.C. § 59(a)(1)(B)  — 
+                     
+                     
+section 904 were
+                        applied on the basis of alternative minimum taxable income instead
+                        of taxable income, and 
+
+
+I.R.C. § 59(a)(1)(C)  — 
+                     
+                     
+the determination of whether any income
+                        is high-taxed income for purposes of section 904(d)(2) were made on the
+                        basis of the applicable rate specified in section 55(b)(1) in lieu of the highest
+                        rate of tax specified in section 1. 
+
+
+
+I.R.C. § 59(a)(2) Pre-Credit Tentative Minimum Tax — 
+                  
+                  
+For purposes of this subsection,
+                     the term “pre-credit tentative minimum tax” means the
+                     amount determined under the first sentence of section 55(b)(1)(A). 
+
+
+I.R.C. § 59(a)(3) Election To Use Simplified Section 904 Limitation
+
+
+I.R.C. § 59(a)(3)(A) In General — 
+                     
+                     
+In determining the alternative minimum tax foreign tax
+                        credit for any taxable year to which an election under this paragraph
+                        applies— 
+
+I.R.C. § 59(a)(3)(A)(i)  — 
+                        
+                        
+subparagraph (B) of paragraph (1) shall not apply, and 
+
+
+I.R.C. § 59(a)(3)(A)(ii)  — 
+                        
+                        
+the limitation of section 904 shall be based on the proportion
+                           which— 
+
+I.R.C. § 59(a)(3)(A)(ii)(I)  — 
+                           
+                           
+the taxpayer's taxable income (as determined
+                              for purposes of the regular tax) from sources without the United States
+                              (but not in excess of the taxpayer's entire alternative minimum taxable
+                              income), bears to 
+
+
+I.R.C. § 59(a)(3)(A)(ii)(II)  — 
+                           
+                           
+the taxpayer's entire alternative minimum
+                              taxable income for the taxable year. 
+
+
+
+
+I.R.C. § 59(a)(3)(B) Election
+
+
+I.R.C. § 59(a)(3)(B)(i) In General — 
+                        
+                        
+An election under this paragraph may be made only for
+                           the taxpayer's first taxable year which begins after December 31,
+                           1997, and for which the taxpayer claims an alternative minimum tax
+                           foreign tax credit. 
+
+
+I.R.C. § 59(a)(3)(B)(ii) Election Revocable Only With Consent — 
+                        
+                        
+An election under this paragraph, once made, shall apply
+                           to the taxable year for which made and all subsequent taxable years
+                           unless revoked with the consent of the Secretary.
+I.R.C. § 59(b) Minimum Tax Not To Apply To Income Eligible For Credits Under
+                  Section 30A Or 936 — 
+               
+               
+[Repealed. Pub. L. 115-97, Sec. 12001(b)(10),
+                  Dec. 22, 2017.]
+I.R.C. § 59(c) Treatment Of Estates And Trusts — 
+               
+               
+In the case of any estate or trust, the alternative
+                  minimum taxable income of such estate or trust and any beneficiary
+                  thereof shall be determined by applying part I of subchapter J with
+                  the adjustments provided in this part.
+I.R.C. § 59(d) Apportionment Of Differently Treated Items In Case Of Certain
+                  Entities
+
+
+I.R.C. § 59(d)(1) In General — 
+                  
+                  
+The differently treated items for the taxable year shall
+                     be apportioned (in accordance with regulations prescribed by the Secretary)— 
+
+I.R.C. § 59(d)(1)(A) Regulated Investment Companies And Real Estate Investment Trusts — 
+                     
+                     
+In the case of a regulated investment company to which
+                        part I of subchapter M applies or a real estate investment company
+                        to which part II of subchapter M applies, between such company or
+                        trust and shareholders and holders of beneficial interest in such
+                        company or trust. 
+
+
+I.R.C. § 59(d)(1)(B) Common Trust Funds — 
+                     
+                     
+In the case of a common trust fund (as defined in section 584(a)), pro rata among the
+                        participants of such fund. 
+
+
+
+I.R.C. § 59(d)(2) Differently Treated Items — 
+                  
+                  
+For purposes of this section, the term “differently
+                     treated item” means any item of tax preference or any other
+                     item which is treated differently for purposes of this part than for
+                     purposes of computing the regular tax.
+I.R.C. § 59(e) Optional 10-Year Writeoff Of Certain Tax Preferences
+
+
+I.R.C. § 59(e)(1) In General — 
+                  
+                  
+For purposes of this title, any qualified expenditure
+                     to which an election under this paragraph applies shall be allowed
+                     as a deduction ratably over the 10-year period (3-year period in the
+                     case of circulation expenditures described in section 173) beginning with the taxable
+                     year in which such expenditure was made (or, in the case of a qualified
+                     expenditure described in paragraph (2)(C), over the 60-month
+                     period beginning with the month in which such expenditure was paid
+                     or incurred). 
+
+
+I.R.C. § 59(e)(2) Qualified Expenditure — 
+                  
+                  
+For purposes of this subsection, the term “qualified
+                     expenditure” means any amount which, but for an election under
+                     this subsection, would have been allowable as a deduction (determined
+                     without regard to section 291)
+                     for the taxable year in which paid or incurred under— 
+
+I.R.C. § 59(e)(2)(A)  — 
+                     
+                     
+section 173 (relating
+                        to circulation expenditures), 
+
+
+I.R.C. § 59(e)(2)(B)  — 
+                     
+                     
+section 174(a) (relating to research
+                        and experimental expenditures), 
+
+
+I.R.C. § 59(e)(2)(C)  — 
+                     
+                     
+section 263(c) (relating to intangible
+                        drilling and development expenditures), 
+
+
+I.R.C. § 59(e)(2)(D)  — 
+                     
+                     
+section 616(a) (relating to development
+                        expenditures), or 
+
+
+I.R.C. § 59(e)(2)(E)  — 
+                     
+                     
+section  617(a) (relating to mining
+                        exploration expenditures). 
+
+
+
+I.R.C. § 59(e)(3) Other Sections Not Applicable — 
+                  
+                  
+Except as provided in this subsection, no deduction
+                     shall be allowed under any other section for any qualified expenditure
+                     to which an election under this subsection applies. 
+
+
+I.R.C. § 59(e)(4) Election
+
+
+I.R.C. § 59(e)(4)(A) In General — 
+                     
+                     
+An election may be made under paragraph (1) with respect to any portion
+                        of any qualified expenditure. 
+
+
+I.R.C. § 59(e)(4)(B) Revocable Only With Consent — 
+                     
+                     
+Any election under this subsection may be revoked only
+                        with the consent of the Secretary. 
+
+
+I.R.C. § 59(e)(4)(C) Partners And Shareholders Of S Corporations — 
+                     
+                     
+In the case of a partnership, any election under paragraph (1) shall be made separately
+                        by each partner with respect to the partner's allocable share of any
+                        qualified expenditure. A similar rule shall apply in the case of an
+                        S corporation and its shareholders. 
+
+
+
+I.R.C. § 59(e)(5) Dispositions
+
+
+I.R.C. § 59(e)(5)(A) Application Of Section 1254 — 
+                     
+                     
+In the case of any disposition of property to which
+                        section 1254 applies
+                        (determined without regard to this section), any deduction under paragraph (1) with respect to amounts
+                        which are allocable to such property shall, for purposes of section 1254, be treated as a deduction
+                        allowable under section 263(c), 616(a), or 617(a), whichever is appropriate. 
+
+
+I.R.C. § 59(e)(5)(B) Application Of Section 617(d) — 
+                     
+                     
+In the case of any disposition of mining property to
+                        which section 617(d) applies
+                        (determined without regard to this subsection), any deduction under
+                        paragraph (1) with
+                        respect to amounts which are allocable to such property shall, for
+                        purposes of section 617(d),
+                        be treated as a deduction allowable under section 617(a). 
+
+
+
+I.R.C. § 59(e)(6) Amounts To Which Election Apply Not Treated As Tax Preference — 
+                  
+                  
+Any portion of any qualified expenditure to which an
+                     election under paragraph (1) applies
+                     shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
+I.R.C. § 59(f) Repealed — 
+               
+               
+[Repealed. Pub. L. 115-97, Sec. 12001(b)(10),
+                  Dec. 22, 2017, 132 Stat. 2054.]
+I.R.C. § 59(g) Tax Benefit Rule — 
+               
+               
+The Secretary may prescribe regulations under which
+                  differently treated items shall be properly adjusted where the tax
+                  treatment giving rise to such items will not result in the reduction
+                  of the taxpayer's regular tax for the taxable year for which the item
+                  is taken into account or for any other taxable year.
+I.R.C. § 59(h) Coordination With Certain Limitations — 
+               
+               
+The limitations of sections 704(d), 465, and 1366(d) (and such other provisions
+                  as may be specified in regulations) shall be applied for purposes
+                  of computing the alternative minimum taxable income of the taxpayer
+                  for the taxable year with the adjustments of sections 56, 57,
+                  and 58.
+I.R.C. § 59(i) Special Rule For Amounts Treated As Tax Preference — 
+               
+               
+For purposes of this subtitle (other than this part),
+                  any amount shall not fail to be treated as wholly exempt from tax
+                  imposed by this subtitle solely by reason of being included in alternative
+                  minimum taxable income.
+I.R.C. § 59(j) Treatment Of Unearned Income Of Minor Children
+
+
+I.R.C. § 59(j)(1) In General — 
+                  
+                  
+In the case of a child to whom section 1(g) applies, the exemption amount
+                     for purposes of section 55 shall
+                     not exceed the sum of— 
+
+I.R.C. § 59(j)(1)(A)  — 
+                     
+                     
+such child's earned income (as defined
+                        in section 911(d)(2))
+                        for the taxable year, plus 
+
+
+I.R.C. § 59(j)(1)(B)  — 
+                     
+                     
+$5,000. 
+
+
+
+I.R.C. § 59(j)(2) Inflation Adjustment — 
+                  
+                  
+In the case of any taxable year
+                     beginning in a calendar year after 1998, the dollar amount in paragraph (1)(B) shall be increased
+                     by an amount equal to the product of— 
+
+I.R.C. § 59(j)(2)(A)  — 
+                     
+                     
+such dollar amount, and 
+
+
+I.R.C. § 59(j)(2)(B)  — 
+                     
+                     
+the cost-of-living adjustment determined
+                        under section 1(f)(3) for
+                        the calendar year in which the taxable year begins, determined by
+                        substituting “1997” for “2016” in subparagraph (A)(ii) thereof. 
+
+
+If any increase determined under
+                        the preceding sentence is not a multiple of $50, such increase shall
+                        be rounded to the nearest multiple of $50.
+I.R.C. § 59(k) Applicable Corporation — 
+               
+               
+For purposes of this part— 
+
+I.R.C. § 59(k)(1) Applicable Corporation Defined
+
+
+I.R.C. § 59(k)(1)(A) In General — 
+                     
+                     
+The term “applicable corporation” means,
+                        with respect to any taxable year, any corporation (other than an S
+                        corporation, a regulated investment company, or a real estate investment
+                        trust) which meets the average annual adjusted financial statement
+                        income test of subparagraph (B) for one or more taxable years which— 
+
+I.R.C. § 59(k)(1)(A)(i)  — 
+                        
+                        
+are prior to such taxable year, and 
+
+
+I.R.C. § 59(k)(1)(A)(ii)  — 
+                        
+                        
+end after December 31, 2021. 
+
+
+
+I.R.C. § 59(k)(1)(B) Average Annual Adjusted Financial Statement Income Test — 
+                     
+                     
+For purposes of this subsection— 
+
+I.R.C. § 59(k)(1)(B)(i)  — 
+                        
+                        
+a corporation meets the average annual
+                           adjusted financial statement income test for a taxable year if the
+                           average annual adjusted financial statement income of such corporation
+                           (determined without regard to section 56A(d)) for the 3-taxable-year
+                           period ending with such taxable year exceeds $1,000,000,000, and 
+
+
+I.R.C. § 59(k)(1)(B)(ii)  — 
+                        
+                        
+in the case of a corporation described
+                           in paragraph (2), such corporation meets the average annual adjusted
+                           financial statement income test for a taxable year if— 
+
+I.R.C. § 59(k)(1)(B)(ii)(I)  — 
+                           
+                           
+the corporation meets the requirements
+                              of clause (i) for such taxable year (determined after the application
+                              of paragraph (2)), and 
+
+
+I.R.C. § 59(k)(1)(B)(ii)(II)  — 
+                           
+                           
+the average annual adjusted financial
+                              statement income of such corporation (determined without regard to
+                              the application of paragraph (2) and without regard to section 56A(d))
+                              for the 3-taxable-year-period ending with such taxable year is $100,000,000
+                              or more. 
+
+
+
+
+I.R.C. § 59(k)(1)(C) Exception — 
+                     
+                     
+Notwithstanding subparagraph (A), the term ‘applicable
+                        corporation’ shall not include any corporation which otherwise
+                        meets the requirements of subparagraph (A) if— 
+
+I.R.C. § 59(k)(1)(C)(i)  — 
+                        
+                        
+such corporation— 
+
+I.R.C. § 59(k)(1)(C)(i)(I)  — 
+                           
+                           
+has a change in ownership, or 
+
+
+I.R.C. § 59(k)(1)(C)(i)(II)  — 
+                           
+                           
+has a specified number (to be determined
+                              by the Secretary and which shall, as appropriate, take into account
+                              the facts and circumstances of the taxpayer) of consecutive taxable
+                              years, including the most recent taxable year, in which the corporation
+                              does not meet the average annual adjusted financial statement income
+                              test of subparagraph (B), and 
+
+
+
+I.R.C. § 59(k)(1)(C)(ii)  — 
+                        
+                        
+the Secretary determines that it would
+                           not be appropriate to continue to treat such corporation as an applicable
+                           corporation. 
+
+The preceding sentence shall not
+                              apply to any corporation if, after the Secretary makes the determination
+                              described in clause (ii), such corporation meets the average annual
+                              adjusted financial statement income test of subparagraph (B) for any
+                              taxable year beginning after the first taxable year for which such
+                              determination applies.
+
+
+
+
+I.R.C. § 59(k)(1)(D) Special Rules For Determining Applicable Corporation Status — 
+                     
+                     
+Solely for purposes of determining whether a corporation
+                        is an applicable corporation under this paragraph, all adjusted financial
+                        statement income of persons treated as a single employer with such
+                        corporation under subsection (a) or (b) of section 52 shall be treated
+                        as adjusted financial statement income of such corporation, and adjusted
+                        financial statement income of such corporation shall be determined
+                        without regard to paragraphs (2)(D)(i) and (11) of section 56A(c). 
+
+
+I.R.C. § 59(k)(1)(E) Other Special Rules
+
+
+I.R.C. § 59(k)(1)(E)(i) Corporations In Existence For Less Than 3 Years — 
+                        
+                        
+If the corporation was in existence for less than 3-taxable
+                           years, subparagraph (B) shall be applied on the basis of the period
+                           during which such corporation was in existence. 
+
+
+I.R.C. § 59(k)(1)(E)(ii) Short Taxable Years — 
+                        
+                        
+Adjusted financial statement income for any taxable
+                           year of less than 12 months shall be annualized by multiplying the
+                           adjusted financial statement income for the short period by 12 and
+                           dividing the result by the number of months in the short period. 
+
+
+I.R.C. § 59(k)(1)(E)(iii) Treatment Of Predecessors — 
+                        
+                        
+Any reference in this subparagraph to a corporation
+                           shall include a reference to any predecessor of such corporation. 
+
+
+
+
+I.R.C. § 59(k)(2) Special Rule For Foreign-Parented Multinational Groups
+
+
+I.R.C. § 59(k)(2)(A) In General — 
+                     
+                     
+If a corporation is a member of a foreign-parented multinational
+                        group for any taxable year, then, solely for purposes of determining
+                        whether such corporation meets the average annual adjusted financial
+                        statement income test under paragraph (1)(B)(ii)(I) for such taxable
+                        year, the adjusted financial statement income of such corporation
+                        for such taxable year shall include the adjusted financial statement
+                        income of all members of such group. Solely for purposes of this subparagraph,
+                        adjusted financial statement income shall be determined without regard
+                        to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c). 
+
+
+I.R.C. § 59(k)(2)(B) Foreign-Parented Multinational Group — 
+                     
+                     
+For purposes of subparagraph (A), the term ‘foreign-parented
+                        multinational group’ means, with respect to any taxable year,
+                        two or more entities if— 
+
+I.R.C. § 59(k)(2)(B)(i)  — 
+                        
+                        
+at least one entity is a domestic corporation
+                           and another entity is a foreign corporation, 
+
+
+I.R.C. § 59(k)(2)(B)(ii)  — 
+                        
+                        
+such entities are included in the same
+                           applicable financial statement with respect to such year, and 
+
+
+I.R.C. § 59(k)(2)(B)(iii)  — 
+                        
+                        
+either— 
+
+I.R.C. § 59(k)(2)(B)(iii)(I)  — 
+                           
+                           
+the common parent of such entities is
+                              a foreign corporation, or 
+
+
+I.R.C. § 59(k)(2)(B)(iii)(II)  — 
+                           
+                           
+if there is no common parent, the entities
+                              are treated as having a common parent which is a foreign corporation
+                              under subparagraph (D). 
+
+
+
+
+I.R.C. § 59(k)(2)(C) Foreign Corporations Engaged In A Trade Or Business Within The
+                        United States — 
+                     
+                     
+For purposes of this paragraph, if a foreign corporation
+                        is engaged in a trade or business within the United States, such trade
+                        or business shall be treated as a separate domestic corporation that
+                        is wholly owned by the foreign corporation. 
+
+
+I.R.C. § 59(k)(2)(D) Other Rules — 
+                     
+                     
+The Secretary shall, applying the principles of this
+                        section, prescribe rules for the application of this paragraph, including
+                        rules for the determination of— 
+
+I.R.C. § 59(k)(2)(D)(i)  — 
+                        
+                        
+the entities (if any) which are to be
+                           to be treated under subparagraph (B)(iii)(II) as having a common parent
+                           which is a foreign corporation, 
+
+
+I.R.C. § 59(k)(2)(D)(ii)  — 
+                        
+                        
+the entities to be included in a foreign-parented
+                           multinational group, and 
+
+
+I.R.C. § 59(k)(2)(D)(iii)  — 
+                        
+                        
+the common parent of a foreign-parented
+                           multinational group. 
+
+
+
+
+I.R.C. § 59(k)(3) Regulations Or Other Guidance — 
+                  
+                  
+The Secretary shall provide regulations or other guidance
+                     for the purposes of carrying out this subsection, including regulations
+                     or other guidance— 
+
+I.R.C. § 59(k)(3)(A)  — 
+                     
+                     
+providing a simplified method for determining
+                        whether a corporation meets the requirements of paragraph (1), and 
+
+
+I.R.C. § 59(k)(3)(B)  — 
+                     
+                     
+addressing the application of this subsection
+                        to a corporation that experiences a change in ownership.
+I.R.C. § 59(l) Corporate AMT Foreign Tax Credit
+
+
+I.R.C. § 59(l)(1) In General — 
+                  
+                  
+For purposes of this part, if an applicable corporation
+                     chooses to have the benefits of subpart A of part III of subchapter
+                     N for any taxable year, the corporate AMT foreign tax credit for the
+                     taxable year of the applicable corporation is an amount equal to sum
+                     of— 
+
+I.R.C. § 59(l)(1)(A)  — 
+                     
+                     
+the lesser of 
+
+I.R.C. § 59(l)(1)(A)(i)  — 
+                        
+                        
+the aggregate of the applicable corporation's
+                           pro rata share (as determined under section 56A(c)(3)) of the amount
+                           of income, war profits, and excess profits taxes (within the meaning
+                           of section 901) imposed by any foreign country or possession of the
+                           United States which are— 
+
+I.R.C. § 59(l)(1)(A)(i)(I)  — 
+                           
+                           
+taken into account on the applicable
+                              financial statement of each controlled foreign corporation with respect
+                              to which the applicable corporation is a United States shareholder,
+                              and 
+
+
+I.R.C. § 59(l)(1)(A)(i)(II)  — 
+                           
+                           
+paid or accrued (for Federal income
+                              tax purposes) by each such controlled foreign corporation, or 
+
+
+
+I.R.C. § 59(l)(1)(A)(ii)  — 
+                        
+                        
+the product of the amount of the adjustment
+                           under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i),
+                           and 
+
+
+
+I.R.C. § 59(l)(1)(B)  — 
+                     
+                     
+in the case of an applicable corporation
+                        that is a domestic corporation, the amount of income, war profits,
+                        and excess profits taxes (within the meaning of section 901) imposed
+                        by any foreign country or possession of the United States to the extent
+                        such taxes are— 
+
+I.R.C. § 59(l)(1)(B)(i)  — 
+                        
+                        
+taken into account on the applicable
+                           corporation's applicable financial statement, and 
+
+
+I.R.C. § 59(l)(1)(B)(ii)  — 
+                        
+                        
+paid or accrued (for Federal income
+                           tax purposes) by the applicable corporation. 
+
+
+
+
+I.R.C. § 59(l)(2) Carryover Of Excess Tax Paid — 
+                  
+                  
+For any taxable year for which an applicable corporation
+                     chooses to have the benefits of subpart A of part III of subchapter
+                     N, the excess of the amount described in paragraph (1)(A)(i) over
+                     the amount described in paragraph (1)(A)(ii) shall increase the amount
+                     described in paragraph (1)(A)(i) in any of the first 5 succeeding
+                     taxable years to the extent not taken into account in a prior taxable
+                     year. 
+
+
+I.R.C. § 59(l)(3) Regulations Or Other Guidance — 
+                  
+                  
+The Secretary shall provide for such regulations or
+                     other guidance as is necessary to carry out the purposes of this subsection.

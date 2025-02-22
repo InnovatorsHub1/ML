@@ -1,0 +1,330 @@
+Sec. 179A. Deduction For Clean-Fuel Vehicles And Certain Refueling Property [Repealed]
+
+I.R.C. § 179A(a) Allowance Of Deduction
+
+
+I.R.C. § 179A(a)(1) In General — 
+                  
+                  
+There  shall be allowed as a deduction an amount equal to the cost of— 
+
+I.R.C. § 179A(a)(1)(A)  — 
+                     
+                     
+any  qualified clean-fuel vehicle property, and 
+
+
+I.R.C. § 179A(a)(1)(B)  — 
+                     
+                     
+any  qualified clean-fuel vehicle refueling property. 
+
+The deduction under the preceding sentence with respect  to any property shall be
+                           allowed for the taxable year in which such  property is placed in service.
+
+
+
+
+I.R.C. § 179A(a)(2) Incremental Cost For Certain Vehicles — 
+                  
+                  
+If  a vehicle may be propelled by both a clean-burning fuel and any other  fuel, only
+                     the incremental cost of permitting the use of the clean-burning  fuel shall be taken
+                     into account.
+I.R.C. § 179A(b) Limitations
+
+
+I.R.C. § 179A(b)(1) Qualified Clean-Fuel Vehicle Property
+
+
+I.R.C. § 179A(b)(1)(A) In General — 
+                     
+                     
+The  cost which may be taken into account under subsection (a)(1)(A) with  respect to any motor vehicle shall not exceed— 
+
+I.R.C. § 179A(b)(1)(A)(i)  — 
+                        
+                        
+in  the case of a motor vehicle not described in clause (ii) or (iii), $2,000, 
+
+
+I.R.C. § 179A(b)(1)(A)(ii)  — 
+                        
+                        
+in  the case of any truck or van with a gross vehicle weight rating greater  than
+                           10,000 pounds but not greater than 26,000 pounds, $5,000, or 
+
+
+I.R.C. § 179A(b)(1)(A)(iii)  — 
+                        
+                        
+$50,000  in the case of— 
+
+I.R.C. § 179A(b)(1)(A)(iii)(I)  — 
+                           
+                           
+a  truck or van with a gross vehicle weight rating greater than 26,000  pounds, or 
+
+
+I.R.C. § 179A(b)(1)(A)(iii)(II)  — 
+                           
+                           
+any  bus which has a seating capacity of at least 20 adults (not including the  driver). 
+
+
+
+
+I.R.C. § 179A(b)(1)(B) Phaseout — 
+                     
+                     
+In  the case of any qualified clean-fuel vehicle property placed in service  after
+                        December 31, 2005, the limit otherwise allowable under subparagraph  (A) shall be reduced by 75 percent. 
+
+
+
+I.R.C. § 179A(b)(2) Qualified Clean-Fuel Vehicle Refueling Property
+
+
+I.R.C. § 179A(b)(2)(A) In General — 
+                     
+                     
+The  aggregate cost which may be taken into account under subsection (a)(1)(B) 
+                        with respect to qualified clean-fuel vehicle refueling property placed in  service
+                        during the taxable year at a location shall not exceed the excess  (if any) of— 
+
+I.R.C. § 179A(b)(2)(A)(i)  — 
+                        
+                        
+$100,000,  over 
+
+
+I.R.C. § 179A(b)(2)(A)(ii)  — 
+                        
+                        
+the  aggregate amount taken into account under subsection (a)(1)(B) by the  taxpayer (or any related person or predecessor) with respect to property
+                           placed in service at such location for all preceding taxable years. 
+
+
+
+I.R.C. § 179A(b)(2)(B) Related Person — 
+                     
+                     
+For  purposes of this paragraph, a person shall be treated as related to  another
+                        person if such person bears a relationship to such other person  described in section
+                        267(b) or 707(b)(1). 
+
+
+I.R.C. § 179A(b)(2)(C) Election — 
+                     
+                     
+If  the limitation under subparagraph (A) applies for any taxable year, the  taxpayer shall, on the return of tax for such
+                        taxable year, specify the  items of property (and the portion of costs of such property)
+                        which are to  be taken into account under subsection (a)(1)(B).
+I.R.C. § 179A(c) Qualified Clean-Fuel Vehicle Property Defined — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 179A(c)(1) In General. — 
+                  
+                  
+The  term “qualified clean fuel vehicle property” means property which is  acquired
+                     for use by the taxpayer and not for resale, the original use of  which commences with
+                     the taxpayer, with respect to which the environmental  standards of paragraph (2) are met, and which is described in either of  the following subparagraphs: 
+
+I.R.C. § 179A(c)(1)(A) Retrofit Parts And Components — 
+                     
+                     
+Any  property installed on a motor vehicle which is propelled by a fuel which  is
+                        not a clean-burning fuel for purposes of permitting such vehicle to be  propelled
+                        by a clean-burning fuel— 
+
+I.R.C. § 179A(c)(1)(A)(i)  — 
+                        
+                        
+if  the property is an engine (or modification thereof) which may use a  clean-burning
+                           fuel, or 
+
+
+I.R.C. § 179A(c)(1)(A)(ii)  — 
+                        
+                        
+to  the extent the property is used in the storage or delivery to the engine  of such
+                           fuel, or the exhaust of gases from combustion of such fuel. 
+
+
+
+I.R.C. § 179A(c)(1)(B) Original Equipment Manufacturer's Vehicles — 
+                     
+                     
+A  motor vehicle produced by an original equipment manufacturer and designed  so that
+                        the vehicle may be propelled by a clean-burning fuel, but only to  the extent of the
+                        portion of the basis of such vehicle which is  attributable to an engine which may
+                        use such fuel, to the storage or  delivery to the engine of such fuel, or to the exhaust
+                        of gases from  combustion of such fuel. 
+
+
+
+I.R.C. § 179A(c)(2) Environmental Standards — 
+                  
+                  
+Property  shall not be treated as qualified clean-fuel vehicle property unless— 
+
+I.R.C. § 179A(c)(2)(A)  — 
+                     
+                     
+the  motor vehicle of which it is a part meets any applicable Federal or State  emissions
+                        standards with respect to each fuel by which such vehicle is  designed to be propelled,
+                        or 
+
+
+I.R.C. § 179A(c)(2)(B)  — 
+                     
+                     
+in  the case of property described in paragraph (1)(A), such property meets  applicable Federal and State emissions-related certification,
+                        testing, and  warranty requirements. 
+
+
+
+I.R.C. § 179A(c)(3) Exception For Qualified Electric Vehicles — 
+                  
+                  
+The  term “qualified clean-fuel vehicle property” does not include any  qualified
+                     electric vehicle (as defined in section 30(c)).
+I.R.C. § 179A(d) Qualified Clean-Fuel Vehicle Refueling Property Defined — 
+               
+               
+For  purposes of this section, the term “qualified clean-fuel vehicle refueling  property”
+                  means any property (not including a building and its structural  components) if— 
+
+I.R.C. § 179A(d)(1)  — 
+                  
+                  
+such  property is of a character subject to the allowance for depreciation, 
+
+
+I.R.C. § 179A(d)(2)  — 
+                  
+                  
+the  original use of such property begins with the taxpayer, and 
+
+
+I.R.C. § 179A(d)(3)  — 
+                  
+                  
+such  property is— 
+
+I.R.C. § 179A(d)(3)(A)  — 
+                     
+                     
+for  the storage or dispensing of a clean-burning fuel into the fuel tank of a  motor
+                        vehicle propelled by such fuel, but only if the storage or  dispensing of the fuel
+                        is at the point where such fuel is delivered into  the fuel tank of the motor vehicle,
+                        or 
+
+
+I.R.C. § 179A(d)(3)(B)  — 
+                     
+                     
+for  the recharging of motor vehicles propelled by electricity, but only if the  property
+                        is located at the point where the motor vehicles are recharged.
+I.R.C. § 179A(e) Other Definitions And Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 179A(e)(1) Clean-Burning Fuel — 
+                  
+                  
+The  term “clean burning fuel” means— 
+
+I.R.C. § 179A(e)(1)(A)  — 
+                     
+                     
+natural  gas, 
+
+
+I.R.C. § 179A(e)(1)(B)  — 
+                     
+                     
+liquefied  natural gas, 
+
+
+I.R.C. § 179A(e)(1)(C)  — 
+                     
+                     
+liquefied  petroleum gas, 
+
+
+I.R.C. § 179A(e)(1)(D)  — 
+                     
+                     
+hydrogen, 
+
+
+I.R.C. § 179A(e)(1)(E)  — 
+                     
+                     
+electricity,  and 
+
+
+I.R.C. § 179A(e)(1)(F)  — 
+                     
+                     
+any  other fuel at least 85 percent of which is 1 or more of the following:  methanol,
+                        ethanol, any other alcohol, or ether. 
+
+
+
+I.R.C. § 179A(e)(2) Motor Vehicle — 
+                  
+                  
+The  term “motor vehicle” means any vehicle which is manufactured primarily for  use
+                     on public streets, roads, and highways
+                     (not including a vehicle  operated exclusively on a rail or rails)
+                     and which has at least 4 wheels. 
+
+
+I.R.C. § 179A(e)(3) Cost Of Retrofit Parts Includes Cost Of Installation — 
+                  
+                  
+The  cost of any qualified clean fuel vehicle property referred to in  subsection
+                     (c)(1)(A) shall include the cost of the original installation  of such property. 
+
+
+I.R.C. § 179A(e)(4) Recapture — 
+                  
+                  
+The  Secretary shall, by regulations, provide for recapturing the benefit of  any
+                     deduction allowable under subsection (a) with respect to any property 
+                     which ceases to be property eligible for such deduction. 
+
+
+I.R.C. § 179A(e)(5) Property Used Outside United States, Etc., Not Qualified — 
+                  
+                  
+No  deduction shall be allowed under subsection (a) with respect to any  property referred to in section 50(b) or with respect to the portion of  the cost of any property taken into account under
+                     section 179. 
+
+
+I.R.C. § 179A(e)(6) Basis Reduction
+
+
+I.R.C. § 179A(e)(6)(A) In General — 
+                     
+                     
+For  purposes of this title, the basis of any property shall be reduced by the  portion
+                        of the cost of such property taken into account under subsection  (a). 
+
+
+I.R.C. § 179A(e)(6)(B) Ordinary Income Recapture — 
+                     
+                     
+For  purposes of section 1245, the amount of the deduction allowable under  subsection (a) with respect to any property which is of a character  subject to the allowance for
+                        depreciation shall be treated as a deduction  allowed for depreciation under section
+                        167.
+I.R.C. § 179A(f) Termination — 
+               
+               
+This  section shall not apply to any property placed in service after  December  31,
+                  2005.

@@ -1,0 +1,557 @@
+Sec. 1059. Corporate Shareholder's Basis In Stock Reduced By Nontaxed Portion Of Extraordinary Dividends
+
+I.R.C. § 1059(a) General Rule — 
+               
+               
+If  any corporation receives any extraordinary dividend with respect to any  share
+                  of stock and such corporation has not held such stock for more than  2 years before
+                  the dividend announcement date— 
+
+I.R.C. § 1059(a)(1) Reduction In Basis — 
+                  
+                  
+The  basis of such corporation in such stock shall be reduced (but not below  zero)
+                     by the nontaxed portion of such dividends. 
+
+
+I.R.C. § 1059(a)(2) Amounts In Excess Of Basis — 
+                  
+                  
+If  the nontaxed portion of such dividends exceeds such basis, such excess  shall
+                     be treated as gain from the sale or exchange of such stock for the  taxable year in
+                     which the extraordinary dividend is  received.
+I.R.C. § 1059(b) Nontaxed Portion — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1059(b)(1) In General — 
+                  
+                  
+The  nontaxed portion of any dividend is the excess
+                     (if any) of— 
+
+I.R.C. § 1059(b)(1)(A)  — 
+                     
+                     
+the  amount of such dividend, over 
+
+
+I.R.C. § 1059(b)(1)(B)  — 
+                     
+                     
+the  taxable portion of such dividend. 
+
+
+
+I.R.C. § 1059(b)(2) Taxable Portion — 
+                  
+                  
+The  taxable portion of any dividend is— 
+
+I.R.C. § 1059(b)(2)(A)  — 
+                     
+                     
+the  portion of such dividend includible in gross income, reduced by 
+
+
+I.R.C. § 1059(b)(2)(B)  — 
+                     
+                     
+the  amount of any deduction allowable with respect to such dividend under  section
+                        243, 245, or 245A.
+I.R.C. § 1059(c) Extraordinary Dividend Defined — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1059(c)(1) In General — 
+                  
+                  
+The  term “extraordinary dividend” means any dividend with respect to a share  of
+                     stock if the amount of such dividend equals or exceeds the threshold  percentage of
+                     the taxpayer's adjusted basis in such share of stock. 
+
+
+I.R.C. § 1059(c)(2) Threshold Percentage — 
+                  
+                  
+The  term “threshold percentage” means-- 
+
+I.R.C. § 1059(c)(2)(A)  — 
+                     
+                     
+5  percent in the case of stock which is preferred as to dividends, and 
+
+
+I.R.C. § 1059(c)(2)(B)  — 
+                     
+                     
+10  percent in the case of any other stock. 
+
+
+
+I.R.C. § 1059(c)(3) Aggregation Of Dividends
+
+
+I.R.C. § 1059(c)(3)(A) Aggregation Within 85-Day Period — 
+                     
+                     
+All  dividends— 
+
+I.R.C. § 1059(c)(3)(A)(i)  — 
+                        
+                        
+which  are received by the taxpayer
+                           (or a person described in subparagraph (C))  with respect to any share of stock, and 
+
+
+I.R.C. § 1059(c)(3)(A)(ii)  — 
+                        
+                        
+which  have ex-dividend dates within the same period of 85 consecutive days, 
+
+
+shall be treated as 1 dividend.
+
+
+
+I.R.C. § 1059(c)(3)(B) Aggregation Within 1 Year Where Dividends Exceed 20 Percent Of Adjusted Basis — 
+                     
+                     
+All  dividends— 
+
+I.R.C. § 1059(c)(3)(B)(i)  — 
+                        
+                        
+which  are received by the taxpayer
+                           (or a person described in subparagraph (C))  with respect to any share of stock, and 
+
+
+I.R.C. § 1059(c)(3)(B)(ii)  — 
+                        
+                        
+which  have ex-dividend dates during the same period of 365 consecutive days, 
+
+
+shall be treated as extraordinary dividends if the aggregate of such  dividends exceeds
+                           20 percent of the taxpayer's adjusted basis in such  stock (determined without regard
+                           to this section).
+
+
+
+I.R.C. § 1059(c)(3)(C) Substituted Basis Transactions — 
+                     
+                     
+In  the case of any stock, a person is described in this subparagraph if— 
+
+I.R.C. § 1059(c)(3)(C)(i)  — 
+                        
+                        
+the  basis of such stock in the hands of such person is determined in whole or  in
+                           part by reference to the basis of such stock in the hands of the  taxpayer, or 
+
+
+I.R.C. § 1059(c)(3)(C)(ii)  — 
+                        
+                        
+the  basis of such stock in the hands of the taxpayer is determined in whole or  in
+                           part by reference to the basis of such stock in the hands of such  person. 
+
+
+
+
+I.R.C. § 1059(c)(4) Fair Market Value Determination — 
+                  
+                  
+If  the taxpayer establishes to the satisfaction of the Secretary the fair  market
+                     value of any share of stock as of the day before the ex-dividend  date, the taxpayer
+                     may elect to apply paragraphs (1) and (3) by  substituting such value for the taxpayer's
+                     adjusted basis.
+I.R.C. § 1059(d) Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1059(d)(1) Time For Reduction — 
+                  
+                  
+Any  reduction in basis under subsection (a)(1) shall be treated as occurring  at
+                     the beginning of the ex-dividend date of the extraordinary dividend to  which the
+                     reduction relates. 
+
+
+I.R.C. § 1059(d)(2) Distributions In Kind — 
+                  
+                  
+To  the extent any dividend consists of property other than cash, the amount  of such
+                     dividend shall be treated as the fair market value of such  property (as of the date
+                     of the distribution)
+                     reduced as provided in  section 301(b)(2). 
+
+
+I.R.C. § 1059(d)(3) Determination Of Holding Period — 
+                  
+                  
+For  purposes of determining the holding period of stock under subsection (a),  rules
+                     similar to the rules of paragraphs (3)
+                     and (4) of section 246(c) 
+                     shall apply and there shall not be taken into account any day which is more than 2
+                     years after the date on which such share becomes ex-dividend. 
+
+
+I.R.C. § 1059(d)(4) Ex-Dividend Date — 
+                  
+                  
+The  term “ex-dividend date” means the date on which the share of stock becomes  ex-dividend. 
+
+
+I.R.C. § 1059(d)(5) Dividend Announcement Date — 
+                  
+                  
+The  term “dividend announcement date” means, with respect to any dividend, the  date
+                     on which the corporation declares, announces, or agrees to the amount  or payment
+                     of such dividend, whichever is the earliest. 
+
+
+I.R.C. § 1059(d)(6) Exception Where Stock Held During Entire Existence Of Corporation
+
+
+I.R.C. § 1059(d)(6)(A) In General — 
+                     
+                     
+Subsection  (a) shall not apply to any extraordinary dividend with respect to any
+                        share of stock of a corporation if— 
+
+I.R.C. § 1059(d)(6)(A)(i)  — 
+                        
+                        
+such  stock was held by the taxpayer during the entire period such corporation  was
+                           in existence, and 
+
+
+I.R.C. § 1059(d)(6)(A)(ii)  — 
+                        
+                        
+except  as provided in regulations, no earnings and profits of such corporation  were
+                           attributable to transfers of property from (or earnings and profits  of) a corporation
+                           which is not a qualified corporation. 
+
+
+
+I.R.C. § 1059(d)(6)(B) Qualified Corporation — 
+                     
+                     
+For  purposes of subparagraph (A), the term “qualified corporation” means any  corporation
+                        (including a predecessor corporation)— 
+
+I.R.C. § 1059(d)(6)(B)(i)  — 
+                        
+                        
+with  respect to which the taxpayer holds directly or indirectly during the  entire
+                           period of such corporation's existence at least the same ownership  interest as the
+                           taxpayer holds in the corporation distributing the  extraordinary dividend, and 
+
+
+I.R.C. § 1059(d)(6)(B)(ii)  — 
+                        
+                        
+which  has no earnings and profits— 
+
+I.R.C. § 1059(d)(6)(B)(ii)(I)  — 
+                           
+                           
+which  were earned by, or 
+
+
+I.R.C. § 1059(d)(6)(B)(ii)(II)  — 
+                           
+                           
+which  are attributable to gain on property which accrued during a period the  corporation
+                              holding the property was, 
+
+
+a corporation not described in  clause
+                              (i).
+
+
+
+
+I.R.C. § 1059(d)(6)(C) Application Of Paragraph — 
+                     
+                     
+This  paragraph shall not apply to any extraordinary dividend to the extent such 
+                        application is inconsistent with the purposes of this section.
+I.R.C. § 1059(e) Special Rules For Certain Distributions
+
+
+I.R.C. § 1059(e)(1) Treatment Of Partial Liquidations And Certain Redemptions — 
+                  
+                  
+Except  as otherwise provided in regulations— 
+
+I.R.C. § 1059(e)(1)(A) Redemptions — 
+                     
+                     
+In  the case of any redemption of stock— 
+
+I.R.C. § 1059(e)(1)(A)(i)  — 
+                        
+                        
+which is part of a partial liquidation
+                           (within the meaning of section  302(e))
+                           of the redeeming corporation, 
+
+
+I.R.C. § 1059(e)(1)(A)(ii)  — 
+                        
+                        
+which is not pro rata as to all shareholders, or 
+
+
+I.R.C. § 1059(e)(1)(A)(iii)  — 
+                        
+                        
+which would not have been treated
+                           (in whole or in part) as a dividend if-- 
+
+I.R.C. § 1059(e)(1)(A)(iii)(I)  — 
+                           
+                           
+any  options had not been taken into account under section 318(a)(4),
+                              or 
+
+
+I.R.C. § 1059(e)(1)(A)(iii)(II)  — 
+                           
+                           
+section 304(a) had not applied, 
+
+
+any amount treated as a dividend with  respect to such redemption shall be treated
+                              as an extraordinary dividend  to which paragraphs (1) and (2) of subsection (a) apply
+                              without regard to  the period the taxpayer held such stock. In the case of a redemption
+                              described in clause (iii), only the basis in the stock redeemed shall be  taken into
+                              account under subsection 
+                              (a).
+
+
+
+
+I.R.C. § 1059(e)(1)(B) Reorganizations, Etc. — 
+                     
+                     
+An  exchange described in section 356 which is treated as a dividend shall be  treated as a redemption of stock for purposes
+                        of applying subparagraph  (A). 
+
+
+
+I.R.C. § 1059(e)(2) Qualifying Dividends
+
+
+I.R.C. § 1059(e)(2)(A) In General — 
+                     
+                     
+Except  as provided in regulations, the term “extraordinary dividend” does not  include
+                        any qualifying dividend (within the meaning of section 243). 
+
+
+I.R.C. § 1059(e)(2)(B) Exception — 
+                     
+                     
+Subparagraph  (A) shall not apply to any portion of a dividend which is attributable
+                        to  earnings and profits which— 
+
+I.R.C. § 1059(e)(2)(B)(i)  — 
+                        
+                        
+were  earned by a corporation during a period it was not a member of the  affiliated
+                           group, or 
+
+
+I.R.C. § 1059(e)(2)(B)(ii)  — 
+                        
+                        
+are  attributable to gain on property which accrued during a period the  corporation
+                           holding the property was not a member of the affiliated group. 
+
+
+
+
+I.R.C. § 1059(e)(3) Qualified Preferred Dividends
+
+
+I.R.C. § 1059(e)(3)(A) In General — 
+                     
+                     
+In  the case of 1 or more qualified preferred dividends with respect to any  share
+                        of stock— 
+
+I.R.C. § 1059(e)(3)(A)(i)  — 
+                        
+                        
+this  section shall not apply to such dividends if the taxpayer holds such stock 
+                           for more than 5 years, and 
+
+
+I.R.C. § 1059(e)(3)(A)(ii)  — 
+                        
+                        
+if  the taxpayer disposes of such stock before it has been held for more than  5 years,
+                           the aggregate reduction under subsection (a)(1) with respect to  such dividends shall
+                           not be greater than the excess (if any) of— 
+
+I.R.C. § 1059(e)(3)(A)(ii)(I)  — 
+                           
+                           
+the  qualified preferred dividends paid with respect to such stock during the  period
+                              the taxpayer held such stock, over 
+
+
+I.R.C. § 1059(e)(3)(A)(ii)(II)  — 
+                           
+                           
+the  qualified preferred dividends which would have been paid during such  period
+                              on the basis of the stated rate of return. 
+
+
+
+
+I.R.C. § 1059(e)(3)(B) Rate Of Return — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 1059(e)(3)(B)(i) Actual Rate Of Return — 
+                        
+                        
+The  actual rate of return shall be the rate of return for the period for which  the
+                           taxpayer held the stock, determined— 
+
+I.R.C. § 1059(e)(3)(B)(i)(I)  — 
+                           
+                           
+by  only taking into account dividends during such period, and 
+
+
+I.R.C. § 1059(e)(3)(B)(i)(II)  — 
+                           
+                           
+by  using the lesser of the adjusted basis of the taxpayer in such stock or  the liquidation
+                              preference of such stock. 
+
+
+
+I.R.C. § 1059(e)(3)(B)(ii) Stated Rate Of Return — 
+                        
+                        
+The  stated rate of return shall be the annual rate of the qualified preferred  dividend
+                           payable with respect to any share of stock (expressed as a  percentage of the amount
+                           described in clause
+                           (i)(II)). 
+
+
+
+I.R.C. § 1059(e)(3)(C) Definitions And Special Rules — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 1059(e)(3)(C)(i) Qualified Preferred Dividend — 
+                        
+                        
+The  term “qualified preferred dividend” means any fixed dividend payable with  respect
+                           to any share of stock which— 
+
+I.R.C. § 1059(e)(3)(C)(i)(I)  — 
+                           
+                           
+provides  for fixed preferred dividends payable not less frequently than annually,
+                              and 
+
+
+I.R.C. § 1059(e)(3)(C)(i)(II)  — 
+                           
+                           
+is  not in arrears as to dividends at the time the taxpayer acquires the  stock. 
+
+Such term shall not include any dividend payable with  respect to any share of stock
+                                 if the actual rate of return on such stock  exceeds 15 percent.
+
+
+
+
+I.R.C. § 1059(e)(3)(C)(ii) Holding Period — 
+                        
+                        
+In  determining the holding period for purposes of subparagraph
+                           (A)(ii),  subsection (d)(3) shall be applied by substituting “5 years"
+                           for “2  years”.
+I.R.C. § 1059(f) Treatment Of Dividends On Certain Preferred Stock
+
+
+I.R.C. § 1059(f)(1) In General — 
+                  
+                  
+Any  dividend with respect to disqualified preferred stock shall be treated as  an
+                     extraordinary dividend to which paragraphs
+                     (1) and (2) of subsection  (a) apply without regard to the period the taxpayer held
+                     the stock. 
+
+
+I.R.C. § 1059(f)(2) Disqualified Preferred Stock — 
+                  
+                  
+For  purposes of this subsection, the term “disqualified preferred stock” means  any
+                     stock which is preferred as to dividends if— 
+
+I.R.C. § 1059(f)(2)(A)  — 
+                     
+                     
+when  issued, such stock has a dividend rate which declines (or can reasonably  be
+                        expected to decline) in the future, 
+
+
+I.R.C. § 1059(f)(2)(B)  — 
+                     
+                     
+the  issue price of such stock exceeds its liquidation rights or its stated  redemption
+                        price, or 
+
+
+I.R.C. § 1059(f)(2)(C)  — 
+                     
+                     
+such  stock is otherwise structured— 
+
+I.R.C. § 1059(f)(2)(C)(i)  — 
+                        
+                        
+to  avoid the other provisions of this section, and 
+
+
+I.R.C. § 1059(f)(2)(C)(ii)  — 
+                        
+                        
+to  enable corporate shareholders to reduce tax through a combination of  dividend
+                           received deductions and loss on the disposition of the stock.
+I.R.C. § 1059(g) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be appropriate to carry  out
+                  the purposes of this section, including regulations— 
+
+I.R.C. § 1059(g)(1)  — 
+                  
+                  
+providing  for the application of this section in the case of stock dividends, stock
+                     splits, reorganizations, and other similar transactions, in the case of  stock held
+                     by pass-thru entities, and in the case of consolidated groups,  and 
+
+
+I.R.C. § 1059(g)(2)  — 
+                  
+                  
+providing  that the rules of subsection
+                     (f) shall apply in the case of stock which is  not preferred as to dividends in cases
+                     where stock is structured to avoid  the purposes of this section.

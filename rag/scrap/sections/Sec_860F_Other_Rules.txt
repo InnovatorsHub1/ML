@@ -1,0 +1,285 @@
+Sec. 860F. Other Rules
+
+I.R.C. § 860F(a) 100 Percent Tax On Prohibited Transactions
+
+
+I.R.C. § 860F(a)(1) Tax Imposed — 
+                  
+                  
+There  is hereby imposed for each taxable year of a REMIC a tax equal to 100  percent
+                     of the net income derived from prohibited transactions. 
+
+
+I.R.C. § 860F(a)(2) Prohibited Transaction — 
+                  
+                  
+For  purposes of this part, the term “prohibited transaction"
+                     means— 
+
+I.R.C. § 860F(a)(2)(A) Disposition Of Qualified Mortgage — 
+                     
+                     
+The  disposition of any qualified mortgage transferred to the REMIC other than  a
+                        disposition pursuant to— 
+
+I.R.C. § 860F(a)(2)(A)(i)  — 
+                        
+                        
+the substitution of a qualified replacement mortgage for  a qualified mortgage (or
+                           the repurchase in lieu of substitution of a  defective obligation), 
+
+
+I.R.C. § 860F(a)(2)(A)(ii)  — 
+                        
+                        
+a disposition incident to the foreclosure, default, or  imminent default of the mortgage, 
+
+
+I.R.C. § 860F(a)(2)(A)(iii)  — 
+                        
+                        
+the bankruptcy or insolvency of the REMIC, or 
+
+
+I.R.C. § 860F(a)(2)(A)(iv)  — 
+                        
+                        
+a qualified liquidation. 
+
+
+
+I.R.C. § 860F(a)(2)(B) Income From Nonpermitted Assets — 
+                     
+                     
+The  receipt of any income attributable to any asset which is neither a  qualified
+                        mortgage nor a permitted investment. 
+
+
+I.R.C. § 860F(a)(2)(C) Compensation For Services — 
+                     
+                     
+The  receipt by the REMIC of any amount representing a fee or other  compensation
+                        for services. 
+
+
+I.R.C. § 860F(a)(2)(D) Gain From Disposition Of Cash Flow Investments — 
+                     
+                     
+Gain  from the disposition of any cash flow investment other than pursuant to  any
+                        qualified liquidation. 
+
+
+
+I.R.C. § 860F(a)(3) Determination Of Net Income — 
+                  
+                  
+For  purposes of paragraph (1), the term “net income derived from prohibited  transactions”
+                     means the excess of the gross income from prohibited  transactions over the deductions
+                     allowed by this chapter which are  directly connected with such transactions;
+                     except that there shall not be  taken into account any item attributable to any prohibited
+                     transaction for  which there was a loss. 
+
+
+I.R.C. § 860F(a)(4) Qualified Liquidation — 
+                  
+                  
+For  purposes of this part— 
+
+I.R.C. § 860F(a)(4)(A) In General — 
+                     
+                     
+The  term “qualified liquidation” means a transaction in which— 
+
+I.R.C. § 860F(a)(4)(A)(i)  — 
+                        
+                        
+the REMIC adopts a plan of complete liquidation, 
+
+
+I.R.C. § 860F(a)(4)(A)(ii)  — 
+                        
+                        
+such REMIC sells all its assets
+                           (other than cash) within  the liquidation period, and 
+
+
+I.R.C. § 860F(a)(4)(A)(iii)  — 
+                        
+                        
+all proceeds of the liquidation
+                           (plus the cash), less  assets retained to meet claims, are credited or distributed
+                           to holders of  regular or residual interests on or before the last day of the liquidation
+                           period. 
+
+
+
+I.R.C. § 860F(a)(4)(B) Liquidation Period — 
+                     
+                     
+The  term “liquidation period” means the period— 
+
+I.R.C. § 860F(a)(4)(B)(i)  — 
+                        
+                        
+beginning on the date of the adoption of the plan of  liquidation, and 
+
+
+I.R.C. § 860F(a)(4)(B)(ii)  — 
+                        
+                        
+ending at the close of the 90th day after such date. 
+
+
+
+
+I.R.C. § 860F(a)(5) Exceptions — 
+                  
+                  
+Notwithstanding  subparagraphs (A) and (D) of paragraph
+                     (2), the term “prohibited  transaction” shall not include any disposition— 
+
+I.R.C. § 860F(a)(5)(A)  — 
+                     
+                     
+required to prevent default on a regular interest where  the threatened default resulted
+                        from a default on 1 or more qualified  mortgages, or 
+
+
+I.R.C. § 860F(a)(5)(B)  — 
+                     
+                     
+to facilitate a clean-up call (as defined in  regulations).
+I.R.C. § 860F(b) Treatment Of Transfers To The REMIC
+
+
+I.R.C. § 860F(b)(1) Treatment Of Transferor
+
+
+I.R.C. § 860F(b)(1)(A) Nonrecognition Gain Or Loss — 
+                     
+                     
+No  gain or loss shall be recognized to the transferor on the transfer of any  property
+                        to a REMIC in exchange for regular or residual interests in such  REMIC. 
+
+
+I.R.C. § 860F(b)(1)(B) Adjusted Bases Of Interests — 
+                     
+                     
+The  adjusted bases of the regular and residual interests received in a  transfer
+                        described in subparagraph (A) shall be equal to the aggregate  adjusted bases of the
+                        property transferred in such transfer. Such amount  shall be allocated among such
+                        interests in proportion to their respective  fair market values. 
+
+
+I.R.C. § 860F(b)(1)(C) Treatment Of Nonrecognized Gain — 
+                     
+                     
+If  the issue price of any regular or residual interest exceeds its adjusted  basis
+                        as determined under subparagraph (B), for periods during which such  interest is held
+                        by the transferor
+                        (or by any other person whose basis is  determined in whole or in part by reference
+                        to the basis of such interest  in the hand of the transferor)— 
+
+I.R.C. § 860F(b)(1)(C)(i)  — 
+                        
+                        
+in the case of a regular interest, such excess shall be  included in gross income
+                           (as determined under rules similar to rules of  section 1276(b)), and 
+
+
+I.R.C. § 860F(b)(1)(C)(ii)  — 
+                        
+                        
+in the case of a residual interest, such excess shall be  included in gross income
+                           ratably over the anticipated period during which  the REMIC will be in existence. 
+
+
+
+I.R.C. § 860F(b)(1)(D) Treatment Of Nonrecognized Loss — 
+                     
+                     
+If  the adjusted basis of any regular or residual interest received in a  transfer
+                        described in subparagraph (A) exceeds its issue price, for  periods during which such
+                        interest is held by the transferor (or by any  other person whose basis is determined
+                        in whole or in part by reference to  the basis of such interest in the hand of the
+                        transferor)— 
+
+I.R.C. § 860F(b)(1)(D)(i)  — 
+                        
+                        
+in the case of a regular interest, such excess shall be  allowable as a deduction
+                           under rules similar to the rules of section 171,
+                           and 
+
+
+I.R.C. § 860F(b)(1)(D)(ii)  — 
+                        
+                        
+in the case of a residual interest, such excess shall be  allowable as a deduction
+                           ratably over the anticipated period during which  the REMIC will be in existence. 
+
+
+
+
+I.R.C. § 860F(b)(2) Basis To REMIC — 
+                  
+                  
+The  basis of any property received by a REMIC in a transfer described in  paragraph
+                     (1)(A) shall be its fair market value immediately after such  transfer.
+I.R.C. § 860F(c) Distributions Of Property — 
+               
+               
+If  a REMIC makes a distribution of property with respect to any regular or  residual
+                  interest— 
+
+I.R.C. § 860F(c)(1)  — 
+                  
+                  
+notwithstanding any other provision of this subtitle,  gain shall be recognized to
+                     such REMIC on the distribution in the same  manner as if it had sold such property
+                     to the distributee at its fair  market value, and 
+
+
+I.R.C. § 860F(c)(2)  — 
+                  
+                  
+the basis of the distributee in such property shall be  its fair market value.
+I.R.C. § 860F(d) Coordination With Wash Sale Rules — 
+               
+               
+For  purposes of section 1091— 
+
+I.R.C. § 860F(d)(1)  — 
+                  
+                  
+any residual interest in a REMIC shall be treated as a  security, and 
+
+
+I.R.C. § 860F(d)(2)  — 
+                  
+                  
+in applying such section to any loss claimed to have  been sustained on the sale or
+                     other disposition of a residual interest in  a REMIC— 
+
+I.R.C. § 860F(d)(2)(A)  — 
+                     
+                     
+except as provided in regulations, any residual interest  in any REMIC and any interest
+                        in a taxable mortgage pool (as defined in  section 7701(i)) comparable to a residual interest in a REMIC shall be  treated as substantially
+                        identical stock or securities, and 
+
+
+I.R.C. § 860F(d)(2)(B)  — 
+                     
+                     
+subsections (a) and (e) of such section shall be applied  by substituting “6 months”
+                        for “30 days"
+                        each place it appears.
+I.R.C. § 860F(e) Treatment Under Subtitle F — 
+               
+               
+For  purposes of subtitle F, a REMIC shall be treated as a partnership (and  holders
+                  of residual interests in such REMIC shall be treated as partners).  Any return required
+                  by reason of the preceding sentence shall include the  amount of the daily accruals
+                  determined under section 860E(c). Such return  shall be filed by the REMIC. The determination of who may sign such
+                  return  shall be made without regard to the first sentence of this subsection.

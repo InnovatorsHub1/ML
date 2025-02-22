@@ -1,0 +1,279 @@
+Sec. 1014. Basis Of Property Acquired From A Decedent
+
+I.R.C. § 1014(a) In General — 
+               
+               
+Except  as otherwise provided in this section, the basis of property in the hands
+                  of a person acquiring the property from a decedent or to whom the property  passed
+                  from a decedent shall, if not sold, exchanged, or otherwise  disposed of before the
+                  decedent's death by such person, be— 
+
+I.R.C. § 1014(a)(1)  — 
+                  
+                  
+the fair market value of the property at the date of the  decedent's death, 
+
+
+I.R.C. § 1014(a)(2)  — 
+                  
+                  
+in the case of an election under section 2032, its value at the applicable valuation date prescribed by such section, 
+
+
+I.R.C. § 1014(a)(3)  — 
+                  
+                  
+in the case of an election under section 2032A, its  value determined under such section, or 
+
+
+I.R.C. § 1014(a)(4)  — 
+                  
+                  
+to the extent of the applicability of the exclusion  described in section 2031(c), the basis in the hands of the decedent.
+I.R.C. § 1014(b) Property Acquired From The Decedent — 
+               
+               
+For  purposes of subsection (a), the following property shall be considered to  have been acquired from or to have
+                  passed from the decedent: 
+
+I.R.C. § 1014(b)(1)  — 
+                  
+                  
+Property acquired by bequest, devise, or inheritance, or  by the decedent's estate
+                     from the decedent; 
+
+
+I.R.C. § 1014(b)(2)  — 
+                  
+                  
+Property transferred by the decedent during his lifetime  in trust to pay the income
+                     for life to or on the order or direction of the  decedent, with the right reserved
+                     to the decedent at all times before his  death to revoke the trust; 
+
+
+I.R.C. § 1014(b)(3)  — 
+                  
+                  
+In the case of decedents dying after December 31, 1951,  property transferred by the
+                     decedent during his lifetime in trust to pay  the income for life to or on the order
+                     or direction of the decedent with  the right reserved to the decedent at all times
+                     before his death to make  any change in the enjoyment thereof through the exercise
+                     of a power to  alter, amend, or terminate the trust; 
+
+
+I.R.C. § 1014(b)(4)  — 
+                  
+                  
+Property passing without full and adequate consideration  under a general power of
+                     appointment exercised by the decedent by will; 
+
+
+I.R.C. § 1014(b)(5)  — 
+                  
+                  
+In the case of decedents dying after August 26, 1937,   and before January 1, 2005,
+                     property acquired by bequest, devise, or  inheritance or by the decedent's estate
+                     from the decedent, if the property  consists of stock or securities of a foreign corporation,
+                     which with  respect to its taxable year next preceding the date of the decedent's
+                     death was, under the law applicable to such year, a foreign personal  holding company.
+                     In such case, the basis shall be the fair market value of  such property at the date
+                     of the decedent's death or the basis in the  hands of the decedent, whichever is lower; 
+
+
+I.R.C. § 1014(b)(6)  — 
+                  
+                  
+In the case of decedents dying after December 31, 1947,  property which represents
+                     the surviving spouse's one-half share of  community property held by the decedent
+                     and the surviving spouse under the  community property laws of any State, or possession
+                     of the United States  or any foreign country, if at least one-half of the whole of
+                     the community  interest in such property was includible in determining the value of
+                     the  decedent's gross estate under chapter 11 of subtitle B (section 2001 and  following, relating to estate tax) or section 811 of the Internal Revenue  Code of 1939; 
+
+
+I.R.C. § 1014(b)(7)  — 
+                  
+                  
+[Struck by Pub. L. 113-295, Div. A, Sec. 221(a)(74)(B).] 
+
+
+I.R.C. § 1014(b)(8)  — 
+                  
+                  
+[Struck by Pub. L. 113-295, Div. A, Sec. 221(a)(74)(B).] 
+
+
+I.R.C. § 1014(b)(9)  — 
+                  
+                  
+In the case of decedents dying after December 31, 1953,  property acquired from the
+                     decedent by reason of death, form of ownership,  or other conditions (including property
+                     acquired through the exercise or  non-exercise of a power of appointment), if by reason
+                     thereof the property  is required to be included in determining the value of the decedent's
+                     gross estate under chapter 11 of subtitle B or under the Internal Revenue  Code of
+                     1939. In such case, if the property is acquired before the death  of the decedent,
+                     the basis shall be the amount determined under subsection  (a) reduced by the amount allowed to the taxpayer as deductions in  computing taxable
+                     income under this subtitle or prior income tax laws for  exhaustion, wear and tear,
+                     obsolescence, amortization, and depletion on  such property before the death of the
+                     decedent. Such basis shall be  applicable to the property commencing on the death
+                     of the decedent. This  paragraph shall not apply to— 
+
+I.R.C. § 1014(b)(9)(A)  — 
+                     
+                     
+annuities described in section 72; 
+
+
+I.R.C. § 1014(b)(9)(B)  — 
+                     
+                     
+property to which paragraph (5) would apply if the 
+                        property had been acquired by bequest; and 
+
+
+I.R.C. § 1014(b)(9)(C)  — 
+                     
+                     
+property described in any other paragraph of this  subsection. 
+
+
+
+I.R.C. § 1014(b)(10)  — 
+                  
+                  
+Property includible in the gross estate of the decedent  under section 2044 (relating to certain property for which marital  deduction was previously allowed).
+                     In any such case, the last 3 sentences  of paragraph (9) shall apply as if such property were described in the  first sentence of paragraph
+                     (9).
+I.R.C. § 1014(c) Property Representing Income In Respect Of A Decedent — 
+               
+               
+This  section shall not apply to property which constitutes a right to receive  an
+                  item of income in respect of a decedent under section 691.
+I.R.C. § 1014(d) Special Rule With Respect To DISC Stock — 
+               
+               
+If  stock owned by a decedent in a DISC or former DISC
+                  (as defined in section 992(a))
+                  acquires a new basis under subsection (a), such basis (determined
+                  before the application of this subsection) shall be reduced by the amount  (if any)
+                  which would have been included in gross income under section  995(c) as a dividend if the decedent had lived and sold the stock at its  fair market value
+                  on the estate tax valuation date. In computing the gain
+                  the decedent would have had if he had lived and sold the stock, his basis  shall be
+                  determined without regard to the last sentence of section  996(e)(2) (relating to reductions of basis of DISC stock). For purposes of  this subsection,
+                  the estate tax valuation date is the date of the  decedent's death or, in the case
+                  of an election under section 2032, the  applicable valuation date prescribed by that section.
+I.R.C. § 1014(e) Appreciated Property Acquired By Decedent By Gift Within 1 Year Of Death
+
+
+I.R.C. § 1014(e)(1) In General — 
+                  
+                  
+In  the case of a decedent dying after December 31, 1981, if— 
+
+I.R.C. § 1014(e)(1)(A)  — 
+                     
+                     
+appreciated property was acquired by the decedent by  gift during the 1-year period
+                        ending on the date of the decedent's death,  and 
+
+
+I.R.C. § 1014(e)(1)(B)  — 
+                     
+                     
+such property is acquired from the decedent by (or  passes from the decedent to) the
+                        donor of such property
+                        (or the spouse of  such donor), 
+
+
+the basis of such property in the hands of such donor (or  spouse) shall be the adjusted
+                        basis of such property in the hands of the  decedent immediately before the death
+                        of the decedent.
+
+
+
+I.R.C. § 1014(e)(2) Definitions — 
+                  
+                  
+For  purposes of paragraph (1)— 
+
+I.R.C. § 1014(e)(2)(A) Appreciated Property — 
+                     
+                     
+The  term “appreciated property” means any property if the fair market value of  such
+                        property on the day it was transferred to the decedent by gift  exceeds its adjusted
+                        basis. 
+
+
+I.R.C. § 1014(e)(2)(B) Treatment Of Certain Property Sold By Estate — 
+                     
+                     
+In  the case of any appreciated property described in subparagraph (A) of
+                        paragraph (1) sold by the estate of the decedent or by a trust of which  the decedent was the grantor,
+                        rules similar to the rules of paragraph (1)  shall apply to the extent the donor of such property (or the spouse of  such donor)
+                        is entitled to the proceeds from such  sale.
+I.R.C. § 1014(f) Basis Must Be Consistent With Estate Tax Return — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 1014(f)(1) In General — 
+                  
+                  
+The basis of any property to which subsection (a) applies shall not exceed— 
+
+I.R.C. § 1014(f)(1)(A)  — 
+                     
+                     
+in the case of property the final value of which has been determined for purposes
+                        of the tax imposed by chapter 11 on the estate of such decedent, such value, and 
+
+
+I.R.C. § 1014(f)(1)(B)  — 
+                     
+                     
+in the case of property not described in subparagraph (A) and with respect to which
+                        a statement has been furnished under section 6035(a) identifying the value of such property, such value. 
+
+
+
+I.R.C. § 1014(f)(2) Exception — 
+                  
+                  
+Paragraph (1) shall only apply to any property whose inclusion in the decedent's estate
+                     increased the liability for the tax imposed by chapter 11 (reduced by credits allowable
+                     against such tax) on such estate. 
+
+
+I.R.C. § 1014(f)(3) Determination — 
+                  
+                  
+For purposes of paragraph (1), the basis of property has been determined for purposes
+                     of the tax imposed by chapter 11 if— 
+
+I.R.C. § 1014(f)(3)(A)  — 
+                     
+                     
+the value of such property is shown on a return under section 6018 and such value is not contested by the Secretary before the expiration of the time
+                        for assessing a tax under chapter 11, 
+
+
+I.R.C. § 1014(f)(3)(B)  — 
+                     
+                     
+in a case not described in subparagraph
+                        (A), the value is specified by the Secretary and such value is not timely contested
+                        by the executor of the estate, or 
+
+
+I.R.C. § 1014(f)(3)(C)  — 
+                     
+                     
+the value is determined by a court or pursuant to a settlement agreement with the
+                        Secretary. 
+
+
+
+I.R.C. § 1014(f)(4) Regulations — 
+                  
+                  
+The Secretary may by regulations provide exceptions to the application of this subsection.

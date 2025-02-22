@@ -1,0 +1,117 @@
+Sec. 6221. Determination At Partnership Level
+
+I.R.C. § 6221(a) In General — 
+               
+               
+Any adjustment to a partnership-related item shall be
+                  determined, and any tax attributable thereto shall be assessed and
+                  collected, and the applicability of any penalty, addition to tax,
+                  or additional amount which relates to an adjustment to any such item
+                  shall be determined, at the partnership level, except to the extent
+                  otherwise provided in this subchapter.
+I.R.C. § 6221(b) Election Out For Certain Partnerships With 100 Or Fewer Partners,
+                  Etc.
+
+
+I.R.C. § 6221(b)(1) In General — 
+                  
+                  
+This subchapter shall not apply with respect to any partnership
+                     for any taxable year if— 
+
+I.R.C. § 6221(b)(1)(A)  — 
+                     
+                     
+the partnership elects the application
+                        of this subsection for such taxable year, 
+
+
+I.R.C. § 6221(b)(1)(B)  — 
+                     
+                     
+for such taxable year the partnership
+                        is required to furnish 100 or fewer statements under section 6031(b)
+                        with respect to its partners, 
+
+
+I.R.C. § 6221(b)(1)(C)  — 
+                     
+                     
+each of the partners of such partnership
+                        is an individual, a C corporation, any foreign entity that would be
+                        treated as a C corporation were it domestic, an S corporation, or
+                        an estate of a deceased partner, 
+
+
+I.R.C. § 6221(b)(1)(D)  — 
+                     
+                     
+the election— 
+
+I.R.C. § 6221(b)(1)(D)(i)  — 
+                        
+                        
+is made with a timely filed return for
+                           such taxable year, and 
+
+
+I.R.C. § 6221(b)(1)(D)(ii)  — 
+                        
+                        
+includes (in the manner prescribed by
+                           the Secretary) a disclosure of the name and taxpayer identification
+                           number of each partner of such partnership, and 
+
+
+
+I.R.C. § 6221(b)(1)(E)  — 
+                     
+                     
+the partnership notifies each such partner
+                        of such election in the manner prescribed by the Secretary. 
+
+
+
+I.R.C. § 6221(b)(2) Special Rules Relating To Certain Partners
+
+
+I.R.C. § 6221(b)(2)(A) S Corporation Partners — 
+                     
+                     
+In the case of a partner that is an S corporation— 
+
+I.R.C. § 6221(b)(2)(A)(i)  — 
+                        
+                        
+the partnership shall only be treated
+                           as meeting the requirements of paragraph (1)(C) with respect to such
+                           partner if such partnership includes (in the manner prescribed by
+                           the Secretary) a disclosure of the name and taxpayer identification
+                           number of each person with respect to whom such S corporation is required
+                           to furnish a statement under section 6037(b) for the taxable year
+                           of the S corporation ending with or within the partnership taxable
+                           year for which the application of this subsection is elected, and 
+
+
+I.R.C. § 6221(b)(2)(A)(ii)  — 
+                        
+                        
+the statements such S corporation is
+                           required to so furnish shall be treated as statements furnished by
+                           the partnership for purposes of paragraph (1)(B). 
+
+
+
+I.R.C. § 6221(b)(2)(B) Foreign Partners — 
+                     
+                     
+For purposes of paragraph (1)(D)(ii), the Secretary may
+                        provide for alternative identification of any foreign partners. 
+
+
+I.R.C. § 6221(b)(2)(C) Other Partners — 
+                     
+                     
+The Secretary may by regulation or other guidance prescribe
+                        rules similar to the rules of subparagraph (A) with respect to any
+                        partners not described in such subparagraph or paragraph (1)(C).

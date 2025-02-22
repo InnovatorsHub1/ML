@@ -1,0 +1,559 @@
+Sec. 172. Net Operating Loss Deduction
+
+I.R.C. § 172(a) Deduction Allowed — 
+               
+               
+There  shall be allowed as a deduction
+                  for the taxable year an amount equal to— 
+
+I.R.C. § 172(a)(1)  — 
+                  
+                  
+in the case of a taxable year beginning
+                     before January 1, 2021, the aggregate of the net operating loss carryovers
+                     to such year, plus the net operating loss carrybacks to such year,
+                     and 
+
+
+I.R.C. § 172(a)(2)  — 
+                  
+                  
+in the case of a taxable year beginning
+                     after December 31, 2020, the sum of— 
+
+I.R.C. § 172(a)(2)(A)  — 
+                     
+                     
+the aggregate amount of net operating
+                        losses arising in taxable years beginning before January 1, 2018,
+                        carried to such taxable year, plus 
+
+
+I.R.C. § 172(a)(2)(B)  — 
+                     
+                     
+the lesser of— 
+
+I.R.C. § 172(a)(2)(B)(i)  — 
+                        
+                        
+the aggregate amount of net operating
+                           losses arising in taxable years beginning after December 31, 2017,
+                           carried to such taxable year, or 
+
+
+I.R.C. § 172(a)(2)(B)(ii)  — 
+                        
+                        
+80 percent of the excess (if any) of— 
+
+I.R.C. § 172(a)(2)(B)(ii)(I)  — 
+                           
+                           
+taxable income computed without regard
+                              to the deductions under this section and sections 199A and 250, over 
+
+
+I.R.C. § 172(a)(2)(B)(ii)(II)  — 
+                           
+                           
+the amount determined under subparagraph
+                              (A).
+I.R.C. § 172(b) Net Operating Loss Carrybacks And Carryovers
+
+
+I.R.C. § 172(b)(1) Year To Which Loss May Be Carried
+
+
+I.R.C. § 172(b)(1)(A) General Rule — 
+                     
+                     
+A net operating loss for any taxable year— 
+
+I.R.C. § 172(b)(1)(A)(i)  — 
+                        
+                        
+shall be a net operating loss carryback
+                           to the extent provided in subparagraphs (B), (C)(i) and (D), and 
+
+
+I.R.C. § 172(b)(1)(A)(ii)  — 
+                        
+                        
+except as provided in subparagraph (C)(ii),
+                           shall be a net operating loss carryover— 
+
+I.R.C. § 172(b)(1)(A)(ii)(I)  — 
+                           
+                           
+in the case of a net operating loss arising
+                              in a taxable year beginning before January 1, 2018, to each of the
+                              20 taxable years following the taxable year of the loss, and 
+
+
+I.R.C. § 172(b)(1)(A)(ii)(II)  — 
+                           
+                           
+in the case of a net operating loss
+                              arising in a taxable year beginning after December 31, 2017, to each
+                              taxable year following the taxable year of the loss. 
+
+
+
+
+I.R.C. § 172(b)(1)(B) Farming Losses
+
+
+I.R.C. § 172(b)(1)(B)(i) In General — 
+                        
+                        
+In the case of any portion of a net operating loss for
+                           the taxable year which is a farming loss with respect to the taxpayer,
+                           such loss shall be a net operating loss carryback to each of the 2
+                           taxable years preceding the taxable year of such loss. 
+
+
+I.R.C. § 172(b)(1)(B)(ii) Farming Loss — 
+                        
+                        
+For purposes of this section, the term “farming
+                           loss” means the lesser of— 
+
+I.R.C. § 172(b)(1)(B)(ii)(I)  — 
+                           
+                           
+the amount which would be the net operating
+                              loss for the taxable year if only income and deductions attributable
+                              to farming businesses (as defined in section
+                                 263A(e)(4)) are taken into account, or 
+
+
+I.R.C. § 172(b)(1)(B)(ii)(II)  — 
+                           
+                           
+the amount of the net operating loss
+                              for such taxable year. 
+
+
+
+I.R.C. § 172(b)(1)(B)(iii) Coordination With Paragraph (2) — 
+                        
+                        
+—For purposes of applying paragraph (2), a farming
+                           loss for any taxable year shall be treated as a separate net operating
+                           loss for such taxable year to be taken into account after the remaining
+                           portion of the net operating loss for such taxable year. 
+
+
+I.R.C. § 172(b)(1)(B)(iv) Election — 
+                        
+                        
+Any taxpayer entitled to a 2-year carryback under clause
+                           (i) from any loss year may elect not to have such clause apply to
+                           such loss year. Such election shall be made in such manner as prescribed
+                           by the Secretary and shall be made by the due date (including extensions
+                           of time) for filing the taxpayer's return for the taxable year
+                           of the net operating loss. Such election, once made for any taxable
+                           year, shall be irrevocable for such taxable year. 
+
+
+
+I.R.C. § 172(b)(1)(C) Insurance Companies — 
+                     
+                     
+In the case of an insurance company (as defined in section 816(a)) other than a life insurance
+                        company, the net operating loss for any taxable year— 
+
+I.R.C. § 172(b)(1)(C)(i)  — 
+                        
+                        
+shall be a net operating loss carryback
+                           to each of the 2 taxable years preceding the taxable year of such
+                           loss, and 
+
+
+I.R.C. § 172(b)(1)(C)(ii)  — 
+                        
+                        
+shall be a net operating loss carryover
+                           to each of the 20 taxable years following the taxable year of the
+                           loss. 
+
+
+
+I.R.C. § 172(b)(1)(D) Special Rule For Losses Arising In 2018, 2019, And 2020
+
+
+I.R.C. § 172(b)(1)(D)(i) In General — 
+                        
+                        
+In the case of any net operating loss arising in a taxable
+                           year beginning after December 31, 2017, and before January 1, 2021— 
+
+I.R.C. § 172(b)(1)(D)(i)(I)  — 
+                           
+                           
+such loss shall be a net operating
+                              loss carryback to each of the 5 taxable years preceding the taxable
+                              year of such loss, and 
+
+
+I.R.C. § 172(b)(1)(D)(i)(II)  — 
+                           
+                           
+
+subparagraphs
+                                 (B) and (C)(i) shall
+                              not apply 
+
+
+
+I.R.C. § 172(b)(1)(D)(ii) Special Rules For REITS — 
+                        
+                        
+For purposes of this subparagraph— 
+
+I.R.C. § 172(b)(1)(D)(ii)(I) In General — 
+                           
+                           
+A net operating loss for a REIT year shall not be a net
+                              operating loss carryback to any taxable year preceding the taxable
+                              year of such loss. 
+
+
+I.R.C. § 172(b)(1)(D)(ii)(II) Special Rule — 
+                           
+                           
+In the case of any net operating loss for a taxable year
+                              which is not a REIT year, such loss shall not be carried to any preceding
+                              taxable year which is a REIT year. 
+
+
+I.R.C. § 172(b)(1)(D)(ii)(III) REIT Year — 
+                           
+                           
+For purposes of this subparagraph, the term “REIT
+                              year” means any taxable year for which the provisions of part
+                              II of subchapter M (relating to real estate investment trusts) apply
+                              to the taxpayer. 
+
+
+
+I.R.C. § 172(b)(1)(D)(iii) Special Rule For Life Insurance Companies — 
+                        
+                        
+In the case of a life insurance company, if a net operating
+                           loss is carried pursuant to clause
+                              (i)(I) to a life insurance company taxable year beginning
+                           before January 1, 2018, such net operating loss carryback shall be
+                           treated in the same manner as an operations loss carryback (within
+                           the meaning of section 810 as
+                           in effect before its repeal) of such company to such taxable year. 
+
+
+I.R.C. § 172(b)(1)(D)(iv) Rule Relating To Carrybacks To Years To Which Section 965 Applies — 
+                        
+                        
+If a net operating loss of a taxpayer is carried pursuant
+                           to clause (i)(I) to
+                           any taxable year in which an amount is includible in gross income
+                           by reason of section 965(a), the taxpayer shall be treated as having
+                           made the election under section 965(n) with
+                           respect to each such taxable year. 
+
+
+I.R.C. § 172(b)(1)(D)(v) Special Rules For Elections Under Paragraph (3)
+
+
+I.R.C. § 172(b)(1)(D)(v)(I) Special Election To Exclude Section 965 Years — 
+                           
+                           
+If the 5-year carryback period under clause (i)(I) with
+                              respect to any net operating loss of a taxpayer includes 1 or more
+                              taxable years in which an amount is includible in gross income by
+                              reason of section 965(a), the taxpayer may, in lieu of the election
+                              otherwise available under paragraph (3), elect under such paragraph
+                              to exclude all such taxable years from such carryback period. 
+
+
+I.R.C. § 172(b)(1)(D)(v)(II) Time Of Elections — 
+                           
+                           
+An election under paragraph (3) (including an election
+                              described in subclause (I)) with respect to a net operating loss arising
+                              in a taxable year beginning in 2018 or 2019 shall be made by the due
+                              date (including extensions of time) for filing the taxpayer's
+                              return for the first taxable year ending after the date of the enactment
+                              of this subparagraph. 
+
+
+
+
+
+I.R.C. § 172(b)(2) Amount Of Carrybacks And Carryovers — 
+                  
+                  
+The  entire amount of the net operating
+                     loss for any taxable year (hereinafter  in this section referred to
+                     as the “loss year”) shall be carried to the  earliest
+                     of the taxable years to which (by reason of paragraph (1)) such  loss may be carried.
+                     The portion of such loss which shall be carried to  each of the other
+                     taxable years shall be the excess, if any, of the amount  of such
+                     loss over the sum of the taxable income for each of the prior  taxable
+                     years to which such loss may be carried. For purposes of the  preceding
+                     sentence, the taxable income for any such prior taxable year  shall— 
+
+I.R.C. § 172(b)(2)(A)  — 
+                     
+                     
+be computed with  the modifications
+                        specified in subsection (d) other
+                        than paragraphs (1),  (4), and (5) thereof, and by determining
+                        the amount of the net operating loss deduction without regard to the
+                        net operating loss for the loss year or for any taxable year thereafter, 
+
+
+I.R.C. § 172(b)(2)(B)  — 
+                     
+                     
+not be considered to be less than zero,
+                        and 
+
+
+I.R.C. § 172(b)(2)(C)  — 
+                     
+                     
+for taxable years beginning after December
+                        31, 2020, be reduced by 20 percent of the excess (if any) described
+                        in subsection (a)(2)(B)(ii) for such taxable year. 
+
+
+
+I.R.C. § 172(b)(3) Election To Waive Carryback. — 
+                  
+                  
+Any  taxpayer entitled to a carryback period under paragraph (1) may elect to  relinquish the
+                     entire carryback period with respect to a net operating  loss for
+                     any taxable year. Such election shall be made in such manner as  may
+                     be prescribed by the Secretary, and shall be made by the due date
+                     (including extensions of time) for filing the taxpayer's return for
+                     the  taxable year of the net operating loss for which the election
+                     is to be in  effect. Such election, once made for any taxable year,
+                     shall be  irrevocable for such taxable year.
+I.R.C. § 172(c) Net Operating Loss Defined — 
+               
+               
+For  purposes of this section, the term “net operating
+                  loss” means the excess  of the deductions allowed by this chapter
+                  over the gross income. Such  excess shall be computed with the modifications
+                  specified in subsection  (d).
+I.R.C. § 172(d) Modifications — 
+               
+               
+The  modifications referred to in this section are as
+                  follows: 
+
+I.R.C. § 172(d)(1) Net Operating Loss Deduction — 
+                  
+                  
+No  net operating loss deduction shall be allowed. 
+
+
+I.R.C. § 172(d)(2)  Capital Gains And Losses Of Taxpayers Other Than Corporations — 
+                  
+                  
+In the case of a taxpayer other than a corporation— 
+
+I.R.C. § 172(d)(2)(A)  — 
+                     
+                     
+the  amount deductible on account of
+                        losses from sales or exchanges of capital  assets shall not exceed
+                        the amount includable on account of gains from  sales or exchanges
+                        of capital assets; and 
+
+
+I.R.C. § 172(d)(2)(B)  — 
+                     
+                     
+the  exclusion provided by section 1202 shall not be allowed. 
+
+
+
+I.R.C. § 172(d)(3) Deduction For Personal Exemptions — 
+                  
+                  
+No  deduction shall be allowed under section 151 (relating to personal  exemptions).
+                     No deduction in lieu of any such deduction shall be allowed. 
+
+
+I.R.C. § 172(d)(4) Nonbusiness Deductions Of Taxpayers Other Than Corporations — 
+                  
+                  
+In  the case of a taxpayer other than a corporation,
+                     the deductions allowable  by this chapter which are not attributable
+                     to a taxpayer's trade or  business shall be allowed only to the extent
+                     of the amount of the gross  income not derived from such trade or
+                     business. For purposes of the  preceding sentence— 
+
+I.R.C. § 172(d)(4)(A)  — 
+                     
+                     
+any  gain or loss from the sale or other
+                        disposition of— 
+
+I.R.C. § 172(d)(4)(A)(i)  — 
+                        
+                        
+property,  used in the trade or business,
+                           of a character which is subject to the  allowance for depreciation
+                           provided in section 167,
+                           or 
+
+
+I.R.C. § 172(d)(4)(A)(ii)  — 
+                        
+                        
+real  property used in the trade or
+                           business, 
+
+shall be treated as attributable
+                              to the trade or business;
+
+
+
+
+I.R.C. § 172(d)(4)(B)  — 
+                     
+                     
+the  modifications specified in paragraphs (1), (2)(B), and (3) shall be taken  into account; 
+
+
+I.R.C. § 172(d)(4)(C)  — 
+                     
+                     
+any  deduction for casualty or theft
+                        losses allowable under paragraph (2) or
+                        (3) of section 165(c) shall be treated as attributable
+                        to the trade or  business; and 
+
+
+I.R.C. § 172(d)(4)(D)  — 
+                     
+                     
+any  deduction allowed under section 404 to the extent attributable
+                        to  contributions which are made on behalf of an individual who is
+                        an employee  within the meaning of section 401(c)(1) shall not be treated
+                        as  attributable to the trade or business of such individual. 
+
+
+
+I.R.C. § 172(d)(5) Computation Of Deduction For Dividends Received — 
+                  
+                  
+The deductions allowed by sections 243 (relating to dividends received by
+                     corporations) and 245 (relating
+                     to dividends received from certain foreign corporations) shall be
+                     computed without regard to section 246(b) (relating
+                     to limitation on aggregate amount of deductions). 
+
+
+I.R.C. § 172(d)(6) Modifications Related To Real Estate Investment Trusts — 
+                  
+                  
+In  the case of any taxable year
+                     for which part II of subchapter M (relating  to real estate investment
+                     trusts) applies to the taxpayer— 
+
+I.R.C. § 172(d)(6)(A)  — 
+                     
+                     
+the  net operating loss for such taxable
+                        year shall be computed by taking into  account the adjustments described
+                        in section 857(b)(2) (other
+                        than the  deduction for dividends paid described in section 857(b)(2)(B)); 
+
+
+I.R.C. § 172(d)(6)(B)  — 
+                     
+                     
+where  such taxable year is a “prior
+                        taxable year” referred to in paragraph (2) 
+                        of subsection (b), the term
+                        “taxable income” in such paragraph shall mean  “real estate investment
+                        trust taxable income” (as defined in section  857(b)(2)), and 
+
+
+I.R.C. § 172(d)(6)(C)  — 
+                     
+                     
+subsection (a)(2)(B)(ii)(I) shall be
+                        applied by substituting “real estate investment trust taxable
+                        income (as defined in section 857(b)(2) but
+                        without regard to the deduction for dividends paid (as defined in
+                        section 561))”
+                        for “taxable income”. 
+
+
+
+I.R.C. § 172(d)(7)  — 
+                  
+                  
+[Repealed. Pub. L. 115-97, Sec. 13305(b)(3),
+                     Dec. 22, 2017 
+
+
+I.R.C. § 172(d)(8) Qualified Business Income Deduction — 
+                  
+                  
+Any deduction under section 199A shall not be allowed. 
+
+
+I.R.C. § 172(d)(9) Deduction For Foreign-Derived Intangible Income — 
+                  
+                  
+The deduction under section 250 shall not be allowed.
+I.R.C. § 172(e) Law Applicable To Computations — 
+               
+               
+In  determining the amount of any net operating loss
+                  carryback or carryover to  any taxable year, the necessary computations
+                  involving any other taxable  year shall be made under the law applicable
+                  to such other taxable year.
+I.R.C. § 172(f)  Special Rule For Insurance Companies — 
+               
+               
+In the case
+                  of an insurance company (as defined in section 816(a)) other than a life insurance
+                  company— 
+
+I.R.C. § 172(f)(1)  — 
+                  
+                  
+the amount of the deduction allowed under
+                     subsection (a) shall be the aggregate of the net operating loss carryovers
+                     to such year, plus the net operating loss carrybacks to such year,
+                     and 
+
+
+I.R.C. § 172(f)(2)  — 
+                  
+                  
+subparagraph (C) of subsection (b)(2)
+                     shall not apply.
+I.R.C. § 172(g) Cross References
+
+
+I.R.C. § 172(g)(1)  — 
+                  
+                  
+For  treatment of net operating loss
+                     carryovers in certain corporate  acquisitions, see section 381. 
+
+
+I.R.C. § 172(g)(2)  — 
+                  
+                  
+For special
+                     limitation on net operating loss carryovers  in case of a corporate
+                     change of ownership, see section 382.

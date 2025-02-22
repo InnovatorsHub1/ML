@@ -1,0 +1,117 @@
+Sec. 151. Allowance Of Deductions For Personal Exemptions
+
+I.R.C. § 151(a) Allowance Of Deductions — 
+               
+               
+In  the case of an individual, the exemptions provided by this section shall  be allowed
+                  as deductions in computing taxable income.
+I.R.C. § 151(b) Taxpayer And Spouse — 
+               
+               
+An  exemption of the exemption amount for the taxpayer;
+                  and an additional  exemption of the exemption amount for the spouse of the taxpayer
+                  if a  joint return is not made by the taxpayer and his spouse, and if the  spouse,
+                  for the calendar year in which the taxable year of the taxpayer  begins, has no gross
+                  income and is not the dependent of another taxpayer.
+I.R.C. § 151(c) Additional Exemption For Dependents — 
+               
+               
+An  exemption of the exemption amount for each individual who is a dependent  (as
+                  defined in section 152) of the taxpayer for the taxable
+                  year.
+I.R.C. § 151(d) Exemption Amount — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 151(d)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this subsection, the term “exemption amount”  means
+                     $2,000. 
+
+
+I.R.C. § 151(d)(2) Exemption Amount Disallowed In Case Of Certain Dependents — 
+                  
+                  
+In  the case of an individual with respect to whom a deduction under this  section
+                     is allowable to another taxpayer for a taxable year beginning in  the calendar year
+                     in which the individual's taxable year begins, the  exemption amount applicable to
+                     such individual for such individual's  taxable year shall be zero. 
+
+
+I.R.C. § 151(d)(3) Phaseout
+
+
+I.R.C. § 151(d)(3)(A) In General — 
+                     
+                     
+In  the case of any taxpayer whose adjusted gross income for the taxable year  exceeds
+                        the applicable amount in effect under section 68(b), the exemption amount shall be reduced by the  applicable percentage. 
+
+
+I.R.C. § 151(d)(3)(B) Applicable Percentage — 
+                     
+                     
+For  purposes of subparagraph (A), the term “applicable percentage” means 2  percentage
+                        points for each $2,500 (or fraction thereof) by which the  taxpayer's adjusted gross
+                        income for the taxable year exceeds the applicable amount in effect under section
+                        68(b). In the case of a married individual filing a separate  return, the preceding sentence
+                        shall be applied by substituting “$1,250”  for “$2,500”. In no event shall the applicable
+                        percentage exceed 100  percent. 
+
+
+I.R.C. § 151(d)(3)(C) Coordination With Other Provisions — 
+                     
+                     
+The  provisions of this paragraph shall not apply for purposes of determining  whether
+                        a deduction under this section with respect to any individual is  allowable to another
+                        taxpayer for any taxable year. 
+
+
+
+I.R.C. § 151(d)(4) Inflation Adjustment — 
+                  
+                  
+Except as provided in paragraph (5), in the case of any taxable year beginning in
+                     a calendar year after 1989, the  dollar amount contained in paragraph (1) shall be increased by an amount  equal to— 
+
+I.R.C. § 151(d)(4)(A)  — 
+                     
+                     
+such  dollar amount, multiplied by 
+
+
+I.R.C. § 151(d)(4)(B)  — 
+                     
+                     
+the  cost-of-living adjustment determined under section 1(f)(3) for the  calendar year in which the taxable year begins, by substituting “calendar
+                        year 1988” for “calendar year 2016”  in subparagraph
+                        (A)(ii) thereof. 
+
+
+
+I.R.C. § 151(d)(5) Special Rules For Taxable Years 2018 Through 2025 — 
+                  
+                  
+In the case of a taxable year beginning after December 31, 2017, and before January
+                     1, 2026— 
+
+I.R.C. § 151(d)(5)(A) Exemption Amount — 
+                     
+                     
+The term “exemption amount” means zero. 
+
+
+I.R.C. § 151(d)(5)(B) References — 
+                     
+                     
+For purposes of any other provision of this title, the reduction of the exemption
+                        amount to zero under subparagraph (A) shall not be taken into account in determining
+                        whether a deduction is allowed or allowable, or whether a taxpayer is entitled to
+                        a deduction, under this section.
+I.R.C. § 151(e) Identifying Information Required — 
+               
+               
+No  exemption shall be allowed under this section with respect to any  individual
+                  unless the TIN of such individual is included on the return  claiming the exemption.

@@ -1,0 +1,180 @@
+Sec. 860C. Taxation Of Residual Interests
+
+I.R.C. § 860C(a) Pass-Thru Of Income Or Loss
+
+
+I.R.C. § 860C(a)(1) In General — 
+                  
+                  
+In  determining the tax under this chapter of any holder of a residual  interest in
+                     a REMIC, such holder shall take into account his daily portion  of the taxable income
+                     or net loss of such REMIC for each day during the  taxable year on which such holder
+                     held such interest. 
+
+
+I.R.C. § 860C(a)(2) Daily Portion — 
+                  
+                  
+The  daily portion referred to in paragraph (1) shall be determined— 
+
+I.R.C. § 860C(a)(2)(A)  — 
+                     
+                     
+by allocating to each day in any calendar quarter its  ratable portion of the taxable
+                        income (or net loss) for such quarter, and 
+
+
+I.R.C. § 860C(a)(2)(B)  — 
+                     
+                     
+by allocating the amount so allocated to any day among  the holders (on such day)
+                        of residual interests in proportion to their  respective holdings on such day.
+I.R.C. § 860C(b) Determination Of Taxable Income Or Net Loss — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 860C(b)(1) Taxable Income — 
+                  
+                  
+The  taxable income of a REMIC shall be determined under an accrual method of  accounting
+                     and, except as provided in regulations, in the same manner as  in the case of an individual,
+                     except that— 
+
+I.R.C. § 860C(b)(1)(A)  — 
+                     
+                     
+regular interests in such REMIC
+                        (if not otherwise debt  instruments) shall be treated as indebtedness of such REMIC, 
+
+
+I.R.C. § 860C(b)(1)(B)  — 
+                     
+                     
+market discount on any market discount bond shall be  included in gross income for
+                        the taxable years to which it is attributable  as determined under the rules of section
+                        1276(b)(2) (and sections 1276(a)  and 1277 shall not apply), 
+
+
+I.R.C. § 860C(b)(1)(C)  — 
+                     
+                     
+there shall not be taken into account any item of  income, gain, loss, or deduction
+                        allocable to a prohibited transaction, 
+
+
+I.R.C. § 860C(b)(1)(D)  — 
+                     
+                     
+the deductions referred to in section 703(a)(2) (other  than any deduction under section 212)
+                        shall not be allowed, and 
+
+
+I.R.C. § 860C(b)(1)(E)  — 
+                     
+                     
+the amount of the net income from foreclosure property  (if any) shall be reduced
+                        by the amount of the tax imposed by section  860G(c). 
+
+
+
+I.R.C. § 860C(b)(2) Net Loss — 
+                  
+                  
+The  net loss of any REMIC is the excess of— 
+
+I.R.C. § 860C(b)(2)(A)  — 
+                     
+                     
+the deductions allowable in computing the taxable income  of such REMIC, over 
+
+
+I.R.C. § 860C(b)(2)(B)  — 
+                     
+                     
+its gross income. 
+
+
+Such amount shall be determined with the modifications
+                        set forth in paragraph (1).
+I.R.C. § 860C(c) Distributions — 
+               
+               
+Any  distribution by a REMIC— 
+
+I.R.C. § 860C(c)(1)  — 
+                  
+                  
+shall not be included in gross income to the extent it  does not exceed the adjusted
+                     basis of the interest, and 
+
+
+I.R.C. § 860C(c)(2)  — 
+                  
+                  
+to the extent it exceeds the adjusted basis of the  interest, shall be treated as
+                     gain from the sale or exchange of such  interest.
+I.R.C. § 860C(d) Basis Rules
+
+
+I.R.C. § 860C(d)(1) Increase In Basis — 
+                  
+                  
+The  basis of any person's residual interest in a REMIC shall be increased by  the
+                     amount of the taxable income of such REMIC taken into account under  subsection (a)
+                     by such person with respect to such interest. 
+
+
+I.R.C. § 860C(d)(2) Decreases In Basis — 
+                  
+                  
+The  basis of any person's residual interest in a REMIC shall be decreased (but  not
+                     below zero) by the sum of the following amounts: 
+
+I.R.C. § 860C(d)(2)(A)  — 
+                     
+                     
+any distributions to such person with respect to such  interest, and 
+
+
+I.R.C. § 860C(d)(2)(B)  — 
+                     
+                     
+any net loss of such REMIC taken into account under  subsection (a) by such person
+                        with respect to such interest.
+I.R.C. § 860C(e) Special Rules
+
+
+I.R.C. § 860C(e)(1) Amounts Treated As Ordinary — 
+                  
+                  
+Any  amount taken into account under subsection (a)
+                     by any holder of a residual  interest in a REMIC shall be treated as ordinary income
+                     or ordinary loss,  as the case may be. 
+
+
+I.R.C. § 860C(e)(2) Limitation On Losses
+
+
+I.R.C. § 860C(e)(2)(A) In General — 
+                     
+                     
+The  amount of the net loss of any REMIC taken into account by a holder under  subsection
+                        (a) with respect to any calendar quarter shall not exceed the  adjusted basis of such
+                        holder's residual interest in such REMIC as of the  close of such calendar quarter
+                        (determined without regard to the  adjustment under subsection (d)(2)(B) for such
+                        calendar quarter). 
+
+
+I.R.C. § 860C(e)(2)(B) Indefinite Carryforward — 
+                     
+                     
+Any  loss disallowed by reason of subparagraph (A) shall be treated as incurred  by
+                        the REMIC in the succeeding calendar quarter with respect to such  holder. 
+
+
+
+I.R.C. § 860C(e)(3) Cross Reference — 
+                  
+                  
+For  special treatment of income in excess of daily accruals, see section 860E.

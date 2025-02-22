@@ -1,0 +1,38 @@
+Sec. 532. Corporations Subject To Accumulated Earnings Tax
+
+I.R.C. § 532(a) General Rule — 
+               
+               
+The  accumulated earnings tax imposed by section 531 shall apply to every  corporation
+                  (other than those described in subsection (b)) formed or  availed of for the purpose
+                  of avoiding the income tax with respect to its
+                  shareholders or the shareholders of any other corporation, by permitting
+                  earnings and profits to accumulate instead of being divided or  distributed.
+I.R.C. § 532(b) Exceptions — 
+               
+               
+The  accumulated earnings tax imposed by section 531 shall not apply to— 
+
+I.R.C. § 532(b)(1)  — 
+                  
+                  
+a  personal holding company (as defined in section 542), 
+
+
+I.R.C. § 532(b)(2)  — 
+                  
+                  
+a  corporation exempt from tax under subchapter F (section 501 and
+                     following), or 
+
+
+I.R.C. § 532(b)(3)  — 
+                  
+                  
+a  passive foreign investment company
+                     (as defined in section 1297).
+I.R.C. § 532(c) Application Determined Without Regard To Number Of Shareholders — 
+               
+               
+The  application of this part to a corporation shall be determined without  regard
+                  to the number of shareholders of such corporation.

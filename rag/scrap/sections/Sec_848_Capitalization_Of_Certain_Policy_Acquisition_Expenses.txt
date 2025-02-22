@@ -1,0 +1,382 @@
+Sec. 848. Capitalization Of Certain Policy Acquisition Expenses
+
+I.R.C. § 848(a) General Rule — 
+               
+               
+In  the case of an insurance company— 
+
+I.R.C. § 848(a)(1)  — 
+                  
+                  
+specified  policy acquisition expenses for any taxable year shall be capitalized,
+                     and 
+
+
+I.R.C. § 848(a)(2)  — 
+                  
+                  
+such  expenses shall be allowed as a deduction ratably over the 180-month period 
+                     beginning with the first month in the second half of such taxable year.
+I.R.C. § 848(b) 5-Year Amortization For First $5,000,000 Of Specified Policy Acquisition Expenses
+
+
+I.R.C. § 848(b)(1) In General — 
+                  
+                  
+Paragraph  (2) of subsection (a)
+                     shall be applied with respect to so much of the  specified policy acquisition expenses
+                     of an insurance company for any  taxable year as does not exceed $5,000,000 by substituting
+                     ”60-month”
+                     for “180-month”. 
+
+
+I.R.C. § 848(b)(2) Phase-Out — 
+                  
+                  
+If  the specified policy acquisition expenses of an insurance company exceed  $10,000,000
+                     for any taxable year, the $5,000,000 amount under paragraph  (1) shall be reduced
+                     (but not below zero)
+                     by the amount of such excess. 
+
+
+I.R.C. § 848(b)(3) Special Rule For Members Of Controlled Group — 
+                  
+                  
+In  the case of any controlled group— 
+
+I.R.C. § 848(b)(3)(A)  — 
+                     
+                     
+all  insurance companies which are members of such group shall be treated as 1  company
+                        for purposes of this subsection, and 
+
+
+I.R.C. § 848(b)(3)(B)  — 
+                     
+                     
+the  amount to which paragraph (1) applies shall be allocated among such  companies
+                        in such manner as the Secretary may prescribe. 
+
+
+For purposes of the preceding sentence, the term  “controlled group” means any controlled
+                        group of corporations as defined
+                        in section 1563(a);
+                        except that subsections (a)(4) and (b)(2)(D) of  section 1563 shall not apply, and subsection
+                        (b)(2)(C) of section 1563 
+                        shall not apply to the extent it excludes a foreign corporation to which  section
+                        842 applies.
+
+
+
+I.R.C. § 848(b)(4) Exception For Acquisition Expenses Attributable To Certain Reinsurance Contracts — 
+                  
+                  
+Paragraph  (1) shall not apply to any specified policy acquisition expenses for any
+                     taxable year which are attributable to premiums or other consideration  under any
+                     reinsurance contract.
+I.R.C. § 848(c) Specified Policy Acquisition Expenses — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 848(c)(1) In General — 
+                  
+                  
+The  term “specified policy acquisition expenses” means, with respect to any  taxable
+                     year, so much of the general deductions for such taxable year as  does not exceed
+                     the sum of— 
+
+I.R.C. § 848(c)(1)(A)  — 
+                     
+                     
+2.09  percent of the net premiums for such taxable year on specified insurance  contracts
+                        which are annuity contracts, 
+
+
+I.R.C. § 848(c)(1)(B)  — 
+                     
+                     
+2.45  percent of the net premiums for such taxable year on specified insurance  contracts
+                        which are group life insurance contracts, and 
+
+
+I.R.C. § 848(c)(1)(C)  — 
+                     
+                     
+9.2  percent of the net premiums for such taxable year on specified insurance  contracts
+                        not described in subparagraph (A) or (B). 
+
+
+
+I.R.C. § 848(c)(2) General Deductions — 
+                  
+                  
+The  term “general deductions” means the deductions provided in part VI of  subchapter
+                     B (sec. 161 and following, relating to itemized deductions) and  in part I of subchapter D (sec.
+                     401 and following, relating to pension,  profit sharing, stock bonus plans, etc.).
+I.R.C. § 848(d) Net Premiums — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 848(d)(1) In General — 
+                  
+                  
+The  term “net premiums” means, with respect to any category of specified  insurance
+                     contracts set forth in subsection
+                     (c)(1), the excess (if any) of— 
+
+I.R.C. § 848(d)(1)(A)  — 
+                     
+                     
+the  gross amount of premiums and other consideration on such contracts, over 
+
+
+I.R.C. § 848(d)(1)(B)  — 
+                     
+                     
+return  premiums on such contracts and premiums and other consideration incurred 
+                        for reinsurance of such contracts. 
+
+
+The rules of section 803(b) shall apply for purposes of  the preceding sentence.
+
+
+
+I.R.C. § 848(d)(2) Amounts Determined On Accrual Basis — 
+                  
+                  
+In  the case of an insurance company subject to tax under part II of this  subchapter,
+                     all computations entering into determinations of net premiums  for any taxable year
+                     shall be made in the manner required under section  811(a) for life insurance companies. 
+
+
+I.R.C. § 848(d)(3) Treatment Of Certain Policyholder Dividends And Similar Amounts — 
+                  
+                  
+Net  premiums shall be determined without regard to section 808(e) and without  regard to other similar amounts treated as paid to, and returned by,
+                     the  policyholder. 
+
+
+I.R.C. § 848(d)(4) Special Rules For Reinsurance
+
+
+I.R.C. § 848(d)(4)(A)  — 
+                     
+                     
+Premiums  and other consideration incurred for reinsurance shall be taken into  account
+                        under paragraph (1)(B)
+                        only to the extent such premiums and other  consideration are includible in the gross
+                        income of an insurance company  taxable under this subchapter or are subject to tax
+                        under this chapter by  reason of subpart F of part III of subchapter N. 
+
+
+I.R.C. § 848(d)(4)(B)  — 
+                     
+                     
+The  Secretary shall prescribe such regulations as may be necessary to ensure  that
+                        premiums and other consideration with respect to reinsurance are  treated consistently
+                        by the ceding company and the reinsurer.
+I.R.C. § 848(e) Classification Of Contracts — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 848(e)(1) Specified Insurance Contract
+
+
+I.R.C. § 848(e)(1)(A) In General — 
+                     
+                     
+Except  as otherwise provided in this paragraph, the term “specified insurance  contract”
+                        means any life insurance, annuity, or noncancellable accident  and health insurance
+                        contract
+                        (or any combination thereof). 
+
+
+I.R.C. § 848(e)(1)(B) Exceptions — 
+                     
+                     
+The  term “specified insurance contract” shall not include— 
+
+I.R.C. § 848(e)(1)(B)(i)  — 
+                        
+                        
+any  pension plan contract (as defined in section 818(a)), 
+
+
+I.R.C. § 848(e)(1)(B)(ii)  — 
+                        
+                        
+any  flight insurance or similar contract, 
+
+
+I.R.C. § 848(e)(1)(B)(iii)  — 
+                        
+                        
+any  qualified foreign contract (as defined in section 807(e)(3) without regard  to paragraph (5) of this subsection), 
+
+
+I.R.C. § 848(e)(1)(B)(iv)  — 
+                        
+                        
+any  contract which is  an Archer MSA
+                           (as defined in  section 220(d)), and 
+
+
+I.R.C. § 848(e)(1)(B)(v)  — 
+                        
+                        
+any  contract which  is a health savings account (as defined in section  223(d)). 
+
+
+
+
+I.R.C. § 848(e)(2) Group Life Insurance Contract — 
+                  
+                  
+The  term “group life insurance contract”
+                     means any life insurance contract— 
+
+I.R.C. § 848(e)(2)(A)  — 
+                     
+                     
+which  covers a group of individuals defined by reference to employment  relationship,
+                        membership in an organization, or similar factor, 
+
+
+I.R.C. § 848(e)(2)(B)  — 
+                     
+                     
+the  premiums for which are determined on a group basis, and 
+
+
+I.R.C. § 848(e)(2)(C)  — 
+                     
+                     
+the  proceeds of which are payable to
+                        (or for the benefit of) persons other  than the employer of the insured, an organization
+                        to which the insured  belongs, or other similar person. 
+
+
+
+I.R.C. § 848(e)(3) Treatment Of Annuity Contracts Combined With Noncancellable Accident And Health Insurance — 
+                  
+                  
+Any  annuity contract combined with noncancellable accident and health  insurance
+                     shall be treated as a noncancellable accident and health  insurance contract and not
+                     as an annuity contract. 
+
+
+I.R.C. § 848(e)(4) Treatment Of Guaranteed Renewable Contracts — 
+                  
+                  
+The  rules of section 816(e) shall apply for purposes of this section. 
+
+
+I.R.C. § 848(e)(5) Treatment Of Reinsurance Contract — 
+                  
+                  
+A  contract which re insures another contract shall be treated in the same  manner
+                     as the reinsured contract. 
+
+
+I.R.C. § 848(e)(6) Treatment Of Certain Qualified Long-Term Care Insurance Contract
+                     Arrangements — 
+                  
+                  
+An annuity or life insurance contract which includes a   qualified long-term care
+                     insurance contract as a part of or a rider on  such  annuity or life insurance contract
+                     shall be treated as a specified  insurance  contract not described in subparagraph
+                     (A) or (B) of subsection  (c)(1).
+I.R.C. § 848(f) Special Rule Where Negative Net Premiums
+
+
+I.R.C. § 848(f)(1) In General — 
+                  
+                  
+If  for any taxable year there is a negative capitalization amount with  respect to
+                     any category of specified insurance contracts set forth in  subsection (c)(1)— 
+
+I.R.C. § 848(f)(1)(A)  — 
+                     
+                     
+the  amount otherwise required to be capitalized under this section for such  taxable
+                        year with respect to any other category of specified insurance  contracts shall be
+                        reduced
+                        (but not below zero) by such negative  capitalization amount, and 
+
+
+I.R.C. § 848(f)(1)(B)  — 
+                     
+                     
+such  negative capitalization amount
+                        (to the extent not taken into account under  subparagraph (A)) -- 
+
+I.R.C. § 848(f)(1)(B)(i)  — 
+                        
+                        
+shall  reduce (but not below zero) the unamortized balance (as of the beginning  of
+                           such taxable year) of the amounts previously capitalized under  subsection (a) (beginning
+                           with the amount capitalized for the most recent  taxable year), and 
+
+
+I.R.C. § 848(f)(1)(B)(ii)  — 
+                        
+                        
+to  the extent taken into account as such a reduction, shall be allowed as a  deduction
+                           for such taxable year. 
+
+
+
+
+I.R.C. § 848(f)(2) Negative Capitalization Amount — 
+                  
+                  
+For  purposes of paragraph (1), the term “negative capitalization amount”  means,
+                     with respect to any category of specified insurance contracts, the  percentage (applicable
+                     under subsection (c)(1) to such category) of the  amount (if any) by which— 
+
+I.R.C. § 848(f)(2)(A)  — 
+                     
+                     
+the  amount determined under subparagraph
+                        (B) of subsection (d)(1) with respect  to such category, exceeds 
+
+
+I.R.C. § 848(f)(2)(B)  — 
+                     
+                     
+the  amount determined under subparagraph
+                        (A) of subsection (d)(1) with respect  to such category.
+I.R.C. § 848(g) Treatment Of Certain Ceding Commissions — 
+               
+               
+Nothing  in any provision of law (other than this section or section 197)
+                  shall require the  capitalization of any ceding commission incurred on or after September
+                  30,  1990, under any contract which reinsures a specified insurance contract.
+I.R.C. § 848(h) Secretarial Authority To Adjust Capitalization Amounts
+
+
+I.R.C. § 848(h)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), the Secretary may provide that a type of  insurance
+                     contract will be treated as a separate category for purposes of  this section (and
+                     prescribe a percentage applicable to such category) if  the Secretary determines that
+                     the deferral of acquisition expenses for  such type of contract which would otherwise
+                     result under this section is  substantially greater than the deferral of acquisition
+                     expenses which  would have resulted if actual acquisition expenses (including indirect
+                     expenses)
+                     and the actual useful life for such type of contract had been  used. 
+
+
+I.R.C. § 848(h)(2) Adjustment To Other Contracts — 
+                  
+                  
+If  the Secretary exercises his authority with respect to any type of contract  under
+                     paragraph (1), the Secretary shall adjust the percentage which would  otherwise have
+                     applied under subsection
+                     (c)(1) to the category which  includes such type of contract so that the exercise
+                     of such authority does  not result in a decrease in the amount of revenue received
+                     under this  chapter by reason of this section for any fiscal year.

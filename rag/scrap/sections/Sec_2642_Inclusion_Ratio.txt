@@ -1,0 +1,579 @@
+Sec. 2642. Inclusion Ratio
+
+I.R.C. § 2642(a) Inclusion Ratio Defined — 
+               
+               
+For  purposes of this chapter— 
+
+I.R.C. § 2642(a)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this section, the inclusion ratio with respect to
+                     any property transferred in a generation-skipping transfer shall be the  excess (if
+                     any) of 1 over— 
+
+I.R.C. § 2642(a)(1)(A)  — 
+                     
+                     
+except as provided in subparagraph (B), the applicable 
+                        fraction determined for the trust from which such transfer is made, or 
+
+
+I.R.C. § 2642(a)(1)(B)  — 
+                     
+                     
+in the case of a direct skip, the applicable fraction  determined for such skip. 
+
+
+
+I.R.C. § 2642(a)(2) Applicable Fraction — 
+                  
+                  
+For  purposes of paragraph (1), the applicable fraction is a fraction— 
+
+I.R.C. § 2642(a)(2)(A)  — 
+                     
+                     
+the numerator of which is the amount of the GST  exemption allocated to the trust
+                        (or in the case of a direct skip,  allocated to the property transferred in such skip),
+                        and 
+
+
+I.R.C. § 2642(a)(2)(B)  — 
+                     
+                     
+the denominator of which is— 
+
+I.R.C. § 2642(a)(2)(B)(i)  — 
+                        
+                        
+the value of the property transferred to the trust (or  involved in the direct skip),
+                           reduced by 
+
+
+I.R.C. § 2642(a)(2)(B)(ii)  — 
+                        
+                        
+the sum of— 
+
+I.R.C. § 2642(a)(2)(B)(ii)(I)  — 
+                           
+                           
+any Federal estate tax or State death tax actually  recovered from the trust attributable
+                              to such property, and 
+
+
+I.R.C. § 2642(a)(2)(B)(ii)(II)  — 
+                           
+                           
+any charitable deduction allowed under section 2055 or
+                              2522 with respect to such property. 
+
+
+
+
+
+I.R.C. § 2642(a)(3) Severing Of Trusts
+
+
+I.R.C. § 2642(a)(3)(A) In General — 
+                     
+                     
+If  a trust is severed in a qualified severance, the trusts resulting from  such severance
+                        shall be treated as separate trusts thereafter for purposes  of this chapter. 
+
+
+I.R.C. § 2642(a)(3)(B) Qualified Severance — 
+                     
+                     
+For  purposes of subparagraph (A)— 
+
+I.R.C. § 2642(a)(3)(B)(i) In General — 
+                        
+                        
+The  term “qualified severance” means the division of a single trust and the  creation
+                           (by any means available under the governing instrument or under  local law) of two
+                           or more trusts if— 
+
+I.R.C. § 2642(a)(3)(B)(i)(I)  — 
+                           
+                           
+the single trust was divided on a fractional basis,  and 
+
+
+I.R.C. § 2642(a)(3)(B)(i)(II)  — 
+                           
+                           
+the terms of the new trusts, in the aggregate, provide  for the same succession of
+                              interests of beneficiaries as are provided in  the original trust. 
+
+
+
+I.R.C. § 2642(a)(3)(B)(ii) Trusts With Inclusion Ratio Greater Than Zero — 
+                        
+                        
+If  a trust has an inclusion ratio of greater than zero and less than 1, a  severance
+                           is a qualified severance only if the single trust is divided  into two trusts, one
+                           of which receives a fractional share of the total  value of all trust assets equal
+                           to the applicable fraction of the single  trust immediately before the severance.
+                           In such case, the trust receiving  such fractional share shall have an inclusion ratio
+                           of zero and the other  trust shall have an inclusion ratio of 1. 
+
+
+I.R.C. § 2642(a)(3)(B)(iii) Regulations — 
+                        
+                        
+The  term “qualified severance” includes any other severance permitted under  regulations
+                           prescribed by the Secretary. 
+
+
+
+I.R.C. § 2642(a)(3)(C) Timing And Manner Of Severances — 
+                     
+                     
+A  severance pursuant to this paragraph may be made at any time. The  Secretary shall
+                        prescribe by forms or regulations the manner in which the  qualified severance shall
+                        be reported to the  Secretary.
+I.R.C. § 2642(b) Valuation Rules, Etc. — 
+               
+               
+Except  as provided in subsection (f)— 
+
+I.R.C. § 2642(b)(1) Gifts For Which Gift Tax Return Filed Or Deemed Allocation Made — 
+                  
+                  
+If  the allocation of the GST exemption to any transfers of property is made  on a
+                     gift tax return filed on or before the date prescribed by section  6075(b) for such transfer or is deemed to be made under section 2632(b)(1) or (c)(1)— 
+
+I.R.C. § 2642(b)(1)(A)  — 
+                     
+                     
+the value of such property for purposes of subsection  (a) shall be its value as finally determined for purposes of chapter 12  (within the
+                        meaning of section 2001(f)(2)), or, in the case of an  allocation deemed to have been made at the close of an estate
+                        tax  inclusion period, its value at the time of the close of the estate tax  inclusion
+                        period, and 
+
+
+I.R.C. § 2642(b)(1)(B)  — 
+                     
+                     
+such allocation shall be effective on and after the  date of such transfer, or, in
+                        the case of an allocation deemed to have  been made at the close of an estate tax
+                        inclusion period, on and after the  close of such estate tax inclusion period. 
+
+
+
+I.R.C. § 2642(b)(2) Transfers And Allocations At Or After Death
+
+
+I.R.C. § 2642(b)(2)(A) Transfers At Death — 
+                     
+                     
+If  property is transferred as a result of the death of the transferor, the  value
+                        of such property for purposes of subsection (a) shall be its value  as finally determined for purposes of chapter 11; except that,
+                        if the  requirements prescribed by the Secretary respecting allocation of  post-death
+                        changes in  value are not met, the value of such property shall  be determined as
+                        of the time of the distribution concerned. 
+
+
+I.R.C. § 2642(b)(2)(B) Allocations To Property Transferred At Death Of Transferor — 
+                     
+                     
+Any  allocation to property transferred as a result of the death of the  transferor
+                        shall be effective on and after the date of the death of the  transferor. 
+
+
+
+I.R.C. § 2642(b)(3) Allocations To Inter Vivos Transfers Not Made On Timely Filed Gift Tax Return — 
+                  
+                  
+If  any allocation of the GST exemption to any property not transferred as a  result
+                     of the death of the transferor is not made on a gift tax return  filed on or before
+                     the date prescribed by section 6075(b) and is not  deemed to be made under section 2632(b)(1)— 
+
+I.R.C. § 2642(b)(3)(A)  — 
+                     
+                     
+the value of such property for purposes of subsection  (a) shall be determined as of the time such allocation is filed with the  Secretary,
+                        and 
+
+
+I.R.C. § 2642(b)(3)(B)  — 
+                     
+                     
+such allocation shall be effective on and after the date  on which such allocation
+                        is filed with the Secretary. 
+
+
+
+I.R.C. § 2642(b)(4) QTIP Trusts — 
+                  
+                  
+If  the value of property is included in the estate of a spouse by virtue of  section
+                     2044, and if such spouse is treated as the transferor of such  property under section
+                     2652(a), the value of such property for purposes of  subsection (a) shall be its value for purposes of chapter 11 in the estate  of such spouse.
+I.R.C. § 2642(c) Treatment Of Certain Direct Skips Which Are Nontaxable Gifts
+
+
+I.R.C. § 2642(c)(1) In General — 
+                  
+                  
+In  the case of a direct skip which is a nontaxable gift, the inclusion ratio  shall
+                     be zero. 
+
+
+I.R.C. § 2642(c)(2) Exception For Certain Transfers In Trust — 
+                  
+                  
+Paragraph  (1) shall not apply to any transfer to a trust for the benefit of an  individual unless— 
+
+I.R.C. § 2642(c)(2)(A)  — 
+                     
+                     
+during the life of such individual, no portion of the  corpus or income of the trust
+                        may be distributed to (or for the benefit  of) any person other than such individual,
+                        and 
+
+
+I.R.C. § 2642(c)(2)(B)  — 
+                     
+                     
+if the trust does not terminate before the individual  dies, the assets of such trust
+                        will be includible in the gross estate of  such individual. 
+
+
+Rules similar to the rules of section 2652(c)(3) shall  apply for purposes of subparagraph (A).
+
+
+
+I.R.C. § 2642(c)(3) Nontaxable Gift — 
+                  
+                  
+For  purposes of this subsection, the term “nontaxable gift” means any transfer  of
+                     property to the extent such transfer is not treated as a taxable gift  by reason of— 
+
+I.R.C. § 2642(c)(3)(A)  — 
+                     
+                     
+section 2503(b) (taking into account the application of  section 2513), or 
+
+
+I.R.C. § 2642(c)(3)(B)  — 
+                     
+                     
+section 2503(e).
+I.R.C. § 2642(d) Special Rules Where More Than 1 Transfer Made To Trust
+
+
+I.R.C. § 2642(d)(1) In General — 
+                  
+                  
+If  a transfer of property is made to a trust in existence before such  transfer,
+                     the applicable fraction for such trust shall be recomputed as of  the time of such
+                     transfer in the manner provided in paragraph (2). 
+
+
+I.R.C. § 2642(d)(2) Applicable Fraction — 
+                  
+                  
+In  the case of any such transfer, the recomputed applicable fraction is a  fraction— 
+
+I.R.C. § 2642(d)(2)(A)  — 
+                     
+                     
+the numerator of which is the sum of— 
+
+I.R.C. § 2642(d)(2)(A)(i)  — 
+                        
+                        
+the amount of the GST exemption allocated to property  involved in such transfer,
+                           plus 
+
+
+I.R.C. § 2642(d)(2)(A)(ii)  — 
+                        
+                        
+the nontax portion of such trust immediately before such  transfer, and 
+
+
+
+I.R.C. § 2642(d)(2)(B)  — 
+                     
+                     
+the denominator of which is the sum of— 
+
+I.R.C. § 2642(d)(2)(B)(i)  — 
+                        
+                        
+the value of the property involved in such transfer  reduced by the sum of— 
+
+I.R.C. § 2642(d)(2)(B)(i)(I)  — 
+                           
+                           
+any Federal estate tax or State death tax actually  recovered from the trust attributable
+                              to such property, and 
+
+
+I.R.C. § 2642(d)(2)(B)(i)(II)  — 
+                           
+                           
+any charitable deduction allowed under section 2055 or
+                              2522 with respect to such property, and 
+
+
+
+I.R.C. § 2642(d)(2)(B)(ii)  — 
+                        
+                        
+the value of all of the property in the trust  (immediately before such transfer). 
+
+
+
+
+I.R.C. § 2642(d)(3) Nontax Portion — 
+                  
+                  
+For  purposes of paragraph (2), the term “nontax portion"
+                     means the product  of— 
+
+I.R.C. § 2642(d)(3)(A)  — 
+                     
+                     
+the value of all of the property in the trust, and 
+
+
+I.R.C. § 2642(d)(3)(B)  — 
+                     
+                     
+the applicable fraction in effect for such trust. 
+
+
+
+I.R.C. § 2642(d)(4) Similar Recomputation In Case Of Certain Late Allocations — 
+                  
+                  
+If— 
+
+I.R.C. § 2642(d)(4)(A)  — 
+                     
+                     
+any allocation of the GST exemption to property  transferred to a trust is not made
+                        on a timely filed gift tax return  required by section 6019, and 
+
+
+I.R.C. § 2642(d)(4)(B)  — 
+                     
+                     
+there was a previous allocation with respect to property  transferred to such trust, 
+
+
+the applicable fraction for such trust shall be  recomputed as of the time of such
+                        allocation under rules similar to the  rules of paragraph (2).
+I.R.C. § 2642(e) Special Rules For Charitable Lead Annuity Trusts
+
+
+I.R.C. § 2642(e)(1) In General — 
+                  
+                  
+For  purposes of determining the inclusion ratio for any charitable lead  annuity
+                     trust, the applicable fraction shall be a fraction— 
+
+I.R.C. § 2642(e)(1)(A)  — 
+                     
+                     
+the numerator of which is the adjusted GST exemption,  and 
+
+
+I.R.C. § 2642(e)(1)(B)  — 
+                     
+                     
+the denominator of which is the value of all of the  property in such trust immediately
+                        after the termination of the charitable  lead annuity. 
+
+
+
+I.R.C. § 2642(e)(2) Adjusted GST Exemption — 
+                  
+                  
+For  purposes of paragraph (1), the adjusted GST exemption is an amount equal  to the GST exemption allocated to
+                     the trust increased by interest  determined— 
+
+I.R.C. § 2642(e)(2)(A)  — 
+                     
+                     
+at the interest rate used in determining the amount of  the deduction under section
+                        2055 or 2522 (as the case may be) for the  charitable lead annuity, and 
+
+
+I.R.C. § 2642(e)(2)(B)  — 
+                     
+                     
+for the actual period of the charitable lead annuity. 
+
+
+
+I.R.C. § 2642(e)(3) Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 2642(e)(3)(A) Charitable Lead Annuity Trust — 
+                     
+                     
+The  term “charitable lead annuity trust” means any trust in which there is a  charitable
+                        lead annuity. 
+
+
+I.R.C. § 2642(e)(3)(B) Charitable Lead Annuity — 
+                     
+                     
+The  term “charitable lead annuity” means any interest in the form of a  guaranteed
+                        annuity with respect to which a deduction was allowed under  section 2055 or 2522 (as the case may be). 
+
+
+
+I.R.C. § 2642(e)(4) Coordination With Subsection (d) — 
+                  
+                  
+Under  regulations, appropriate adjustments shall be made in the application of  subsection
+                     (d) to take into account the provisions of this subsection.
+I.R.C. § 2642(f) Special Rules For Certain Inter Vivos Transfers — 
+               
+               
+Except  as provided in regulations— 
+
+I.R.C. § 2642(f)(1) In General — 
+                  
+                  
+For  purposes of determining the inclusion ratio, if— 
+
+I.R.C. § 2642(f)(1)(A)  — 
+                     
+                     
+an individual makes an inter vivos transfer of property,  and 
+
+
+I.R.C. § 2642(f)(1)(B)  — 
+                     
+                     
+the value of such property would be includible in the  gross estate of such individual
+                        under chapter 11 if such individual died  immediately after making such transfer
+                        (other than by reason of section  2035), 
+
+
+any allocation of GST exemption to such property shall not be made  before the close
+                        of the estate tax inclusion period (and the value of such  property shall be determined
+                        under paragraph (2)). If such transfer is a  direct skip, such skip shall be treated as occurring as
+                        of the close of  the estate tax inclusion period.
+
+
+
+I.R.C. § 2642(f)(2) Valuation — 
+                  
+                  
+In  the case of any property to which paragraph (1) applies, the value of such  property shall be— 
+
+I.R.C. § 2642(f)(2)(A)  — 
+                     
+                     
+if such property is includible in the gross estate of  the transferor (other than
+                        by reason of section 2035), its value for  purposes of chapter 11, or 
+
+
+I.R.C. § 2642(f)(2)(B)  — 
+                     
+                     
+if subparagraph (A) does not apply, its value as of the  close of the estate tax inclusion period (or,
+                        if any allocation of GST  exemption to such property is not made on a timely filed
+                        gift tax return  for the calendar year in which such period ends, its value as of
+                        the time  such allocation is filed with the Secretary). 
+
+
+
+I.R.C. § 2642(f)(3) Estate Tax Inclusion Period — 
+                  
+                  
+For  purposes of this subsection, the term “estate tax inclusion period” means  any
+                     period after the transfer described in paragraph (1) during which the  value of the
+                     property involved in such transfer would be includible in the  gross estate of the
+                     transferor under chapter 11 if he died. Such period  shall in no event extend beyond
+                     the earlier of— 
+
+I.R.C. § 2642(f)(3)(A)  — 
+                     
+                     
+the date on which there is a generation-skipping
+                        transfer with respect to such property, or 
+
+
+I.R.C. § 2642(f)(3)(B)  — 
+                     
+                     
+the date of the death of the transferor. 
+
+
+
+I.R.C. § 2642(f)(4) Treatment Of Spouse — 
+                  
+                  
+Except  as provided in regulations, any reference in this subsection to an  individual
+                     or transferor shall be treated as including a reference to the  spouse of such individual
+                     or transferor. 
+
+
+I.R.C. § 2642(f)(5) Coordination With Subsection (d) — 
+                  
+                  
+Under  regulations, appropriate adjustments shall be made in the application of  subsection
+                     (d) to take into account the provisions of this  subsection.
+I.R.C. § 2642(g) Relief Provisions
+
+
+I.R.C. § 2642(g)(1) Relief From Late Elections
+
+
+I.R.C. § 2642(g)(1)(A) In General — 
+                     
+                     
+The  Secretary shall by regulation prescribe such circumstances and procedures  under
+                        which extensions of time will be granted to make— 
+
+I.R.C. § 2642(g)(1)(A)(i)  — 
+                        
+                        
+an allocation of GST exemption described in paragraph  (1) or (2) of subsection (b), and 
+
+
+I.R.C. § 2642(g)(1)(A)(ii)  — 
+                        
+                        
+an election under subsection (b)(3) or (c)(5) of  section 2632. 
+
+
+Such regulations shall include  procedures for requesting comparable relief with respect
+                           to transfers made  before the date of the enactment of this  paragraph.
+
+
+
+I.R.C. § 2642(g)(1)(B) Basis For Determinations — 
+                     
+                     
+In  determining whether to grant relief under this paragraph, the Secretary  shall
+                        take into account all relevant circumstances, including evidence of  intent contained
+                        in the trust instrument or instrument of transfer and  such other factors as the Secretary
+                        deems relevant. For purposes of  determining whether to grant relief under this paragraph,
+                        the time for  making the allocation (or election)
+                        shall be treated as if not expressly  prescribed by statute. 
+
+
+
+I.R.C. § 2642(g)(2) Substantial Compliance — 
+                  
+                  
+An  allocation of GST exemption under section 2632 that demonstrates an intent
+                     to have the lowest possible inclusion ratio with respect to a transfer or  a trust
+                     shall be deemed to be an allocation of so much of the transferor's  unused GST exemption
+                     as produces the lowest possible inclusion ratio. In  determining whether there has
+                     been substantial compliance, all relevant  circumstances shall be taken into account,
+                     including evidence of intent  contained in the trust instrument or instrument of transfer
+                     and such other  factors as the Secretary deems relevant.

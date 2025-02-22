@@ -1,0 +1,117 @@
+Sec. 853. Foreign Tax Credit Allowed To Shareholders
+
+I.R.C. § 853(a) General Rule — 
+               
+               
+A  regulated investment company— 
+
+I.R.C. § 853(a)(1)  — 
+                  
+                  
+more than 50 percent of the value
+                     (as defined in section  851(c)(4))
+                     of whose total assets at the close of the taxable year consists  of stock or securities
+                     in foreign corporations, and 
+
+
+I.R.C. § 853(a)(2)  — 
+                  
+                  
+which meets the requirements of section 852(a) for the  taxable year, 
+
+
+may, for such taxable year, elect the application of this  section with respect to
+                     income, war profits, and excess profits taxes  described in section 901(b)(1), which are paid by the investment company  during such taxable year to foreign countries
+                     and possessions of the  United States.
+I.R.C. § 853(b) Effect Of Election — 
+               
+               
+If  the election provided in subsection (a) is effective for a taxable year— 
+
+I.R.C. § 853(b)(1)  — 
+                  
+                  
+the regulated investment company— 
+
+I.R.C. § 853(b)(1)(A)  — 
+                     
+                     
+shall not, with respect to such taxable year, be allowed  a deduction under section
+                        164(a) or a credit under section 901 for taxes  to which subsection
+                        (a) is applicable, and 
+
+
+I.R.C. § 853(b)(1)(B)  — 
+                     
+                     
+shall be allowed as an addition to the dividends paid  deduction for such taxable
+                        year the amount of such taxes; 
+
+
+
+I.R.C. § 853(b)(2)  — 
+                  
+                  
+each shareholder of such investment company shall— 
+
+I.R.C. § 853(b)(2)(A)  — 
+                     
+                     
+include in gross income and treat as paid by him his  proportionate share of such
+                        taxes, and 
+
+
+I.R.C. § 853(b)(2)(B)  — 
+                     
+                     
+treat as gross income from sources within the respective  foreign countries and possessions
+                        of the United States, for purposes of  applying subpart A of part III of subchapter
+                        N, the sum of his  proportionate share of such taxes and the portion of any dividend
+                        paid by  such investment company which represents income derived from sources  within
+                        foreign countries or possessions of the United States.
+I.R.C. § 853(c) Statements To Shareholders — 
+               
+               
+The  amounts to be treated by the shareholder, for purposes of subsection  (b)(2),
+                  as his proportionate share of— 
+
+I.R.C. § 853(c)(1)  — 
+                  
+                  
+taxes paid to any foreign country or possession of the  United States, and 
+
+
+I.R.C. § 853(c)(2)  — 
+                  
+                  
+gross income derived from sources within any foreign  country or possession of the
+                     United States, 
+
+
+shall not exceed the amounts so reported by the company in a written statement furnished
+                     to such shareholder.
+I.R.C. § 853(d) Manner Of Making Election — 
+               
+               
+The  election provided in subsection (a) shall be made in such manner as the Secretary
+                  may prescribe by regulations.
+I.R.C. § 853(e)  Treatment Of Certain Taxes Not Allowed As A Credit Under Section 901 — 
+               
+               
+This section shall not apply to any tax with respect to  which the regulated    investment
+                  company is not allowed a credit under  section 901 by reason of    subsection (k) or (l) of such  section.
+I.R.C. § 853(f) Cross References
+
+
+I.R.C. § 853(f)(1)  — 
+                  
+                  
+For treatment by shareholders of taxes paid to foreign  countries and possessions
+                     of the United States, see section 164(a) and
+                     section 901. 
+
+
+I.R.C. § 853(f)(2)  — 
+                  
+                  
+For definition of foreign corporation, see section  7701(a)(5).

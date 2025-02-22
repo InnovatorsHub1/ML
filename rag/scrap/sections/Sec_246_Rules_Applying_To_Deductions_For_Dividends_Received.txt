@@ -1,0 +1,333 @@
+Sec. 246. Rules Applying To Deductions For Dividends Received
+
+I.R.C. § 246(a) Deduction Not Allowed For Dividends From Certain Corporations
+
+
+I.R.C. § 246(a)(1) In General — 
+                  
+                  
+The  deductions allowed by sections 243, 245, and 245A and shall not apply to any  dividend from a corporation which, for the taxable year
+                     of the corporation  in which the distribution is made, or for the next preceding taxable
+                     year  of the corporation, is a corporation exempt from tax under section 501 
+                     (relating to certain charitable, etc., organizations) or section 521  (relating to farmers' cooperative associations). 
+
+
+I.R.C. § 246(a)(2) Subsection Not To Apply To Certain Dividends Of Federal Home Loan Banks
+
+
+I.R.C. § 246(a)(2)(A) Dividends Out Of Current Earnings And Profits — 
+                     
+                     
+In  the case of any dividend paid by any FHLB out of earnings and profits of  the
+                        FHLB for the taxable year in which such dividend was paid, paragraph  (1) shall not
+                        apply to that portion of such dividend which bears the same  ratio to the total dividend
+                        as— 
+
+I.R.C. § 246(a)(2)(A)(i)  — 
+                        
+                        
+the  dividends received by the FHLB from the FHLMC during such taxable year,  bears
+                           to 
+
+
+I.R.C. § 246(a)(2)(A)(ii)  — 
+                        
+                        
+the  total earnings and profits of the FHLB for such taxable year. 
+
+
+
+I.R.C. § 246(a)(2)(B) Dividends Out Of Accumulated Earnings And Profits — 
+                     
+                     
+In  the case of any dividend which is paid out of any accumulated earnings and  profits
+                        of any FHLB, paragraph (1) shall not apply to that portion of the  dividend which
+                        bears the same ratio to the total dividend as— 
+
+I.R.C. § 246(a)(2)(B)(i)  — 
+                        
+                        
+the  amount of dividends received by such FHLB from the FHLMC which are out of  earnings
+                           and profits of the FHLMC-- 
+
+I.R.C. § 246(a)(2)(B)(i)(I)  — 
+                           
+                           
+for  taxable years ending after December 31, 1984, and 
+
+
+I.R.C. § 246(a)(2)(B)(i)(II)  — 
+                           
+                           
+which  were not previously treated as distributed under subparagraph (A) or this 
+                              subparagraph, bears to 
+
+
+
+I.R.C. § 246(a)(2)(B)(ii)  — 
+                        
+                        
+the  total accumulated earnings and profits of the FHLB as of the time such  dividend
+                           is paid. 
+
+
+For purposes of clause (ii), the accumulated earnings
+                           and profits of the FHLB as of January 1, 1985, shall be treated as equal  to its retained
+                           earnings as of such date.
+
+
+
+I.R.C. § 246(a)(2)(C) Coordination With Section 243 — 
+                     
+                     
+To  the extent that paragraph (1) does not apply to any dividend by reason of  subparagraph
+                        (A) or (B) of this paragraph, the requirement contained in  section 243(a) that the corporation paying the dividend be subject to  taxation under this chapter
+                        shall not apply. 
+
+
+I.R.C. § 246(a)(2)(D) Definitions — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 246(a)(2)(D)(i) FHLB — 
+                        
+                        
+The  term “FHLB” means any Federal Home Loan Bank. 
+
+
+I.R.C. § 246(a)(2)(D)(ii) FHLMC — 
+                        
+                        
+The  term “FHLMC” means the Federal Home Loan Mortgage Corporation. 
+
+
+I.R.C. § 246(a)(2)(D)(iii) Taxable Year Of FHLB — 
+                        
+                        
+The  taxable year of an FHLB shall, except as provided in regulations  prescribed
+                           by the Secretary, be treated as the calendar year. 
+
+
+I.R.C. § 246(a)(2)(D)(iv) Earnings And Profits — 
+                        
+                        
+The  earnings and profits of any FHLB for any taxable year shall be treated as  equal
+                           to the sum of— 
+
+I.R.C. § 246(a)(2)(D)(iv)(I)  — 
+                           
+                           
+any  dividends received by the FHLB from the FHLMC during such taxable year,  and 
+
+
+I.R.C. § 246(a)(2)(D)(iv)(II)  — 
+                           
+                           
+the  total earnings and profits (determined without regard to dividends  described
+                              in subclause (I)) of the FHLB as reported in its annual  financial statement prepared
+                              in accordance with section 20 of the Federal  Home Loan Bank Act (12 U.S.C. 1440).
+I.R.C. § 246(b) Limitation On Aggregate Amount Of Deductions
+
+
+I.R.C. § 246(b)(1) General Rule — 
+                  
+                  
+Except as provided in paragraph (2), the aggregate amount of the deductions allowed
+                     by section 243(a)(1), subsection (a) and (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income
+                     computed without regard to the deductions allowed by sections 172, 199A, 243(a)(1), subsection (a) and (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section
+                     1212(a)(1). 
+
+
+I.R.C. § 246(b)(2) Effect Of Net Operating Loss — 
+                  
+                  
+Paragraph  (1) shall not apply for any taxable year for which there is a net  operating
+                     loss (as determined under section 172). 
+
+
+I.R.C. § 246(b)(3) Special Rules — 
+                  
+                  
+The  provisions of paragraph (1) shall be applied— 
+
+I.R.C. § 246(b)(3)(A)  — 
+                     
+                     
+first  separately with respect to dividends from 20-percent owned corporations  (as
+                        defined in section 243(c)(2)) and the percentage determined under this  paragraph shall be 65 percent, and 
+
+
+I.R.C. § 246(b)(3)(B)  — 
+                     
+                     
+then  separately with respect to dividends not from 20-percent owned  corporations
+                        and the percentage determined under this paragraph shall be 50 percent and the taxable
+                        income shall be reduced by the aggregate amount  of dividends from 20-percent owned
+                        corporations (as so defined).
+I.R.C. § 246(c) Exclusion Of Certain Dividends
+
+
+I.R.C. § 246(c)(1) In General — 
+                  
+                  
+No  deduction shall be allowed under section 243,  245, or 245A, in respect of  any dividend on any share of stock— 
+
+I.R.C. § 246(c)(1)(A)  — 
+                     
+                     
+which  is held by the taxpayer for 45 days or less during the  91-day period  beginning
+                        on the date which is 45 days before the date on which such share  becomes ex-dividend
+                        with respect to such dividend, or 
+
+
+I.R.C. § 246(c)(1)(B)  — 
+                     
+                     
+to  the extent that the taxpayer is under an obligation (whether pursuant to a  short
+                        sale or otherwise)
+                        to make related payments with respect to  positions in substantially similar or related
+                        property. 
+
+
+
+I.R.C. § 246(c)(2)  90-Day Rule In The Case Of Certain Preference Dividends — 
+                  
+                  
+In  the case of stock having preference in dividends, if the taxpayer receives  dividends
+                     with respect to such stock which are attributable to a period or  periods aggregating
+                     in excess of 366 days, paragraph (1)(A) shall be  applied— 
+
+I.R.C. § 246(c)(2)(A)  — 
+                     
+                     
+by  substituting “90 days”
+                        for “45 days” each place it appears,  and 
+
+
+I.R.C. § 246(c)(2)(B)  — 
+                     
+                     
+by  substituting “181-day period”
+                        for “91-day  period”. 
+
+
+
+I.R.C. § 246(c)(3) Determination Of Holding Periods — 
+                  
+                  
+For  purposes of this subsection, in determining the period for which the  taxpayer
+                     has held any share of stock— 
+
+I.R.C. § 246(c)(3)(A)  — 
+                     
+                     
+the  day of disposition, but not the day of acquisition, shall be taken into  account,
+                        and 
+
+
+I.R.C. § 246(c)(3)(B)  — 
+                     
+                     
+paragraph  (3) of section 1223  shall not apply. 
+
+
+
+I.R.C. § 246(c)(4) Holding Period Reduced For Periods Where Risk Of Loss Diminished — 
+                  
+                  
+The  holding periods determined for purposes of this subsection shall be  appropriately
+                     reduced (in the manner provided in regulations prescribed by  the Secretary) for any
+                     period (during such periods) in which— 
+
+I.R.C. § 246(c)(4)(A)  — 
+                     
+                     
+the  taxpayer has an option to sell, is under a contractual obligation to sell,  or
+                        has made (and not closed)
+                        a short sale of, substantially identical  stock or securities, 
+
+
+I.R.C. § 246(c)(4)(B)  — 
+                     
+                     
+the  taxpayer is the grantor of an option to buy substantially identical stock  or
+                        securities, or 
+
+
+I.R.C. § 246(c)(4)(C)  — 
+                     
+                     
+under  regulations prescribed by the Secretary, a taxpayer has diminished his  risk
+                        of loss by holding 1 or more other positions with respect to  substantially similar
+                        or related property. 
+
+
+The preceding sentence shall not apply in the case of
+                        any qualified covered call (as defined in section 1092(c)(4) but without 
+                        regard to the requirement that gain or loss with respect to the option not  be ordinary
+                        income or loss), other than a qualified covered call option to  which section 1092(f) applies.
+
+
+
+I.R.C. § 246(c)(5) Special Rules For Foreign Source Portion Of Dividends Received From Specified 10-Percent
+                     Owned Foreign Corporations
+
+
+I.R.C. § 246(c)(5)(A) 1-Year Holding Period Requirement — 
+                     
+                     
+For purposes of section 245A— 
+
+I.R.C. § 246(c)(5)(A)(i)  — 
+                        
+                        
+paragraph (1)(A) shall be applied— 
+
+I.R.C. § 246(c)(5)(A)(i)(I)  — 
+                           
+                           
+by substituting “365 days”
+                              for “45 days” each place it appears, and 
+
+
+I.R.C. § 246(c)(5)(A)(i)(II)  — 
+                           
+                           
+by substituting “731-day period”
+                              for “91-day period”, and 
+
+
+
+I.R.C. § 246(c)(5)(A)(ii)  — 
+                        
+                        
+paragraph (2) shall not apply. 
+
+
+
+I.R.C. § 246(c)(5)(B) Status Must Be Maintained During Holding Period — 
+                     
+                     
+For purposes of applying paragraph (1) with respect to section 245A, the taxpayer shall be treated as holding the stock referred to in paragraph (1)
+                        for any period only if— 
+
+I.R.C. § 246(c)(5)(B)(i)  — 
+                        
+                        
+the specified 10-percent owned foreign corporation referred to in section 245A(a) is a specified 10-percent owned foreign corporation at all times during such period,
+                           and 
+
+
+I.R.C. § 246(c)(5)(B)(ii)  — 
+                        
+                        
+the taxpayer is a United States shareholder with respect to such specified 10-percent
+                           owned foreign corporation at all times during such period.
+I.R.C. § 246(d) Dividends From A DISC Or Former DISC — 
+               
+               
+No  deduction shall be allowed under section 243 in respect of a dividend from
+                  a corporation which is a DISC or former DISC (as defined in section
+                  992(a)) to the extent such dividend is paid out of the corporation's  accumulated DISC income
+                  or previously taxed income, or is a deemed  distribution pursuant to section 995(b)(1).

@@ -1,0 +1,89 @@
+Sec. 1045. Rollover Of Gain From Qualified Small Business Stock To Another Qualified Small Business Stock
+
+I.R.C. § 1045(a) Nonrecognition Of Gain — 
+               
+               
+In  the case of any sale of qualified small business
+                  stock held by a taxpayer  other than a corporation for more than 6
+                  months and with respect to which  such taxpayer elects the application
+                  of this section, gain from such sale  shall be recognized only to
+                  the extent that the amount realized on such  sale exceeds— 
+
+I.R.C. § 1045(a)(1)  — 
+                  
+                  
+the  cost of any qualified small business
+                     stock purchased by the taxpayer  during the 60-day period beginning
+                     on the date of such sale, reduced  by 
+
+
+I.R.C. § 1045(a)(2)  — 
+                  
+                  
+any  portion of such cost previously
+                     taken into account under this section. 
+
+
+This section shall not apply to any
+                     gain which is treated as ordinary income for purposes of this  title.
+I.R.C. § 1045(b) Definitions And Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1045(b)(1) Qualified Small Business Stock — 
+                  
+                  
+The  term “qualified small business stock”
+                     has the meaning given such term by  section 1202(c). 
+
+
+I.R.C. § 1045(b)(2) Purchase — 
+                  
+                  
+A  taxpayer shall be treated as having purchased any
+                     property if, but for  paragraph (3), the unadjusted basis of such
+                     property in the hands of the  taxpayer would be its cost (within the
+                     meaning of section  1012). 
+
+
+I.R.C. § 1045(b)(3) Basis Adjustments — 
+                  
+                  
+If  gain from any sale is not recognized by reason of
+                     subsection (a), such  gain shall be applied to reduce (in the order
+                     acquired) the basis for  determining gain or loss of any qualified
+                     small business stock which is  purchased by the taxpayer during the
+                     60-day period described in subsection  (a). 
+
+
+I.R.C. § 1045(b)(4) Holding Period — 
+                  
+                  
+For  purposes of determining whether the nonrecognition
+                     of gain under  subsection (a) applies to stock which is sold— 
+
+I.R.C. § 1045(b)(4)(A)  — 
+                     
+                     
+the  taxpayer's holding period for
+                        such stock and the stock referred to in  subsection (a)(1) shall be
+                        determined without regard to section 1223,
+                        and 
+
+
+I.R.C. § 1045(b)(4)(B)  — 
+                     
+                     
+only  the first 6 months of the taxpayer's
+                        holding period for the stock referred  to in subsection (a)(1) shall
+                        be taken into account for purposes of  applying section 1202(c)(2). 
+
+
+
+I.R.C. § 1045(b)(5) Certain Rules To Apply — 
+                  
+                  
+Rules similar to the rules of subsections (f), (g),
+                     (h), (i), (j), and (k)  of section 1202 shall
+                     apply.

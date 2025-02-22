@@ -1,0 +1,118 @@
+Sec. 1371. Coordination With Subchapter C
+
+I.R.C. § 1371(a) Application Of Subchapter C Rules — 
+               
+               
+Except  as otherwise provided in this title, and except
+                  to the extent inconsistent  with this subchapter, subchapter C shall
+                  apply to an S corporation and its  shareholders.
+I.R.C. § 1371(b) No Carryover Between C Year And S Year
+
+
+I.R.C. § 1371(b)(1) From C Year To S Year — 
+                  
+                  
+No  carryforward, and no carryback, arising for a taxable
+                     year for which a  corporation is a C corporation may be carried to
+                     a taxable year for which  such corporation is an S corporation. 
+
+
+I.R.C. § 1371(b)(2) No Carryover From S Year — 
+                  
+                  
+No  carryforward, and no carryback, shall arise at the
+                     corporate level for a  taxable year for which a corporation is an
+                     S corporation. 
+
+
+I.R.C. § 1371(b)(3) Treatment Of S Year As Elapsed Year — 
+                  
+                  
+Nothing  in paragraphs (1) and (2) shall prevent treating
+                     a taxable year for which  a corporation is an S corporation as a taxable
+                     year for purposes of  determining the number of taxable years to which
+                     an item may be carried  back or carried forward.
+I.R.C. § 1371(c) Earnings And Profits
+
+
+I.R.C. § 1371(c)(1) In General — 
+                  
+                  
+Except  as provided in paragraphs (2) and (3) and subsection
+                     (d)(3), no adjustment  shall be made to the earnings and profits of
+                     an S corporation. 
+
+
+I.R.C. § 1371(c)(2) Adjustments For Redemptions, Liquidations, Reorganizations,
+                     Divisives, Etc. — 
+                  
+                  
+In  the case of any transaction involving the application
+                     of subchapter C to  any S corporation, proper adjustment to any accumulated
+                     earnings and  profits of the corporation shall be made. 
+
+
+I.R.C. § 1371(c)(3) Adjustments In Case Of Distributions Treated As Dividends Under
+                     Section 1368(c)(2) — 
+                  
+                  
+Paragraph  (1) shall not apply with respect to that
+                     portion of a distribution which  is treated as a dividend under section 1368(c)(2).
+I.R.C. § 1371(d) Coordination With Investment Credit Recapture
+
+
+I.R.C. § 1371(d)(1) No Recapture By Reason Of Election — 
+                  
+                  
+Any  election under section 1362 shall be treated as a mere
+                     change in the form  of conducting a trade or business for purposes
+                     of the second sentence of  section 50(a)(5). 
+
+
+I.R.C. § 1371(d)(2) Corporation Continues To Be Liable — 
+                  
+                  
+Notwithstanding  an election under section 1362, an S corporation shall continue
+                     to be  liable for any increase in tax under section 49(b) or 50(a) attributable  to credits
+                     allowed for taxable years for which such corporation was not an  S
+                     corporation. 
+
+
+I.R.C. § 1371(d)(3) Adjustment To Earnings And Profits For Amount Of Recapture — 
+                  
+                  
+Paragraph  (1) of subsection (c) shall not apply to
+                     any increase in tax under section  49(b) or 50(a) for which the S corporation
+                     is liable.
+I.R.C. § 1371(e) Cash Distributions During Post-Termination Transition Period
+
+
+I.R.C. § 1371(e)(1) In General — 
+                  
+                  
+Any  distribution of money by a corporation with respect
+                     to its stock during a  post-termination transition period shall be
+                     applied against and reduce the  adjusted basis of the stock, to the
+                     extent that the amount of the  distribution does not exceed the accumulated
+                     adjustments account (within  the meaning of section 1368(e)). 
+
+
+I.R.C. § 1371(e)(2) Election To Distribute Earnings First — 
+                  
+                  
+An  S corporation may elect to have paragraph (1) not
+                     apply to all  distributions made during a post-termination transition
+                     period described  in section 1377(b)(1)(A).
+                     Such election shall not be effective unless all  shareholders of the
+                     S corporation to whom distributions are made by the S  corporation
+                     during such post-termination transition period consent to such  election.
+I.R.C. § 1371(f) Cash Distributions Following Post-Termination Transition Period — 
+               
+               
+In the case of a distribution of
+                  money by an eligible terminated S corporation (as defined in section 481(d)) after the post-termination
+                  transition period, the accumulated adjustments account shall be allocated
+                  to such distribution, and the distribution shall be chargeable to
+                  accumulated earnings and profits, in the same ratio as the amount
+                  of such accumulated adjustments account bears to the amount of such
+                  accumulated earnings and profits.

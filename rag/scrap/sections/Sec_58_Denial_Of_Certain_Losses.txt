@@ -1,0 +1,108 @@
+Sec. 58. Denial Of Certain Losses
+
+I.R.C. § 58(a) Denial Of Farm Loss
+
+
+I.R.C. § 58(a)(1) In General — 
+                  
+                  
+For  purposes of computing the amount of the alternative minimum taxable income  for
+                     any taxable year of a taxpayer other than a corporation— 
+
+I.R.C. § 58(a)(1)(A) Disallowance Of Farm Loss — 
+                     
+                     
+No  loss of the taxpayer for such taxable year from any tax shelter farm  activity
+                        shall be allowed. 
+
+
+I.R.C. § 58(a)(1)(B) Deduction In Succeeding Taxable Year — 
+                     
+                     
+Any  loss from a tax shelter farm activity disallowed under subparagraph (A) 
+                        shall be treated as a deduction allocable to such activity in the 1st  succeeding
+                        taxable year. 
+
+
+
+I.R.C. § 58(a)(2) Tax Shelter Farm Activity — 
+                  
+                  
+For  purposes of this subsection, the term “tax shelter farm activity” means— 
+
+I.R.C. § 58(a)(2)(A)  — 
+                     
+                     
+any  farming syndicate as defined in section 461(k), and 
+
+
+I.R.C. § 58(a)(2)(B)  — 
+                     
+                     
+any  other activity consisting of farming which is a passive activity (within  the
+                        meaning of section 469(c)). 
+
+
+
+I.R.C. § 58(a)(3) Determination Of Loss — 
+                  
+                  
+In  determining the amount of the loss from any tax shelter farm activity, the  adjustments
+                     of sections 56 and 57 shall apply. 
+
+
+I.R.C. § 58(a)(4) Determination Of Loss — 
+                  
+                  
+In  determining the amount of the loss from any tax shelter farm activity, the  adjustments
+                     of sections 56 and 57 shall apply.
+I.R.C. § 58(b) Disallowance Of Passive Activity Loss — 
+               
+               
+In  computing the alternative minimum taxable income of the taxpayer for any  taxable
+                  year, section 469 shall apply, except that in applying section  469— 
+
+I.R.C. § 58(b)(1)  — 
+                  
+                  
+the  adjustments of sections 56 and 57 shall apply, and 
+
+
+I.R.C. § 58(b)(2)  — 
+                  
+                  
+in  lieu of applying section 469(j)(7), the passive activity loss of a  taxpayer shall be computed without regard to qualified
+                     housing interest  (as defined in section 56(e)).
+I.R.C. § 58(c) Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 58(c)(1) Special Rule For Insolvent Taxpayers
+
+
+I.R.C. § 58(c)(1)(A) In General — 
+                     
+                     
+The  amount of losses to which subsection (a) or (b) applies shall be reduced
+                        by the amount (if any) by which the taxpayer is insolvent as of the close  of the
+                        taxable year. 
+
+
+I.R.C. § 58(c)(1)(B) Insolvent — 
+                     
+                     
+For  purposes of this paragraph, the term “insolvent"
+                        means the excess of  liabilities over the fair market value of assets. 
+
+
+
+I.R.C. § 58(c)(2) Loss Allowed For Year Of Disposition Of Farm Shelter Activity — 
+                  
+                  
+If  the taxpayer disposes of his entire interest in any tax shelter farm  activity
+                     during any taxable year, the amount of the loss attributable to  such activity (determined
+                     after carryovers under subsection (a)(1)(B))
+                     shall (to the extent otherwise allowable) be allowed for such taxable year  in computing
+                     alternative minimum taxable income and not treated as a loss  from a tax shelter farm
+                     activity.

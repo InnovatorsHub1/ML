@@ -1,0 +1,188 @@
+Sec. 1368. Distributions
+
+I.R.C. § 1368(a) General Rule — 
+               
+               
+A  distribution of property made by an S corporation with respect to its  stock to
+                  which (but for this subsection) section 301(c) would apply shall  be treated in the manner provided in subsection (b) or (c), whichever
+                  applies.
+I.R.C. § 1368(b) S Corporation Having No Earnings And Profits — 
+               
+               
+In  the case of a distribution described in subsection
+                  (a) by an S corporation  which has no accumulated earnings and profits— 
+
+I.R.C. § 1368(b)(1) Amount Applied Against Basis — 
+                  
+                  
+The  distribution shall not be included in gross income to the extent that it  does
+                     not exceed the adjusted basis of the stock. 
+
+
+I.R.C. § 1368(b)(2) Amount In Excess Of Basis — 
+                  
+                  
+If  the amount of the distribution exceeds the adjusted basis of the stock,  such
+                     excess shall be treated as gain from the sale or exchange of  property.
+I.R.C. § 1368(c) S Corporation Having Earnings And Profits — 
+               
+               
+In  the case of a distribution described in subsection
+                  (a) by an S corporation  which has accumulated earnings and profits— 
+
+I.R.C. § 1368(c)(1) Accumulated Adjustments Account — 
+                  
+                  
+That  portion of the distribution which does not exceed the accumulated  adjustments
+                     account shall be treated in the manner provided by subsection  (b). 
+
+
+I.R.C. § 1368(c)(2) Dividend — 
+                  
+                  
+That  portion of the distribution which remains after the application of  paragraph
+                     (1) shall be treated as a dividend to the extent it does not  exceed the accumulated
+                     earnings and profits of the S corporation. 
+
+
+I.R.C. § 1368(c)(3) Treatment Of Remainder — 
+                  
+                  
+Any  portion of the distribution remaining after the application of paragraph  (2)
+                     of this subsection shall be treated in the manner provided by  subsection (b). 
+
+
+Except to the extent provided in regulations, if the
+                     distributions during the taxable year exceed the amount in the accumulated
+                     adjustments account at the close of the taxable year, for purposes of this  subsection,
+                     the balance of such account shall be allocated among such  distributions in proportion
+                     to their respective sizes.
+I.R.C. § 1368(d) Certain Adjustments Taken Into Account — 
+               
+               
+Subsections  (b) and (c) shall be applied by taking into account (to the extent  proper)— 
+
+I.R.C. § 1368(d)(1)  — 
+                  
+                  
+the  adjustments to the basis of the shareholder's stock described in section  1367, and 
+
+
+I.R.C. § 1368(d)(2)  — 
+                  
+                  
+the  adjustments to the accumulated adjustments account which are required by  subsection
+                     (e)(1). 
+
+
+In the case of any distribution made
+                     during any taxable year, the adjusted basis of the stock shall be
+                     determined with regard to the adjustments provided in paragraph (1)
+                     of  section 1367(a) for the taxable year.
+I.R.C. § 1368(e) Definitions And Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1368(e)(1) Accumulated Adjustments Account
+
+
+I.R.C. § 1368(e)(1)(A) In General — 
+                     
+                     
+Except  as otherwise provided in this paragraph, the term “accumulated adjustments
+                        account” means an account of the S corporation which is adjusted for the S  period
+                        in a manner similar to the adjustments under section 1367 (except
+                        that no adjustment shall be made for income (and related expenses)
+                        which  is exempt from tax under this title and the phrase “(but not below zero)” 
+                        shall be disregarded in section 1367(a)(2)) and no adjustment shall be  made for Federal taxes attributable to any taxable year
+                        in which the  corporation was a C corporation. 
+
+
+I.R.C. § 1368(e)(1)(B) Amount Of Adjustment In The Case Of Redemptions — 
+                     
+                     
+In  the case of any redemption which is treated as an exchange under section  302(a) or 303(a), the adjustment in the accumulated adjustments account  shall be an amount which
+                        bears the same ratio to the balance in such  account as the number of shares redeemed
+                        in such redemption bears to the  number of shares of stock in the corporation immediately
+                        before such  redemption. 
+
+
+I.R.C. § 1368(e)(1)(C) Net Loss For Year Disregarded
+
+
+I.R.C. § 1368(e)(1)(C)(i) In General — 
+                        
+                        
+In  applying this section to distributions made during any taxable year, the  amount
+                           in the accumulated adjustments account as of the close of such  taxable year shall
+                           be determined without regard to any net negative  adjustment for such taxable year. 
+
+
+I.R.C. § 1368(e)(1)(C)(ii) Net Negative Adjustment — 
+                        
+                        
+For  purposes of clause (i), the term “net negative adjustment” means, with  respect
+                           to any taxable year, the excess
+                           (if any) of— 
+
+I.R.C. § 1368(e)(1)(C)(ii)(I)  — 
+                           
+                           
+the  reductions in the account for the taxable year (other than for  distributions),
+                              over 
+
+
+I.R.C. § 1368(e)(1)(C)(ii)(II)  — 
+                           
+                           
+the  increases in such account for such taxable  year. 
+
+
+
+
+
+I.R.C. § 1368(e)(2) S Period — 
+                  
+                  
+The  term “S period” means the most recent continuous period during which the  corporation
+                     has been an S corporation. Such period shall not include any  taxable year beginning
+                     before January 1, 1983. 
+
+
+I.R.C. § 1368(e)(3) Election To Distribute Earnings First
+
+
+I.R.C. § 1368(e)(3)(A) In General — 
+                     
+                     
+An  S corporation may, with the consent of all of its affected shareholders,  elect
+                        to have paragraph (1) of subsection
+                        (c) not apply to all  distributions made during the taxable year for which the election
+                        is made. 
+
+
+I.R.C. § 1368(e)(3)(B) Affected Shareholder — 
+                     
+                     
+For  purposes of subparagraph (A), the term “affected shareholder” means any  shareholder
+                        to whom a distribution is made by the S corporation during the  taxable year.
+I.R.C. § 1368(f) Restricted Bank Director Stock — 
+               
+               
+If  a director receives a distribution  (not in part or full payment in  exchange
+                  for stock) from an S corporation with respect to any  restricted bank director stock
+                  (as defined in section 1361(f)), the  amount of such distribution— 
+
+I.R.C. § 1368(f)(1)  — 
+                  
+                  
+shall be includible in gross income of the director, and 
+
+
+I.R.C. § 1368(f)(2)  — 
+                  
+                  
+shall be deductible by the corporation for the taxable year of such corporation in
+                     which or with which ends the taxable year in which such       amount is included in
+                     the gross income of the director.

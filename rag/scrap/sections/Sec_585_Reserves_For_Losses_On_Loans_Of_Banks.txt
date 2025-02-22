@@ -1,0 +1,341 @@
+Sec. 585. Reserves For Losses On Loans Of Banks
+
+I.R.C. § 585(a) Reserve For Bad Debts
+
+
+I.R.C. § 585(a)(1) In General — 
+                  
+                  
+Except  as provided in subsection (c), a bank shall be allowed a deduction for a 
+                     reasonable addition to a reserve for bad debts. Such deduction shall be in  lieu of
+                     any deduction under section 166(a). 
+
+
+I.R.C. § 585(a)(2) Bank — 
+                  
+                  
+For  purposes of this section— 
+
+I.R.C. § 585(a)(2)(A) In General — 
+                     
+                     
+The  term “bank” means any bank (as defined in section 581). 
+
+
+I.R.C. § 585(a)(2)(B) Banking Business Of United States Branch Of Foreign Corporation — 
+                     
+                     
+The  term “bank” also includes any corporation to which subparagraph (A) would  apply
+                        except for the fact that it is a foreign corporation. In the case of  any such foreign
+                        corporation, this section shall apply only with respect  to loans outstanding the
+                        interest on which is effectively connected with  the conduct of a banking business
+                        within the United States.
+I.R.C. § 585(b) Addition To Reserves For Bad Debts
+
+
+I.R.C. § 585(b)(1) General Rule — 
+                  
+                  
+For  purposes of subsection (a), the reasonable addition to the reserve for bad  debts
+                     of any financial institution to which this section applies shall be  an amount determined
+                     by the taxpayer which shall not exceed the addition  to the reserve for losses on
+                     loans determined under the experience method  as provided in paragraph
+                     (2). 
+
+
+I.R.C. § 585(b)(2) Experience Method — 
+                  
+                  
+The  amount determined under this paragraph for a taxable year shall be the  amount
+                     necessary to increase the balance of the reserve for losses on  loans (at the close
+                     of the taxable year) to the greater of— 
+
+I.R.C. § 585(b)(2)(A)  — 
+                     
+                     
+the  amount which bears the same ratio to loans outstanding at the close of the  taxable
+                        year as (i) the total bad debts sustained during the taxable year  and the 5 preceding
+                        taxable years (or, with the approval of the Secretary,  a shorter period), adjusted
+                        for recoveries of bad debts during such  period, bears to (ii) the sum of the loans
+                        outstanding at the close of  such 6 or fewer taxable years, or 
+
+
+I.R.C. § 585(b)(2)(B)  — 
+                     
+                     
+the  lower of— 
+
+I.R.C. § 585(b)(2)(B)(i)  — 
+                        
+                        
+the  balance of the reserve at the close of the base year, or 
+
+
+I.R.C. § 585(b)(2)(B)(ii)  — 
+                        
+                        
+if  the amount of loans outstanding at the close of the taxable year is less  than
+                           the amount of loans outstanding at the close of the base year, the  amount which bears
+                           the same ratio to loans outstanding at the close of the  taxable year as the balance
+                           of the reserve at the close of the base year  bears to the amount of loans outstanding
+                           at the close of the base year. 
+
+
+For purposes of this paragraph, the base year shall be  the last taxable year before
+                           the most recent adoption of the experience
+                           method, except that for taxable years beginning after 1987 the base year  shall be
+                           the last taxable year beginning before 1988.
+
+
+
+
+I.R.C. § 585(b)(3) Regulations; Definition Of Loan — 
+                  
+                  
+The  Secretary shall define the term loan and prescribe such regulations as may  be
+                     necessary to carry out the purposes of this section.
+I.R.C. § 585(c) Section Not To Apply To Large Banks
+
+
+I.R.C. § 585(c)(1) In General — 
+                  
+                  
+In  the case of a large bank, this section shall not apply (and no deduction  shall
+                     be allowed under any other provision of this subtitle for any  addition to a reserve
+                     for bad debts). 
+
+
+I.R.C. § 585(c)(2) Large Banks — 
+                  
+                  
+For  purposes of this subsection, a bank is a large bank if, for the taxable  year
+                     (or for any preceding taxable year beginning after December 31,  1986)— 
+
+I.R.C. § 585(c)(2)(A)  — 
+                     
+                     
+the  average adjusted bases of all assets of such bank exceeded $500,000,000,  or 
+
+
+I.R.C. § 585(c)(2)(B)  — 
+                     
+                     
+such  bank was a member of a parent-subsidiary controlled group and the average  adjusted
+                        bases of all assets of such group exceeded $500,000,000. 
+
+
+
+I.R.C. § 585(c)(3) 4-Year Spread Of Adjustments
+
+
+I.R.C. § 585(c)(3)(A) In General — 
+                     
+                     
+Except  as provided in paragraph (4), in the case of any bank which for its last 
+                        taxable year before the disqualification year maintained a reserve for bad  debts— 
+
+I.R.C. § 585(c)(3)(A)(i)  — 
+                        
+                        
+the  provisions of this subsection shall be treated as a change in the method  of
+                           accounting of such bank for the disqualification year, 
+
+
+I.R.C. § 585(c)(3)(A)(ii)  — 
+                        
+                        
+such  change shall be treated as having been made with the consent of the  Secretary,
+                           and 
+
+
+I.R.C. § 585(c)(3)(A)(iii)  — 
+                        
+                        
+the  net amount of adjustments required by section 481(a) to be taken into  account by the taxpayer shall be taken into account in each of
+                           the 4  taxable years beginning with the disqualification year with— 
+
+I.R.C. § 585(c)(3)(A)(iii)(I)  — 
+                           
+                           
+the  amount taken into account for the 1st of such taxable years being the  greater
+                              of 10 percent of such net amount or such higher percentage of such  net amount as
+                              the taxpayer may elect, and 
+
+
+I.R.C. § 585(c)(3)(A)(iii)(II)  — 
+                           
+                           
+the  amount taken into account in each of the 3 succeeding taxable years being  equal
+                              to the applicable fraction
+                              (determined in accordance with the  following table for the taxable year involved)
+                              of the portion of such net  amount not taken into account under subclause (I).  
+
+ 
+
+                                                The applicable
+    If the case of the--                          fraction is—
+
+     1st succeeding year.............................  2/9
+     2nd succeeding year.............................  1/3
+     3rd succeeding year.............................  4/9
+
+
+
+
+
+
+I.R.C. § 585(c)(3)(B) Suspension Of Recapture For Taxable Year For Which Bank Is Financially Troubled
+
+
+I.R.C. § 585(c)(3)(B)(i) In General — 
+                        
+                        
+In  the case of a bank which is a financially troubled bank for any taxable  year— 
+
+I.R.C. § 585(c)(3)(B)(i)(I)  — 
+                           
+                           
+no  adjustment shall be taken into account under subparagraph (A) for such  taxable
+                              year, and 
+
+
+I.R.C. § 585(c)(3)(B)(i)(II)  — 
+                           
+                           
+such  taxable year shall be disregarded in determining whether any other taxable 
+                              year is a taxable year for which an adjustment is required to be taken  into account
+                              under subparagraph
+                              (A) or the amount of such adjustment. 
+
+
+
+I.R.C. § 585(c)(3)(B)(ii) Exception For Elective Recapture For 1st Year — 
+                        
+                        
+Clause  (i) shall not apply to the 1st taxable year referred to in subparagraph  (A)(iii)(I)
+                           if the taxpayer elects a higher percentage in accordance with  such subparagraph. 
+
+
+I.R.C. § 585(c)(3)(B)(iii) Financially Troubled Bank — 
+                        
+                        
+For  purposes of clause (i), the term “financially troubled bank” means any  bank
+                           if, for the taxable year, the nonperforming loan percentage of such  bank exceeds
+                           75 percent. 
+
+
+I.R.C. § 585(c)(3)(B)(iv) Nonperforming Loan Percentage — 
+                        
+                        
+For  purposes of clause (iii), the term “nonperforming loan percentage” means  the
+                           percentage determined by dividing— 
+
+I.R.C. § 585(c)(3)(B)(iv)(I)  — 
+                           
+                           
+the  sum of the outstanding balances of nonperforming loans of the bank as of  the
+                              close of each quarter of the taxable year, by 
+
+
+I.R.C. § 585(c)(3)(B)(iv)(II)  — 
+                           
+                           
+the  sum of the amounts of equity of the bank as of the close of each such  quarter. 
+
+
+In the case of a bank which is a member of a  parent-subsidiary controlled group for
+                              the taxable year, the preceding  sentence shall be applied with respect to such group.
+
+
+
+I.R.C. § 585(c)(3)(B)(v) Other Definitions — 
+                        
+                        
+For  purposes of this subparagraph— 
+
+I.R.C. § 585(c)(3)(B)(v)(I) Nonperforming Loans — 
+                           
+                           
+The  term “nonperforming loan” means any loan which is considered to be  nonperforming
+                              by the primary Federal regulatory agency with respect to the  bank. 
+
+
+I.R.C. § 585(c)(3)(B)(v)(II) Equity — 
+                           
+                           
+The  term “equity” means the equity of the bank as determined for Federal  regulatory
+                              purposes. 
+
+
+
+
+I.R.C. § 585(c)(3)(C) Coordination With Estimated Tax Payments — 
+                     
+                     
+For  purposes of applying section 6655(e)(2)(A)(i) with respect to any  installment, the determination under subparagraph
+                        (B) of whether an  adjustment is required to be taken into account under subparagraph
+                        (A)  shall be made as of the last day prescribed for payment of such  installment. 
+
+
+
+I.R.C. § 585(c)(4) Elective Cut-Off Method — 
+                  
+                  
+If  a bank makes an election under this paragraph for the disqualification  year— 
+
+I.R.C. § 585(c)(4)(A)  — 
+                     
+                     
+the  provisions of this subsection shall not be treated as a change in the  method
+                        of accounting of the taxpayer for purposes of section 481, 
+
+
+I.R.C. § 585(c)(4)(B)  — 
+                     
+                     
+the  taxpayer shall continue to maintain its reserve for loans held by the bank  as
+                        of the 1st day of the disqualification year and charge against such  reserve any losses
+                        resulting from loans held by the bank as of such 1st  day, and 
+
+
+I.R.C. § 585(c)(4)(C)  — 
+                     
+                     
+no  deduction shall be allowed under this section (or any other provision of  this
+                        subtitle) for any addition to such reserve for the disqualification  year or any subsequent
+                        taxable year. 
+
+
+If the amount of the reserve referred to in subparagraph
+                        (B) as of the close of any taxable year exceeds the outstanding balance
+                        (as of such time) of the loans referred to in subparagraph (B), such
+                        excess shall be included in gross income for such taxable year.
+
+
+
+I.R.C. § 585(c)(5) Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 585(c)(5)(A) Parent-Subsidiary Controlled Group — 
+                     
+                     
+The  term “parent-subsidiary controlled group” means any controlled group of  corporations
+                        described in section 1563(a)(1). In determining the average  adjusted bases of assets held by such a group, interests
+                        held by one  member of such group in another member of such group shall be disregarded. 
+
+
+I.R.C. § 585(c)(5)(B) Disqualification Year — 
+                     
+                     
+The  term “disqualification year” means, with respect to any bank, the 1st  taxable
+                        year beginning after December 31, 1986, for which such bank was a  large bank if such
+                        bank maintained a reserve for bad debts for the  preceding taxable year. 
+
+
+I.R.C. § 585(c)(5)(C) Election Made By Each Member — 
+                     
+                     
+In  the case of a parent-subsidiary controlled group, any election under this  section
+                        shall be made separately by each member of such group.

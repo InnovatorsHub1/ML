@@ -1,0 +1,196 @@
+Sec. 280H. Limitation On Certain Amounts Paid To Employee-Owners By Personal Service Corporations Electing Alternative Taxable Years
+
+I.R.C. § 280H(a) General Rule — 
+               
+               
+If— 
+
+I.R.C. § 280H(a)(1)  — 
+                  
+                  
+an  election by a personal service corporation under section 444 is in effect  for a taxable year, and 
+
+
+I.R.C. § 280H(a)(2)  — 
+                  
+                  
+such  corporation does not meet the minimum distribution requirements of  subsection
+                     (c) for such taxable year, 
+
+
+then the deduction otherwise allowed
+                     under this chapter for applicable amounts paid or incurred by such
+                     corporation to employee-owners shall not exceed the maximum deductible
+                     amount. The preceding sentence shall not apply for purposes of subchapter
+                     G (relating to personal holding companies).
+I.R.C. § 280H(b) Carryover Of Nondeductible Amounts — 
+               
+               
+If  any amount is not allowed as a deduction for a taxable year under  subsection
+                  (a), such amount shall be treated as paid or incurred in the  succeeding taxable year.
+I.R.C. § 280H(c) Minimum Distribution Requirement — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 280H(c)(1) In General — 
+                  
+                  
+A  personal service corporation meets the minimum distribution requirements  of this
+                     subsection if the applicable amounts paid or incurred during the  deferral period
+                     of the taxable year (determined without regard to  subsection (b)) equal or exceed
+                     the lesser of— 
+
+I.R.C. § 280H(c)(1)(A)  — 
+                     
+                     
+the  product of— 
+
+I.R.C. § 280H(c)(1)(A)(i)  — 
+                        
+                        
+the  applicable amounts paid during the preceding taxable year, divided by the  number
+                           of months in such taxable year, multiplied by 
+
+
+I.R.C. § 280H(c)(1)(A)(ii)  — 
+                        
+                        
+the  number of months in the deferral period of the preceding taxable year, or 
+
+
+
+I.R.C. § 280H(c)(1)(B)  — 
+                     
+                     
+the  applicable percentage of the adjusted taxable income for the deferral  period
+                        of the taxable year. 
+
+
+
+I.R.C. § 280H(c)(2) Applicable Percentage — 
+                  
+                  
+The  term “applicable percentage” means the percentage
+                     (not in excess of 95  percent) determined by dividing— 
+
+I.R.C. § 280H(c)(2)(A)  — 
+                     
+                     
+the  applicable amounts paid or incurred during the 3 taxable years immediately  preceding
+                        the taxable year, by 
+
+
+I.R.C. § 280H(c)(2)(B)  — 
+                     
+                     
+the  adjusted taxable income of such corporation for such 3 taxable years.
+I.R.C. § 280H(d) Maximum Deductible Amount — 
+               
+               
+For  purposes of this section, the term “maximum deductible amount” means the  sum
+                  of— 
+
+I.R.C. § 280H(d)(1)  — 
+                  
+                  
+the  applicable amounts paid during the deferral period, plus 
+
+
+I.R.C. § 280H(d)(2)  — 
+                  
+                  
+an  amount equal to the product of— 
+
+I.R.C. § 280H(d)(2)(A)  — 
+                     
+                     
+the  amount determined under paragraph
+                        (1), divided by the number of months in  the deferral period, multiplied by 
+
+
+I.R.C. § 280H(d)(2)(B)  — 
+                     
+                     
+the  number of months in the nondeferral period.
+I.R.C. § 280H(e) Disallowance Of Net Operating Loss Carrybacks — 
+               
+               
+No  net operating loss carryback shall be allowed to
+                  (or from) any taxable  year of a personal service corporation to which an election
+                  under section  444 applies.
+I.R.C. § 280H(f) Other Definitions And Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 280H(f)(1) Applicable Amount — 
+                  
+                  
+The  term “applicable amount” means any amount paid to an employee-owner which  is
+                     includible in the gross income of such employee, other than-- 
+
+I.R.C. § 280H(f)(1)(A)  — 
+                     
+                     
+any  gain from the sale or exchange of property between the owner-employee and  the
+                        corporation, or 
+
+
+I.R.C. § 280H(f)(1)(B)  — 
+                     
+                     
+any  dividend paid by the corporation. 
+
+
+
+I.R.C. § 280H(f)(2) Employee-Owner — 
+                  
+                  
+The  term “employee-owner” has the meaning given such term by section  269A(b)(2) (as modified by section 441(i)(2)). 
+
+
+I.R.C. § 280H(f)(3) Nondeferral And Deferral Periods
+
+
+I.R.C. § 280H(f)(3)(A) Deferral Period — 
+                     
+                     
+The  term “deferral period” has the meaning given to such term by section  444(b)(4). 
+
+
+I.R.C. § 280H(f)(3)(B) Nondeferral Period — 
+                     
+                     
+The  term “nondeferral period” means the portion of the taxable year of the  personal
+                        service corporation which occurs after the portion of such year  constituting the
+                        deferral period. 
+
+
+
+I.R.C. § 280H(f)(4) Adjusted Taxable Income — 
+                  
+                  
+The  term “adjusted taxable income” means taxable income determined without  regard
+                     to— 
+
+I.R.C. § 280H(f)(4)(A)  — 
+                     
+                     
+any  amount paid to an employee-owner which is includible in the gross income  of
+                        such employee-owner, and 
+
+
+I.R.C. § 280H(f)(4)(B)  — 
+                     
+                     
+any  net operating loss carryover to the extent such carryover is attributable  to
+                        amounts described in subparagraph (A). 
+
+
+
+I.R.C. § 280H(f)(5) Personal Service Corporation — 
+                  
+                  
+The  term “personal service corporation” has the meaning given to such term by  section
+                     441(i)(2).

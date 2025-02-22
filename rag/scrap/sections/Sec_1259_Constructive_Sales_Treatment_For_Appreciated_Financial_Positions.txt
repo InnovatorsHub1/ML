@@ -1,0 +1,343 @@
+Sec. 1259. Constructive Sales Treatment For Appreciated Financial Positions
+
+I.R.C. § 1259(a) In General — 
+               
+               
+If  there is a constructive sale of an appreciated financial position— 
+
+I.R.C. § 1259(a)(1)  — 
+                  
+                  
+the  taxpayer shall recognize gain as if such position were sold, assigned, or  otherwise
+                     terminated at its fair market value on the date of such  constructive sale (and any
+                     gain shall be taken into account for the  taxable year which includes such date),
+                     and 
+
+
+I.R.C. § 1259(a)(2)  — 
+                  
+                  
+for  purposes of applying this title for periods after the constructive sale— 
+
+I.R.C. § 1259(a)(2)(A)  — 
+                     
+                     
+proper adjustment shall be made in the amount of any gain or loss  subsequently realized
+                        with respect to such position for any gain taken  into account by reason of paragraph
+                        (1), and 
+
+
+I.R.C. § 1259(a)(2)(B)  — 
+                     
+                     
+the  holding period of such position shall be determined as if such position  were
+                        originally acquired on the date of such constructive  sale.
+I.R.C. § 1259(b) Appreciated Financial Position — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1259(b)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), the term “appreciated financial position”  means
+                     any position with respect to any stock, debt instrument, or  partnership interest
+                     if there would be gain were such position sold,  assigned, or otherwise terminated
+                     at its fair market value. 
+
+
+I.R.C. § 1259(b)(2) Exceptions — 
+                  
+                  
+The  term “appreciated financial position”
+                     shall not include— 
+
+I.R.C. § 1259(b)(2)(A)  — 
+                     
+                     
+any  position with respect to debt if— 
+
+I.R.C. § 1259(b)(2)(A)(i)  — 
+                        
+                        
+the  position unconditionally entitles the holder to receive a specified  principal
+                           amount, 
+
+
+I.R.C. § 1259(b)(2)(A)(ii)  — 
+                        
+                        
+the interest payments (or other similar amounts) with respect to such  position meet
+                           the requirements of clause
+                           (i) of section 860G(a)(1)(B),
+                           and 
+
+
+I.R.C. § 1259(b)(2)(A)(iii)  — 
+                        
+                        
+such position is not convertible
+                           (directly or indirectly) into stock of  the issuer or any related person, 
+
+
+
+I.R.C. § 1259(b)(2)(B)  — 
+                     
+                     
+any hedge with respect to a position described in  subparagraph (A), and 
+
+
+I.R.C. § 1259(b)(2)(C)  — 
+                     
+                     
+any  position which is marked to market under any provision of this title or  the
+                        regulations thereunder. 
+
+
+
+I.R.C. § 1259(b)(3) Position — 
+                  
+                  
+The  term “position” means an interest, including a futures or forward  contract,
+                     short sale, or option.
+I.R.C. § 1259(c) Constructive Sale — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1259(c)(1) In General — 
+                  
+                  
+A  taxpayer shall be treated as having made a constructive sale of an  appreciated
+                     financial position if the taxpayer (or a related person)— 
+
+I.R.C. § 1259(c)(1)(A)  — 
+                     
+                     
+enters into a short sale of the same or substantially identical  property, 
+
+
+I.R.C. § 1259(c)(1)(B)  — 
+                     
+                     
+enters into an offsetting notional principal contract with respect to the  same or
+                        substantially identical property, 
+
+
+I.R.C. § 1259(c)(1)(C)  — 
+                     
+                     
+enters into a futures or forward contract to deliver the same or  substantially identical
+                        property, 
+
+
+I.R.C. § 1259(c)(1)(D)  — 
+                     
+                     
+in  the case of an appreciated financial position that is a short sale or a  contract
+                        described in subparagraph
+                        (B) or (C) with respect to any  property, acquires the same or substantially identical
+                        property,  or 
+
+
+I.R.C. § 1259(c)(1)(E)  — 
+                     
+                     
+to  the extent prescribed by the Secretary in regulations, enters into 1 or  more
+                        other transactions (or acquires 1 or more positions) that have  substantially the
+                        same effect as a transaction described in any of the  preceding subparagraphs. 
+
+
+
+I.R.C. § 1259(c)(2) Exception For Sales Of Nonpublicly Traded Property — 
+                  
+                  
+A  taxpayer shall not be treated as having made a constructive sale solely  because
+                     the taxpayer enters into a contract  for sale of any stock, debt  instrument, or partnership
+                     interest which is not a marketable security (as  defined in section 453(f)) if the contract settles within 1 year after the  date such contract is entered into. 
+
+
+I.R.C. § 1259(c)(3) Exception For Certain Closed Transactions
+
+
+I.R.C. § 1259(c)(3)(A) In General — 
+                     
+                     
+In  applying this section, there shall be disregarded any transaction (which  would
+                        otherwise  cause a constructive sale
+                        ) during the taxable year if— 
+
+I.R.C. § 1259(c)(3)(A)(i)  — 
+                        
+                        
+such  transaction is closed  on or before  the 30th day after the close of such  taxable
+                           year, 
+
+
+I.R.C. § 1259(c)(3)(A)(ii)  — 
+                        
+                        
+the taxpayer holds the appreciated financial position throughout the  60-day period
+                           beginning on the date such transaction is closed,  and 
+
+
+I.R.C. § 1259(c)(3)(A)(iii)  — 
+                        
+                        
+at no time during such 60-day period is the taxpayer's risk of loss with  respect
+                           to such position reduced by reason of a circumstance which would  be described in
+                           section 246(c)(4) if references to stock included  references to such position. 
+
+
+
+I.R.C. § 1259(c)(3)(B) Treatment Of  Certain Closed Transactions Where Risk Of Loss On Appreciated Financial
+                        Position Diminished — 
+                     
+                     
+If— 
+
+I.R.C. § 1259(c)(3)(B)(i)  — 
+                        
+                        
+a  transaction, which would otherwise
+                           cause a constructive sale  of an  appreciated financial position, is closed during
+                           the taxable year or  during the 30 days thereafter, and 
+
+
+I.R.C. § 1259(c)(3)(B)(ii)  — 
+                        
+                        
+another transaction is entered into during the 60-day period beginning on  the date
+                           the transaction referred to in clause (i) is closed— 
+
+I.R.C. § 1259(c)(3)(B)(ii)(I)  — 
+                           
+                           
+which would (but for this subparagraph)
+                              cause the requirement of  subparagraph (A)(iii) not to be met with respect to the
+                              transaction  described in clause (i) of this subparagraph, 
+
+
+I.R.C. § 1259(c)(3)(B)(ii)(II)  — 
+                           
+                           
+which is closed  on or  before the 30th day after the close of the taxable  year in
+                              which the transaction referred to in clause (i) occurs,  and 
+
+
+I.R.C. § 1259(c)(3)(B)(ii)(III)  — 
+                           
+                           
+which meets the requirements of clauses (ii) and (iii) of subparagraph  (A), 
+
+
+the transaction referred to in clause
+                              (ii) shall be disregarded for purposes of determining whether the
+                              requirements of subparagraph (A)(iii) are met with respect to the
+                              transaction described in clause  (i).
+
+
+
+
+
+I.R.C. § 1259(c)(4) Related Person — 
+                  
+                  
+A  person is related to another person with respect to a transaction if— 
+
+I.R.C. § 1259(c)(4)(A)  — 
+                     
+                     
+the  relationship is described in section 267(b) or 707(b), and 
+
+
+I.R.C. § 1259(c)(4)(B)  — 
+                     
+                     
+such  transaction is entered into with a view toward avoiding the purposes of  this
+                        section.
+I.R.C. § 1259(d) Other Definitions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1259(d)(1) Forward Contract — 
+                  
+                  
+The  term “forward contract” means a contract to deliver a substantially fixed  amount
+                     of property (including cash)
+                     for a substantially fixed  price. 
+
+
+I.R.C. § 1259(d)(2) Offsetting Notional Principal Contract — 
+                  
+                  
+The  term “offsetting notional principal contract”
+                     means, with respect to any  property, an agreement which includes— 
+
+I.R.C. § 1259(d)(2)(A)  — 
+                     
+                     
+a  requirement to pay (or provide credit for) all or substantially all of the  investment
+                        yield (including appreciation) on such property for a specified  period, and 
+
+
+I.R.C. § 1259(d)(2)(B)  — 
+                     
+                     
+a  right to be reimbursed for (or receive credit for) all or substantially  all of
+                        any decline in the value of such  property.
+I.R.C. § 1259(e) Special Rules
+
+
+I.R.C. § 1259(e)(1) Treatment Of Subsequent Sale Of Position Which Was Deemed Sold — 
+                  
+                  
+If— 
+
+I.R.C. § 1259(e)(1)(A)  — 
+                     
+                     
+there is a constructive sale of any appreciated financial  position, 
+
+
+I.R.C. § 1259(e)(1)(B)  — 
+                     
+                     
+such  position is subsequently disposed of, and 
+
+
+I.R.C. § 1259(e)(1)(C)  — 
+                     
+                     
+at  the time of such disposition, the transaction resulting in the  constructive sale
+                        of such position is open with respect to the taxpayer or  any related person, 
+
+
+solely for purposes of determining whether the taxpayer
+                        has entered into a constructive sale of any other appreciated financial
+                        position held by the taxpayer, the taxpayer shall be treated as entering
+                        into such transaction immediately after such disposition. For purposes of  the preceding
+                        sentence, an assignment or other termination shall be  treated as a disposition.
+
+
+
+I.R.C. § 1259(e)(2) Certain Trust Instruments Treated As Stock — 
+                  
+                  
+For  purposes of this section, an interest in a trust which is actively traded  (within
+                     the meaning of section 1092(d)(1)) shall be treated as stock  unless substantially all (by value) of the property held
+                     by the trust is  debt described in subsection (b)(2)(A). 
+
+
+I.R.C. § 1259(e)(3) Multiple Positions In Property — 
+                  
+                  
+If  a taxpayer holds multiple positions in property, the determination of  whether
+                     a specific transaction is a constructive sale and, if so, which  appreciated financial
+                     position is deemed sold shall be made in the same  manner as actual sales.
+I.R.C. § 1259(f) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary or  appropriate
+                  to carry out the purposes of this section.

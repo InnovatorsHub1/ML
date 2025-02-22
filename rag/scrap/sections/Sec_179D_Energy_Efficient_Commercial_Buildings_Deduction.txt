@@ -1,0 +1,594 @@
+Sec. 179D. Energy Efficient Commercial Buildings Deduction
+
+I.R.C. § 179D(a) In General — 
+               
+               
+There shall be allowed as a deduction an amount equal to the cost of energy efficient
+                  commercial building property placed in service during the taxable year.
+I.R.C. § 179D(b) Maximum Amount Of Deduction
+
+
+I.R.C. § 179D(b)(1) In General — 
+                  
+                  
+The deduction under subsection (a) with respect to any building for any taxable year
+                     shall not exceed the excess (if any) of— 
+
+I.R.C. § 179D(b)(1)(A)  — 
+                     
+                     
+the product of— 
+
+I.R.C. § 179D(b)(1)(A)(i)  — 
+                        
+                        
+the applicable dollar value, and 
+
+
+I.R.C. § 179D(b)(1)(A)(ii)  — 
+                        
+                        
+the square footage of the building, over 
+
+
+
+I.R.C. § 179D(b)(1)(B)  — 
+                     
+                     
+the aggregate amount of the deductions under subsections (a) and (f) with respect
+                        to the building for the 3 taxable years immediately preceding such taxable year (or,
+                        in the case of any such deduction allowable to a person other than the taxpayer, for
+                        any taxable year ending during the 4-taxable-year period ending with such taxable
+                        year). 
+
+
+
+I.R.C. § 179D(b)(2) Applicable Dollar Value — 
+                  
+                  
+For purposes of paragraph (1)(A)(i), the applicable dollar value shall be an amount
+                     equal to $0.50 increased (but not above $1.00) by $0.02 for each percentage point
+                     by which the total annual energy and power costs for the building are certified to
+                     be reduced by a percentage greater than 25 percent. 
+
+
+I.R.C. § 179D(b)(3) Increased Deduction Amount For Certain Property
+
+
+I.R.C. § 179D(b)(3)(A) In General — 
+                     
+                     
+In the case of any property which satisfies the requirements of subparagraph (B),
+                        paragraph (2) shall be applied by substituting ‘$2.50’ for ‘$0.50’, ‘$.10’ for ‘$.02’,
+                        and ‘$5.00’ for ‘$1.00’. 
+
+
+I.R.C. § 179D(b)(3)(B) Property Requirements — 
+                     
+                     
+In the case of any energy efficient commercial building property, energy efficient
+                        building retrofit property, or property installed pursuant to a qualified retrofit
+                        plan, such property shall meet the requirements of this subparagraph if — 
+
+I.R.C. § 179D(b)(3)(B)(i)  — 
+                        
+                        
+installation of such property begins prior to the date that is 60 days after the Secretary
+                           publishes guidance with respect to the requirements of paragraphs (4)(A) and (5),
+                           or 
+
+
+I.R.C. § 179D(b)(3)(B)(ii)  — 
+                        
+                        
+installation of such property satisfies the requirements of paragraphs (4)(A) and
+                           (5). 
+
+
+
+
+I.R.C. § 179D(b)(4) Prevailing Wage Requirements
+
+
+I.R.C. § 179D(b)(4)(A) In General — 
+                     
+                     
+The requirements described in this subparagraph with respect to any property are that
+                        the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer
+                        or any contractor or subcontractor in the installation of any property shall be paid
+                        wages at rates not less than the prevailing rates for construction, alteration, or
+                        repair of a similar character in the locality in which such property is located as
+                        most recently determined by the Secretary of Labor, in accordance with subchapter
+                        IV of chapter 31 of title 40, United States Code. 
+
+
+I.R.C. § 179D(b)(4)(B) Correction And Penalty Related To Failure To Satisfy Wage Requirements — 
+                     
+                     
+Rules similar to the rules of section 45(b)(7)(B) shall apply. 
+
+
+
+I.R.C. § 179D(b)(5) Apprenticeship Requirements — 
+                  
+                  
+Rules similar to the rules of section 45(b)(8) shall apply. 
+
+
+I.R.C. § 179D(b)(6) Regulations — 
+                  
+                  
+The Secretary shall issue such regulations or other guidance as the Secretary determines
+                     necessary to carry out the purposes of this subsection, including regulations or other
+                     guidance which provides for requirements for recordkeeping or information reporting
+                     for purposes of administering the requirements of this subsection.
+I.R.C. § 179D(c) Definitions — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 179D(c)(1) Energy Efficient Commercial Building Property — 
+                  
+                  
+The term “energy efficient commercial building property” means property— 
+
+I.R.C. § 179D(c)(1)(A)  — 
+                     
+                     
+with respect to which depreciation (or amortization in lieu of depreciation) is allowable, 
+
+
+I.R.C. § 179D(c)(1)(B)  — 
+                     
+                     
+which is installed on or in any building which is-- 
+
+I.R.C. § 179D(c)(1)(B)(i)  — 
+                        
+                        
+located in the United States, and 
+
+
+I.R.C. § 179D(c)(1)(B)(ii)  — 
+                        
+                        
+within the scope of Reference Standard 90.1, 
+
+
+
+I.R.C. § 179D(c)(1)(C)  — 
+                     
+                     
+which is installed as part of-- 
+
+I.R.C. § 179D(c)(1)(C)(i)  — 
+                        
+                        
+the interior lighting systems, 
+
+
+I.R.C. § 179D(c)(1)(C)(ii)  — 
+                        
+                        
+the heating, cooling, ventilation, and hot water systems, or 
+
+
+I.R.C. § 179D(c)(1)(C)(iii)  — 
+                        
+                        
+the building envelope, and 
+
+
+
+I.R.C. § 179D(c)(1)(D)  — 
+                     
+                     
+which is certified in accordance with subsection (d)(5) as being installed as part of a plan designed to reduce the total annual energy and
+                        power costs with respect to the interior lighting systems, heating, cooling, ventilation,
+                        and hot water systems of the building by 25 percent or more in comparison to a reference
+                        building which meets the minimum requirements of Reference Standard 90.1 using methods
+                        of calculation under subsection (d)(1). 
+
+
+
+I.R.C. § 179D(c)(2) Reference Standard 90.1 — 
+                  
+                  
+The term “Reference Standard 90.1” means, with respect to any property, the more recent
+                     of— 
+
+I.R.C. § 179D(c)(2)(A)  — 
+                     
+                     
+Standard 90.1-2007 published by the American Society of Heating, Refrigerating, and
+                        Air Conditioning Engineers and the Illuminating Engineering Society of North America,
+                        or 
+
+
+I.R.C. § 179D(c)(2)(B)  — 
+                     
+                     
+the most recent Standard 90.1 published by the American Society of Heating, Refrigerating,
+                        and Air Conditioning Engineers and the Illuminating Engineering Society of North America
+                        for which the Department of Energy has issued a final determination and which has
+                        been affirmed by the Secretary, after consultation with the Secretary of Energy, for
+                        purposes of this section not later than the date that is 4 years before the date such
+                        property is placed in service.
+I.R.C. § 179D(d) Special Rules
+
+
+I.R.C. § 179D(d)(1) Methods Of Calculation — 
+                  
+                  
+The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations
+                     which describe in detail methods for calculating and verifying energy and power consumption
+                     and cost, with respect to any property, based on the provisions of the most recent
+                     California Nonresidential Alternative Calculation Method Approval Manual which has
+                     been affirmed by the Secretary, after consultation with the Secretary of Energy, for
+                     purposes of this section not later than the date that is 4 years before the date that
+                     such property is placed in service. 
+
+
+I.R.C. § 179D(d)(2) Computer Software
+
+
+I.R.C. § 179D(d)(2)(A) In General — 
+                     
+                     
+Any calculation under paragraph (1) shall be prepared by qualified computer software. 
+
+
+I.R.C. § 179D(d)(2)(B) Qualified Computer Software — 
+                     
+                     
+For purposes of this paragraph, the term “qualified computer software” means software— 
+
+I.R.C. § 179D(d)(2)(B)(i)  — 
+                        
+                        
+for which the software designer has certified that the software meets all procedures
+                           and detailed methods for calculating energy and power consumption and costs as required
+                           by the Secretary, 
+
+
+I.R.C. § 179D(d)(2)(B)(ii)  — 
+                        
+                        
+which provides such forms as required to be filed by the Secretary in connection with
+                           energy efficiency of property and the deduction allowed under this section, and 
+
+
+I.R.C. § 179D(d)(2)(B)(iii)  — 
+                        
+                        
+which provides a notice form which documents the energy efficiency features of the
+                           building and its projected annual energy costs. 
+
+
+
+
+I.R.C. § 179D(d)(3) Allocation Of Deduction By Certain Tax-Exempt Entities
+
+
+I.R.C. § 179D(d)(3)(A) In General — 
+                     
+                     
+In the case of energy efficient commercial building property installed on or in property
+                        owned by a specified tax-exempt entity, the Secretary shall promulgate regulations
+                        or guidance to allow the allocation of the deduction to the person primarily responsible
+                        for designing the property in lieu of the owner of such property. Such person shall
+                        be treated as the taxpayer for purposes of this section. 
+
+
+I.R.C. § 179D(d)(3)(B) Specified Tax-Exempt Entity — 
+                     
+                     
+For purposes of this paragraph, the term ‘specified tax-exempt entity’ means— 
+
+I.R.C. § 179D(d)(3)(B)(i)  — 
+                        
+                        
+the United States, any State or political subdivision thereof, any possession of the
+                           United States, or any agency or instrumentality of any of the foregoing, 
+
+
+I.R.C. § 179D(d)(3)(B)(ii)  — 
+                        
+                        
+an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims
+                           Settlement Act (43 U.S.C. 1602(m)), and 
+
+
+I.R.C. § 179D(d)(3)(B)(iii)  — 
+                        
+                        
+any organization exempt from tax imposed by this chapter. 
+
+
+
+
+I.R.C. § 179D(d)(4) Notice To Owner — 
+                  
+                  
+Each certification required under this section shall include an explanation to the
+                     building owner regarding the energy efficiency features of the building and its projected
+                     annual energy costs as provided in the notice under paragraph (2)(B)(iii). 
+
+
+I.R.C. § 179D(d)(5) Certification
+
+
+I.R.C. § 179D(d)(5)(A) In General — 
+                     
+                     
+The Secretary shall prescribe the manner and method for the making of certifications
+                        under this section. 
+
+
+I.R.C. § 179D(d)(5)(B) Procedures — 
+                     
+                     
+The Secretary shall include as part of the certification process procedures for inspection
+                        and testing by qualified individuals described in subparagraph (C) to ensure compliance of buildings with energy-savings plans and targets. Such procedures
+                        shall be comparable, given the difference between commercial and residential buildings,
+                        to the requirements in the Mortgage Industry National Accreditation Procedures for
+                        Home Energy Rating Systems. 
+
+
+I.R.C. § 179D(d)(5)(C) Qualified Individuals — 
+                     
+                     
+Individuals qualified to determine compliance shall be only those individuals who
+                        are recognized by an organization certified by the Secretary for such purposes.
+I.R.C. § 179D(e) Basis Reduction — 
+               
+               
+For purposes of this subtitle, if a deduction is allowed under this section with respect
+                  to any energy efficient commercial building property, the basis of such property shall
+                  be reduced by the amount of the deduction so allowed.
+I.R.C. § 179D(f) Alternative Deduction For Energy Efficient Building Retrofit Property
+
+
+I.R.C. § 179D(f)(1) In General — 
+                  
+                  
+In the case of a taxpayer which elects (at such time and in such manner as the Secretary
+                     may provide) the application of this subsection with respect to any qualified building,
+                     there shall be allowed as a deduction for the taxable year which includes the date
+                     of the qualifying final certification with respect to the qualified retrofit plan
+                     of such building, an amount equal to the lesser of— 
+
+I.R.C. § 179D(f)(1)(A)  — 
+                     
+                     
+the excess described in subsection (b) (determined by substituting ‘energy use intensity’
+                        for ‘total annual energy and power costs’ in paragraph (2) thereof), or 
+
+
+I.R.C. § 179D(f)(1)(B)  — 
+                     
+                     
+the aggregate adjusted basis (determined after taking into account all adjustments
+                        with respect to such taxable year other than the reduction under subsection (e)) of
+                        energy efficient building retrofit property placed in service by the taxpayer pursuant
+                        to such qualified retrofit plan. 
+
+
+
+I.R.C. § 179D(f)(2) Qualified Retrofit Plan — 
+                  
+                  
+For purposes of this subsection, the term ‘qualified retrofit plan’ means a written
+                     plan prepared by a qualified professional which specifies modifications to a building
+                     which, in the aggregate, are expected to reduce such building's energy use intensity
+                     by 25 percent or more in comparison to the baseline energy use intensity of such building.
+                     Such plan shall provide for a qualified professional to— 
+
+I.R.C. § 179D(f)(2)(A)  — 
+                     
+                     
+as of any date during the 1-year period ending on the date on which the property installed
+                        pursuant to such plan is placed in service, certify the energy use intensity of such
+                        building as of such date, 
+
+
+I.R.C. § 179D(f)(2)(B)  — 
+                     
+                     
+certify the status of property installed pursuant to such plan as meeting the requirements
+                        of subparagraphs (B) and (C) of paragraph (3), and 
+
+
+I.R.C. § 179D(f)(2)(C)  — 
+                     
+                     
+as of any date that is more than 1 year after the date on which the property installed
+                        pursuant to such plan is placed in service, certify the energy use intensity of such
+                        building as of such date. 
+
+
+
+I.R.C. § 179D(f)(3) Energy Efficient Building Retrofit Property — 
+                  
+                  
+For purposes of this subsection, the term ‘energy efficient building retrofit property’
+                     means property— 
+
+I.R.C. § 179D(f)(3)(A)  — 
+                     
+                     
+with respect to which depreciation (or amortization in lieu of depreciation) is allowable, 
+
+
+I.R.C. § 179D(f)(3)(B)  — 
+                     
+                     
+which is installed on or in any qualified building, 
+
+
+I.R.C. § 179D(f)(3)(C)  — 
+                     
+                     
+which is installed as part of— 
+
+I.R.C. § 179D(f)(3)(C)(i)  — 
+                        
+                        
+the interior lighting systems, 
+
+
+I.R.C. § 179D(f)(3)(C)(ii)  — 
+                        
+                        
+the heating, cooling, ventilation, and hot water systems, or 
+
+
+I.R.C. § 179D(f)(3)(C)(iii)  — 
+                        
+                        
+the building envelope, and 
+
+
+
+I.R.C. § 179D(f)(3)(D)  — 
+                     
+                     
+which is certified in accordance with paragraph (2)(B) as meeting the requirements
+                        of subparagraphs (B) and (C). 
+
+
+
+I.R.C. § 179D(f)(4) Qualified Building — 
+                  
+                  
+For purposes of this subsection, the term ‘qualified building’ means any building
+                     which— 
+
+I.R.C. § 179D(f)(4)(A)  — 
+                     
+                     
+is located in the United States, and 
+
+
+I.R.C. § 179D(f)(4)(B)  — 
+                     
+                     
+was originally placed in service not less than 5 years before the establishment of
+                        the qualified retrofit plan with respect to such building. 
+
+
+
+I.R.C. § 179D(f)(5) Qualifying Final Certification — 
+                  
+                  
+For purposes of this subsection, the term ‘qualifying final certification’ means,
+                     with respect to any qualified retrofit plan, the certification described in paragraph
+                     (2)(C) if the energy use intensity certified in such certification is not more than
+                     75 percent of the baseline energy use intensity of the building. 
+
+
+I.R.C. § 179D(f)(6) Baseline Energy Use Intensity
+
+
+I.R.C. § 179D(f)(6)(A) In General — 
+                     
+                     
+For purposes of this subsection, the term ‘baseline energy use intensity’ means the
+                        energy use intensity certified under paragraph (2)(A), as adjusted to take into account
+                        weather. 
+
+
+I.R.C. § 179D(f)(6)(B) Determination Of Adjustment — 
+                     
+                     
+For purposes of subparagraph (A), the adjustments described in such subparagraph shall
+                        be determined in such manner as the Secretary may provide. 
+
+
+
+I.R.C. § 179D(f)(7) Other Definitions — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 179D(f)(7)(A) Energy Use Intensity — 
+                     
+                     
+The term ‘energy use intensity’ means the annualized, measured site energy use intensity
+                        determined in accordance with such regulations or other guidance as the Secretary
+                        may provide and measured in British thermal units. 
+
+
+I.R.C. § 179D(f)(7)(B) Qualified Professional — 
+                     
+                     
+The term ‘qualified professional’ means an individual who is a licensed architect
+                        or a licensed engineer and meets such other requirements as the Secretary may provide. 
+
+
+
+I.R.C. § 179D(f)(8) Coordination With Deduction Otherwise Allowed Under Subsection (a)
+
+
+I.R.C. § 179D(f)(8)(A) In General — 
+                     
+                     
+In the case of any building with respect to which an election is made under paragraph
+                        (1), the term ‘energy efficient commercial building property’ shall not include any
+                        energy efficient building retrofit property with respect to which a deduction is allowable
+                        under this subsection. 
+
+
+I.R.C. § 179D(f)(8)(B) Certain Rules Not Applicable
+
+
+I.R.C. § 179D(f)(8)(B)(i) In General — 
+                        
+                        
+Except as provided in clause (ii), subsection (d) shall not apply for purposes of
+                           this subsection 
+
+
+I.R.C. § 179D(f)(8)(B)(ii) Allocation Of Deduction By Certain Tax-exempt Entities — 
+                        
+                        
+Rules similar to subsection (d)(3) shall apply for purposes of this subsection.
+I.R.C. § 179D(g) Inflation Adjustment — 
+               
+               
+In the case of a taxable year beginning after 2022, each dollar amount in subsection
+                  (b) shall be increased by an amount equal to— 
+
+I.R.C. § 179D(g)(1)  — 
+                  
+                  
+such dollar amount, multiplied by 
+
+
+I.R.C. § 179D(g)(2)  — 
+                  
+                  
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year
+                     in which the taxable year begins, determined by substituting “calendar year 2021”
+                     for “calendar year 2016” in subparagraph (A)(ii) thereof. 
+
+
+Any increase determined under the preceding sentence which is not a multiple of 1
+                     cent shall be rounded to the nearest cent.
+I.R.C. § 179D(h) Regulations — 
+               
+               
+The Secretary shall promulgate such regulations as necessary— 
+
+I.R.C. § 179D(h)(1)  — 
+                  
+                  
+to take into account new technologies regarding energy efficiency and renewable energy
+                     for purposes of determining energy efficiency and savings under this section, and 
+
+
+I.R.C. § 179D(h)(2)  — 
+                  
+                  
+to provide for a recapture of the deduction allowed under this section if the plan
+                     described in subsection (c)(1)(D) is not fully implemented.

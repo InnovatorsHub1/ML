@@ -1,0 +1,797 @@
+Sec. 152. Dependent Defined
+
+I.R.C. § 152(a) In General — 
+               
+               
+For  purposes of this subtitle, the term “dependent”
+                  means— 
+
+I.R.C. § 152(a)(1)  — 
+                  
+                  
+a  qualifying child, or 
+
+
+I.R.C. § 152(a)(2)  — 
+                  
+                  
+a  qualifying relative.
+I.R.C. § 152(b) Exceptions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 152(b)(1) Dependents Ineligible — 
+                  
+                  
+If  an individual is a dependent of a taxpayer for any taxable year of such  taxpayer
+                     beginning in a calendar year, such individual shall be treated as  having no dependents
+                     for any taxable year of such individual beginning in  such calendar year. 
+
+
+I.R.C. § 152(b)(2) Married Dependents — 
+                  
+                  
+An  individual shall not be treated as a dependent of a taxpayer under  subsection
+                     (a) if such individual has made a joint return with the  individual's spouse under section
+                     6013 for the taxable year beginning in  the calendar year in which the taxable year of
+                     the taxpayer  begins. 
+
+
+I.R.C. § 152(b)(3) Citizens Or Nationals Of Other Countries
+
+
+I.R.C. § 152(b)(3)(A) In General — 
+                     
+                     
+The  term “dependent” does not include an individual who is not a citizen or  national
+                        of the United States unless such individual is a resident of the  United States or
+                        a country contiguous to the United States. 
+
+
+I.R.C. § 152(b)(3)(B) Exception For Adopted Child — 
+                     
+                     
+Subparagraph  (A) shall not exclude any child of a taxpayer (within the meaning of  subsection (f)(1)(B)) from the definition of “dependent” if— 
+
+I.R.C. § 152(b)(3)(B)(i)  — 
+                        
+                        
+for  the taxable year of the taxpayer, the child has the same principal place  of
+                           abode as the taxpayer and is a member of the taxpayer's household,  and 
+
+
+I.R.C. § 152(b)(3)(B)(ii)  — 
+                        
+                        
+the taxpayer is a citizen or national of the United  States.
+I.R.C. § 152(c) Qualifying Child — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 152(c)(1) In General — 
+                  
+                  
+The  term “qualifying child” means, with respect to any taxpayer for any  taxable
+                     year, an individual— 
+
+I.R.C. § 152(c)(1)(A)  — 
+                     
+                     
+who  bears a relationship to the taxpayer described in paragraph  (2), 
+
+
+I.R.C. § 152(c)(1)(B)  — 
+                     
+                     
+who  has the same principal place of abode as the taxpayer for more than  one-half
+                        of such taxable year, 
+
+
+I.R.C. § 152(c)(1)(C)  — 
+                     
+                     
+who  meets the age requirements of paragraph (3), 
+
+
+I.R.C. § 152(c)(1)(D)  — 
+                     
+                     
+who  has not provided over one-half of such individual's own support for the  calendar
+                        year in which the taxable year of the taxpayer  begins, and 
+
+
+I.R.C. § 152(c)(1)(E)  — 
+                     
+                     
+who has not filed a joint return
+                        (other than only for a claim of refund) with the individual's spouse under section
+                        6013 for the taxable year beginning in the calendar year in which the taxable year of
+                        the taxpayer begins. 
+
+
+
+I.R.C. § 152(c)(2) Relationship — 
+                  
+                  
+For  purposes of paragraph (1)(A), an individual bears a relationship to the  taxpayer described in this paragraph
+                     if such individual is— 
+
+I.R.C. § 152(c)(2)(A)  — 
+                     
+                     
+a  child of the taxpayer or a descendant of such a child, or 
+
+
+I.R.C. § 152(c)(2)(B)  — 
+                     
+                     
+a  brother, sister, stepbrother, or stepsister of the taxpayer or a  descendant of
+                        any such relative. 
+
+
+
+I.R.C. § 152(c)(3) Age Requirements
+
+
+I.R.C. § 152(c)(3)(A) In General — 
+                     
+                     
+For  purposes of paragraph (1)(C), an individual meets the requirements of this  paragraph if such individual is younger
+                        than the taxpayer claiming such individual as a qualifying child and— 
+
+I.R.C. § 152(c)(3)(A)(i)  — 
+                        
+                        
+has  not attained the age of 19 as of the close of the calendar year in which  the
+                           taxable year of the taxpayer begins, or 
+
+
+I.R.C. § 152(c)(3)(A)(ii)  — 
+                        
+                        
+is  a student who has not attained the age of 24 as of the close of such  calendar
+                           year. 
+
+
+
+I.R.C. § 152(c)(3)(B) Special Rule For Disabled — 
+                     
+                     
+In  the case of an individual who is permanently and totally disabled (as  defined
+                        in section 22(e)(3)) at any time during such calendar year, the  requirements of subparagraph (A) shall be treated as met with respect to  such individual. 
+
+
+
+I.R.C. § 152(c)(4) Special Rule Relating To 2 Or More Who Can Claim The Same Qualifying Child
+
+
+I.R.C. § 152(c)(4)(A) In General — 
+                     
+                     
+Except as provided in subparagraphs (B) and (C), if (but for this paragraph) an individual may be claimed as a qualifying child by
+                        2 or more taxpayers for a  taxable year beginning in the same calendar year, such
+                        individual shall be  treated as the qualifying child of the taxpayer who is— 
+
+I.R.C. § 152(c)(4)(A)(i)  — 
+                        
+                        
+a  parent of the individual, or 
+
+
+I.R.C. § 152(c)(4)(A)(ii)  — 
+                        
+                        
+if  clause (i) does not apply, the taxpayer with the highest adjusted gross  income for such taxable
+                           year. 
+
+
+
+I.R.C. § 152(c)(4)(B) More Than 1 Parent Claiming Qualifying Child — 
+                     
+                     
+If  the parents claiming any qualifying child do not file a joint return  together,
+                        such child shall be treated as the qualifying child of— 
+
+I.R.C. § 152(c)(4)(B)(i)  — 
+                        
+                        
+the  parent with whom the child resided for the longest period of time during  the
+                           taxable year, or 
+
+
+I.R.C. § 152(c)(4)(B)(ii)  — 
+                        
+                        
+if  the child resides with both parents for the same amount of time during  such taxable
+                           year, the parent with the highest adjusted gross  income. 
+
+
+
+I.R.C. § 152(c)(4)(C) No Parent Claiming Qualifying Child — 
+                     
+                     
+If the parents of an individual may claim such individual as a qualifying child but
+                        no parent so claims the individual, such individual may be claimed as the qualifying
+                        child of another taxpayer but only if the adjusted gross income of such taxpayer is
+                        higher than the highest adjusted gross income of any parent of the individual.
+I.R.C. § 152(d) Qualifying Relative — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 152(d)(1) In General — 
+                  
+                  
+The  term “qualifying relative” means, with respect to any taxpayer for any  taxable
+                     year, an individual— 
+
+I.R.C. § 152(d)(1)(A)  — 
+                     
+                     
+who  bears a relationship to the taxpayer described in paragraph  (2), 
+
+
+I.R.C. § 152(d)(1)(B)  — 
+                     
+                     
+whose gross income for the calendar year in which such taxable year begins  is less
+                        than the exemption amount (as defined in section  151(d)), 
+
+
+I.R.C. § 152(d)(1)(C)  — 
+                     
+                     
+with  respect to whom the taxpayer provides over one-half of the individual's  support
+                        for the calendar year in which such taxable year begins,  and 
+
+
+I.R.C. § 152(d)(1)(D)  — 
+                     
+                     
+who  is not a qualifying child of such taxpayer or of any other taxpayer for  any
+                        taxable year beginning in the calendar year in which such taxable year  begins. 
+
+
+
+I.R.C. § 152(d)(2) Relationship — 
+                  
+                  
+For  purposes of paragraph (1)(A), an individual bears a relationship to the  taxpayer described in this paragraph
+                     if the individual is any of the  following with respect to the taxpayer: 
+
+I.R.C. § 152(d)(2)(A)  — 
+                     
+                     
+A  child or a descendant of a child. 
+
+
+I.R.C. § 152(d)(2)(B)  — 
+                     
+                     
+A  brother, sister, stepbrother, or stepsister. 
+
+
+I.R.C. § 152(d)(2)(C)  — 
+                     
+                     
+The  father or mother, or an ancestor of either. 
+
+
+I.R.C. § 152(d)(2)(D)  — 
+                     
+                     
+A  stepfather or stepmother. 
+
+
+I.R.C. § 152(d)(2)(E)  — 
+                     
+                     
+A  son or daughter of a brother or sister of the taxpayer. 
+
+
+I.R.C. § 152(d)(2)(F)  — 
+                     
+                     
+A  brother or sister of the father or mother of the taxpayer. 
+
+
+I.R.C. § 152(d)(2)(G)  — 
+                     
+                     
+A  son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law,  or
+                        sister-in-law. 
+
+
+I.R.C. § 152(d)(2)(H)  — 
+                     
+                     
+An  individual (other than an individual who at any time during the taxable  year
+                        was the spouse, determined without regard to section 7703, of the  taxpayer) who, for the taxable year of the taxpayer, has the same  principal
+                        place of abode as the taxpayer and is a member of the taxpayer's  household. 
+
+
+
+I.R.C. § 152(d)(3) Special Rule Relating To Multiple Support Agreements — 
+                  
+                  
+For  purposes of paragraph (1)(C), over one-half of the support of an  individual for a calendar year shall be treated
+                     as received from the  taxpayer if— 
+
+I.R.C. § 152(d)(3)(A)  — 
+                     
+                     
+no  one person contributed over one-half of such support, 
+
+
+I.R.C. § 152(d)(3)(B)  — 
+                     
+                     
+over  one-half of such support was received from 2 or more persons each of whom, 
+                        but for the fact that any such person alone did not contribute over  one-half of such
+                        support, would have been entitled to claim such  individual as a dependent for a taxable
+                        year beginning in such calendar  year, 
+
+
+I.R.C. § 152(d)(3)(C)  — 
+                     
+                     
+the  taxpayer contributed over 10 percent of such support, and 
+
+
+I.R.C. § 152(d)(3)(D)  — 
+                     
+                     
+each  person described in subparagraph (B) (other than the taxpayer)
+                        who  contributed over 10 percent of such support files a written declaration
+                        (in such manner and form as the Secretary may by regulations prescribe)
+                        that such person will not claim such individual as a dependent for any  taxable year
+                        beginning in such calendar year. 
+
+
+
+I.R.C. § 152(d)(4) Special Rule Relating To Income Of Handicapped Dependents
+
+
+I.R.C. § 152(d)(4)(A) In General — 
+                     
+                     
+For  purposes of paragraph (1)(B), the gross income of an individual who is  permanently and totally disabled (as defined
+                        in section 22(e)(3))
+                        at any  time during the taxable year shall not include income attributable to  services
+                        performed by the individual at a sheltered workshop if— 
+
+I.R.C. § 152(d)(4)(A)(i)  — 
+                        
+                        
+the  availability of medical care at such workshop is the principal reason for  the
+                           individual's presence there, and 
+
+
+I.R.C. § 152(d)(4)(A)(ii)  — 
+                        
+                        
+the income arises solely from activities at such workshop which are  incident to such
+                           medical care. 
+
+
+
+I.R.C. § 152(d)(4)(B) Sheltered Workshop Defined — 
+                     
+                     
+For  purposes of subparagraph (A), the term “sheltered workshop” means a  school— 
+
+I.R.C. § 152(d)(4)(B)(i)  — 
+                        
+                        
+which provides special instruction or training designed to alleviate the  disability
+                           of the individual, and 
+
+
+I.R.C. § 152(d)(4)(B)(ii)  — 
+                        
+                        
+which is operated by an organization described in section 501(c)(3) and
+                           exempt from tax under section 501(a), or by a State, a possession of the  United States, any political subdivision of
+                           any of the foregoing, the  United States, or the District of  Columbia. 
+
+
+
+
+I.R.C. § 152(d)(5) Special Rules For Support
+
+
+I.R.C. § 152(d)(5)(A) In General — 
+                     
+                     
+For purposes of this subsection— 
+
+I.R.C. § 152(d)(5)(A)(i)  — 
+                        
+                        
+payments to a spouse of alimony or separate maintenance payments shall not be treated
+                           as a payment by the payor spouse for the support of any dependent, and 
+
+
+I.R.C. § 152(d)(5)(A)(ii)  — 
+                        
+                        
+in the case of the remarriage of a parent, support of a child received from the parent's
+                           spouse shall be treated as received from the parent. 
+
+
+
+I.R.C. § 152(d)(5)(B) Alimony Or Separate Maintenance Payment — 
+                     
+                     
+For purposes of subparagraph (A), the term ‘alimony or separate maintenance payment’
+                        means any payment in cash if— 
+
+I.R.C. § 152(d)(5)(B)(i)  — 
+                        
+                        
+such payment is received by (or on behalf of) a spouse under a divorce or separation
+                           instrument (as defined in section 121(d)(3)(C)), 
+
+
+I.R.C. § 152(d)(5)(B)(ii)  — 
+                        
+                        
+in the case of an individual legally separated from the individual's spouse under
+                           a decree of divorce or of separate maintenance, the payee spouse and the payor spouse
+                           are not members of the same household at the time such payment is made, and 
+
+
+I.R.C. § 152(d)(5)(B)(iii)  — 
+                        
+                        
+there is no liability to make any such payment for any period after the death of the
+                           payee spouse and there is no liability to make any payment (in cash or property) as
+                           a substitute for such payments after the death of the payee spouse.
+I.R.C. § 152(e) Special Rule For Divorced Parents, Etc.
+
+
+I.R.C. § 152(e)(1) In General — 
+                  
+                  
+Notwithstanding subsection (c)(1)(B), (c)(4), or (d)(1)(C),  if— 
+
+I.R.C. § 152(e)(1)(A)  — 
+                     
+                     
+a  child receives over one-half of the child's support during the calendar year from
+                        the child's parents— 
+
+I.R.C. § 152(e)(1)(A)(i)  — 
+                        
+                        
+who  are divorced or legally separated under a decree of divorce or separate maintenance, 
+
+
+I.R.C. § 152(e)(1)(A)(ii)  — 
+                        
+                        
+who are separated under a written separation agreement, or 
+
+
+I.R.C. § 152(e)(1)(A)(iii)  — 
+                        
+                        
+who live apart at all times during the last 6 months of the calendar year, and— 
+
+
+
+I.R.C. § 152(e)(1)(B)  — 
+                     
+                     
+such  child is in the custody of 1 or both of the child's parents for more than one-half
+                        of the calendar year, such child shall be treated as being the qualifying child or
+                        qualifying relative of the noncustodial  parent for a calendar year if the requirements
+                        described in  paragraph (2) or (3) are met. 
+
+
+
+I.R.C. § 152(e)(2) Exception Where Custodial Parent Releases Claim To Exemption For The Year — 
+                  
+                  
+For purposes of paragraph (1), the requirements described in this paragraph are met with respect to any calendar
+                     year if— 
+
+I.R.C. § 152(e)(2)(A)  — 
+                     
+                     
+the  custodial parent signs a written declaration (in such manner and form as the
+                        Secretary may by regulations prescribe) that such custodial parent will not claim
+                        such child as a dependent for any taxable year  beginning in such calendar year, and 
+
+
+I.R.C. § 152(e)(2)(B)  — 
+                     
+                     
+the  noncustodial parent attaches such written declaration to the  noncustodial parent's
+                        return for the taxable year beginning during such calendar year. 
+
+
+
+I.R.C. § 152(e)(3) Exception For Certain Pre-1985 Instruments
+
+
+I.R.C. § 152(e)(3)(A) In General — 
+                     
+                     
+For purposes of paragraph (1), the requirements described in this  paragraph are met with respect to any calendar
+                        year if— 
+
+I.R.C. § 152(e)(3)(A)(i)  — 
+                        
+                        
+a  qualified pre-1985 instrument between the parents applicable to the taxable year
+                           beginning in such calendar year provides that the noncustodial parent shall be entitled
+                           to any deduction allowable under  section 151 for such child, and 
+
+
+I.R.C. § 152(e)(3)(A)(ii)  — 
+                        
+                        
+the noncustodial parent provides at least $600 for the support of  such child during
+                           such calendar year. 
+
+
+For purposes of this subparagraph,
+                           amounts expended for the support of a child or children shall be
+                           treated as received from the noncustodial parent to the extent that
+                           such parent provided amounts for such support.
+
+
+
+I.R.C. § 152(e)(3)(B) Qualified Pre-1985 Instrument — 
+                     
+                     
+For purposes of this paragraph, the term “qualified pre-1985  instrument” means any
+                        decree of divorce or  separate maintenance or  written agreement— 
+
+I.R.C. § 152(e)(3)(B)(i)  — 
+                        
+                        
+which is executed before January 1, 1985, 
+
+
+I.R.C. § 152(e)(3)(B)(ii)  — 
+                        
+                        
+which on such date contains the provision described in  subparagraph (A)(i), and 
+
+
+I.R.C. § 152(e)(3)(B)(iii)  — 
+                        
+                        
+which is not modified on or after such date in a modification  which expressly provides
+                           that this paragraph shall not apply to such  decree or agreement. 
+
+
+
+
+I.R.C. § 152(e)(4) Custodial Parent And Noncustodial Parent — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 152(e)(4)(A) Custodial Parent — 
+                     
+                     
+The term “custodial parent” means the parent having custody for the  greater portion
+                        of the calendar year. 
+
+
+I.R.C. § 152(e)(4)(B) Noncustodial Parent — 
+                     
+                     
+The term “noncustodial parent” means the parent who is not the  custodial parent. 
+
+
+
+I.R.C. § 152(e)(5) Exception For Multiple-Support Agreement — 
+                  
+                  
+This subsection shall not apply in any case where over one-half of  the support of
+                     the child is treated  as having been received from a  taxpayer under the provision
+                     of subsection (d)(3). 
+
+
+I.R.C. § 152(e)(6) Special Rule For Support Received From New Spouse Of Parent — 
+                  
+                  
+For  purposes of this subsection, in the case of the remarriage of a  parent, support
+                     of a child received from the parent's spouse shall be  treated as received from the
+                     parent.
+I.R.C. § 152(f) Other Definitions And Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 152(f)(1) Child Defined
+
+
+I.R.C. § 152(f)(1)(A) In General — 
+                     
+                     
+The  term “child” means an individual who is— 
+
+I.R.C. § 152(f)(1)(A)(i)  — 
+                        
+                        
+a  son, daughter, stepson, or stepdaughter of the taxpayer, or 
+
+
+I.R.C. § 152(f)(1)(A)(ii)  — 
+                        
+                        
+an  eligible foster child of the taxpayer. 
+
+
+
+I.R.C. § 152(f)(1)(B) Adopted Child — 
+                     
+                     
+In  determining whether any of the relationships specified in subparagraph  (A)(i) or paragraph (4) exists, a legally adopted individual of the  taxpayer, or an individual who is lawfully
+                        placed with the taxpayer for  legal adoption by the taxpayer, shall be treated as
+                        a child of such  individual by blood. 
+
+
+I.R.C. § 152(f)(1)(C) Eligible Foster Child — 
+                     
+                     
+For  purposes of subparagraph (A)(ii), the term “eligible foster child” means  an individual who is placed with the taxpayer
+                        by an authorized placement  agency or by judgment, decree, or other order of any court
+                        of competent  jurisdiction. 
+
+
+
+I.R.C. § 152(f)(2) Student Defined — 
+                  
+                  
+The  term “student” means an individual who during each of 5 calendar months  during
+                     the calendar year in which the taxable year of the taxpayer begins— 
+
+I.R.C. § 152(f)(2)(A)  — 
+                     
+                     
+is a  full-time student at an educational organization described in section  170(b)(1)(A)(ii), or 
+
+
+I.R.C. § 152(f)(2)(B)  — 
+                     
+                     
+is  pursuing a full-time course of institutional on-farm training under the  supervision
+                        of an accredited agent of an educational organization  described in section 170(b)(1)(A)(ii) or of a State or political  subdivision of a State. 
+
+
+
+I.R.C. § 152(f)(3) Determination Of Household Status — 
+                  
+                  
+An  individual shall not be treated as a member of the taxpayer's household if  at
+                     any time during the taxable year of the taxpayer the relationship  between such individual
+                     and the taxpayer is in violation of local  law. 
+
+
+I.R.C. § 152(f)(4) Brother And Sister — 
+                  
+                  
+The  terms “brother” and “sister”
+                     include a brother or sister by the half  blood. 
+
+
+I.R.C. § 152(f)(5) Special Support Test In Case Of Students — 
+                  
+                  
+For  purposes of subsections (c)(1)(D) and (d)(1)(C), in the case of an  individual who is— 
+
+I.R.C. § 152(f)(5)(A)  — 
+                     
+                     
+a  child of the taxpayer, and 
+
+
+I.R.C. § 152(f)(5)(B)  — 
+                     
+                     
+a  student, amounts received as scholarships for study at an educational  organization
+                        described in section 170(b)(1)(A)(ii) shall not be taken into  account. 
+
+
+
+I.R.C. § 152(f)(6) Treatment Of Missing Children
+
+
+I.R.C. § 152(f)(6)(A) In General — 
+                     
+                     
+Solely  for the purposes referred to in subparagraph (B), a child of the taxpayer— 
+
+I.R.C. § 152(f)(6)(A)(i)  — 
+                        
+                        
+who  is presumed by law enforcement authorities to have been kidnapped by  someone
+                           who is not a member of the family of such child or the taxpayer,  and 
+
+
+I.R.C. § 152(f)(6)(A)(ii)  — 
+                        
+                        
+who had, for the taxable year in which the kidnapping occurred, the same  principal
+                           place of abode as the taxpayer for more than one-half of the  portion of such year
+                           before the date of the kidnapping, shall be treated  as meeting the requirement of
+                           subsection (c)(1)(B) with respect to a  taxpayer for all taxable years ending during the period that the
+                           child is  kidnapped. 
+
+
+
+I.R.C. § 152(f)(6)(B) Purposes — 
+                     
+                     
+Subparagraph  (A) shall apply solely for purposes of determining— 
+
+I.R.C. § 152(f)(6)(B)(i)  — 
+                        
+                        
+the  deduction under section 151(c), 
+
+
+I.R.C. § 152(f)(6)(B)(ii)  — 
+                        
+                        
+the credit under section 24 (relating to child tax credit), 
+
+
+I.R.C. § 152(f)(6)(B)(iii)  — 
+                        
+                        
+whether an individual is a surviving spouse or a head of a household (as  such terms
+                           are defined in section 2), and 
+
+
+I.R.C. § 152(f)(6)(B)(iv)  — 
+                        
+                        
+the earned income credit under section 32. 
+
+
+
+I.R.C. § 152(f)(6)(C) Comparable Treatment Of Certain Qualifying Relatives — 
+                     
+                     
+For  purposes of this section, a child of the taxpayer— 
+
+I.R.C. § 152(f)(6)(C)(i)  — 
+                        
+                        
+who  is presumed by law enforcement authorities to have been kidnapped by  someone
+                           who is not a member of the family of such child or the taxpayer,  and 
+
+
+I.R.C. § 152(f)(6)(C)(ii)  — 
+                        
+                        
+who was (without regard to this paragraph)
+                           a qualifying relative of the  taxpayer for the portion of the taxable year before
+                           the date of the  kidnapping, shall be treated as a qualifying relative of the taxpayer
+                           for  all taxable years ending during the period that the child is  kidnapped. 
+
+
+
+I.R.C. § 152(f)(6)(D) Termination Of Treatment — 
+                     
+                     
+Subparagraphs  (A) and (C) shall cease to apply as of the first taxable year of the  taxpayer beginning after
+                        the calendar year in which there is a  determination that the child is dead (or, if
+                        earlier, in which the child  would have attained age 18). 
+
+
+
+I.R.C. § 152(f)(7) Cross References — 
+                  
+                  
+For  provision treating child as dependent of both parents for purposes of  certain
+                     provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).

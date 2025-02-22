@@ -1,0 +1,332 @@
+Sec. 6721. Failure To File Correct Information Returns.
+
+I.R.C. § 6721(a) Imposition Of Penalty
+
+
+I.R.C. § 6721(a)(1) In General — 
+                  
+                  
+In  the case of a failure described in paragraph (2)
+                     by any person with  respect to an information return, such person shall pay a penalty
+                     of $250  for each return with respect to which such a failure occurs, but the total
+                     amount imposed on such person for all such failures during any calendar  year shall
+                     not exceed $3,000,000. 
+
+
+I.R.C. § 6721(a)(2) Failures Subject To Penalty — 
+                  
+                  
+For  purposes of paragraph (1), the failures described in this paragraph are— 
+
+I.R.C. § 6721(a)(2)(A)  — 
+                     
+                     
+any  failure to file an information return with the 
+
+Secretary on or before the required filing date,  and
+
+
+
+I.R.C. § 6721(a)(2)(B)  — 
+                     
+                     
+any  failure to include all of the information required to be shown on the  return
+                        or the inclusion of incorrect information.
+I.R.C. § 6721(b) Reduction Where Correction In Specified Period
+
+
+I.R.C. § 6721(b)(1) Correction Within 30 Days — 
+                  
+                  
+If  any failure described in subsection (a)(2) is corrected on or before the  day
+                     30 days after the required filing date— 
+
+I.R.C. § 6721(b)(1)(A)  — 
+                     
+                     
+the  penalty imposed by subsection (a)
+                        shall be $50 in lieu of $250,  and 
+
+
+I.R.C. § 6721(b)(1)(B)  — 
+                     
+                     
+the  total amount imposed on the person for all such failures during any  calendar
+                        year which are so corrected shall not exceed $500,000. 
+
+
+
+I.R.C. § 6721(b)(2) Failures Corrected On Or Before August 1 — 
+                  
+                  
+If  any failure described in subsection (a)(2) is corrected after the 30th day  referred
+                     to in paragraph (1) but on or before August 1 of the calendar  year in which the required
+                     filing date occurs— 
+
+I.R.C. § 6721(b)(2)(A)  — 
+                     
+                     
+the  penalty imposed by subsection (a)
+                        shall be $100 in lieu of $250,  and 
+
+
+I.R.C. § 6721(b)(2)(B)  — 
+                     
+                     
+the  total amount imposed on the person for all such failures during the  calendar
+                        year which are so corrected shall not exceed $1,500,000.
+I.R.C. § 6721(c) Exceptions For Certain De Minimis Failures
+
+
+I.R.C. § 6721(c)(1) Exception For De Minimis Failure To Include All Required Information — 
+                  
+                  
+If— 
+
+I.R.C. § 6721(c)(1)(A)  — 
+                     
+                     
+an  information return is filed with the Secretary, 
+
+
+I.R.C. § 6721(c)(1)(B)  — 
+                     
+                     
+there  is a failure described in subsection
+                        (a)(2)(B) (determined after the  application of section 6724(a)) with respect to such return,  and 
+
+
+I.R.C. § 6721(c)(1)(C)  — 
+                     
+                     
+such  failure is corrected on or before August 1 of the calendar year in which  the
+                        required filing date occurs, for purposes of this section, such return  shall be treated
+                        as having been filed with all of the correct required  information. 
+
+
+
+I.R.C. § 6721(c)(2) Limitation — 
+                  
+                  
+The  number of information returns to which paragraph
+                     (1) applies for any  calendar year shall not exceed the greater of
+                     -- 
+
+I.R.C. § 6721(c)(2)(A)  — 
+                     
+                     
+10,  or 
+
+
+I.R.C. § 6721(c)(2)(B)  — 
+                     
+                     
+one-half of 1 percent of the total number of information returns required to  be filed
+                        by the person during the calendar year. 
+
+
+
+I.R.C. § 6721(c)(3) Safe Harbor For Certain De Minimis Errors
+
+
+I.R.C. § 6721(c)(3)(A) In General — 
+                     
+                     
+If, with respect to an information return filed with the Secretary— 
+
+I.R.C. § 6721(c)(3)(A)(i)  — 
+                        
+                        
+there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect
+                           dollar amount, 
+
+
+I.R.C. § 6721(c)(3)(A)(ii)  — 
+                        
+                        
+no single amount in error differs from the correct amount by more than $100, and 
+
+
+I.R.C. § 6721(c)(3)(A)(iii)  — 
+                        
+                        
+no single amount reported for tax withheld on the information return differs from
+                           the correct amount by more than $25, 
+
+
+then no correction shall be required and, for purposes of this section, such return
+                           shall be treated as having been filed with all of the correct required information.
+
+
+
+I.R.C. § 6721(c)(3)(B)  Exception — 
+                     
+                     
+Subparagraph (A) shall not apply with respect to any incorrect dollar amount to the
+                        extent that such error relates to an amount with respect to which an election is made
+                        under section 6722(c)(3)(B). 
+
+
+I.R.C. § 6721(c)(3)(C) Regulatory Authority — 
+                     
+                     
+The Secretary may issue regulations to prevent the abuse of the safe harbor under
+                        this paragraph, including regulations providing that this paragraph shall not apply
+                        to the extent necessary to prevent any such abuse.
+I.R.C. § 6721(d) Lower Limitations For Persons With Gross Receipts Of Not More Than $5,000,000
+
+
+I.R.C. § 6721(d)(1) In General — 
+                  
+                  
+If  any person meets the gross receipts test of paragraph
+                     (2) with respect to  any calendar year, with respect to failures during such calendar
+                     year— 
+
+I.R.C. § 6721(d)(1)(A)  — 
+                     
+                     
+subsection  (a)(1) shall be applied by substituting “$1,000,000” for  “$3,000,000”, 
+
+
+I.R.C. § 6721(d)(1)(B)  — 
+                     
+                     
+subsection  (b)(1)(B) shall be applied by substituting “$175,000” for “$500,000”,
+                        and 
+
+
+I.R.C. § 6721(d)(1)(C)  — 
+                     
+                     
+subsection  (b)(2)(B) shall be applied by substituting “$500,000” for “$1,500,000”. 
+
+
+
+I.R.C. § 6721(d)(2) Gross Receipts Test
+
+
+I.R.C. § 6721(d)(2)(A) In General — 
+                     
+                     
+A  person meets the gross receipts test of this paragraph for any calendar  year if
+                        the average annual gross receipts of such person for the most  recent 3 taxable years
+                        ending before such calendar year do not exceed  $5,000,000. 
+
+
+I.R.C. § 6721(d)(2)(B) Certain Rules Made Applicable — 
+                     
+                     
+For  purposes of subparagraph (A), the rules of paragraphs
+                        (2) and (3) of  section 448(c) shall apply.
+I.R.C. § 6721(e) Penalty In Case Of Intentional Disregard — 
+               
+               
+If  1 or more failures described in subsection (a)(2)
+                  are due to intentional  disregard of the filing requirement (or the correct information
+                  reporting  requirement), then, with respect to each such failure— 
+
+I.R.C. § 6721(e)(1)  — 
+                  
+                  
+subsections  (b), (c), and (d) shall not apply, 
+
+
+I.R.C. § 6721(e)(2)  — 
+                  
+                  
+the  penalty imposed under subsection (a) shall be $500, or, if greater— 
+
+I.R.C. § 6721(e)(2)(A)  — 
+                     
+                     
+in  the case of a return other than a return required under section 6045(a),
+                        6041A(b), 6050H, 6050I, 6050J, 6050K, or  6050L, 10 percent of the  aggregate amount of the items required to be reported correctly, 
+
+
+I.R.C. § 6721(e)(2)(B)  — 
+                     
+                     
+in  the case of a return required to be filed by section 6045(a), 6050K, or  6050L, 5 percent of the aggregate amount of the items required to be  reported correctly, 
+
+
+I.R.C. § 6721(e)(2)(C)  — 
+                     
+                     
+in  the case of a return required to be filed under section 6050I(a) with
+                        respect to any transaction (or related transactions), the greater of 
+
+I.R.C. § 6721(e)(2)(C)(i)  — 
+                        
+                        
+$25,000,  or 
+
+
+I.R.C. § 6721(e)(2)(C)(ii)  — 
+                        
+                        
+the  amount of cash (within the meaning of section 6050I(d))
+                           received in such  transaction (or related transactions) to the extent the amount of
+                           such  cash does not exceed $100,000, or 
+
+
+
+I.R.C. § 6721(e)(2)(D)  — 
+                     
+                     
+in  the case of a return required to be filed under section 6050V, 10    percent of the value of the benefit of any contract with respect to which    information
+                        is required to be included on the return, and 
+
+
+
+I.R.C. § 6721(e)(3)  — 
+                  
+                  
+in  the case of any penalty determined under paragraph
+                     (2)— 
+
+I.R.C. § 6721(e)(3)(A)  — 
+                     
+                     
+the  $3,000,000 limitation under subsection
+                        (a) shall not apply, and 
+
+
+I.R.C. § 6721(e)(3)(B)  — 
+                     
+                     
+such  penalty shall not be taken into account in applying such limitation (or  any
+                        similar limitation under subsection (b)) to penalties not determined  under paragraph
+                        (2).
+I.R.C. § 6721(f) Adjustment For Inflation
+
+
+I.R.C. § 6721(f)(1) In General — 
+                  
+                  
+In the case of any failure relating to a return required to be filed in a calendar
+                     year beginning after 2014, each of the dollar amounts under subsections (a), (b),
+                     (d) (other than paragraph (2)(A)
+                     thereof), and (e) shall be increased by an amount equal to such dollar amount multiplied
+                     by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2011”
+                     for “calendar year 2016” in subparagraph (A)(ii) thereof. 
+
+
+I.R.C. § 6721(f)(2) Rounding — 
+                  
+                  
+If any amount adjusted under paragraph (1)— 
+
+I.R.C. § 6721(f)(2)(A)  — 
+                     
+                     
+is not less than $75,000 and is not a multiple of $500, such amount shall be rounded
+                        to the next lowest multiple of $500, and 
+
+
+I.R.C. § 6721(f)(2)(B)  — 
+                     
+                     
+is not described in subparagraph (A)
+                        and is not a multiple of $10, such amount shall be rounded to the next lowest multiple
+                        of $10.

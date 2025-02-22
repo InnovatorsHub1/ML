@@ -1,0 +1,170 @@
+Sec. 2501. Imposition Of Tax
+
+I.R.C. § 2501(a) Taxable Transfers
+
+
+I.R.C. § 2501(a)(1) General Rule — 
+                  
+                  
+A  tax, computed as provided in section 2502, is hereby imposed for each
+                     calendar year on the transfer of property by gift during such calendar
+                     year by any individual resident or nonresident. 
+
+
+I.R.C. § 2501(a)(2) Transfers Of Intangible Property — 
+                  
+                  
+Except  as provided in paragraph (3), paragraph (1)
+                     shall not apply to the  transfer of intangible property by a nonresident not a citizen
+                     of the  United States. 
+
+
+I.R.C. § 2501(a)(3) Exception
+
+
+I.R.C. § 2501(a)(3)(A) Certain Individuals — 
+                     
+                     
+Paragraph (2) shall not apply in the case of a donor to whom  section 877(b) applies for the taxable year which includes the date  of the transfer. 
+
+
+I.R.C. § 2501(a)(3)(B) Credit For Foreign Gift Taxes — 
+                     
+                     
+The  tax imposed by this section solely by reason of this paragraph  shall be credited
+                        with the amount of any gift tax actually paid to  any foreign country in respect of
+                        any gift which is taxable under  this section solely by reason of this paragraph. 
+
+
+
+I.R.C. § 2501(a)(4) Transfers To Political Organizations — 
+                  
+                  
+Paragraph  (1) shall not apply to the transfer of money or other property to a  political
+                     organization (within the meaning of section 527(e)(1))
+                     for the  use of such organization. 
+
+
+I.R.C. § 2501(a)(5) Transfers Of Certain Stock
+
+
+I.R.C. § 2501(a)(5)(A) In General — 
+                     
+                     
+In the case of a transfer of stock in a foreign corporation
+                        described in subparagraph (B) by a donor to whom section 877(b)  applies for the taxable year which includes the date of the transfer— 
+
+I.R.C. § 2501(a)(5)(A)(i)  — 
+                        
+                        
+section 2511(a) shall be applied without regard to whether such           stock is situated within
+                           the United States, and 
+
+
+I.R.C. § 2501(a)(5)(A)(ii)  — 
+                        
+                        
+the value of such stock for purposes of this chapter shall be  its  U.S.-asset value
+                           determined under subparagraph
+                           (C). 
+
+
+
+I.R.C. § 2501(a)(5)(B) Foreign Corporation Described — 
+                     
+                     
+A foreign corporation is described in this subparagraph with  respect to a donor if— 
+
+I.R.C. § 2501(a)(5)(B)(i)  — 
+                        
+                        
+the  donor owned (within the meaning of section 958(a))
+                           at the time of  such transfer 10 percent or more of the total combined voting  power
+                           of all classes of stock entitled to vote of the foreign corporation, and 
+
+
+I.R.C. § 2501(a)(5)(B)(ii)  — 
+                        
+                        
+such donor owned (within the meaning of section 958(a)), or is           considered to have owned (by applying the ownership rules of section
+                           958(b)), at the time of such transfer, more than 50 percent  of— 
+
+I.R.C. § 2501(a)(5)(B)(ii)(I)  — 
+                           
+                           
+the  total combined voting power of all classes of stock  entitled to  vote of such
+                              corporation, or 
+
+
+I.R.C. § 2501(a)(5)(B)(ii)(II)  — 
+                           
+                           
+the total value of the stock of such
+                              corporation. 
+
+
+
+
+I.R.C. § 2501(a)(5)(C) U.S.-Asset Value — 
+                     
+                     
+For purposes of subparagraph (A), the U.S.-asset value of stock  shall be the amount
+                        which bears the same ratio to the fair market  value of such stock at the time of
+                        transfer  as— 
+
+I.R.C. § 2501(a)(5)(C)(i)  — 
+                        
+                        
+the  fair market value (at such time)
+                           of the assets owned by such  foreign corporation and situated in the United States,
+                           bears      to 
+
+
+I.R.C. § 2501(a)(5)(C)(ii)  — 
+                        
+                        
+the total fair market value (at such time) of all assets owned by  such foreign  corporation. 
+
+
+
+
+I.R.C. § 2501(a)(6) Transfers To Certain Exempt Organizations — 
+                  
+                  
+Paragraph (1) shall not apply to the transfer of money or other property to an organization
+                     described in paragraph (4), (5), or (6) of section 501(c) and exempt from tax under
+                     section 501(a), for the use of such organization.
+I.R.C. § 2501(b) Certain Residents Of Possessions Considered Citizens Of The United States — 
+               
+               
+A  donor who is a citizen of the United States and a resident of a possession  thereof
+                  shall, for purposes of the tax imposed by this chapter, be  considered a “citizen”
+                  of the United States within the meaning of that  term wherever used in this title
+                  unless he acquired his United States  citizenship solely by reason of (1) his being
+                  a citizen of such possession  of the United States, or (2) his birth or residence
+                  within such possession  of the United States.
+I.R.C. § 2501(c) Certain Residents Of Possessions Considered Nonresidents Not Citizens Of The United
+                  States — 
+               
+               
+A  donor who is a citizen of the United States and a resident of a possession  thereof
+                  shall, for purposes of the tax imposed by this chapter, be  considered a “nonresident
+                  not a citizen of the United States” within the  meaning of that term wherever used
+                  in this title, but only if such donor  acquired his United States citizenship solely
+                  by reason of (1) his being a  citizen of such possession of the United States, or
+                  (2) his birth or  residence within such possession of the United States.
+I.R.C. § 2501(d) Cross References
+
+
+I.R.C. § 2501(d)(1)  — 
+                  
+                  
+For increase in basis of property acquired by gift for  gift tax paid, see section
+                     1015(d). 
+
+
+I.R.C. § 2501(d)(2)  — 
+                  
+                  
+For exclusion of transfers of property outside the  United States by a nonresident
+                     who is not a citizen of the United States,  see section 2511(a).

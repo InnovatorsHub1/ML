@@ -1,0 +1,378 @@
+Sec. 7874. Rules Relating To Expatriated Entities And Their Foreign Parents
+
+I.R.C. § 7874(a) Tax On Inversion Gain Of Expatriated Entities
+
+
+I.R.C. § 7874(a)(1) In General — 
+                  
+                  
+The  taxable income of an expatriated entity for any taxable year which  includes
+                     any portion of the applicable period shall in no event be less  than the inversion
+                     gain of the entity for the taxable year. 
+
+
+I.R.C. § 7874(a)(2) Expatriated Entity — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 7874(a)(2)(A) In General — 
+                     
+                     
+The  term “expatriated entity” means— 
+
+I.R.C. § 7874(a)(2)(A)(i)  — 
+                        
+                        
+the  domestic corporation or partnership referred to in subparagraph (B)(i)  with respect to which a foreign corporation is a surrogate foreign  corporation,
+                           and 
+
+
+I.R.C. § 7874(a)(2)(A)(ii)  — 
+                        
+                        
+any  United States person who is related
+                           (within the meaning of section 267(b) 
+                           or 707(b)(1))
+                           to a domestic corporation or partnership described in clause (i). 
+
+
+
+I.R.C. § 7874(a)(2)(B) Surrogate Foreign Corporation — 
+                     
+                     
+A  foreign corporation shall be treated as a surrogate foreign corporation  if, pursuant
+                        to a plan (or a series of related transactions)— 
+
+I.R.C. § 7874(a)(2)(B)(i)  — 
+                        
+                        
+the  entity completes after March 4, 2003, the direct or indirect acquisition  of
+                           substantially all of the properties held directly or indirectly by a  domestic corporation
+                           or substantially all of the properties constituting a  trade or business of a domestic
+                           partnership, 
+
+
+I.R.C. § 7874(a)(2)(B)(ii)  — 
+                        
+                        
+after  the acquisition at least 60 percent of the stock (by vote or value) of the
+                           entity is held— 
+
+I.R.C. § 7874(a)(2)(B)(ii)(I)  — 
+                           
+                           
+in  the case of an acquisition with respect to a domestic corporation, by  former
+                              shareholders of the domestic corporation by reason of holding stock  in the domestic
+                              corporation, or 
+
+
+I.R.C. § 7874(a)(2)(B)(ii)(II)  — 
+                           
+                           
+in  the case of an acquisition with respect to a domestic partnership, by  former
+                              partners of the domestic partnership by reason of holding a capital  or profits interest
+                              in the domestic partnership,  and 
+
+
+
+I.R.C. § 7874(a)(2)(B)(iii)  — 
+                        
+                        
+after  the acquisition the expanded affiliated group which includes the entity  does
+                           not have substantial business activities in the foreign country in  which, or under
+                           the law of which, the entity is created or organized, when  compared to the total
+                           business activities of such expanded affiliated  group. 
+
+
+An entity otherwise described in clause (i) with respect 
+                           to any domestic corporation or partnership trade or business shall be  treated as
+                           not so described if, on or before March 4, 2003, such entity  acquired directly or
+                           indirectly more than half of the properties held  directly or indirectly by such corporation
+                           or more than half of the  properties constituting such partnership trade or business,
+                           as the case  may be.
+
+
+
+
+I.R.C. § 7874(a)(3)  Coordination With Subsection (b) — 
+                  
+                  
+A corporation which is treated as a domestic corporation under  subsection (b) shall not be treated as a surrogate foreign  corporation for purposes of paragraph
+                     (2)(A).
+I.R.C. § 7874(b) Inverted Corporations Treated As Domestic Corporations — 
+               
+               
+Notwithstanding  section 7701(a)(4), a foreign corporation shall be treated for purposes of  this title as a domestic
+                  corporation if such corporation would be a  surrogate foreign corporation if subsection
+                  (a)(2) were applied by 
+                  substituting “80 percent” for “60 percent”.
+I.R.C. § 7874(c) Definitions And Special Rules
+
+
+I.R.C. § 7874(c)(1) Expanded Affiliated Group — 
+                  
+                  
+The  term “expanded affiliated group” means an affiliated group as defined in  section
+                     1504(a) but without regard to section 1504(b)(3), except that  section 1504(a) shall be applied by substituting “more than 50 percent”  for “at least 80 percent”
+                     each place it appears. 
+
+
+I.R.C. § 7874(c)(2) Certain Stock Disregarded — 
+                  
+                  
+There  shall not be taken into account in determining ownership under subsection (a)(2)(B)(ii)— 
+
+I.R.C. § 7874(c)(2)(A)  — 
+                     
+                     
+stock  held by members of the expanded affiliated group which includes the  foreign
+                        corporation, or 
+
+
+I.R.C. § 7874(c)(2)(B)  — 
+                     
+                     
+stock  of such foreign corporation which is sold in a public offering related to 
+                        the acquisition described in subsection (a)(2)(B)(i). 
+
+
+
+I.R.C. § 7874(c)(3) Plan Deemed In Certain Cases — 
+                  
+                  
+If  a foreign corporation acquires directly or indirectly substantially all of  the
+                     properties of a domestic corporation or partnership during the 4-year  period beginning
+                     on the date which is 2 years before the ownership  requirements of subsection (a)(2)(B)(ii) are met, such actions shall be  treated as pursuant to a plan. 
+
+
+I.R.C. § 7874(c)(4) Certain Transfers Disregarded — 
+                  
+                  
+The  transfer of properties or liabilities (including by contribution or  distribution)
+                     shall be disregarded if such transfers are part of a plan a  principal purpose of
+                     which is to avoid the purposes of this  section. 
+
+
+I.R.C. § 7874(c)(5) Special Rule For Related Partnerships — 
+                  
+                  
+For  purposes of applying subsection (a)(2)(B)(ii) to the acquisition of a  trade or business of a domestic partnership, except as provided
+                     in  regulations, all partnerships which are under common control (within the  meaning
+                     of section 482) shall be treated as 1 partnership. 
+
+
+I.R.C. § 7874(c)(6) Regulations — 
+                  
+                  
+The  Secretary shall prescribe such regulations as may be appropriate to  determine
+                     whether a corporation is a surrogate foreign corporation,  including regulations-- 
+
+I.R.C. § 7874(c)(6)(A)  — 
+                     
+                     
+to  treat warrants, options, contracts to acquire stock, convertible debt  interests,
+                        and other similar interests as stock, and 
+
+
+I.R.C. § 7874(c)(6)(B)  — 
+                     
+                     
+to  treat stock as not stock.
+I.R.C. § 7874(d) Other Definitions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 7874(d)(1) Applicable Period — 
+                  
+                  
+The  term “applicable period” means the period— 
+
+I.R.C. § 7874(d)(1)(A)  — 
+                     
+                     
+beginning on the first date properties are acquired as part of the acquisition  described
+                        in subsection (a)(2)(B)(i), and 
+
+
+I.R.C. § 7874(d)(1)(B)  — 
+                     
+                     
+ending  on the date which is 10 years after the last date properties are acquired
+                        as part of such acquisition. 
+
+
+
+I.R.C. § 7874(d)(2) Inversion Gain — 
+                  
+                  
+The  term “inversion gain” means the income or gain recognized by reason of the  transfer
+                     during the applicable period of stock or other properties by an  expatriated entity,
+                     and any income received or accrued during the  applicable period by reason of a license
+                     of any property by an expatriated  entity— 
+
+I.R.C. § 7874(d)(2)(A)  — 
+                     
+                     
+as  part of the acquisition described in subsection (a)(2)(B)(i),
+                        or 
+
+
+I.R.C. § 7874(d)(2)(B)  — 
+                     
+                     
+after  such acquisition if the transfer or license is to a foreign related  person. 
+
+
+Subparagraph (B) shall not apply to property described  in section 1221(a)(1) in the hands of the expatriated  entity.
+
+
+
+I.R.C. § 7874(d)(3) Foreign Related Person — 
+                  
+                  
+The  term “foreign related person” means, with respect to any expatriated  entity,
+                     a foreign person which 
+
+I.R.C. § 7874(d)(3)(A)  — 
+                     
+                     
+is  related (within the meaning of section 267(b) or 707(b)(1)) to such  entity, or 
+
+
+I.R.C. § 7874(d)(3)(B)  — 
+                     
+                     
+is  under the same common control (within the meaning of section 482)
+                        as such  entity.
+I.R.C. § 7874(e) Special Rules
+
+
+I.R.C. § 7874(e)(1) Credits Not Allowed Against Tax On Inversion Gain — 
+                  
+                  
+Credits  (other than the credit allowed by section 901)
+                     shall be allowed against  the tax imposed by this chapter on an expatriated entity
+                     for any taxable  year described in subsection (a) only to the extent such tax exceeds the  product of-- 
+
+I.R.C. § 7874(e)(1)(A)  — 
+                     
+                     
+the  amount of the inversion gain for the taxable year, and 
+
+
+I.R.C. § 7874(e)(1)(B)  — 
+                     
+                     
+the  highest rate of tax specified in section 11(b). 
+
+
+For purposes of determining the credit allowed by  section 901, inversion gain shall be treated as from sources within the  United States.
+
+
+
+I.R.C. § 7874(e)(2) Special Rules For Partnerships — 
+                  
+                  
+In  the case of an expatriated entity which is a partnership— 
+
+I.R.C. § 7874(e)(2)(A)  — 
+                     
+                     
+subsection (a)(1) shall apply at the partner rather than the partnership  level, 
+
+
+I.R.C. § 7874(e)(2)(B)  — 
+                     
+                     
+the  inversion gain of any partner for any taxable year shall be equal to the  sum
+                        of— 
+
+I.R.C. § 7874(e)(2)(B)(i)  — 
+                        
+                        
+the  partner's distributive share of inversion gain of the partnership for such  taxable
+                           year, plus 
+
+
+I.R.C. § 7874(e)(2)(B)(ii)  — 
+                        
+                        
+gain  recognized for the taxable year by the partner by reason of the transfer  during
+                           the applicable period of any partnership interest of the partner in  such partnership
+                           to the surrogate foreign corporation,  and 
+
+
+
+I.R.C. § 7874(e)(2)(C)  — 
+                     
+                     
+the  highest rate of tax specified in the rate schedule applicable to the  partner
+                        under this chapter shall be substituted for the rate of tax  referred to in paragraph
+                        (1). 
+
+
+
+I.R.C. § 7874(e)(3) Coordination With Section 172 And Minimum Tax — 
+                  
+                  
+Rules  similar to the rules of paragraphs (3) and (4) of section 860E(a) shall  apply for purposes of subsection (a). 
+
+
+I.R.C. § 7874(e)(4) Statute Of Limitations
+
+
+I.R.C. § 7874(e)(4)(A) In General — 
+                     
+                     
+The  statutory period for the assessment of any deficiency attributable to the  inversion
+                        gain of any taxpayer for any pre-inversion year shall not expire  before the expiration
+                        of 3 years from the date the Secretary is notified  by the taxpayer (in such manner
+                        as the Secretary may prescribe) of the  acquisition described in subsection (a)(2)(B)(i) to which such gain  relates and such deficiency may be assessed before the expiration
+                        of such  3-year period notwithstanding the provisions of any other law or rule of
+                        law which would otherwise prevent such assessment. 
+
+
+I.R.C. § 7874(e)(4)(B) Pre-Inversion Year — 
+                     
+                     
+For  purposes of subparagraph (A), the term “pre-inversion year” means any  taxable year if— 
+
+I.R.C. § 7874(e)(4)(B)(i)  — 
+                        
+                        
+any  portion of the applicable period is included in such taxable year,  and 
+
+
+I.R.C. § 7874(e)(4)(B)(ii)  — 
+                        
+                        
+such  year ends before the taxable year in which the acquisition described in  subsection
+                           (a)(2)(B)(i) is  completed.
+I.R.C. § 7874(f) Special Rule For Treaties — 
+               
+               
+Nothing  in section 894 or 7852(d) or in any other provision of law shall be  construed as permitting an exemption,
+                  by reason of any treaty obligation  of the United States heretofore or hereafter entered
+                  into, from the  provisions of this section.
+I.R.C. § 7874(g) Regulations — 
+               
+               
+The  Secretary shall provide such regulations as are necessary to carry out  this
+                  section, including regulations providing for such adjustments to the  application
+                  of this section as are necessary to prevent the avoidance of  the purposes of this
+                  section, including the avoidance of such purposes  through— 
+
+I.R.C. § 7874(g)(1)  — 
+                  
+                  
+the  use of related persons, pass-through or other noncorporate entities, or  other
+                     intermediaries, or 
+
+
+I.R.C. § 7874(g)(2)  — 
+                  
+                  
+transactions  designed to have persons cease to be (or not become) members of expanded
+                     affiliated groups or related persons.

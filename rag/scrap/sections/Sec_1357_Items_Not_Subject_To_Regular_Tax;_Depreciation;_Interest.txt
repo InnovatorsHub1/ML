@@ -1,0 +1,74 @@
+Sec. 1357. Items Not Subject To Regular Tax; Depreciation; Interest
+
+I.R.C. § 1357(a) Exclusion From Gross Income — 
+               
+               
+Gross  income of an electing corporation shall not include its income from  qualifying
+                  shipping activities.
+I.R.C. § 1357(b) Electing Group Member — 
+               
+               
+Gross  income of a corporation (other than an electing corporation) which is a  member
+                  of an electing group shall not include its income from qualifying  shipping activities
+                  conducted by such member.
+I.R.C. § 1357(c) Denial Of Losses, Deductions, And Credits
+
+
+I.R.C. § 1357(c)(1) General Rule — 
+                  
+                  
+Subject  to paragraph (2), each item of loss, deduction
+                     (other than for interest  expense), or credit of any taxpayer with respect to any
+                     activity the  income from which is excluded from gross income under this section shall
+                     be disallowed. 
+
+
+I.R.C. § 1357(c)(2) Depreciation
+
+
+I.R.C. § 1357(c)(2)(A) In General — 
+                     
+                     
+Notwithstanding  paragraph (1), the adjusted basis (for purposes of determining gain)
+                        of  any qualifying vessel shall be determined as if the deduction for  depreciation
+                        had been allowed. 
+
+
+I.R.C. § 1357(c)(2)(B) Method
+
+
+I.R.C. § 1357(c)(2)(B)(i) In General — 
+                        
+                        
+Except  as provided in clause (ii), the straight-line method of depreciation shall
+                           apply to qualifying vessels the income from operation of which is excluded  from gross
+                           income under this section. 
+
+
+I.R.C. § 1357(c)(2)(B)(ii) Exception — 
+                        
+                        
+Clause  (i) shall not apply to any qualifying vessel which is subject to a charter
+                           entered into before the date of the enactment of this subchapter. 
+
+
+
+
+I.R.C. § 1357(c)(3) Interest
+
+
+I.R.C. § 1357(c)(3)(A) In General — 
+                     
+                     
+Except  as provided in subparagraph (B), the interest expense of an electing  corporation
+                        shall be disallowed in the ratio that the fair market value of  such corporation's
+                        qualifying vessels bears to the fair market value of  such corporation's total assets. 
+
+
+I.R.C. § 1357(c)(3)(B) Electing Group — 
+                     
+                     
+In  the case of a corporation which is a member of an electing group, the  interest
+                        expense of such corporation shall be disallowed in the ratio that  the fair market
+                        value of such corporation's qualifying vessels bears to  the fair market value of
+                        the electing groups total assets.

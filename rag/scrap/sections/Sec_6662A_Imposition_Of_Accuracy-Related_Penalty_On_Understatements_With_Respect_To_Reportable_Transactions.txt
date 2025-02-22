@@ -1,0 +1,138 @@
+Sec. 6662A. Imposition Of Accuracy-Related Penalty On Understatements With Respect To Reportable Transactions
+
+I.R.C. § 6662A(a) Imposition Of Penalty — 
+               
+               
+If a taxpayer has a reportable transaction  understatement for any  taxable year,
+                  there shall be added to the tax an amount equal to 20  percent of the amount of such
+                  understatement.
+I.R.C. § 6662A(b) Reportable Transaction Understatement — 
+               
+               
+For  purposes of this  section— 
+
+I.R.C. § 6662A(b)(1) In General — 
+                  
+                  
+The  term “reportable transaction understatement”
+                     means the sum of— 
+
+I.R.C. § 6662A(b)(1)(A)  — 
+                     
+                     
+the  product of— 
+
+I.R.C. § 6662A(b)(1)(A)(i)  — 
+                        
+                        
+the  amount of the increase (if any)
+                           in taxable income which results  from a difference between the proper tax treatment
+                           of an item to which this section applies and the taxpayer's treatment of such item
+                           (as shown on the taxpayer's return of tax), and 
+
+
+I.R.C. § 6662A(b)(1)(A)(ii)  — 
+                        
+                        
+the highest rate of tax imposed by section 1 (section 11 in  the  case of a taxpayer which is a corporation), and 
+
+
+
+I.R.C. § 6662A(b)(1)(B)  — 
+                     
+                     
+the  amount of the decrease (if any)
+                        in the aggregate amount of  credits  determined under subtitle A which results from
+                        a difference between  the taxpayer's treatment of an item to which this section applies
+                        (as shown on the taxpayer's return of tax) and the proper tax treatment of     such
+                        item. 
+
+
+For purposes of subparagraph (A), any  reduction of the excess of  deductions allowed
+                        for the taxable year  over gross income for such year, and any reduction in the amount
+                        of  capital losses which would (without regard to section 1211) be  allowed for such year, shall be treated as an increase in  taxable  income.
+
+
+
+I.R.C. § 6662A(b)(2) Items To Which Section Applies — 
+                  
+                  
+This section shall apply to any item which is attributable to— 
+
+I.R.C. § 6662A(b)(2)(A)  — 
+                     
+                     
+any  listed transaction, and 
+
+
+I.R.C. § 6662A(b)(2)(B)  — 
+                     
+                     
+any  reportable transaction (other than a listed transaction) if a significant purpose
+                        of such transaction is the avoidance or evasion of Federal income tax.
+I.R.C. § 6662A(c) Higher Penalty For Nondisclosed Listed And Other Avoidance Transactions — 
+               
+               
+Subsection (a) shall be applied by substituting “30 percent” for “20  percent” with
+                  respect to the portion of any reportable transaction     understatement with respect
+                  to which the requirement of section 6664(d)(3)(A) 
+                  is not met.
+I.R.C. § 6662A(d) Definitions Of Reportable And Listed Transactions — 
+               
+               
+For purposes of    this section, the terms “reportable transaction” and “listed transaction”
+                  have  the respective meanings given to such terms  by section 6707A(c).
+I.R.C. § 6662A(e) Special Rules
+
+
+I.R.C. § 6662A(e)(1) Coordination With Penalties, Etc., On Other Understatements — 
+                  
+                  
+In  the case of an understatement (as defined in section 6662(d)(2))— 
+
+I.R.C. § 6662A(e)(1)(A)  — 
+                     
+                     
+the  amount of such understatement
+                        (determined without regard to this  paragraph) shall be increased by the aggregate
+                        amount of reportable transaction understatements for purposes of determining whether
+                        such understatement is a substantial understatement under section 6662(d)(1), and 
+
+
+I.R.C. § 6662A(e)(1)(B)  — 
+                     
+                     
+the  addition to tax under section 6662(a) shall apply only to the         excess of the amount of the substantial understatement
+                        (if any) after the application of subparagraph (A) over the aggregate amount of  reportable
+                        transaction understatements. 
+
+
+
+I.R.C. § 6662A(e)(2)  Coordination With Other Penalties
+
+
+I.R.C. § 6662A(e)(2)(A) Coordination With Fraud Penalty — 
+                     
+                     
+This  section shall not apply to any portion of an understatement on  which a penalty
+                        is imposed under section 6663. 
+
+
+I.R.C. § 6662A(e)(2)(B) Coordination With Certain Increased Underpayment Penalties — 
+                     
+                     
+This section  shall not apply to any portion of an understatement on  which a penalty
+                        is imposed under section 6662 if the rate of the  penalty is determined under  subsections (h) or (i) of section
+                        6662. 
+
+
+
+I.R.C. § 6662A(e)(3) Special Rule For Amended Returns — 
+                  
+                  
+Except as provided in  regulations, in no event shall any tax  treatment included
+                     with an amendment or supplement to a return of tax  be taken into account in determining
+                     the amount of any reportable
+                     transaction understatement if the amendment or  supplement is filed
+                     after the earlier of the date the taxpayer is first contacted by the  Secretary regarding
+                     the examination of the return or such other date  as is specified by the Secretary.

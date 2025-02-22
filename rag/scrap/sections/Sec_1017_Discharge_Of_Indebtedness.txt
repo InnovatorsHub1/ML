@@ -1,0 +1,263 @@
+Sec. 1017. Discharge Of Indebtedness
+
+I.R.C. § 1017(a) General Rule — 
+               
+               
+If— 
+
+I.R.C. § 1017(a)(1)  — 
+                  
+                  
+an amount is excluded from gross income under subsection  (a) of section 108 (relating to discharge of indebtedness), and 
+
+
+I.R.C. § 1017(a)(2)  — 
+                  
+                  
+under subsection (b)(2)(E), (b)(5), or (c)(1)  of section 108, any portion of such amount  is to be applied to reduce basis, 
+
+
+then such portion shall be applied in  reduction of the basis of any property held
+                     by the taxpayer at the  beginning of the taxable year following the taxable year in
+                     which the  discharge occurs.
+I.R.C. § 1017(b) Amount And Properties Determined Under Regulations
+
+
+I.R.C. § 1017(b)(1) In General — 
+                  
+                  
+The  amount of reduction to be applied under subsection
+                     (a) (not in excess of  the portion referred to in subsection (a)), and the particular
+                     properties  the bases of which are to be reduced, shall be determined under  regulations
+                     prescribed by the Secretary. 
+
+
+I.R.C. § 1017(b)(2) Limitation In Title 11 Case Or Insolvency — 
+                  
+                  
+In  the case of a discharge to which subparagraph (A)
+                     or (B) of section  108(a)(1) applies, the reduction in basis under subsection (a) of this  section shall not exceed
+                     the excess of— 
+
+I.R.C. § 1017(b)(2)(A)  — 
+                     
+                     
+the aggregate of the bases of the property held by the  taxpayer immediately after
+                        the discharge, over 
+
+
+I.R.C. § 1017(b)(2)(B)  — 
+                     
+                     
+the aggregate of the liabilities of the taxpayer  immediately after the discharge. 
+
+
+The preceding sentence shall not apply to any reduction
+                        in basis by reason of an election under section 108(b)(5).
+
+
+
+I.R.C. § 1017(b)(3) Certain Reductions May Only Be Made In The Basis Of Depreciable Property
+
+
+I.R.C. § 1017(b)(3)(A) In General — 
+                     
+                     
+Any  amount which under subsection (b)(5) or (c)(1)
+                        of section 108 is to be applied to reduce  basis shall be applied only to reduce the basis of depreciable
+                        property  held by the taxpayer. 
+
+
+I.R.C. § 1017(b)(3)(B) Depreciable Property — 
+                     
+                     
+For  purposes of this section, the term “depreciable property” means any  property
+                        of a character subject to the allowance for depreciation, but  only if a basis reduction
+                        under subsection
+                        (a) will reduce the amount of  depreciation or amortization which otherwise would
+                        be allowable for the  period immediately following such reduction. 
+
+
+I.R.C. § 1017(b)(3)(C) Special Rule For Partnership Interests — 
+                     
+                     
+For  purposes of this section, any interest of a partner in a partnership shall  be
+                        treated as depreciable property to the extent of such partner's  proportionate interest
+                        in the depreciable property held by such  partnership. The preceding sentence shall
+                        apply only if there is a  corresponding reduction in the partnership's basis in depreciable
+                        property  with respect to such partner. 
+
+
+I.R.C. § 1017(b)(3)(D) Special Rule In Case Of Affiliated Group — 
+                     
+                     
+For  purposes of this section, if— 
+
+I.R.C. § 1017(b)(3)(D)(i)  — 
+                        
+                        
+a corporation holds stock in another corporation  (hereinafter in this subparagraph
+                           referred to as the
+                           “subsidiary”), and 
+
+
+I.R.C. § 1017(b)(3)(D)(ii)  — 
+                        
+                        
+such corporations are members of the same affiliated  group which file a consolidated
+                           return under section 1501 for the taxable  year in which the discharge occurs, 
+
+
+then such stock shall be treated as  depreciable property to the extent that such
+                           subsidiary consents to a  corresponding reduction in the basis of its depreciable
+                           property.
+
+
+
+I.R.C. § 1017(b)(3)(E) Election To Treat Certain Inventory As Depreciable Property
+
+
+I.R.C. § 1017(b)(3)(E)(i) In General — 
+                        
+                        
+At  the election of the taxpayer, for purposes of this section, the term  “depreciable
+                           property” includes any real property which is described in  section 1221(a)(1). 
+
+
+I.R.C. § 1017(b)(3)(E)(ii) Election — 
+                        
+                        
+An  election under clause (i) shall be made on the taxpayer's return for the  taxable
+                           year in which the discharge occurs or at such other time as may be  permitted in regulations
+                           prescribed by the Secretary. Such an election,  once made, may be revoked only with
+                           the consent of the Secretary. 
+
+
+
+I.R.C. § 1017(b)(3)(F) Special Rules For Qualified Real Property Business Indebtedness — 
+                     
+                     
+In  the case of any amount which under section 108(c)(1) is to be applied to  reduce basis— 
+
+I.R.C. § 1017(b)(3)(F)(i)  — 
+                        
+                        
+depreciable property shall only include depreciable real  property for purposes of
+                           subparagraphs (A)
+                           and (C), 
+
+
+I.R.C. § 1017(b)(3)(F)(ii)  — 
+                        
+                        
+subparagraph (E) shall not apply, and 
+
+
+I.R.C. § 1017(b)(3)(F)(iii)  — 
+                        
+                        
+in the case of property taken into account under section  108(c)(2)(B), the reduction with respect to such property shall be made as  of the time immediately
+                           before disposition if earlier than the time under
+                           subsection (a). 
+
+
+
+
+I.R.C. § 1017(b)(4) Special Rules For Qualified Farm Indebtedness
+
+
+I.R.C. § 1017(b)(4)(A) In General — 
+                     
+                     
+Any  amount which under subsection (b)(2)(E) of section 108 is to be applied to  reduce basis and which is attributable to an amount excluded
+                        under  subsection
+                        (a)(1)(C) of section 108— 
+
+I.R.C. § 1017(b)(4)(A)(i)  — 
+                        
+                        
+shall be applied only to reduce the basis of qualified  property held by the taxpayer,
+                           and 
+
+
+I.R.C. § 1017(b)(4)(A)(ii)  — 
+                        
+                        
+shall be applied to reduce the basis of qualified  property in the following order: 
+
+I.R.C. § 1017(b)(4)(A)(ii)(I)  — 
+                           
+                           
+First the basis of qualified property which is  depreciable property. 
+
+
+I.R.C. § 1017(b)(4)(A)(ii)(II)  — 
+                           
+                           
+Second the basis of qualified property which is land  used or held for use in the
+                              trade or business of farming. 
+
+
+I.R.C. § 1017(b)(4)(A)(ii)(III)  — 
+                           
+                           
+Then the basis of other qualified property. 
+
+
+
+
+I.R.C. § 1017(b)(4)(B) Qualified Property — 
+                     
+                     
+For  purposes of this paragraph, the term “qualified property” has the meaning  given
+                        to such term by section 108(g)(3)(C). 
+
+
+I.R.C. § 1017(b)(4)(C) Certain Rules Made Applicable — 
+                     
+                     
+Rules  similar to the rules of subparagraphs (C), (D), and (E) of paragraph (3)  shall
+                        apply for purposes of this paragraph and section 108(g).
+I.R.C. § 1017(c) Special Rules
+
+
+I.R.C. § 1017(c)(1) Reduction Not To Be Made In Exempt Property — 
+                  
+                  
+In  the case of an amount excluded from gross income under section  108(a)(1)(A), no reduction in basis shall be made under this section in  the basis of property
+                     which the debtor treats as exempt property under  section 522 of title 11 of the United
+                     States Code. 
+
+
+I.R.C. § 1017(c)(2) Reductions In Basis Not Treated As Dispositions — 
+                  
+                  
+For  purposes of this title, a reduction in basis under this section shall not  be
+                     treated as a disposition.
+I.R.C. § 1017(d) Recapture Of Reductions
+
+
+I.R.C. § 1017(d)(1) In General — 
+                  
+                  
+For  purposes of sections 1245 and 1250— 
+
+I.R.C. § 1017(d)(1)(A)  — 
+                     
+                     
+any property the basis of which is reduced under this  section and which is neither
+                        section 1245 property nor section 1250  property shall be treated as section 1245 property, and 
+
+
+I.R.C. § 1017(d)(1)(B)  — 
+                     
+                     
+any reduction under this section shall be treated as a  deduction allowed for depreciation. 
+
+
+
+I.R.C. § 1017(d)(2) Special Rule For Section 1250 — 
+                  
+                  
+For  purposes of section 1250(b), the determination of what would have been the  depreciation adjustments under the
+                     straight line method shall be made as  if there had been no reduction under this section.

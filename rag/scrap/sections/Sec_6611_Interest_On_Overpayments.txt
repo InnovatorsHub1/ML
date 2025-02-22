@@ -1,0 +1,344 @@
+Sec. 6611. Interest On Overpayments
+
+I.R.C. § 6611(a) Rate — 
+               
+               
+Interest  shall be allowed and paid upon any overpayment
+                  in respect of any internal  revenue tax at the overpayment rate established
+                  under section 6621.
+I.R.C. § 6611(b) Period — 
+               
+               
+Such  interest shall be allowed and paid as follows: 
+
+I.R.C. § 6611(b)(1) Credits — 
+                  
+                  
+In  the case of a credit, from the date of the overpayment
+                     to the due date of  the amount against which the credit is taken. 
+
+
+I.R.C. § 6611(b)(2) Refunds — 
+                  
+                  
+In  the case of a refund, from the date of the overpayment
+                     to a date (to be  determined by the Secretary) preceding the date
+                     of the refund check by not  more than 30 days, whether or not such
+                     refund check is accepted by the  taxpayer after tender of such check
+                     to the taxpayer. The acceptance of  such check shall be without prejudice
+                     to any right of the taxpayer to  claim any additional overpayment
+                     and interest thereon. 
+
+
+I.R.C. § 6611(b)(3) Late Returns — 
+                  
+                  
+Notwithstanding  paragraph (1) or (2) in the case of
+                     a return of tax which is filed after  the last date prescribed for
+                     filing such return (determined with regard to  extensions), no interest
+                     shall be allowed or paid for any day before the  date on which the
+                     return is filed.
+I.R.C. § 6611(c)  — 
+               
+               
+[(c) Repealed. Pub. L. 85-866, title I, 83(c), Sept. 2,
+                  1958, 72 Stat. 1664]
+I.R.C. § 6611(d) Advance Payment Of Tax, Payment Of Estimated Tax, And Credit
+                  For Income Tax Withholding — 
+               
+               
+The  provisions of section 6513 (except the provisions of
+                  subsection (c)  thereof, applicable in determining the date of payment
+                  of tax for purposes  of determining the period of limitation on credit
+                  or refund, shall be  applicable in determining the date of payment
+                  for purposes of subsection  (a).
+I.R.C. § 6611(e) Disallowance Of Interest On Certain Overpayments
+
+
+I.R.C. § 6611(e)(1) Refunds Within 45 Days After Return Is Filed — 
+                  
+                  
+If  any overpayment of tax imposed by this title is
+                     refunded within 45 days  after the last day prescribed for filing
+                     the return of such tax  (determined without regard to any extension
+                     of time for filing the return)  or, in the case of a return filed
+                     after such last date, is refunded within  45 days after the date the
+                     return is filed, no interest shall be allowed  under subsection (a)
+                     on such overpayment. 
+
+
+I.R.C. § 6611(e)(2) Refunds After Claim For Credit Or Refund — 
+                  
+                  
+If— 
+
+I.R.C. § 6611(e)(2)(A)  — 
+                     
+                     
+the taxpayer files a claim for a
+                        credit or refund for  any overpayment of tax imposed by this title,
+                        and 
+
+
+I.R.C. § 6611(e)(2)(B)  — 
+                     
+                     
+such overpayment is refunded within
+                        45 days after such  claim is filed, no interest shall be allowed on
+                        such overpayment from the  date the claim is filed until the day the
+                        refund is  made. 
+
+
+
+I.R.C. § 6611(e)(3) IRS Initiated Adjustments — 
+                  
+                  
+If  an adjustment initiated by the Secretary, results
+                     in a refund or credit of  an overpayment, interest on such overpayment
+                     shall be computed by  subtracting 45 days from the number of days
+                     interest would otherwise be  allowed with respect to such overpayment.
+                     1
+
+
+1 Amendments:
+                           Section 13271(a) of
+                           the Revenue Reconciliation Act of 1993 amended  subsection (e) of
+                           section 6611.  Subsection (e) formerly read:
+                           *******
+                           (e) Income tax refund within 45 days after return
+                           is filed
+                           If any overpayment of tax imposed by subtitle A
+                           is refunded within 45  days after the last date prescribed for filing
+                           the return of such tax  (determined without regard to any extension
+                           of time for filing the return)  or, in case the return is filed after
+                           such last date, is refunded within  45 days after the date the return
+                           is filed, no interest shall be allowed  under subsection (a) on such
+                           overpayment.
+                           *******
+                           Effective Date
+                           (1) Paragraph (1) of section 6611(e) of the Internal Revenue
+                           Code of  1986 (as amended by subsection (a)) shall apply in the case
+                           of returns the  due date for which (determined without regard to extensions)
+                           is on or  after January 1, 1994.
+                           (2) Paragraph (2) of section 6611(e) of such Code
+                           (as so amended) shall  apply in the case of claims for credit or refund
+                           of any overpayment filed  on or after January 1, 1995, regardless
+                           of the taxable period to which  such refund relates.
+                           (3) Paragraph (3) of section 6611(e) of such Code
+                           (as so amended) shall  apply in the case of any refund paid on or
+                           after January 1, 1995,  regardless of the taxable period to which
+                           such refund  relates.
+                           
+ 
+
+
+I.R.C. § 6611(e)(4) Certain Withholding Taxes — 
+                  
+                  
+In the case of any overpayment resulting from tax deducted
+                     and withheld under chapter 3 or 4, paragraphs (1), (2), and (3) shall
+                     be applied by substituting “180 days” for “45 days”
+                     each place it appears.
+I.R.C. § 6611(f) Refund Of Income Tax Caused By Carryback Or Adjustment For Certain
+                  Unused Deductions
+
+
+I.R.C. § 6611(f)(1) Net Operating Loss Or Capital Loss Carryback — 
+                  
+                  
+For  purposes of subsection (a), if any overpayment
+                     of tax imposed by subtitle  A results from a carryback of a net operating
+                     loss or net capital loss,  such overpayment shall be deemed not to
+                     have been made prior to the filing  date for the taxable year in which
+                     such net operating loss or net capital  loss arises. 
+
+
+I.R.C. § 6611(f)(2)  Foreign Tax Credit Carrybacks — 
+                  
+                  
+If  any credit allowed for any taxable year is increased
+                     by reason of a  carryback of tax paid or accrued to foreign countries
+                     or possessions of  the United States, such increase shall not affect
+                     the computation of  interest under this section for the period ending
+                     with the filing date for  the taxable year in which such taxes were
+                     in fact paid or accrued, or,  with respect to any portion of such
+                     credit carryback from a taxable year  attributable to a net operating
+                     loss carryback or a capital loss carryback  from a subsequent taxable
+                     year, such increase shall not affect the  computation of interest
+                     under this section for the period ending with the  filing date for
+                     such subsequent taxable year. 
+
+
+I.R.C. § 6611(f)(3) Certain Credit Carrybacks
+
+
+I.R.C. § 6611(f)(3)(A) In General — 
+                     
+                     
+For  purposes of subsection (a), if any overpayment
+                        of tax imposed by subtitle  A results from a credit carryback, such
+                        overpayment shall be deemed not to  have been made before the filing
+                        date for the taxable year in which such  credit carryback arises,
+                        or, with respect to any portion of a credit  carryback from a taxable
+                        year attributable to a net operating loss  carryback, capital loss
+                        carryback, or other credit carryback from a  subsequent taxable year,
+                        such overpayment shall be deemed not to have been  made before the
+                        filing date for such subsequent taxable year. 
+
+
+I.R.C. § 6611(f)(3)(B) Credit Carryback Defined — 
+                     
+                     
+For  purposes of this paragraph, the term “credit carryback"
+                        has the meaning  given such term by section 6511(d)(4)(C). 
+
+
+
+I.R.C. § 6611(f)(4) Special Rules For Paragraphs (1), (2), And (3)
+
+
+I.R.C. § 6611(f)(4)(A) Filing Date — 
+                     
+                     
+For  purposes of this subsection, the term “filing date"
+                        means the last date  prescribed for filing the return of tax imposed
+                        by subtitle A for the  taxable year (determined without regard to
+                        extensions). 
+
+
+I.R.C. § 6611(f)(4)(B) Coordination With Subsection (e)
+
+
+I.R.C. § 6611(f)(4)(B)(i) In General — 
+                        
+                        
+For  purposes of subsection (e)— 
+
+I.R.C. § 6611(f)(4)(B)(i)(I)  — 
+                           
+                           
+any overpayment described in paragraph
+                              (1), (2), or (3)  shall be treated as an overpayment for the loss
+                              year, and 
+
+
+I.R.C. § 6611(f)(4)(B)(i)(II)  — 
+                           
+                           
+such subsection shall be applied
+                              with respect to such  overpayment by treating the return for the loss
+                              year as not filed before  claim for such overpayment is filed. 
+
+
+
+I.R.C. § 6611(f)(4)(B)(ii) Loss Year — 
+                        
+                        
+For  purposes of this subparagraph, the term “loss year"
+                           means— 
+
+I.R.C. § 6611(f)(4)(B)(ii)(I)  — 
+                           
+                           
+in the case of a carryback of a
+                              net operating loss or  net capital loss, the taxable year in which
+                              such loss arises, 
+
+
+I.R.C. § 6611(f)(4)(B)(ii)(II)  — 
+                           
+                           
+in the case of a carryback of taxes
+                              paid or accrued to  foreign countries or possessions of the United
+                              States, the taxable year in  which such taxes were in fact paid or
+                              accrued (or, with respect to any  portion of such carryback from a
+                              taxable year attributable to a net  operating loss carryback or a
+                              capital loss carryback from a subsequent  taxable year, such subsequent
+                              taxable year), and 
+
+
+I.R.C. § 6611(f)(4)(B)(ii)(III)  — 
+                           
+                           
+in  the case of a credit carryback
+                              (as defined in paragraph (3)(B)), the  taxable year in which such
+                              credit carryback arises (or, with respect to  any portion of a credit
+                              carryback from a taxable year attributable to a  net operating loss
+                              carryback, a capital loss carryback, or other credit  carryback from
+                              a subsequent taxable year, such subsequent taxable year). 
+
+
+
+
+I.R.C. § 6611(f)(4)(C) Application Of Subparagraph (B) Where Section 6411(a) Claim
+                        Filed — 
+                     
+                     
+For  purposes of subparagraph (B)(i)(II), if a taxpayer— 
+
+I.R.C. § 6611(f)(4)(C)(i)  — 
+                        
+                        
+files a claim for refund of any
+                           overpayment described in  paragraph (1),  (2), or (3) with respect
+                           to the taxable year to which a loss or  credit is carried back, and 
+
+
+I.R.C. § 6611(f)(4)(C)(ii)  — 
+                        
+                        
+subsequently files an application
+                           under section 6411(a) 
+                           with respect to such overpayment, 
+
+
+then the claim for overpayment shall
+                           be  treated as having been filed on the date the application under
+                           section  6411(a) was
+                           filed.
+I.R.C. § 6611(g) No Interest Until Return In Processible Form
+
+
+I.R.C. § 6611(g)(1)  — 
+                  
+                  
+For purposes of subsections (b)(3)
+                     and (e), a return  shall not be treated as filed until it is filed
+                     in processible form. 
+
+
+I.R.C. § 6611(g)(2)  — 
+                  
+                  
+For purposes of paragraph (1), a
+                     return is in a  processible form if— 
+
+I.R.C. § 6611(g)(2)(A)  — 
+                     
+                     
+such return is filed on a permitted
+                        form, and 
+
+
+I.R.C. § 6611(g)(2)(B)  — 
+                     
+                     
+such return contains—- 
+
+I.R.C. § 6611(g)(2)(B)(i)  — 
+                        
+                        
+the taxpayer's name, address, and
+                           identifying number and  the required signature, and 
+
+
+I.R.C. § 6611(g)(2)(B)(ii)  — 
+                        
+                        
+sufficient required information
+                           (whether on the return  or on required attachments) to permit the
+                           mathematical verification of tax  liability shown on the return.
+I.R.C. § 6611(h) Prohibition Of Administrative Review — 
+               
+               
+For  prohibition of administrative review, see section 6406.

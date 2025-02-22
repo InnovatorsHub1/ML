@@ -1,0 +1,276 @@
+Sec. 4960. Tax On Excess Tax-Exempt Organization Executive Compensation
+
+I.R.C. § 4960(a) Tax Imposed — 
+               
+               
+There is hereby imposed a tax equal to the product of the rate of tax under section
+                  11 and the sum of— 
+
+I.R.C. § 4960(a)(1)  — 
+                  
+                  
+so much of the remuneration paid (other than any excess parachute payment) by an applicable
+                     tax-exempt organization for the taxable year with respect to employment of any covered
+                     employee in excess of $1,000,000, plus 
+
+
+I.R.C. § 4960(a)(2)  — 
+                  
+                  
+any excess parachute payment paid by such an organization to any covered employee. 
+
+
+For purposes of the preceding sentence, remuneration shall be treated as paid when
+                     there is no substantial risk of forfeiture (within the meaning of section 457(f)(3)(B)) of the rights to such remuneration.
+I.R.C. § 4960(b) Liability For Tax — 
+               
+               
+The employer shall be liable for the tax imposed under subsection (a).
+I.R.C. § 4960(c) Definitions And Special Rules — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 4960(c)(1) Applicable Tax-Exempt Organization — 
+                  
+                  
+The term “applicable tax-exempt organization”
+                     means any organization which for the taxable year— 
+
+I.R.C. § 4960(c)(1)(A)  — 
+                     
+                     
+is exempt from taxation under section 501(a), 
+
+
+I.R.C. § 4960(c)(1)(B)  — 
+                     
+                     
+is a farmers’ cooperative organization described in section 521(b)(1), 
+
+
+I.R.C. § 4960(c)(1)(C)  — 
+                     
+                     
+has income excluded from taxation under section 115(1), or 
+
+
+I.R.C. § 4960(c)(1)(D)  — 
+                     
+                     
+is a political organization described in section 527(e)(1). 
+
+
+
+I.R.C. § 4960(c)(2) Covered Employee — 
+                  
+                  
+For purposes of this section, the term “covered employee” means any employee (including
+                     any former employee)
+                     of an applicable tax-exempt organization if the employee— 
+
+I.R.C. § 4960(c)(2)(A)  — 
+                     
+                     
+is one of the 5 highest compensated employees of the organization for the taxable
+                        year, or 
+
+
+I.R.C. § 4960(c)(2)(B)  — 
+                     
+                     
+was a covered employee of the organization
+                        (or any predecessor) for any preceding taxable year beginning after December 31, 2016. 
+
+
+
+I.R.C. § 4960(c)(3) Remuneration — 
+                  
+                  
+For purposes of this section: 
+
+I.R.C. § 4960(c)(3)(A) In General — 
+                     
+                     
+The term “remuneration” means wages (as defined in section 3401(a)), except that such term shall not include any designated Roth contribution
+                        (as defined in section 402A(c))
+                        and shall include amounts required to be included in gross income under section 457(f). 
+
+
+I.R.C. § 4960(c)(3)(B) Exception For Remuneration For Medical Services — 
+                     
+                     
+The term “remuneration” shall not include the portion of any remuneration paid to
+                        a licensed medical professional
+                        (including a veterinarian) which is for the performance of medical or veterinary services
+                        by such professional. 
+
+
+
+I.R.C. § 4960(c)(4) Remuneration From Related Organizations
+
+
+I.R.C. § 4960(c)(4)(A) In General — 
+                     
+                     
+Remuneration of a covered employee by an applicable tax-exempt organization shall
+                        include any remuneration paid with respect to employment of such employee by any related
+                        person or governmental entity. 
+
+
+I.R.C. § 4960(c)(4)(B) Related Organizations — 
+                     
+                     
+A person or governmental entity shall be treated as related to an applicable tax-exempt
+                        organization if such person or governmental entity— 
+
+I.R.C. § 4960(c)(4)(B)(i)  — 
+                        
+                        
+controls, or is controlled by, the organization, 
+
+
+I.R.C. § 4960(c)(4)(B)(ii)  — 
+                        
+                        
+is controlled by one or more persons which control the organization, 
+
+
+I.R.C. § 4960(c)(4)(B)(iii)  — 
+                        
+                        
+is a supported organization (as defined in section 509(f)(3))
+                           during the taxable year with respect to the organization, 
+
+
+I.R.C. § 4960(c)(4)(B)(iv)  — 
+                        
+                        
+is a supporting organization described in section 509(a)(3) during the taxable year with respect to the organization, or 
+
+
+I.R.C. § 4960(c)(4)(B)(v)  — 
+                        
+                        
+in the case of an organization which is a voluntary employees’ beneficiary association
+                           described in section 501(c)(9), establishes, maintains, or makes contributions to such voluntary employees’
+                           beneficiary association. 
+
+
+
+I.R.C. § 4960(c)(4)(C) Liability For Tax — 
+                     
+                     
+In any case in which remuneration from more than one employer is taken into account
+                        under this paragraph in determining the tax imposed by subsection (a), each such employer
+                        shall be liable for such tax in an amount which bears the same ratio to the total
+                        tax determined under subsection (a) with respect to such remuneration as— 
+
+I.R.C. § 4960(c)(4)(C)(i)  — 
+                        
+                        
+the amount of remuneration paid by such employer with respect to such employee, bears
+                           to 
+
+
+I.R.C. § 4960(c)(4)(C)(ii)  — 
+                        
+                        
+the amount of remuneration paid by all such employers to such employee. 
+
+
+
+
+I.R.C. § 4960(c)(5) Excess Parachute Payment — 
+                  
+                  
+For purposes of determining the tax imposed by subsection
+                     (a)(2)— 
+
+I.R.C. § 4960(c)(5)(A) In General — 
+                     
+                     
+The term “excess parachute payment” means an amount equal to the excess of any parachute
+                        payment over the portion of the base amount allocated to such payment. 
+
+
+I.R.C. § 4960(c)(5)(B) Parachute Payment — 
+                     
+                     
+The term “parachute payment” means any payment in the nature of compensation to (or
+                        for the benefit of) a covered employee if— 
+
+I.R.C. § 4960(c)(5)(B)(i)  — 
+                        
+                        
+such payment is contingent on such employee's separation from employment with the
+                           employer, and 
+
+
+I.R.C. § 4960(c)(5)(B)(ii)  — 
+                        
+                        
+the aggregate present value of the payments in the nature of compensation to (or for
+                           the benefit of) such individual which are contingent on such separation equals or
+                           exceeds an amount equal to 3 times the base amount. 
+
+
+
+I.R.C. § 4960(c)(5)(C) Exception — 
+                     
+                     
+Such term does not include any payment— 
+
+I.R.C. § 4960(c)(5)(C)(i)  — 
+                        
+                        
+described in section 280G(b)(6) (relating to exemption for payments under qualified plans), 
+
+
+I.R.C. § 4960(c)(5)(C)(ii)  — 
+                        
+                        
+made under or to an annuity contract described in section 403(b) or a plan described in section 457(b), 
+
+
+I.R.C. § 4960(c)(5)(C)(iii)  — 
+                        
+                        
+to a licensed medical professional
+                           (including a veterinarian) to the extent that such payment is for the performance
+                           of medical or veterinary services by such professional, or 
+
+
+I.R.C. § 4960(c)(5)(C)(iv)  — 
+                        
+                        
+to an individual who is not a highly compensated employee as defined in section 414(q). 
+
+
+
+I.R.C. § 4960(c)(5)(D) Base Amount — 
+                     
+                     
+Rules similar to the rules of 280G(b)(3) shall apply for purposes of determining the
+                        base amount. 
+
+
+I.R.C. § 4960(c)(5)(E) Property Transfers; Present Value — 
+                     
+                     
+Rules similar to the rules of paragraphs (3) and (4)
+                        of section 280G(d) shall apply. 
+
+
+
+I.R.C. § 4960(c)(6) Coordination With Deduction Limitation — 
+                  
+                  
+Remuneration the deduction for which is not allowed by reason of section 162(m) shall not be taken into account for purposes of this section.
+I.R.C. § 4960(d) Regulations — 
+               
+               
+The Secretary shall prescribe such regulations as may be necessary to prevent avoidance
+                  of the tax under this section, including regulations to prevent avoidance of such
+                  tax through the performance of services other than as an employee or by providing
+                  compensation through a pass-through or other entity to avoid such tax.

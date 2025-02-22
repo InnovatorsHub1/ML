@@ -1,0 +1,601 @@
+Sec. 6433. Saver's Match
+
+I.R.C. § 6433(a) In General.
+
+
+I.R.C. § 6433(a)(1) Allowance of Match. — 
+                  
+                  
+Any eligible individual who makes qualified retirement savings contributions for the
+                     taxable year shall be allowed a matching contribution for such taxable year in an
+                     amount equal to the applicable percentage of so much of the qualified retirement savings
+                     contributions made by such eligible individual for the taxable year as does not exceed
+                     $2,000. 
+
+
+I.R.C. § 6433(a)(2) Payment of Match.
+
+
+I.R.C. § 6433(a)(2)(A) In General. — 
+                     
+                     
+Except as provided in subparagraph (B), the matching contribution under this section shall be allowed as a credit which
+                        shall be payable by the Secretary as a contribution (as soon as practicable after
+                        the eligible individual has filed a tax return making a claim for such matching contribution
+                        for the taxable year) to the applicable retirement savings vehicle of the eligible
+                        individual. 
+
+
+I.R.C. § 6433(a)(2)(B) Exception. — 
+                     
+                     
+In the case of an eligible individual who elects the application of this subparagraph
+                        and with respect to whom the matching contribution determined under paragraph (1) is greater than zero but less than $100 for the taxable year, subparagraph (A) shall not apply and such matching contribution shall be treated as a credit allowed
+                        by subpart C of part IV of subchapter A of chapter 1.
+I.R.C. § 6433(b) Applicable Percentage.— — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 6433(b)(1) In General. — 
+                  
+                  
+Except as provided in paragraph (2), the applicable percentage is 50 percent. 
+
+
+I.R.C. § 6433(b)(2) Phaseout. — 
+                  
+                  
+The percentage under paragraph (1) shall be reduced (but not below zero) by the number of percentage points which bears
+                     the same ratio to 50 percentage points as— 
+
+I.R.C. § 6433(b)(2)(A) the excess of
+
+
+I.R.C. § 6433(b)(2)(A)(i)  — 
+                        
+                        
+the taxpayer's modified adjusted gross income for such taxable year, over 
+
+
+I.R.C. § 6433(b)(2)(A)(ii)  — 
+                        
+                        
+the applicable dollar amount, bears to 
+
+
+
+I.R.C. § 6433(b)(2)(B)  — 
+                     
+                     
+the phaseout range. 
+
+
+If any reduction determined under this paragraph is not a whole percentage point,
+                        such reduction shall be rounded to the next lowest whole percentage point.
+
+
+
+I.R.C. § 6433(b)(3) Applicable Dollar Amount; Phaseout Range.
+
+
+I.R.C. § 6433(b)(3)(A) Joint Returns and Surviving Spouses. — 
+                     
+                     
+Except as provided in subparagraph (B) — 
+
+I.R.C. § 6433(b)(3)(A)(i)  — 
+                        
+                        
+the applicable dollar amount is $41,000, and 
+
+
+I.R.C. § 6433(b)(3)(A)(ii)  — 
+                        
+                        
+the phaseout range is $30,000. 
+
+
+
+I.R.C. § 6433(b)(3)(B) Other Returns. — 
+                     
+                     
+In the case of— 
+
+I.R.C. § 6433(b)(3)(B)(i)  — 
+                        
+                        
+a head of a household (as defined in section 2(b)), the applicable dollar amount and the phaseout range shall be ¾ of the amounts applicable
+                           under subparagraph (A) (as adjusted under subsection (h)), and 
+
+
+I.R.C. § 6433(b)(3)(B)(ii)  — 
+                        
+                        
+any taxpayer who is not filing a joint return, who is not a head of a household (as
+                           so defined), and who is not a surviving spouse (as defined in section 2(a)), the applicable dollar amount and the phaseout range shall be ½ of the amounts applicable
+                           under subparagraph (A) (as so adjusted).
+I.R.C. § 6433(c) Eligible Individual. — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 6433(c)(1) In General.— — 
+                  
+                  
+The term ‘eligible individual’ means any individual if such individual has attained
+                     the age of 18 as of the close of the taxable year. 
+
+
+I.R.C. § 6433(c)(2) Dependents and Full-Time Students not Eligible. — 
+                  
+                  
+The term ‘eligible individual’ shall not include— 
+
+I.R.C. § 6433(c)(2)(A)  — 
+                     
+                     
+any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year
+                        in which such individual's taxable year begins, and 
+
+
+I.R.C. § 6433(c)(2)(B)  — 
+                     
+                     
+any individual who is a student (as defined in section 152(f)(2)). 
+
+
+
+I.R.C. § 6433(c)(3) Nonresident Aliens not Eligible. — 
+                  
+                  
+The term ‘eligible individual’ shall not include any individual who is a nonresident
+                     alien individual for any portion of the taxable year unless such individual is treated
+                     for such taxable year as a resident of the United States for purposes of chapter 1
+                     by reason of an election under subsection (g) or (h) of section 6013.
+I.R.C. § 6433(d) Qualified Retirement Savings Contributions. — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 6433(d)(1) In General. — 
+                  
+                  
+The term ‘qualified retirement savings contributions’ means, with respect to any taxable
+                     year, the sum of— 
+
+I.R.C. § 6433(d)(1)(A)  — 
+                     
+                     
+the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual, 
+
+
+I.R.C. § 6433(d)(1)(B)  — 
+                     
+                     
+the amount of— 
+
+I.R.C. § 6433(d)(1)(B)(i)  — 
+                        
+                        
+any elective deferrals (as defined in section 402(g)(3)) of such individual, and 
+
+
+I.R.C. § 6433(d)(1)(B)(ii)  — 
+                        
+                        
+any elective deferral of compensation by such individual under an eligible deferred
+                           compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and 
+
+
+
+I.R.C. § 6433(d)(1)(C)  — 
+                     
+                     
+the amount of voluntary employee contributions by such individual to any qualified
+                        retirement plan (as defined in section 4974(c)). 
+
+
+Such term shall not include any amount attributable to a payment under subsection
+                        (a)(2).
+
+
+
+I.R.C. § 6433(d)(2) Reduction for Certain Distributions.—
+
+
+I.R.C. § 6433(d)(2)(A) In General. — 
+                     
+                     
+The qualified retirement savings contributions determined under paragraph (1) for a taxable year shall be reduced (but not below zero) by the aggregate distributions
+                        received by the individual during the testing period from any entity of a type to
+                        which contributions under paragraph (1) may be made. 
+
+
+I.R.C. § 6433(d)(2)(B) Testing Period. — 
+                     
+                     
+For purposes of subparagraph (A), the testing period, with respect to a taxable year, is the period which includes— 
+
+I.R.C. § 6433(d)(2)(B)(i)  — 
+                        
+                        
+such taxable year, 
+
+
+I.R.C. § 6433(d)(2)(B)(ii)  — 
+                        
+                        
+the 2 preceding taxable years, and 
+
+
+I.R.C. § 6433(d)(2)(B)(iii)  — 
+                        
+                        
+the period after such taxable year and before the due date (including extensions)
+                           for filing the return of tax for such taxable year. 
+
+
+
+I.R.C. § 6433(d)(2)(C) Excepted Distributions. — 
+                     
+                     
+There shall not be taken into account under subparagraph (A) — 
+
+I.R.C. § 6433(d)(2)(C)(i)  — 
+                        
+                        
+any distribution referred to in section 72(p), 401(k)(8), 401(m)(6), 402(g)(2), 404(k), or 408(d)(4), 
+
+
+I.R.C. § 6433(d)(2)(C)(ii)  — 
+                        
+                        
+any distribution to which section 408(d)(3) or 408A(d)(3) applies, and 
+
+
+I.R.C. § 6433(d)(2)(C)(iii)  — 
+                        
+                        
+any portion of a distribution if such portion is transferred or paid in a rollover
+                           contribution (as defined in section 402(c), 403(a)(4), 403(b)(8), 408A(e), or 457(e)(16)) to an account or plan to which qualified retirement savings contributions can be
+                           made. 
+
+
+
+I.R.C. § 6433(d)(2)(D) Treatment of Distributions Received by Spouse of Individual. — 
+                     
+                     
+For purposes of determining distributions received by an individual under subparagraph
+                        (A) for any taxable year, any distribution received by the spouse of such individual
+                        shall be treated as received by such individual if such individual and spouse file
+                        a joint return for such taxable year and for the taxable year during which the spouse
+                        receives the distribution.
+I.R.C. § 6433(e) Applicable Retirement Savings Vehicle.
+
+
+I.R.C. § 6433(e)(1) In General. — 
+                  
+                  
+The term ‘applicable retirement savings vehicle’ means an account or plan elected
+                     by the eligible individual under paragraph (2). 
+
+
+I.R.C. § 6433(e)(2) Election. — 
+                  
+                  
+Any such election to have contributed the amount determined under subsection (a) shall be to an account or plan which— 
+
+I.R.C. § 6433(e)(2)(A)  — 
+                     
+                     
+is— 
+
+I.R.C. § 6433(e)(2)(A)(i)  — 
+                        
+                        
+the portion of a plan which— 
+
+I.R.C. § 6433(e)(2)(A)(i)(I)  — 
+                           
+                           
+is described in clause (v) of section 402(c)(8)(B), is a qualified cash or deferred arrangement (within the meaning of section 401(k)), or is an annuity contract described in section 403(b) which is purchased under a salary reduction agreement, and 
+
+
+I.R.C. § 6433(e)(2)(A)(i)(II)  — 
+                           
+                           
+does not consist of a qualified Roth contribution program (as defined in section 402A(b)), or 
+
+
+
+I.R.C. § 6433(e)(2)(A)(ii)  — 
+                        
+                        
+an individual retirement plan which is not a Roth IRA, 
+
+
+
+I.R.C. § 6433(e)(2)(B)  — 
+                     
+                     
+is for the benefit of the eligible individual, 
+
+
+I.R.C. § 6433(e)(2)(C)  — 
+                     
+                     
+accepts contributions made under this section, and 
+
+
+I.R.C. § 6433(e)(2)(D)  — 
+                     
+                     
+is designated by such individual (in such form and manner as the Secretary may provide).
+I.R.C. § 6433(f) Other Definitions and Special Rules.
+
+
+I.R.C. § 6433(f)(1) Modified Adjusted Gross Income. — 
+                  
+                  
+For purposes of this section, the term ‘modified adjusted gross income’ means adjusted
+                     gross income— 
+
+I.R.C. § 6433(f)(1)(A)  — 
+                     
+                     
+determined without regard to sections 911, 931, and 933, and 
+
+
+I.R.C. § 6433(f)(1)(B)  — 
+                     
+                     
+determined without regard to any exclusion or deduction allowed for any qualified
+                        retirement savings contribution made during the taxable year. 
+
+
+
+I.R.C. § 6433(f)(2) Treatment of Contributions. — 
+                  
+                  
+In the case of any contribution under subsection (a)(2) — 
+
+I.R.C. § 6433(f)(2)(A)  — 
+                     
+                     
+except as otherwise provided in this section or by the Secretary under regulations,
+                        such contribution shall be treated as— 
+
+I.R.C. § 6433(f)(2)(A)(i)  — 
+                        
+                        
+an elective deferral made by the individual, if contributed to an applicable retirement
+                           savings vehicle described in subsection (e)(2)(A)(i), or 
+
+
+I.R.C. § 6433(f)(2)(A)(ii)  — 
+                        
+                        
+as an individual retirement plan contribution made by such individual, if contributed
+                           to such a plan, 
+
+
+
+I.R.C. § 6433(f)(2)(B)  — 
+                     
+                     
+such contribution shall not be taken into account with respect to any applicable limitation
+                        under sections 402(g)(1), 403(b), 408(a)(1), 408(b)(2)(B), 408A(c)(2), 414(v)(2), 415(c), or 457(b)(2), and shall be disregarded for purposes of sections 401(a)(4), 401(k)(3), 401(k)(11)(B)(i)(III), and 416, and 
+
+
+I.R.C. § 6433(f)(2)(C)  — 
+                     
+                     
+such contribution shall not be treated as an amount that may be paid, made available,
+                        or distributable to the participant under section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(i)(V), or 457(d)(1)(A)(iii). 
+
+
+
+I.R.C. § 6433(f)(3) Treatment of Qualified Plans, Etc. — 
+                  
+                  
+A plan or arrangement to which a contribution is made under this section shall not
+                     be treated as violating any requirement under section 401, 403, 408, or 457 solely by reason of accepting such contribution. 
+
+
+I.R.C. § 6433(f)(4) Erroneous Matching Contributions.
+
+
+I.R.C. § 6433(f)(4)(A) In General. — 
+                     
+                     
+If any contribution is erroneously paid under subsection (a)(2), including a payment that is not made to an applicable retirement savings vehicle,
+                        the amount of such erroneous payment shall be treated as an underpayment of tax (other
+                        than for purposes of part II of subchapter A of chapter 68) for the taxable year in
+                        which the Secretary determines the payment is erroneous. 
+
+
+I.R.C. § 6433(f)(4)(B) Distribution of Erroneous Matching Contributions. — 
+                     
+                     
+In the case of a contribution to which subparagraph (A) applies 
+
+I.R.C. § 6433(f)(4)(B)(i)  — 
+                        
+                        
+— section 402(a), 403(a)(1), 403(b)(1), 408(d)(1), or 457(a)(1), whichever is applicable,
+                           shall not apply to any distribution of such contribution, and section 72(t) shall
+                           not apply to the distribution of such contribution or any income attributable thereto,
+                           if such distribution is received not later than the day prescribed by law (including
+                           extensions of time) for filing the individual's return for such taxable year, and 
+
+
+I.R.C. § 6433(f)(4)(B)(ii)  — 
+                        
+                        
+— any plan or arrangement from which such a distribution is made under this subparagraph
+                           shall not be treated as violating any requirement under section 401, 403, or 457 solely
+                           by reason of making such distribution. 
+
+
+
+
+I.R.C. § 6433(f)(5) Exception from Reduction or Offset. — 
+                  
+                  
+Any payment made to any individual under this section shall not be— 
+
+I.R.C. § 6433(f)(5)(A)  — 
+                     
+                     
+subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or 
+
+
+I.R.C. § 6433(f)(5)(B)  — 
+                     
+                     
+reduced or offset by other assessed Federal taxes that would otherwise be subject
+                        to levy or collection. 
+
+
+
+I.R.C. § 6433(f)(6) Saver's Match Recovery Payments.
+
+
+I.R.C. § 6433(f)(6)(A) In General. — 
+                     
+                     
+In the case of an applicable retirement savings vehicle to which contributions have
+                        been made under subsection (a)(2), and from which a specified early distribution has been made during the taxable year,
+                        if the aggregate amount of such contributions exceeds the account balance of such
+                        savings vehicle at the end of the such taxable year, the tax imposed by chapter 1
+                        shall be increased by an amount equal to such excess (reduced by the amount by which
+                        the tax under such chapter was increased under section 72(t)(1) with respect to such distribution). 
+
+
+I.R.C. § 6433(f)(6)(B) Specified Early Distribution. — 
+                     
+                     
+For purposes of this paragraph, the term ‘specified early distribution’ means any
+                        portion of a distribution— 
+
+I.R.C. § 6433(f)(6)(B)(i)  — 
+                        
+                        
+which is from such applicable retirement savings vehicle to which a contribution has
+                           been made under subsection (a)(2), 
+
+
+I.R.C. § 6433(f)(6)(B)(ii)  — 
+                        
+                        
+which is includible in gross income, and 
+
+
+I.R.C. § 6433(f)(6)(B)(iii)  — 
+                        
+                        
+to which 72(t)(1) applies. 
+
+
+
+I.R.C. § 6433(f)(6)(C) Excess May Be Repaid.
+
+
+I.R.C. § 6433(f)(6)(C)(i) In General. — 
+                        
+                        
+The increase in tax for any taxable year under subparagraph (A) shall be reduced (but not below zero) by so much of such specified early distribution
+                           as the individual elects to contribute to an applicable retirement savings vehicle
+                           not later than the day prescribed by law (including extensions of time) for filing
+                           such individual's return for such taxable year. 
+
+
+I.R.C. § 6433(f)(6)(C)(ii) Contribution of Excess.— — 
+                        
+                        
+Any individual who elects to contribute an amount under clause (i) may make one or more contributions in an aggregate amount not to exceed the amount
+                           of the specified early distribution to which the election relates to an applicable
+                           retirement savings vehicle and to which a rollover contribution of such distribution
+                           could be made under section 402(c), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be. 
+
+
+I.R.C. § 6433(f)(6)(C)(iii) Limitation On Contributions To Applicable Retirement Savings Vehicle Other Than IRAs — 
+                        
+                        
+The aggregate amount of contributions made by an individual under clause (ii) to any applicable savings retirement vehicle which is not an individual retirement
+                           plan shall not exceed the aggregate amount of specified early retirement distributions
+                           which are made from such savings retirement vehicle to such individual. Clause (ii) shall not apply to contributions to any applicable retirement savings vehicle which
+                           is not an individual retirement plan unless the individual is eligible to make contributions
+                           (other than those described in clause (ii)) to such retirement savings vehicle. 
+
+
+I.R.C. § 6433(f)(6)(C)(iv) Treatment of Repayments of Distributions from Applicable Eligible Retirement Plans
+                           Other Than IRAs. — 
+                        
+                        
+If a contribution is made under clause (ii) with respect to a specified early distribution from an applicable savings retirement
+                           vehicle other than an individual retirement plan, then the taxpayer shall, to the
+                           extent of the amount of the contribution, be treated as having received such distribution
+                           in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the savings retirement vehicle in a direct
+                           trustee to trustee transfer within 60 days of the distribution. 
+
+
+I.R.C. § 6433(f)(6)(C)(v) Treatment of Repayments for Distributions from IRAs.— — 
+                        
+                        
+If a contribution is made under clause (ii) with respect to a specified early distribution from an individual retirement plan,
+                           then, to the extent of the amount of the contribution, such distribution shall be
+                           treated as a distribution described in section 408(d)(3) and as having been transferred to the applicable retirement savings vehicle in a
+                           direct trustee to trustee transfer within 60 days of the distribution. 
+
+
+
+I.R.C. § 6433(f)(6)(D) Rules to Account for Investment Loss. — 
+                     
+                     
+The Secretary shall prescribe such rules as may be appropriate to reduce any increase
+                        in tax otherwise made under subparagraph (A) to properly account for the extent to which any portion of the excess described in
+                        such subparagraph is allocable to investment loss in the retirement savings vehicle.
+I.R.C. § 6433(g) Provision by Secretary of Information Relating to Contributions. — 
+               
+               
+In the case of an amount elected by an eligible individual to be contributed to an
+                  account or plan under subsection (e)(2), the Secretary shall provide general guidance applicable to the custodian of the
+                  account or the plan sponsor, as the case may be, detailing the treatment of such contribution
+                  under subsection (f)(2) and the reporting requirements with respect to such contribution under section 6058, particularly as such requirements are modified pursuant to section 102(c)(2)1
+                   of the SECURE 2.0 Act of 2022.
+                  
+
+                           1 So in original. Section 102(c)(2) of the SECURE 2.0 Act of 2022, referred to in subsec.
+                              (g), probably means section 103(c)(2) of Div. T of Pub. L. 117–328,  SECURE 2.0 Act
+                              of 2022, which is set out as a note under section 6058 of this title and which directs
+                              the Secretary of the Treasury to amend the forms relating to reports required under
+                              section 6058. There is no section 102(c)(2) of the Act.
+I.R.C. § 6433(h) Inflation Adjustments.
+
+
+I.R.C. § 6433(h)(1) In General.— — 
+                  
+                  
+In the case of any taxable year beginning in a calendar year after 2027, the $41,000
+                     amount in subsection (b)(3)(A)(i) shall be increased by an amount equal to— 
+
+I.R.C. § 6433(h)(1)(A)  — 
+                     
+                     
+such dollar amount, multiplied by 
+
+
+I.R.C. § 6433(h)(1)(B)  — 
+                     
+                     
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting
+                        ‘calendar year 2026’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof. 
+
+
+
+I.R.C. § 6433(h)(2) Rounding. — 
+                  
+                  
+Any increase determined under paragraph (1) shall be rounded to the nearest multiple of $1,000.
