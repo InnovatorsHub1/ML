@@ -1,0 +1,51 @@
+Sec. 136. Energy Conservation Subsidies Provided By Public Utilities
+
+I.R.C. § 136(a) Exclusion — 
+               
+               
+Gross  income shall not include the value of any subsidy provided (directly or  indirectly)
+                  by a public utility to a customer for the purchase or  installation of any energy
+                  conservation measure.
+I.R.C. § 136(b) Denial Of Double Benefit — 
+               
+               
+Notwithstanding  any other provision of this subtitle, no deduction or credit shall
+                  be  allowed for, or by reason of, any expenditure to the extent of the amount  excluded
+                  under subsection (a) for any subsidy which was provided with  respect to such expenditure. The adjusted
+                  basis of any property shall be  reduced by the amount excluded under subsection (a) which was provided  with respect to such property.
+I.R.C. § 136(c) Energy Conservation Measure
+
+
+I.R.C. § 136(c)(1) In General — 
+                  
+                  
+For  purposes of this section, the term “energy conservation measure” means any  installation
+                     or modification primarily designed to reduce consumption of  electricity or natural
+                     gas or to improve the management of energy demand  with respect to a dwelling unit. 
+
+
+I.R.C. § 136(c)(2) Other Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 136(c)(2)(A) Dwelling Unit — 
+                     
+                     
+The  term “dwelling unit” has the meaning given such term by section  280A(f)(1). 
+
+
+I.R.C. § 136(c)(2)(B) Public Utility — 
+                     
+                     
+The  term “public utility” means a person engaged in the sale of electricity or  natural
+                        gas to residential, commercial, or industrial customers for use by  such customers.
+                        For purposes of the preceding sentence, the term “person”  includes the Federal Government,
+                        a State or local government or any  political subdivision thereof, or any instrumentality
+                        of any of the  foregoing.
+I.R.C. § 136(d) Exception — 
+               
+               
+This  section shall not apply to any payment to or from a qualified cogeneration 
+                  facility or qualifying small power production facility pursuant to section  210 of
+                  the Public Utility Regulatory Policy Act of 1978.

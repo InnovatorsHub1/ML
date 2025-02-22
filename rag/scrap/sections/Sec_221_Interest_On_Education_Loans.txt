@@ -1,0 +1,212 @@
+Sec. 221. Interest On Education Loans
+
+I.R.C. § 221(a) Allowance Of Deduction — 
+               
+               
+In the case of an individual, there shall be allowed as a deduction for the taxable
+                  year an amount equal to the interest paid by the taxpayer during the taxable year
+                  on any qualified education loan.
+I.R.C. § 221(b) Maximum Deduction
+
+
+I.R.C. § 221(b)(1) In General — 
+                  
+                  
+Except as provided in paragraph (2), the deduction allowed by subsection (a) for the taxable year shall not exceed $2,500. 
+
+
+I.R.C. § 221(b)(2) Limitation Based On Modified Adjusted Gross Income
+
+
+I.R.C. § 221(b)(2)(A) In General — 
+                     
+                     
+The amount which would (but for this paragraph) be allowable as a deduction under
+                        this section shall be reduced (but not below zero) by the amount determined under
+                        subparagraph (B). 
+
+
+I.R.C. § 221(b)(2)(B) Amount Of Reduction — 
+                     
+                     
+The amount determined under this subparagraph is the amount which bears the same ratio
+                        to the amount which would be so taken into account as— 
+
+I.R.C. § 221(b)(2)(B)(i)  — 
+                        
+                        
+the excess of— 
+
+I.R.C. § 221(b)(2)(B)(i)(I)  — 
+                           
+                           
+the taxpayer's modified adjusted gross income for such taxable year, over 
+
+
+I.R.C. § 221(b)(2)(B)(i)(II)  — 
+                           
+                           
+$50,000 ($100,000 in the case of a joint return), bears to 
+
+
+
+I.R.C. § 221(b)(2)(B)(ii)  — 
+                        
+                        
+$15,000 ($30,000 in the case of a joint return). 
+
+
+
+I.R.C. § 221(b)(2)(C) Modified Adjusted Gross Income — 
+                     
+                     
+The term “modified adjusted gross income” means adjusted gross income determined— 
+
+I.R.C. § 221(b)(2)(C)(i)  — 
+                        
+                        
+without regard to this section and sections 85(c), 911, 931, and 933, and 
+
+
+I.R.C. § 221(b)(2)(C)(ii)  — 
+                        
+                        
+after application of sections 86, 135, 137, 219, and 469.
+I.R.C. § 221(c) Dependents Not Eligible For Deduction — 
+               
+               
+No deduction shall be allowed by this section to an individual for the taxable year
+                  if a deduction under section 151 with respect to such individual is allowed to another taxpayer for the taxable year
+                  beginning in the calendar year in which such individual's taxable year begins.
+I.R.C. § 221(d) Definitions — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 221(d)(1) Qualified Education Loan — 
+                  
+                  
+The term “qualified education loan” means any indebtedness incurred by the taxpayer
+                     solely to pay qualified higher education expenses— 
+
+I.R.C. § 221(d)(1)(A)  — 
+                     
+                     
+which are incurred on behalf of the taxpayer, the taxpayer's spouse, or any dependent
+                        of the taxpayer as of the time the indebtedness was incurred, 
+
+
+I.R.C. § 221(d)(1)(B)  — 
+                     
+                     
+which are paid or incurred within a reasonable period of time before or after the
+                        indebtedness is incurred, and 
+
+
+I.R.C. § 221(d)(1)(C)  — 
+                     
+                     
+which are attributable to education furnished during a period during which the recipient
+                        was an eligible student. 
+
+
+Such term includes indebtedness used to refinance indebtedness which qualifies as
+                        a qualified education loan. The term “qualified education loan” shall not include
+                        any indebtedness owed to a person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer or to any person by reason of a loan under any qualified employer
+                        plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5).
+
+
+
+I.R.C. § 221(d)(2) Qualified Higher Education Expenses — 
+                  
+                  
+The term “qualified higher education expenses” means the cost of attendance (as defined
+                     in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the day before the date of the enactment of the Taxpayer Relief
+                     Act of 1997) at an eligible educational institution, reduced by the sum of— 
+
+I.R.C. § 221(d)(2)(A)  — 
+                     
+                     
+the amount excluded from gross income under section 127, 135, 529, or 530 by reason of such expenses, and 
+
+
+I.R.C. § 221(d)(2)(B)  — 
+                     
+                     
+the amount of any scholarship, allowance, or payment described in section 25A(g)(2). 
+
+
+For purposes of the preceding sentence, the term “eligible educational institution”
+                        has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship
+                        or residency program leading to a degree or certificate awarded by an institution
+                        of higher education, a hospital, or a health care facility which offers postgraduate
+                        training.
+
+
+
+I.R.C. § 221(d)(3) Eligible Student — 
+                  
+                  
+The term “eligible student” has the meaning given such term by section 25A(b)(3). 
+
+
+I.R.C. § 221(d)(4) Dependent — 
+                  
+                  
+The term “dependent” has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
+I.R.C. § 221(e) Special Rules
+
+
+I.R.C. § 221(e)(1) Denial Of Double Benefit — 
+                  
+                  
+No deduction shall be allowed under this section for any amount for which a deduction
+                     is allowable under any other provision of this chapter, or for which an exclusion
+                     is allowable under section 127 to the taxpayer by reason of the payment by the taxpayer's
+                     employer of any indebtedness on a qualified education loan of the taxpayer. The deduction
+                     otherwise allowable under subsection (a) (prior to the application of subsection (b)) to the taxpayer for any taxable year shall be reduced (but not below zero) by so
+                     much of the distributions treated as a qualified higher education expense under section
+                     529(c)(9) with respect to loans of the taxpayer as would be includible in gross income under
+                     section 529(c)(3)(A) for such taxable year but for such treatment. 
+
+
+I.R.C. § 221(e)(2) Married Couples Must File Joint Return — 
+                  
+                  
+If the taxpayer is married at the close of the taxable year, the deduction shall be
+                     allowed under subsection (a) only if the taxpayer and the taxpayer's spouse file a joint return for the taxable
+                     year. 
+
+
+I.R.C. § 221(e)(3) Marital Status — 
+                  
+                  
+Marital status shall be determined in accordance with section 7703.
+I.R.C. § 221(f) Inflation Adjustments
+
+
+I.R.C. § 221(f)(1) In General — 
+                  
+                  
+In the case of a taxable year beginning after 2002, the $50,000 and $100,000 amounts
+                     in subsection (b)(2) shall each be increased by an amount equal to— 
+
+I.R.C. § 221(f)(1)(A)  — 
+                     
+                     
+such dollar amount, multiplied by 
+
+
+I.R.C. § 221(f)(1)(B)  — 
+                     
+                     
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting
+                        “calendar year 2001” for “calendar year 2016” in subparagraph (A)(ii) thereof. 
+
+
+
+I.R.C. § 221(f)(2) Rounding — 
+                  
+                  
+If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount
+                     shall be rounded to the next lowest multiple of $5,000.

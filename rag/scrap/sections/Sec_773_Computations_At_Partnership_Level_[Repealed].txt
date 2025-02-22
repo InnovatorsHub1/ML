@@ -1,0 +1,218 @@
+Sec. 773. Computations At Partnership Level [Repealed]
+
+I.R.C. § 773(a) General Rule — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 114-74, Sec. 1101(b)(1),
+                           repealed Sec. 773 generally effective for returns filed for partnership
+                           taxable years beginning after December 31, 2017; however, Act Sec.
+                           1101(g)(4) provides that partnerships may elect the amendments made
+                           by Act Sec. 1101 (other than the election under Code Sec. 6221(b))
+                           to apply to any return of the partnership filed for partnership taxable
+                           years beginning after Nov. 2, 2015, and before Jan. 1, 2018.
+
+
+
+
+I.R.C. § 773(a)(1) Taxable Income — 
+                  
+                  
+The  taxable income of an electing large partnership
+                     shall be computed in the  same manner as in the case of an individual
+                     except that— 
+
+I.R.C. § 773(a)(1)(A)  — 
+                     
+                     
+the  items described in section 772(a) shall be separately stated,
+                        and 
+
+
+I.R.C. § 773(a)(1)(B)  — 
+                     
+                     
+the  modifications of subsection (b)
+                        shall apply. 
+
+
+
+I.R.C. § 773(a)(2) Elections — 
+                  
+                  
+All  elections affecting the computation of the taxable
+                     income of an electing  large partnership or the computation of any
+                     credit of an electing large  partnership shall be made by the partnership;
+                     except that the election  under section 901,
+                     and any election under section 108,
+                     shall be made by  each partner separately. 
+
+
+I.R.C. § 773(a)(3) Limitations, Etc.
+
+
+I.R.C. § 773(a)(3)(A) In General — 
+                     
+                     
+Except  as provided in subparagraph (B), all limitations
+                        and other provisions  affecting the computation of the taxable income
+                        of an electing large  partnership or the computation of any credit
+                        of an electing large  partnership shall be applied at the partnership
+                        level (and not at the  partner level). 
+
+
+I.R.C. § 773(a)(3)(B)  Certain Limitations Applied At Partner Level — 
+                     
+                     
+The  following provisions shall be applied at the partner
+                        level (and not at the  partnership level): 
+
+I.R.C. § 773(a)(3)(B)(i)  — 
+                        
+                        
+Section 68 (relating
+                           to overall limitation on itemized  deductions). 
+
+
+I.R.C. § 773(a)(3)(B)(ii)  — 
+                        
+                        
+Sections 49 and 465 (relating to at risk limitations). 
+
+
+I.R.C. § 773(a)(3)(B)(iii)  — 
+                        
+                        
+Section 469 (relating to limitation on
+                           passive activity losses and  credits). 
+
+
+I.R.C. § 773(a)(3)(B)(iv)  — 
+                        
+                        
+Any other provision specified in
+                           regulations. 
+
+
+
+
+I.R.C. § 773(a)(4) Coordination With Other Provisions — 
+                  
+                  
+Paragraphs  (2) and (3) shall apply notwithstanding
+                     any other provision of this  chapter other than this part.
+I.R.C. § 773(b)  Modifications To Determination Of Taxable Income — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 114-74, Sec. 1101(b)(1),
+                           repealed Sec. 773 generally effective for returns filed for partnership
+                           taxable years beginning after December 31, 2017; however, Act Sec.
+                           1101(g)(4) provides that partnerships may elect the amendments made
+                           by Act Sec. 1101 (other than the election under Code Sec. 6221(b))
+                           to apply to any return of the partnership filed for partnership taxable
+                           years beginning after Nov. 2, 2015, and before Jan. 1, 2018.
+
+
+
+
+In  determining the taxable income
+                     of an electing large partnership—
+
+
+I.R.C. § 773(b)(1)  Certain Deductions Not Allowed — 
+                  
+                  
+The  following deductions shall not be allowed: 
+
+I.R.C. § 773(b)(1)(A)  — 
+                     
+                     
+The  deduction for personal exemptions
+                        provided in section 151. 
+
+
+I.R.C. § 773(b)(1)(B)  — 
+                     
+                     
+The  net operating loss deduction provided
+                        in section 172. 
+
+
+I.R.C. § 773(b)(1)(C)  — 
+                     
+                     
+The  additional itemized deductions
+                        for individuals provided in part VII of  subchapter B (other than
+                        section 212 thereof). 
+
+
+
+I.R.C. § 773(b)(2) Charitable Deductions — 
+                  
+                  
+In  determining the amount allowable under section 170, the limitation of  section 170(b)(2) shall apply. 
+
+
+I.R.C. § 773(b)(3) Coordination With Section 67 — 
+                  
+                  
+In lieu of applying section 67, 70 percent  of the amount of the
+                     miscellaneous itemized deductions shall be  disallowed.
+I.R.C. § 773(c) Special Rules For Income From Discharge Of Indebtedness — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 114-74, Sec. 1101(b)(1),
+                           repealed Sec. 773 generally effective for returns filed for partnership
+                           taxable years beginning after December 31, 2017; however, Act Sec.
+                           1101(g)(4) provides that partnerships may elect the amendments made
+                           by Act Sec. 1101 (other than the election under Code Sec. 6221(b))
+                           to apply to any return of the partnership filed for partnership taxable
+                           years beginning after Nov. 2, 2015, and before Jan. 1, 2018.
+
+
+
+
+If  an electing large partnership
+                     has income from the discharge of any  indebtedness—
+
+
+I.R.C. § 773(c)(1)  — 
+                  
+                  
+such  income shall be excluded in determining
+                     the amounts referred to in section  772(a),
+                     and 
+
+
+I.R.C. § 773(c)(2)  — 
+                  
+                  
+in  determining the income tax of any
+                     partner of such partnership— 
+
+I.R.C. § 773(c)(2)(A)  — 
+                     
+                     
+such  income shall be treated as an
+                        item required to be separately taken into  account under section 772(a), and 
+
+
+I.R.C. § 773(c)(2)(B)  — 
+                     
+                     
+the  provisions of section 108 shall be applied without regard
+                        to this part.

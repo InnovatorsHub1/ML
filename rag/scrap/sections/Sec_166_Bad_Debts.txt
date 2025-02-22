@@ -1,0 +1,90 @@
+Sec. 166. Bad Debts
+
+I.R.C. § 166(a) General Rule
+
+
+I.R.C. § 166(a)(1) Wholly Worthless Debts — 
+                  
+                  
+There  shall be allowed as a deduction any debt which becomes worthless within  the
+                     taxable year. 
+
+
+I.R.C. § 166(a)(2) Partially Worthless Debts — 
+                  
+                  
+When  satisfied that a debt is recoverable only in part, the Secretary may allow 
+                     such debt, in an amount not in excess of the part charged off within the  taxable
+                     year, as a deduction.
+I.R.C. § 166(b) Amount Of Deduction — 
+               
+               
+For  purposes of subsection (a), the basis for determining the amount of the  deduction for any bad debt shall be
+                  the adjusted basis provided in section  1011 for determining the loss from the sale
+                  or other disposition of  property.
+I.R.C. § 166(c) Repealed. — 
+               
+               
+
+Pub.  L. 99-514, title VIII, 805(a), Oct. 22, 1986, 100 Stat. 2361]
+I.R.C. § 166(d) Nonbusiness Debts
+
+
+I.R.C. § 166(d)(1) General Rule — 
+                  
+                  
+In  the case of a taxpayer other than a corporation— 
+
+I.R.C. § 166(d)(1)(A)  — 
+                     
+                     
+subsection  (a) shall not apply to any nonbusiness debt; and 
+
+
+I.R.C. § 166(d)(1)(B)  — 
+                     
+                     
+where  any nonbusiness debt becomes worthless within the taxable year, the loss  resulting
+                        therefrom shall be considered a loss from the sale or exchange,  during the taxable
+                        year, of a capital asset held for not more than 1 year. 
+
+
+
+I.R.C. § 166(d)(2) Nonbusiness Debt Defined — 
+                  
+                  
+For  purposes of paragraph (1), the term “nonbusiness debt"
+                     means a debt other  than— 
+
+I.R.C. § 166(d)(2)(A)  — 
+                     
+                     
+a  debt created or acquired (as the case may be) in connection with a trade  or business
+                        of the taxpayer;
+                        or 
+
+
+I.R.C. § 166(d)(2)(B)  — 
+                     
+                     
+a  debt the loss from the worthlessness of which is incurred in the  taxpayer's trade
+                        or business.
+I.R.C. § 166(e) Worthless Securities — 
+               
+               
+This  section shall not apply to a debt which is evidenced by a security as  defined
+                  in section 165(g)(2)(C).
+I.R.C. § 166(f) Cross References
+
+
+I.R.C. § 166(f)(1)  — 
+                  
+                  
+For  disallowance of deduction for worthlessness of debts owed by political  parties
+                     and similar organizations, see section 271. 
+
+
+I.R.C. § 166(f)(2)  — 
+                  
+                  
+For  special rule for banks with respect to worthless securities, see section  582.

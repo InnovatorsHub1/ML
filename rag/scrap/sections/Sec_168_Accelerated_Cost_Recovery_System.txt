@@ -1,0 +1,4220 @@
+Sec. 168. Accelerated Cost Recovery System
+
+I.R.C. § 168(a) General Rule — 
+               
+               
+Except as otherwise provided in this section, the depreciation deduction provided
+                  by section 167(a) for any tangible property shall be determined by using— 
+
+I.R.C. § 168(a)(1)  — 
+                  
+                  
+the applicable depreciation method, 
+
+
+I.R.C. § 168(a)(2)  — 
+                  
+                  
+the applicable recovery period, and 
+
+
+I.R.C. § 168(a)(3)  — 
+                  
+                  
+the applicable convention.
+I.R.C. § 168(b) Applicable Depreciation Method — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 168(b)(1) In General — 
+                  
+                  
+Except as provided in paragraphs (2) and (3), the applicable depreciation method is— 
+
+I.R.C. § 168(b)(1)(A)  — 
+                     
+                     
+the 200 percent declining balance method, 
+
+
+I.R.C. § 168(b)(1)(B)  — 
+                     
+                     
+switching to the straight line method for the 1st taxable year for which using the
+                        straight line method with respect to the adjusted basis as of the beginning of such
+                        year will yield a larger allowance. 
+
+
+
+I.R.C. § 168(b)(2) 150 Percent Declining Balance Method In Certain Cases — 
+                  
+                  
+Paragraph (1) shall be applied by substituting “150 percent” for “200 percent” in
+                     the case of— 
+
+I.R.C. § 168(b)(2)(A)  — 
+                     
+                     
+any 15-year or 20-year property not referred to in paragraph (3), 
+
+
+I.R.C. § 168(b)(2)(B)  — 
+                     
+                     
+any property (other than property described in paragraph (3)) which is a qualified
+                        smart electric meter or qualified smart electric grid system, or 
+
+
+I.R.C. § 168(b)(2)(C)  — 
+                     
+                     
+any property (other than property described in paragraph (3)) with respect to which
+                        the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply. 
+
+
+
+I.R.C. § 168(b)(3) Property To Which Straight Line Method Applies — 
+                  
+                  
+The applicable depreciation method shall be the straight line method in the case of
+                     the following property: 
+
+I.R.C. § 168(b)(3)(A)  — 
+                     
+                     
+Nonresidential real property. 
+
+
+I.R.C. § 168(b)(3)(B)  — 
+                     
+                     
+Residential rental property. 
+
+
+I.R.C. § 168(b)(3)(C)  — 
+                     
+                     
+Any railroad grading or tunnel bore. 
+
+
+I.R.C. § 168(b)(3)(D)  — 
+                     
+                     
+Property with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply. 
+
+
+I.R.C. § 168(b)(3)(E)  — 
+                     
+                     
+Property described in subsection (e)(3)(D)(ii). 
+
+
+I.R.C. § 168(b)(3)(F)  — 
+                     
+                     
+Water utility property described in subsection (e)(5). 
+
+
+I.R.C. § 168(b)(3)(G)  — 
+                     
+                     
+Qualified improvement property described in subsection (e)(6). 
+
+
+
+I.R.C. § 168(b)(4) Salvage Value Treated As Zero — 
+                  
+                  
+Salvage value shall be treated as zero. 
+
+
+I.R.C. § 168(b)(5) Election — 
+                  
+                  
+An election under paragraph (2)(D) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and
+                     once made with respect to any class shall apply to all property in such class placed
+                     in service during such taxable year. Such an election, once made, shall be irrevocable.
+I.R.C. § 168(c) Applicable Recovery Period
+
+               
+               For purposes of this section, the applicable recovery period shall be determined in
+               accordance with the following table:
+               
+               
+               
+
+
+
+
+
+In the case of:
+The applicable recovery period is:
+
+
+3-year property
+3 years
+
+
+5-year property
+5 years
+
+
+7-year property
+7 years
+
+
+10-year property
+10 years
+
+
+15-year property.
+15 years
+
+
+20-year property
+20 years
+
+
+Water utility property
+25 years
+
+
+Residential rental property
+27.5 years
+
+
+Nonresidential real property
+39 years
+
+
+Any railroad grading or tunnel bore
+50 years
+I.R.C. § 168(d) Applicable Convention — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 168(d)(1) In General — 
+                  
+                  
+Except as otherwise provided in this subsection, the applicable convention is the
+                     half-year convention. 
+
+
+I.R.C. § 168(d)(2) Real Property — 
+                  
+                  
+In the case of— 
+
+I.R.C. § 168(d)(2)(A)  — 
+                     
+                     
+nonresidential real property, 
+
+
+I.R.C. § 168(d)(2)(B)  — 
+                     
+                     
+residential rental property, and 
+
+
+I.R.C. § 168(d)(2)(C)  — 
+                     
+                     
+any railroad grading or tunnel bore, 
+
+the applicable convention is the mid-month convention.
+
+
+
+
+I.R.C. § 168(d)(3) Special Rule Where Substantial Property Placed In Service During Last 3 Months Of
+                     Taxable Year
+
+
+I.R.C. § 168(d)(3)(A) In General — 
+                     
+                     
+Except as provided in regulations, if during any taxable year— 
+
+I.R.C. § 168(d)(3)(A)(i)  — 
+                        
+                        
+the aggregate bases of property to which this section applies placed in service during
+                           the last 3 months of the taxable year, exceed 
+
+
+I.R.C. § 168(d)(3)(A)(ii)  — 
+                        
+                        
+40 percent of the aggregate bases of property to which this section applies placed
+                           in service during such taxable year, 
+
+
+the applicable convention for all property to which this section applies placed in
+                           service during such taxable year shall be the mid-quarter convention.
+
+
+
+I.R.C. § 168(d)(3)(B) Certain Property Not Taken Into Account — 
+                     
+                     
+For purposes of subparagraph (A), there shall not be taken into account— 
+
+I.R.C. § 168(d)(3)(B)(i)  — 
+                        
+                        
+any nonresidential real property, residential rental property, and railroad grading
+                           or tunnel bore, and 
+
+
+I.R.C. § 168(d)(3)(B)(ii)  — 
+                        
+                        
+any other property placed in service and disposed of during the same taxable year. 
+
+
+
+
+I.R.C. § 168(d)(4) Definitions
+
+
+I.R.C. § 168(d)(4)(A) Half-Year Convention — 
+                     
+                     
+The half-year convention is a convention which treats all property placed in service
+                        during any taxable year (or disposed of during any taxable year) as placed in service
+                        (or disposed of) on the mid-point of such taxable year. 
+
+
+I.R.C. § 168(d)(4)(B) Mid-Month Convention — 
+                     
+                     
+The mid-month convention is a convention which treats all property placed in service
+                        during any month (or disposed of during any month) as placed in service (or disposed
+                        of) on the mid-point of such month. 
+
+
+I.R.C. § 168(d)(4)(C) Mid-Quarter Convention — 
+                     
+                     
+The mid-quarter convention is a convention which treats all property placed in service
+                        during any quarter of a taxable year (or disposed of during any quarter of a taxable
+                        year) as placed in service (or disposed of) on the mid-point of such quarter.
+I.R.C. § 168(e) Classification Of Property — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 168(e)(1) In General
+
+                  
+                  Except as otherwise provided in this subsection, property shall be classified under
+                  the following table: 
+                  
+                  
+                  
+
+
+
+
+
+Property shall be treated as:
+If such property has a class life (in years) of:
+
+
+3-year property
+4 or less
+
+
+5-year property
+More than 4 but less than 10
+
+
+7-year property
+10 or more but less than 16
+
+
+10-year property
+16 or more but less than 20
+
+
+15-year property
+20 or more but less than 25
+
+
+20-year property
+25 or more.
+
+
+
+
+
+
+I.R.C. § 168(e)(2) Residential Rental Or Nonresidential Real Property
+
+
+I.R.C. § 168(e)(2)(A) Residential Rental Property
+
+
+I.R.C. § 168(e)(2)(A)(i) Residential Rental Property — 
+                        
+                        
+The term “residential rental property” means any building or structure if 80 percent
+                           or more of the gross rental income from such building or structure for the taxable
+                           year is rental income from dwelling units. 
+
+
+I.R.C. § 168(e)(2)(A)(ii) Definitions — 
+                        
+                        
+For purposes of clause (i)— 
+
+I.R.C. § 168(e)(2)(A)(ii)(I)  — 
+                           
+                           
+the term “dwelling unit” means a house or apartment used to provide living accommodations
+                              in a building or structure, but does not include a unit in a hotel, motel, or other
+                              establishment more than one-half of the units in which are used on a transient basis,
+                              and 
+
+
+I.R.C. § 168(e)(2)(A)(ii)(II)  — 
+                           
+                           
+if any portion of the building or structure is occupied by the taxpayer, the gross
+                              rental income from such building or structure shall include the rental value of the
+                              portion so occupied. 
+
+
+
+
+I.R.C. § 168(e)(2)(B) Nonresidential Real Property — 
+                     
+                     
+The term “nonresidential real property” means section 1250 property which is not— 
+
+I.R.C. § 168(e)(2)(B)(i)  — 
+                        
+                        
+residential rental property, or 
+
+
+I.R.C. § 168(e)(2)(B)(ii)  — 
+                        
+                        
+property with a class life of less than 27.5 years. 
+
+
+
+
+I.R.C. § 168(e)(3) Classification Of Certain Property
+
+
+I.R.C. § 168(e)(3)(A) 3-Year Property — 
+                     
+                     
+The term “3-year property” includes— 
+
+I.R.C. § 168(e)(3)(A)(i)  — 
+                        
+                        
+any race horse— 
+
+I.R.C. § 168(e)(3)(A)(i)(I)  — 
+                           
+                           
+which is placed in service before January 1, 2022, and 
+
+
+I.R.C. § 168(e)(3)(A)(i)(II)  — 
+                           
+                           
+which is placed in service after December 31, 2021, and which is more than 2 years
+                              old at the time such horse is placed in service by such purchaser, 
+
+
+
+I.R.C. § 168(e)(3)(A)(ii)  — 
+                        
+                        
+any horse other than a race horse which is more than 12 years old at the time it is
+                           placed in service, and 
+
+
+I.R.C. § 168(e)(3)(A)(iii)  — 
+                        
+                        
+any qualified rent-to-own property. 
+
+
+
+I.R.C. § 168(e)(3)(B) 5-Year Property — 
+                     
+                     
+The term “5-year property” includes— 
+
+I.R.C. § 168(e)(3)(B)(i)  — 
+                        
+                        
+any automobile or light general purpose truck, 
+
+
+I.R.C. § 168(e)(3)(B)(ii)  — 
+                        
+                        
+any semi-conductor manufacturing equipment, 
+
+
+I.R.C. § 168(e)(3)(B)(iii)  — 
+                        
+                        
+any computer-based telephone central office switching equipment, 
+
+
+I.R.C. § 168(e)(3)(B)(iv)  — 
+                        
+                        
+any qualified technological equipment, 
+
+
+I.R.C. § 168(e)(3)(B)(v)  — 
+                        
+                        
+any section 1245 property used in connection with research and experimentation, 
+
+
+I.R.C. § 168(e)(3)(B)(vi)  — 
+                        
+                        
+any property which— 
+
+I.R.C. § 168(e)(3)(B)(vi)(I)  — 
+                           
+                           
+is described in subparagraph (A) of section 48(a)(3) (or would be so described if “solar or wind energy” were substituted for “solar energy”
+                              in clause (i) thereof and the last sentence of such section did not apply to such
+                              subparagraph), 
+
+
+I.R.C. § 168(e)(3)(B)(vi)(II)  — 
+                           
+                           
+is described in paragraph (15) of section 48(l) (as in effect on the day before the date of the enactment of the Revenue Reconciliation
+                              Act of 1990) and has a power production capacity of not greater than 80 megawatts,
+                              or 
+
+
+
+
+
+Editor's Note: Sec. 168(e)(3)(B)(vi)(III), below, before amendment by Pub. L. 117-169, Sec. 13703(a)(1),is effective for facilities and property placed in service before
+                                    January 1, 2025.
+
+
+
+
+I.R.C. § 168(e)(3)(B)(vi)(III)  — 
+                           
+                           
+is described in section 48(l)(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation
+                              Act of 1990), and 
+
+
+
+
+
+Editor's Note: Sec. 168(e)(3)(B)(vi)(III), below, after amendment by Pub. L. 117-169, Sec. 13703(a)(1), is effective for facilities and property placed in service after
+                                    December 31, 2024.
+
+
+
+
+I.R.C. § 168(e)(3)(B)(vi)(III)  — 
+                           
+                           
+is described in section 48(l)(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation
+                              Act of 1990), 
+
+
+
+
+
+
+Editor's Note: Sec. 168(e)(3)(B)(vii), below, before amendment by Pub. L. 117-169, Sec. 13703(a)(2), is effective for facilities and property placed in service before
+                                 January 1, 2025.
+
+
+
+
+I.R.C. § 168(e)(3)(B)(vii)  — 
+                        
+                        
+any machinery or equipment (other than any grain bin, cotton ginning asset, fence,
+                           or other land improvement) which is used in a farming business (as defined in section
+                           263A(e)(4)), the original use of which commences with the taxpayer after December 31, 2017. 
+
+
+
+
+
+Editor's Note: Sec. 168(e)(3)(B)(vii), below, after amendment by Pub. L. 117-169, Sec. 13703(a)(2), is effective for facilities and property placed in service after
+                                 December 31, 2024.
+
+
+
+
+I.R.C. § 168(e)(3)(B)(vii)  — 
+                        
+                        
+any machinery or equipment (other than any grain bin, cotton ginning asset, fence,
+                           or other land improvement) which is used in a farming business (as defined in section
+                           263A(e)(4)), the original use of which commences with the taxpayer after December 31, 2017,
+                           and 
+
+
+
+
+
+Editor's Note: Sec. 168(e)(3)(B)(viii), below, as added Pub. L. 117-169, Sec. 13703(a)(3), is effective for facilities and property placed in service after
+                                 December 31, 2024.
+
+
+
+
+I.R.C. § 168(e)(3)(B)(viii)  — 
+                        
+                        
+any qualified facility (as defined in section 45Y(b)(1)(A)), any qualified property (as defined in subsection (b)(2) of section 48E) which is a qualified investment (as defined in subsection (b)(1) of such section), or any energy storage technology (as defined in subsection (c)(2) of such section). 
+
+
+Nothing in any provision of law shall be construed to treat property as not being
+                           described in subclause (I) or (II) of clause (vi) by reason of being public utility
+                           property.
+
+
+
+I.R.C. § 168(e)(3)(C) 7-Year Property — 
+                     
+                     
+The term “7-year property” includes— 
+
+I.R.C. § 168(e)(3)(C)(i)  — 
+                        
+                        
+any railroad track, 
+
+
+I.R.C. § 168(e)(3)(C)(ii)  — 
+                        
+                        
+any motorsports entertainment complex, 
+
+
+I.R.C. § 168(e)(3)(C)(iii)  — 
+                        
+                        
+any Alaska natural gas pipeline, 
+
+
+I.R.C. § 168(e)(3)(C)(iv)  — 
+                        
+                        
+any natural gas gathering line the original use of which commences with the taxpayer
+                           after April 11, 2005, and 
+
+
+I.R.C. § 168(e)(3)(C)(v)  — 
+                        
+                        
+any property which— 
+
+I.R.C. § 168(e)(3)(C)(v)(I)  — 
+                           
+                           
+does not have a class life, and 
+
+
+I.R.C. § 168(e)(3)(C)(v)(II)  — 
+                           
+                           
+is not otherwise classified under paragraph (2) or this paragraph. 
+
+
+
+
+I.R.C. § 168(e)(3)(D) 10-Year Property — 
+                     
+                     
+The term “10-year property” includes— 
+
+I.R.C. § 168(e)(3)(D)(i)  — 
+                        
+                        
+any single purpose agricultural or horticultural structure (within the meaning of
+                           subsection (i)(13)), 
+
+
+I.R.C. § 168(e)(3)(D)(ii)  — 
+                        
+                        
+any tree or vine bearing fruit or nuts, 
+
+
+I.R.C. § 168(e)(3)(D)(iii)  — 
+                        
+                        
+any qualified smart electric meter, and 
+
+
+I.R.C. § 168(e)(3)(D)(iv)  — 
+                        
+                        
+any qualified smart electric grid system. 
+
+
+
+I.R.C. § 168(e)(3)(E) 15-Year Property — 
+                     
+                     
+The term “15-year property” includes— 
+
+I.R.C. § 168(e)(3)(E)(i)  — 
+                        
+                        
+any municipal wastewater treatment plant, 
+
+
+I.R.C. § 168(e)(3)(E)(ii)  — 
+                        
+                        
+any telephone distribution plant and comparable equipment used for 2-way exchange
+                           of voice and data communications, 
+
+
+I.R.C. § 168(e)(3)(E)(iii)  — 
+                        
+                        
+any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience
+                           items are sold at the outlet), 
+
+
+I.R.C. § 168(e)(3)(E)(iv)  — 
+                        
+                        
+initial clearing and grading land improvements with respect to gas utility property, 
+
+
+I.R.C. § 168(e)(3)(E)(v)  — 
+                        
+                        
+any section 1245 property (as defined in section 1245(a)(3)) used in the transmission at 69 or more kilovolts of electricity for sale and the
+                           original use of which commences with the taxpayer after April 11, 2005, 
+
+
+I.R.C. § 168(e)(3)(E)(vi)  — 
+                        
+                        
+any natural gas distribution line the original use of which commences with the taxpayer
+                           after April 11, 2005, and which is placed in service before January 1, 2011, and 
+
+
+I.R.C. § 168(e)(3)(E)(vii)  — 
+                        
+                        
+any qualified improvement property. 
+
+
+
+I.R.C. § 168(e)(3)(F) 20-Year Property — 
+                     
+                     
+The term “20-year property” means initial clearing and grading land improvements with
+                        respect to any electric utility transmission and distribution plant. 
+
+
+
+I.R.C. § 168(e)(4) Railroad Grading Or Tunnel Bore — 
+                  
+                  
+The term “railroad grading or tunnel bore” means all improvements resulting from excavations
+                     (including tunneling), construction of embankments, clearings, diversions of roads
+                     and streams, sodding of slopes, and from similar work necessary to provide, construct,
+                     reconstruct, alter, protect, improve, replace, or restore a roadbed or right-of-way
+                     for railroad track. 
+
+
+I.R.C. § 168(e)(5) Water Utility Property — 
+                  
+                  
+The term “water utility property” means property— 
+
+I.R.C. § 168(e)(5)(A)  — 
+                     
+                     
+which is an integral part of the gathering, treatment, or commercial distribution
+                        of water, and which, without regard to this paragraph, would be 20-year property,
+                        and 
+
+
+I.R.C. § 168(e)(5)(B)  — 
+                     
+                     
+any municipal sewer. 
+
+
+
+I.R.C. § 168(e)(6) Qualified Improvement Property
+
+
+I.R.C. § 168(e)(6)(A) In General — 
+                     
+                     
+The term “qualified improvement property” means any improvement made by the taxpayer
+                        to an interior portion of a building which is nonresidential real property if such
+                        improvement is placed in service after the date such building was first placed in
+                        service. 
+
+
+I.R.C. § 168(e)(6)(B) Certain Improvements Not Included — 
+                     
+                     
+Such term shall not include any improvement for which the expenditure is attributable
+                        to— 
+
+I.R.C. § 168(e)(6)(B)(i)  — 
+                        
+                        
+the enlargement of the building, 
+
+
+I.R.C. § 168(e)(6)(B)(ii)  — 
+                        
+                        
+any elevator or escalator, or 
+
+
+I.R.C. § 168(e)(6)(B)(iii)  — 
+                        
+                        
+the internal structural framework of the building.
+I.R.C. § 168(f) Property To Which Section Does Not Apply — 
+               
+               
+This section shall not apply to— 
+
+I.R.C. § 168(f)(1) Certain Methods Of Depreciation — 
+                  
+                  
+Any property if— 
+
+I.R.C. § 168(f)(1)(A)  — 
+                     
+                     
+the taxpayer elects to exclude such property from the application of this section,
+                        and 
+
+
+I.R.C. § 168(f)(1)(B)  — 
+                     
+                     
+for the 1st taxable year for which a depreciation deduction would be allowable with
+                        respect to such property in the hands of the taxpayer, . 
+
+
+the property is properly depreciated under the unit-of-production method or any method
+                        of depreciation not expressed in a term of years (other than the retirement-replacement-betterment
+                        method or similar method)
+
+
+
+I.R.C. § 168(f)(2) Certain Public Utility Property — 
+                  
+                  
+Any public utility property (within the meaning of subsection (i)(10)) if the taxpayer does not use a normalization method of accounting. 
+
+
+I.R.C. § 168(f)(3) Films And Video Tape — 
+                  
+                  
+Any motion picture film or video tape. 
+
+
+I.R.C. § 168(f)(4) Sound Recordings — 
+                  
+                  
+Any works which result from the fixation of a series of musical, spoken, or other
+                     sounds, regardless of the nature of the material (such as discs, tapes, or other phonorecordings)
+                     in which such sounds are embodied. 
+
+
+I.R.C. § 168(f)(5) Certain Property Placed In Service In Churning Transactions
+
+
+I.R.C. § 168(f)(5)(A) In General — 
+                     
+                     
+Property— 
+
+I.R.C. § 168(f)(5)(A)(i)  — 
+                        
+                        
+described in paragraph (4) of section 168(e) (as in effect before the amendments made
+                           by the Tax Reform Act of 1986), or 
+
+
+I.R.C. § 168(f)(5)(A)(ii)  — 
+                        
+                        
+which would be described in such paragraph if such paragraph were applied by substituting
+                           “1987” for “1981” and “1986” for “1980” each place such terms appear. 
+
+
+
+I.R.C. § 168(f)(5)(B) Subparagraph (A)(ii) Not To Apply — 
+                     
+                     
+Clause (ii) of subparagraph (A) shall not apply to— 
+
+I.R.C. § 168(f)(5)(B)(i)  — 
+                        
+                        
+any residential rental property or nonresidential real property, 
+
+
+I.R.C. § 168(f)(5)(B)(ii)  — 
+                        
+                        
+any property if, for the 1st taxable year in which such property is placed in service— 
+
+I.R.C. § 168(f)(5)(B)(ii)(I)  — 
+                           
+                           
+the amount allowable as a deduction under this section (as in effect before the date
+                              of the enactment of this paragraph) with respect to such property is greater than, 
+
+
+I.R.C. § 168(f)(5)(B)(ii)(II)  — 
+                           
+                           
+the amount allowable as a deduction under this section (as in effect on or after such
+                              date and using the half-year convention) for such taxable year, or 
+
+
+
+I.R.C. § 168(f)(5)(B)(iii)  — 
+                        
+                        
+any property to which this section (as amended by the Tax Reform Act of 1986) applied
+                           in the hands of the transferor. 
+
+
+
+I.R.C. § 168(f)(5)(C) Special Rule — 
+                     
+                     
+In the case of any property to which this section would apply but for this paragraph,
+                        the depreciation deduction under section 167 shall be determined under the provisions of this section as in effect before the
+                        amendments made by section 201 of the Tax Reform Act of 1986.
+I.R.C. § 168(g) Alternative Depreciation System For Certain Property
+
+
+I.R.C. § 168(g)(1) In General — 
+                  
+                  
+In the case of— 
+
+I.R.C. § 168(g)(1)(A)  — 
+                     
+                     
+any tangible property which during the taxable year is used predominantly outside
+                        the United States, 
+
+
+I.R.C. § 168(g)(1)(B)  — 
+                     
+                     
+any tax-exempt use property, 
+
+
+I.R.C. § 168(g)(1)(C)  — 
+                     
+                     
+any tax-exempt bond financed property, 
+
+
+I.R.C. § 168(g)(1)(D)  — 
+                     
+                     
+any imported property covered by an Executive order under paragraph (6), 
+
+
+I.R.C. § 168(g)(1)(E)  — 
+                     
+                     
+any property to which an election under paragraph (7) applies, 
+
+
+I.R.C. § 168(g)(1)(F)  — 
+                     
+                     
+any property described in paragraph (8), and 
+
+
+I.R.C. § 168(g)(1)(G)  — 
+                     
+                     
+any property with a recovery period of 10 years or more which is held by an electing
+                        farming business (as defined in section 163(j)(7)(C)), 
+
+
+the depreciation deduction provided by section 167(a) shall be determined under the alternative depreciation system.
+
+
+
+I.R.C. § 168(g)(2) Alternative Depreciation System — 
+                  
+                  
+For purposes of paragraph (1), the alternative depreciation system is depreciation determined by using— 
+
+I.R.C. § 168(g)(2)(A)  — 
+                     
+                     
+the straight line method (without regard to salvage value), 
+
+
+I.R.C. § 168(g)(2)(B)  — 
+                     
+                     
+the applicable convention determined under subsection (d), and 
+
+
+I.R.C. § 168(g)(2)(C) 
+
+                     
+                     a recovery period determined under the following table:
+                     
+                     
+                     
+
+
+
+
+
+The recovery period shall be:
+In the case of:
+
+
+(i) Property not described in clause (ii) or (iii)
+The class life.
+
+
+(ii) Personal property with no class life
+12 years.
+
+
+(iii) Residential rental property
+30 years.
+
+
+(iv) Nonresidential real property
+40 years.
+
+
+(v) Any railroad grading or tunnel bore or water utility property
+50 years.
+
+
+
+
+
+
+
+I.R.C. § 168(g)(3) Special Rules For Determining Class Life
+
+
+I.R.C. § 168(g)(3)(A) Tax-Exempt Use Property Subject To Lease — 
+                     
+                     
+In the case of any tax-exempt use property subject to a lease, the recovery period
+                        used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less
+                        than 125 percent of the lease term. 
+
+
+I.R.C. § 168(g)(3)(B) Special Rule For Certain Property Assigned To Classes — 
+                     
+                     
+For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection
+                        (e)(3), the class life shall be determined as follows:
+                        
+                        
+                        
+
+
+
+
+
+If property is described in subparagraph:
+The class life is:
+
+
+(A)(iii)
+4
+
+
+(B)(ii)
+5
+
+
+(B)(iii)
+9.5
+
+
+(B)(vii)
+10
+
+
+(C)(i)
+10
+
+
+(C)(iii)
+22
+
+
+(C)(iv)
+14
+
+
+(D)(i)
+15
+
+
+(D)(ii)
+20
+
+
+(E)(i)
+24
+
+
+(E)(ii)
+24
+
+
+(E)(iii)
+20
+
+
+(E)(iv)
+20
+
+
+(E)(v)
+30
+
+
+(E)(vi)
+35
+
+
+(E)(vii)
+20
+
+
+(F)
+25
+
+
+
+
+
+
+
+I.R.C. § 168(g)(3)(C) Qualified Technological Equipment — 
+                     
+                     
+In the case of any qualified technological equipment, the recovery period used for
+                        purposes of paragraph (2) shall be 5 years. 
+
+
+I.R.C. § 168(g)(3)(D) Automobiles, Etc. — 
+                     
+                     
+In the case of any automobile or light general purpose truck, the recovery period
+                        used for purposes of paragraph (2) shall be 5 years. 
+
+
+I.R.C. § 168(g)(3)(E) Certain Real Property — 
+                     
+                     
+In the case of any section 1245 property which is real property with no class life, the recovery period used for
+                        purposes of paragraph (2) shall be 40 years. 
+
+
+
+I.R.C. § 168(g)(4) Exception For Certain Property Used Outside United States — 
+                  
+                  
+Subparagraph (A) of paragraph (1) shall not apply to— 
+
+I.R.C. § 168(g)(4)(A)  — 
+                     
+                     
+any aircraft which is registered by the Administrator of the Federal Aviation Agency
+                        and which is operated to and from the United States or is operated under contract
+                        with the United States; 
+
+
+I.R.C. § 168(g)(4)(B)  — 
+                     
+                     
+rolling stock which is used within and without the United States and which is— 
+
+I.R.C. § 168(g)(4)(B)(i)  — 
+                        
+                        
+of a rail carrier subject to part A of subtitle IV of title 49, or 
+
+
+I.R.C. § 168(g)(4)(B)(ii)  — 
+                        
+                        
+of a United States person (other than a corporation described in clause (i)) but only
+                           if the rolling stock is not leased to one or more foreign persons for periods aggregating
+                           more than 12 months in any 24-month period; 
+
+
+
+I.R.C. § 168(g)(4)(C)  — 
+                     
+                     
+any vessel documented under the laws of the United States which is operated in the
+                        foreign or domestic commerce of the United States; 
+
+
+I.R.C. § 168(g)(4)(D)  — 
+                     
+                     
+any motor vehicle of a United States person (as defined in section 7701(a)(30)) which is operated to and from the United States; 
+
+
+I.R.C. § 168(g)(4)(E)  — 
+                     
+                     
+any container of a United States person which is used in the transportation of property
+                        to and from the United States; 
+
+
+I.R.C. § 168(g)(4)(F)  — 
+                     
+                     
+any property (other than a vessel or an aircraft) of a United States person which
+                        is used for the purpose of exploring for, developing, removing, or transporting resources
+                        from the outer Continental Shelf (within the meaning of section 2 of the Outer Continental Shelf Lands Act, as amended and supplemented; (43 U.S.C. 1331)); 
+
+
+I.R.C. § 168(g)(4)(G)  — 
+                     
+                     
+any property which is owned by a domestic corporation or by a United States citizen
+                        (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation
+                        or such a citizen, or by a corporation created or organized in, or under the law of,
+                        a possession of the United States; 
+
+
+I.R.C. § 168(g)(4)(H)  — 
+                     
+                     
+any communications satellite (as defined in section 103(3) of the Communications Satellite Act of 1962, 47 U.S.C. 702(3)), or any interest therein, of a United States person; 
+
+
+I.R.C. § 168(g)(4)(I)  — 
+                     
+                     
+any cable, or any interest therein, of a domestic corporation engaged in furnishing
+                        telephone service to which section 168(i)(10)(C) applies (or of a wholly owned domestic subsidiary of such a corporation), if such
+                        cable is part of a submarine cable system which constitutes part of a communication
+                        link exclusively between the United States and one or more foreign countries; 
+
+
+I.R.C. § 168(g)(4)(J)  — 
+                     
+                     
+any property (other than a vessel or an aircraft) of a United States person which
+                        is used in international or territorial waters within the northern portion of the
+                        Western Hemisphere for the purpose of exploring for, developing, removing, or transporting
+                        resources from ocean waters or deposits under such waters; 
+
+
+I.R.C. § 168(g)(4)(K)  — 
+                     
+                     
+any property described in section 48(l)(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation
+                        Act of 1990) which is owned by a United States person and which is used in international
+                        or territorial waters to generate energy for use in the United States; and 
+
+
+I.R.C. § 168(g)(4)(L)  — 
+                     
+                     
+any satellite (not described in subparagraph (H)) or other spacecraft (or any interest therein) held by a United States person if
+                        such satellite or other spacecraft was launched from within the United States. 
+
+For purposes of subparagraph (J), the term “northern portion of the Western Hemisphere” means the area lying west
+                           of the 30th meridian west of Greenwich, east of the international dateline, and north
+                           of the Equator, but not including any foreign country which is a country of South
+                           America.
+
+
+
+
+I.R.C. § 168(g)(5) Tax-Exempt Bond Financed Property — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(g)(5)(A) In General — 
+                     
+                     
+Except as otherwise provided in this paragraph, the term “tax-exempt bond financed
+                        property” means any property to the extent such property is financed (directly or
+                        indirectly) by an obligation the interest on which is exempt from tax under section
+                        103(a). 
+
+
+I.R.C. § 168(g)(5)(B) Allocation Of Bond Proceeds — 
+                     
+                     
+For purposes of subparagraph (A), the proceeds of any obligation shall be treated as used to finance property acquired
+                        in connection with the issuance of such obligation in the order in which such property
+                        is placed in service. 
+
+
+I.R.C. § 168(g)(5)(C) Qualified Residential Rental Projects — 
+                     
+                     
+The term “tax-exempt bond financed property” shall not include any qualified residential
+                        rental project (within the meaning of section 142(a)(7)). 
+
+
+
+I.R.C. § 168(g)(6) Imported Property
+
+
+I.R.C. § 168(g)(6)(A) Countries Maintaining Trade Restrictions Or Engaging In Discriminatory Acts — 
+                     
+                     
+If the President determines that a foreign country— 
+
+I.R.C. § 168(g)(6)(A)(i)  — 
+                        
+                        
+maintains nontariff trade restrictions, including variable import fees, which substantially
+                           burden United States commerce in a manner inconsistent with provisions of trade agreements,
+                           or 
+
+
+I.R.C. § 168(g)(6)(A)(ii)  — 
+                        
+                        
+engages in discriminatory or other acts (including tolerance of international cartels)
+                           or policies unjustifiably restricting United States commerce, 
+
+
+the President may by Executive order provide for the application of paragraph (1)(D) to any article or class of articles manufactured or produced in such foreign country
+                           for such period as may be provided by such Executive order. Any period specified in
+                           the preceding sentence shall not apply to any property ordered before (or the construction,
+                           reconstruction, or erection of which began before) the date of the Executive order
+                           unless the President determines an earlier date to be in the public interest and specifies
+                           such date in the Executive order.
+
+
+
+I.R.C. § 168(g)(6)(B) Imported Property — 
+                     
+                     
+For purposes of this subsection, the term “imported property” means any property if— 
+
+I.R.C. § 168(g)(6)(B)(i)  — 
+                        
+                        
+such property was completed outside the United States, or 
+
+
+I.R.C. § 168(g)(6)(B)(ii)  — 
+                        
+                        
+less than 50 percent of the basis of such property is attributable to value added
+                           within the United States. 
+
+
+For purposes of this subparagraph, the term “United States” includes the Commonwealth
+                           of Puerto Rico and the possessions of the United States.
+
+
+
+
+I.R.C. § 168(g)(7) Election To Use Alternative Depreciation System
+
+
+I.R.C. § 168(g)(7)(A) In General — 
+                     
+                     
+If the taxpayer makes an election under this paragraph with respect to any class of
+                        property for any taxable year, the alternative depreciation system under this subsection
+                        shall apply to all property in such class placed in service during such taxable year.
+                        Notwithstanding the preceding sentence, in the case of nonresidential real property
+                        or residential rental property, such election may be made separately with respect
+                        to each property. 
+
+
+I.R.C. § 168(g)(7)(B) Election Irrevocable — 
+                     
+                     
+An election under subparagraph (A), once made, shall be irrevocable. 
+
+
+
+I.R.C. § 168(g)(8) Electing Real Property Trade Or Business — 
+                  
+                  
+The property described in this paragraph shall consist of any nonresidential real
+                     property, residential rental property, and qualified improvement property held by
+                     an electing real property trade or business (as defined in 163(j)(7)(B)).
+I.R.C. § 168(h) Tax-Exempt Use Property
+
+
+I.R.C. § 168(h)(1) In General — 
+                  
+                  
+For purposes of this section— 
+
+I.R.C. § 168(h)(1)(A) Property Other Than Nonresidential Real Property — 
+                     
+                     
+Except as otherwise provided in this subsection, the term “tax-exempt use property”
+                        means that portion of any tangible property (other than nonresidential real property)
+                        leased to a tax-exempt entity. 
+
+
+I.R.C. § 168(h)(1)(B) Nonresidential Real Property
+
+
+I.R.C. § 168(h)(1)(B)(i) In General — 
+                        
+                        
+In the case of nonresidential real property, the term “tax-exempt use property” means
+                           that portion of the property leased to a tax-exempt entity in a disqualified lease. 
+
+
+I.R.C. § 168(h)(1)(B)(ii) Disqualified Lease — 
+                        
+                        
+For purposes of this subparagraph, the term “disqualified lease” means any lease of
+                           the property to a tax-exempt entity, but only if— 
+
+I.R.C. § 168(h)(1)(B)(ii)(I)  — 
+                           
+                           
+part or all of the property was financed (directly or indirectly) by an obligation
+                              the interest on which is exempt from tax under section 103(a) and such entity (or a related entity) participated in such financing, 
+
+
+I.R.C. § 168(h)(1)(B)(ii)(II)  — 
+                           
+                           
+under such lease there is a fixed or determinable price purchase or sale option which
+                              involves such entity (or a related entity) or there is the equivalent of such an option, 
+
+
+I.R.C. § 168(h)(1)(B)(ii)(III)  — 
+                           
+                           
+such lease has a lease term in excess of 20 years, or 
+
+
+I.R.C. § 168(h)(1)(B)(ii)(IV)  — 
+                           
+                           
+such lease occurs after a sale (or other transfer) of the property by, or lease of
+                              the property from, such entity (or a related entity) and such property has been used
+                              by such entity (or a related entity) before such sale (or other transfer) or lease. 
+
+
+
+I.R.C. § 168(h)(1)(B)(iii) 35-Percent Threshold Test — 
+                        
+                        
+Clause (i) shall apply to any property only if the portion of such property leased to tax-exempt
+                           entities in disqualified leases is more than 35 percent of the property. 
+
+
+I.R.C. § 168(h)(1)(B)(iv) Treatment Of Improvements — 
+                        
+                        
+For purposes of this subparagraph, improvements to a property (other than land) shall
+                           not be treated as a separate property. 
+
+
+I.R.C. § 168(h)(1)(B)(v) Leasebacks During 1st 3 Months Of Use Not Taken Into Account — 
+                        
+                        
+Subclause (IV) of clause (ii) shall not apply to any property which is leased within 3 months after the date such
+                           property is first used by the tax-exempt entity (or a related entity). 
+
+
+
+I.R.C. § 168(h)(1)(C) Exception For Short-Term Leases
+
+
+I.R.C. § 168(h)(1)(C)(i) In General — 
+                        
+                        
+Property shall not be treated as tax-exempt use property merely by reason of a short-term
+                           lease. 
+
+
+I.R.C. § 168(h)(1)(C)(ii) Short-Term Lease — 
+                        
+                        
+For purposes of clause (i), the term “short-term lease” means any lease the term of which is— 
+
+I.R.C. § 168(h)(1)(C)(ii)(I)  — 
+                           
+                           
+less than 3 years, and 
+
+
+I.R.C. § 168(h)(1)(C)(ii)(II)  — 
+                           
+                           
+less than the greater of 1 year or 30 percent of the property's present class life. 
+
+
+In the case of nonresidential real property and property with no present class life,
+                              subclause (II) shall not apply.
+
+
+
+
+I.R.C. § 168(h)(1)(D) Exception Where Property Used In Unrelated Trade Or Business — 
+                     
+                     
+The term “tax-exempt use property” shall not include any portion of a property if
+                        such portion is predominantly used by the tax-exempt entity (directly or through a
+                        partnership of which such entity is a partner) in an unrelated trade or business the
+                        income of which is subject to tax under section 511. For purposes of subparagraph (B)(iii), any portion of a property so used shall not be treated as leased to a tax-exempt
+                        entity in a disqualified lease. 
+
+
+I.R.C. § 168(h)(1)(E) Nonresidential Real Property Defined — 
+                     
+                     
+For purposes of this paragraph, the term “nonresidential real property” includes residential
+                        rental property. 
+
+
+
+I.R.C. § 168(h)(2) Tax-Exempt Entity
+
+
+I.R.C. § 168(h)(2)(A) In General — 
+                     
+                     
+For purposes of this subsection, the term “tax-exempt entity” means— 
+
+I.R.C. § 168(h)(2)(A)(i)  — 
+                        
+                        
+the United States, any State or political subdivision thereof, any possession of the
+                           United States, or any agency or instrumentality of any of the foregoing, 
+
+
+I.R.C. § 168(h)(2)(A)(ii)  — 
+                        
+                        
+an organization (other than a cooperative described in section 521) which is exempt from tax imposed by this chapter, 
+
+
+I.R.C. § 168(h)(2)(A)(iii)  — 
+                        
+                        
+any foreign person or entity, and 
+
+
+I.R.C. § 168(h)(2)(A)(iv)  — 
+                        
+                        
+any Indian tribal government described in section 7701(a)(40). 
+
+
+For purposes of applying this subsection, any Indian tribal government referred to
+                           in clause (iv) shall be treated in the same manner as a State.
+
+
+
+I.R.C. § 168(h)(2)(B) Exception For Certain Property Subject To United States Tax And Used By Foreign Person
+                        Or Entity — 
+                     
+                     
+Clause (iii) of subparagraph (A) shall not apply with respect to any property if more than 50 percent of the gross
+                        income for the taxable year derived by the foreign person or entity from the use of
+                        such property is— 
+
+I.R.C. § 168(h)(2)(B)(i)  — 
+                        
+                        
+subject to tax under this chapter, or 
+
+
+I.R.C. § 168(h)(2)(B)(ii)  — 
+                        
+                        
+included under section 951 in the gross income of a United States shareholder for the taxable year with or within
+                           which ends the taxable year of the controlled foreign corporation in which such income
+                           was derived. 
+
+
+For purposes of the preceding sentence, any exclusion or exemption shall not apply
+                           for purposes of determining the amount of the gross income so derived, but shall apply
+                           for purposes of determining the portion of such gross income subject to tax under
+                           this chapter.
+
+
+
+I.R.C. § 168(h)(2)(C) Foreign Person Or Entity — 
+                     
+                     
+For purposes of this paragraph, the term “foreign person or entity” means— 
+
+I.R.C. § 168(h)(2)(C)(i)  — 
+                        
+                        
+any foreign government, any international organization, or any agency or instrumentality
+                           of any of the foregoing, and 
+
+
+I.R.C. § 168(h)(2)(C)(ii)  — 
+                        
+                        
+any person who is not a United States person. 
+
+
+Such term does not include any foreign partnership or other foreign pass-thru entity.
+
+
+
+I.R.C. § 168(h)(2)(D) Treatment Of Certain Taxable Instrumentalities — 
+                     
+                     
+For purposes of this subsection, a corporation shall not be treated as an instrumentality
+                        of the United States or of any State or political subdivision thereof if— 
+
+I.R.C. § 168(h)(2)(D)(i)  — 
+                        
+                        
+all of the activities of such corporation are subject to tax under this chapter, and 
+
+
+I.R.C. § 168(h)(2)(D)(ii)  — 
+                        
+                        
+a majority of the board of directors of such corporation is not selected by the United
+                           States or any State or political subdivision thereof. 
+
+
+
+I.R.C. § 168(h)(2)(E) Certain Previously Tax-Exempt Organizations
+
+
+I.R.C. § 168(h)(2)(E)(i) In General — 
+                        
+                        
+For purposes of this subsection, an organization shall be treated as an organization
+                           described in subparagraph (A)(ii) with respect to any property (other than property held by such organization) if such
+                           organization was an organization (other than a cooperative described in section 521) exempt from tax imposed by this chapter at any time during the 5-year period ending
+                           on the date such property was first used by such organization. The preceding sentence
+                           and subparagraph (D)(ii) shall not apply to the Federal Home Loan Mortgage Corporation. 
+
+
+I.R.C. § 168(h)(2)(E)(ii) Election Not To Have Clause (i) Apply
+
+
+I.R.C. § 168(h)(2)(E)(ii)(I) In General — 
+                           
+                           
+In the case of an organization formerly exempt from tax under section 501(a) as an organization described in section 501(c)(12), clause (i) shall not apply to such organization with respect to any property if such organization
+                              elects not to be exempt from tax under section 501(a) during the tax-exempt use period with respect to such property. 
+
+
+I.R.C. § 168(h)(2)(E)(ii)(II) Tax-Exempt Use Period — 
+                           
+                           
+For purposes of subclause (I), the term “tax-exempt use period” means the period beginning with the taxable year
+                              in which the property described in subclause (I) is first used by the organization and ending with the close of the 15th taxable year
+                              following the last taxable year of the applicable recovery period of such property. 
+
+
+I.R.C. § 168(h)(2)(E)(ii)(III) Election — 
+                           
+                           
+Any election under subclause (I), once made, shall be irrevocable. 
+
+
+
+I.R.C. § 168(h)(2)(E)(iii) Treatment Of Successor Organizations — 
+                        
+                        
+Any organization which is engaged in activities substantially similar to those engaged
+                           in by a predecessor organization shall succeed to the treatment under this subparagraph
+                           of such predecessor organization. 
+
+
+I.R.C. § 168(h)(2)(E)(iv) First Used — 
+                        
+                        
+For purposes of this subparagraph, property shall be treated as first used by the
+                           organization— 
+
+I.R.C. § 168(h)(2)(E)(iv)(I)  — 
+                           
+                           
+when the property is first placed in service under a lease to such organization, or 
+
+
+I.R.C. § 168(h)(2)(E)(iv)(II)  — 
+                           
+                           
+in the case of property leased to (or held by) a partnership (or other pass-thru entity)
+                              in which the organization is a member, the later of when such property is first used
+                              by such partnership or pass-thru entity or when such organization is first a member
+                              of such partnership or pass-thru entity. 
+
+
+
+
+
+I.R.C. § 168(h)(3) Special Rules For Certain High Technology Equipment
+
+
+I.R.C. § 168(h)(3)(A) Exemption Where Lease Term Is 5 Years Or Less — 
+                     
+                     
+For purposes of this section, the term “tax-exempt use property” shall not include
+                        any qualified technological equipment if the lease to the tax-exempt entity has a
+                        lease term of 5 years or less. Notwithstanding subsection (i)(3)(A)(i), in determining a lease term for purposes of the preceding sentence, there shall
+                        not be taken into account any option of the lessee to renew at the fair market value
+                        rent determined at the time of renewal; except that the aggregate period not taken
+                        into account by reason of this sentence shall not exceed 24 months. 
+
+
+I.R.C. § 168(h)(3)(B) Exception For Certain Property
+
+
+I.R.C. § 168(h)(3)(B)(i) In General — 
+                        
+                        
+For purposes of subparagraph (A), the term “qualified technological equipment” shall not include any property leased
+                           to a tax-exempt entity if— 
+
+I.R.C. § 168(h)(3)(B)(i)(I)  — 
+                           
+                           
+part or all of the property was financed (directly or indirectly) by an obligation
+                              the interest on which is exempt from tax under section 103(a), 
+
+
+I.R.C. § 168(h)(3)(B)(i)(II)  — 
+                           
+                           
+such lease occurs after a sale (or other transfer) of the property by, or lease of
+                              such property from, such entity (or related entity) and such property has been used
+                              by such entity (or a related entity) before such sale (or other transfer) or lease,
+                              or 
+
+
+I.R.C. § 168(h)(3)(B)(i)(III)  — 
+                           
+                           
+such tax-exempt entity is the United States or any agency or instrumentality of the
+                              United States. 
+
+
+
+I.R.C. § 168(h)(3)(B)(ii) Leasebacks During 1st 3 Months Of Use Not Taken Into Account — 
+                        
+                        
+Subclause (II) of clause (i) shall not apply to any property which is leased within 3 months after the date such
+                           property is first used by the tax-exempt entity (or a related entity). 
+
+
+
+
+I.R.C. § 168(h)(4) Related Entities — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(h)(4)(A) 
+
+
+I.R.C. § 168(h)(4)(A)(i)  — 
+                        
+                        
+Each governmental unit and each agency or instrumentality of a governmental unit is
+                           related to each other such unit, agency, or instrumentality which directly or indirectly
+                           derives its powers, rights, and duties in whole or in part from the same sovereign
+                           authority. 
+
+
+I.R.C. § 168(h)(4)(A)(ii)  — 
+                        
+                        
+For purposes of clause (i), the United States, each State, and each possession of the United States shall be
+                           treated as a separate sovereign authority. 
+
+
+
+I.R.C. § 168(h)(4)(B)  — 
+                     
+                     
+Any entity not described in subparagraph (A)(i) is related to any other entity if the 2 entities have— 
+
+I.R.C. § 168(h)(4)(B)(i)  — 
+                        
+                        
+significant common purposes and substantial common membership, or 
+
+
+I.R.C. § 168(h)(4)(B)(ii)  — 
+                        
+                        
+directly or indirectly substantial common direction or control. 
+
+
+
+I.R.C. § 168(h)(4)(C) 
+
+
+I.R.C. § 168(h)(4)(C)(i)  — 
+                        
+                        
+An entity is related to another entity if either entity owns (directly or through
+                           1 or more entities) a 50 percent or greater interest in the capital or profits of
+                           the other entity. 
+
+
+I.R.C. § 168(h)(4)(C)(ii)  — 
+                        
+                        
+For purposes of clause (i), entities treated as related under subparagraph (A) or (B) shall be treated as 1 entity. 
+
+
+
+I.R.C. § 168(h)(4)(D)  — 
+                     
+                     
+An entity is related to another entity with respect to a transaction if such transaction
+                        is part of an attempt by such entities to avoid the application of this subsection. 
+
+
+
+I.R.C. § 168(h)(5) Tax-Exempt Use Of Property Leased To Partnerships, Etc., Determined At Partner Level — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(h)(5)(A) In General — 
+                     
+                     
+In the case of any property which is leased to a partnership, the determination of
+                        whether any portion of such property is tax-exempt use property shall be made by treating
+                        each tax-exempt entity partner's proportionate share (determined under paragraph (6)(C)) of such property as being leased to such partner. 
+
+
+I.R.C. § 168(h)(5)(B) Other Pass-Thru Entities; Tiered Entities — 
+                     
+                     
+Rules similar to the rules of subparagraph (A) shall also apply in the case of any pass-thru entity other than a partnership and
+                        in the case of tiered partnerships and other entities. 
+
+
+I.R.C. § 168(h)(5)(C) Presumption With Respect To Foreign Entities — 
+                     
+                     
+Unless it is otherwise established to the satisfaction of the Secretary, it shall
+                        be presumed that the partners of a foreign partnership (and the beneficiaries of any
+                        other foreign pass-thru entity) are persons who are not United States persons. 
+
+
+
+I.R.C. § 168(h)(6) Treatment Of Property Owned By Partnerships, Etc.
+
+
+I.R.C. § 168(h)(6)(A) In General — 
+                     
+                     
+For purposes of this subsection, if— 
+
+I.R.C. § 168(h)(6)(A)(i)  — 
+                        
+                        
+any property which (but for this subparagraph) is not tax-exempt use property is owned
+                           by a partnership which has both a tax-exempt entity and a person who is not a tax-exempt
+                           entity as partners, and 
+
+
+I.R.C. § 168(h)(6)(A)(ii)  — 
+                        
+                        
+any allocation to the tax-exempt entity of partnership items is not a qualified allocation,
+                           an amount equal to such tax-exempt entity's proportionate share of such property shall
+                           (except as provided in paragraph (1)(D)) be treated as tax-exempt use property. 
+
+
+
+I.R.C. § 168(h)(6)(B) Qualified Allocation — 
+                     
+                     
+For purposes of subparagraph (A), the term “qualified allocation” means any allocation to a tax-exempt entity which— 
+
+I.R.C. § 168(h)(6)(B)(i)  — 
+                        
+                        
+is consistent with such entity's being allocated the same distributive share of each
+                           item of income, gain, loss, deduction, credit, and basis and such share remains the
+                           same during the entire period the entity is a partner in the partnership, and 
+
+
+I.R.C. § 168(h)(6)(B)(ii)  — 
+                        
+                        
+has substantial economic effect within the meaning of section 704(b)(2). 
+
+
+For purposes of this subparagraph, items allocated under section 704(c) shall not be taken into account.
+
+
+
+I.R.C. § 168(h)(6)(C) Determination Of Proportionate Share
+
+
+I.R.C. § 168(h)(6)(C)(i) In General — 
+                        
+                        
+For purposes of subparagraph (A), a tax-exempt entity's proportionate share of any property owned by a partnership
+                           shall be determined on the basis of such entity's share of partnership items of income
+                           or gain (excluding gain allocated under section 704(c)), whichever results in the largest proportionate share. 
+
+
+I.R.C. § 168(h)(6)(C)(ii) Determination Where Allocations Vary — 
+                        
+                        
+For purposes of clause (i), if a tax-exempt entity's share of partnership items of income or gain (excluding
+                           gain allocated under section 704(c)) may vary during the period such entity is a partner in the partnership, such share
+                           shall be the highest share such entity may receive. 
+
+
+
+I.R.C. § 168(h)(6)(D) Determination Of Whether Property Used In Unrelated Trade Or Business — 
+                     
+                     
+For purposes of this subsection, in the case of any property which is owned by a partnership
+                        which has both a tax-exempt entity and a person who is not a tax-exempt entity as
+                        partners, the determination of whether such property is used in an unrelated trade
+                        or business of such an entity shall be made without regard to section 514. 
+
+
+I.R.C. § 168(h)(6)(E) Other Pass-Thru Entities; Tiered Entities — 
+                     
+                     
+Rules similar to the rules of subparagraphs (A), (B), (C), and (D) shall also apply in the case of any pass-thru entity other than a partnership and
+                        in the case of tiered partnerships and other entities. 
+
+
+I.R.C. § 168(h)(6)(F) Treatment Of Certain Taxable Entities
+
+
+I.R.C. § 168(h)(6)(F)(i) In General — 
+                        
+                        
+For purposes of this paragraph and paragraph (5), except as otherwise provided in this subparagraph, any tax-exempt controlled entity
+                           shall be treated as a tax-exempt entity. 
+
+
+I.R.C. § 168(h)(6)(F)(ii) Election — 
+                        
+                        
+If a tax-exempt controlled entity makes an election under this clause— 
+
+I.R.C. § 168(h)(6)(F)(ii)(I)  — 
+                           
+                           
+such entity shall not be treated as a tax-exempt entity for purposes of this paragraph
+                              and paragraph (5), and 
+
+
+I.R.C. § 168(h)(6)(F)(ii)(II)  — 
+                           
+                           
+any gain recognized by a tax-exempt entity on any disposition of an interest in such
+                              entity (and any dividend or interest received or accrued by a tax-exempt entity from
+                              such tax-exempt controlled entity) shall be treated as unrelated business taxable
+                              income for purposes of section 511. 
+
+
+Any such election shall be irrevocable and shall bind all tax-exempt entities holding
+                              interests in such tax-exempt controlled entity. For purposes of subclause (II), there shall only be taken into account dividends which are properly allocable to
+                              income of the tax-exempt controlled entity which was not subject to tax under this
+                              chapter.
+
+
+
+I.R.C. § 168(h)(6)(F)(iii) Tax-Exempt Controlled Entity
+
+
+I.R.C. § 168(h)(6)(F)(iii)(I) In General — 
+                           
+                           
+The term “tax-exempt controlled entity” means any corporation (which is not a tax-exempt
+                              entity determined without regard to this subparagraph and paragraph (2)(E)) if 50 percent or more (in value) of the stock in such corporation is held by 1 or
+                              more tax-exempt entities (other than a foreign person or entity). 
+
+
+I.R.C. § 168(h)(6)(F)(iii)(II) Only 5-Percent Shareholders Taken Into Account In Case Of Publicly Traded Stock — 
+                           
+                           
+For purposes of subclause (I), in the case of a corporation the stock of which is publicly traded on an established
+                              securities market, stock held by a tax-exempt entity shall not be taken into account
+                              unless such entity holds at least 5 percent (in value) of the stock in such corporation.
+                              For purposes of this subclause, related entities (within the meaning of paragraph
+                              (4)) shall be treated as 1 entity. 
+
+
+I.R.C. § 168(h)(6)(F)(iii)(III) Section 318 To Apply — 
+                           
+                           
+For purposes of this clause, a tax-exempt entity shall be treated as holding stock
+                              which it holds through application of section 318 (determined without regard to the 50-percent limitation contained in subsection (a)(2)(C) thereof). 
+
+
+
+
+I.R.C. § 168(h)(6)(G) Regulations — 
+                     
+                     
+For purposes of determining whether there is a qualified allocation under subparagraph
+                        (B), the regulations prescribed under paragraph (8) for purposes of this paragraph— 
+
+I.R.C. § 168(h)(6)(G)(i)  — 
+                        
+                        
+shall set forth the proper treatment for partnership guaranteed payments, and 
+
+
+I.R.C. § 168(h)(6)(G)(ii)  — 
+                        
+                        
+may provide for the exclusion or segregation of items. 
+
+
+
+
+I.R.C. § 168(h)(7) Lease — 
+                  
+                  
+For purposes of this subsection, the term “lease” includes any grant of a right to
+                     use property. 
+
+
+I.R.C. § 168(h)(8) Regulations — 
+                  
+                  
+The Secretary shall prescribe such regulations as may be necessary or appropriate
+                     to carry out the purposes of this subsection.
+I.R.C. § 168(i) Definitions And Special Rules — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 168(i)(1) Class Life — 
+                  
+                  
+Except as provided in this section, the term “class life” means the class life (if
+                     any) which would be applicable with respect to any property as of January 1, 1986,
+                     under subsection (m) of section 167 (determined without regard to paragraph (4) and as if the taxpayer had made an election under such subsection). The Secretary,
+                     through an office established in the Treasury, shall monitor and analyze actual experience
+                     with respect to all depreciable assets. The reference in this paragraph to subsection
+                     (m) of section 167 shall be treated as a reference to such subsection as in effect on the day before
+                     the date of the enactment of the Revenue Reconciliation Act of 1990. 
+
+
+I.R.C. § 168(i)(2) Qualified Technological Equipment
+
+
+I.R.C. § 168(i)(2)(A) In General — 
+                     
+                     
+The term “qualified technological equipment” means— 
+
+I.R.C. § 168(i)(2)(A)(i)  — 
+                        
+                        
+any computer or peripheral equipment, 
+
+
+I.R.C. § 168(i)(2)(A)(ii)  — 
+                        
+                        
+any high technology telephone station equipment installed on the customer's premises,
+                           and 
+
+
+I.R.C. § 168(i)(2)(A)(iii)  — 
+                        
+                        
+any high technology medical equipment. 
+
+
+
+I.R.C. § 168(i)(2)(B) Computer Or Peripheral Equipment Defined — 
+                     
+                     
+For purposes of this paragraph— 
+
+I.R.C. § 168(i)(2)(B)(i) In General — 
+                        
+                        
+The term “computer or peripheral equipment” means— 
+
+I.R.C. § 168(i)(2)(B)(i)(I)  — 
+                           
+                           
+any computer, and 
+
+
+I.R.C. § 168(i)(2)(B)(i)(II)  — 
+                           
+                           
+any related peripheral equipment. 
+
+
+
+I.R.C. § 168(i)(2)(B)(ii) Computer — 
+                        
+                        
+The term “computer” means a programmable electronically activated device which— 
+
+I.R.C. § 168(i)(2)(B)(ii)(I)  — 
+                           
+                           
+is capable of accepting information, applying prescribed processes to the information,
+                              and supplying the results of these processes with or without human intervention, and 
+
+
+I.R.C. § 168(i)(2)(B)(ii)(II)  — 
+                           
+                           
+consists of a central processing unit containing extensive storage, logic, arithmetic,
+                              and control capabilities. 
+
+
+
+I.R.C. § 168(i)(2)(B)(iii) Related Peripheral Equipment — 
+                        
+                        
+The term “related peripheral equipment” means any auxiliary machine (whether on-line
+                           or off-line) which is designed to be placed under the control of the central processing
+                           unit of a computer. 
+
+
+I.R.C. § 168(i)(2)(B)(iv) Exceptions — 
+                        
+                        
+The term “computer or peripheral equipment” shall not include— 
+
+I.R.C. § 168(i)(2)(B)(iv)(I)  — 
+                           
+                           
+any equipment which is an integral part of other property which is not a computer, 
+
+
+I.R.C. § 168(i)(2)(B)(iv)(II)  — 
+                           
+                           
+typewriters, calculators, adding and accounting machines, copiers, duplicating equipment,
+                              and similar equipment, and 
+
+
+I.R.C. § 168(i)(2)(B)(iv)(III)  — 
+                           
+                           
+equipment of a kind used primarily for amusement or entertainment of the user. 
+
+
+
+
+I.R.C. § 168(i)(2)(C) High Technology Medical Equipment — 
+                     
+                     
+For purposes of this paragraph, the term “high technology medical equipment” means
+                        any electronic, electromechanical, or computer-based high technology equipment used
+                        in the screening, monitoring, observation, diagnosis, or treatment of patients in
+                        a laboratory, medical, or hospital environment. 
+
+
+
+I.R.C. § 168(i)(3) Lease Term
+
+
+I.R.C. § 168(i)(3)(A) In General — 
+                     
+                     
+In determining a lease term— 
+
+I.R.C. § 168(i)(3)(A)(i)  — 
+                        
+                        
+there shall be taken into account options to renew, 
+
+
+I.R.C. § 168(i)(3)(A)(ii)  — 
+                        
+                        
+the term of a lease shall include the term of any service contract or similar arrangement
+                           (whether or not treated as a lease under section 7701(e))— 
+
+I.R.C. § 168(i)(3)(A)(ii)(I)  — 
+                           
+                           
+which is part of the same transaction (or series of related transactions) which includes
+                              the lease, and 
+
+
+I.R.C. § 168(i)(3)(A)(ii)(II)  — 
+                           
+                           
+which is with respect to the property subject to the lease or substantially similar
+                              property, and 
+
+
+
+I.R.C. § 168(i)(3)(A)(iii)  — 
+                        
+                        
+2 or more successive leases which are part of the same transaction (or a series of
+                           related transactions) with respect to the same or substantially similar property shall
+                           be treated as 1 lease. 
+
+
+
+I.R.C. § 168(i)(3)(B) Special Rule For Fair Rental Options On Nonresidential Real Property Or Residential
+                        Rental Property — 
+                     
+                     
+For purposes of clause (i) of subparagraph (A), in the case of nonresidential real property or residential rental property, there
+                        shall not be taken into account any option to renew at fair market value, determined
+                        at the time of renewal. 
+
+
+
+I.R.C. § 168(i)(4) General Asset Accounts — 
+                  
+                  
+Under regulations, a taxpayer may maintain 1 or more general asset accounts for any
+                     property to which this section applies. Except as provided in regulations, all proceeds
+                     realized on any disposition of property in a general asset account shall be included
+                     in income as ordinary income. 
+
+
+I.R.C. § 168(i)(5) Changes In Use — 
+                  
+                  
+The Secretary shall, by regulations, provide for the method of determining the deduction
+                     allowable under section 167(a) with respect to any tangible property for any taxable year (and the succeeding taxable
+                     years) during which such property changes status under this section but continues
+                     to be held by the same person. 
+
+
+I.R.C. § 168(i)(6) Treatments Of Additions Or Improvements To Property — 
+                  
+                  
+In the case of any addition to (or improvement of) any property— 
+
+I.R.C. § 168(i)(6)(A)  — 
+                     
+                     
+any deduction under subsection (a) for such addition or improvement shall be computed in the same manner as the deduction
+                        for such property would be computed if such property had been placed in service at
+                        the same time as such addition or improvement, and 
+
+
+I.R.C. § 168(i)(6)(B)  — 
+                     
+                     
+the applicable recovery period for such addition or improvement shall begin on the
+                        later of— 
+
+I.R.C. § 168(i)(6)(B)(i)  — 
+                        
+                        
+the date on which such addition (or improvement) is placed in service, or 
+
+
+I.R.C. § 168(i)(6)(B)(ii)  — 
+                        
+                        
+the date on which the property with respect to which such addition (or improvement)
+                           was made is placed in service. 
+
+
+
+
+I.R.C. § 168(i)(7) Treatment Of Certain Transferees
+
+
+I.R.C. § 168(i)(7)(A) In General — 
+                     
+                     
+In the case of any property transferred in a transaction described in subparagraph
+                        (B), the transferee shall be treated as the transferor for purposes of computing the
+                        depreciation deduction determined under this section with respect to so much of the
+                        basis in the hands of the transferee as does not exceed the adjusted basis in the
+                        hands of the transferor. In any case where this section as in effect before the amendments
+                        made by section 201 of the Tax Reform Act of 1986 applied to the property in the hands of the transferor,
+                        the reference in the preceding sentence to this section shall be treated as a reference
+                        to this section as so in effect. 
+
+
+I.R.C. § 168(i)(7)(B) Transactions Covered — 
+                     
+                     
+The transactions described in this subparagraph are— 
+
+I.R.C. § 168(i)(7)(B)(i)  — 
+                        
+                        
+any transaction described in section 332, 351, 361, 721, or 731, and 
+
+
+I.R.C. § 168(i)(7)(B)(ii)  — 
+                        
+                        
+any transaction between members of the same affiliated group during any taxable year
+                           for which a consolidated return is made by such group. 
+
+
+
+I.R.C. § 168(i)(7)(C) Property Reacquired By The Taxpayer — 
+                     
+                     
+Under regulations, property which is disposed of and then reacquired by the taxpayer
+                        shall be treated for purposes of computing the deduction allowable under subsection
+                        (a) as if such property had not been disposed of. 
+
+
+I.R.C. § 168(i)(7)(D)  — 
+                     
+                     
+[Repealed] 
+
+
+
+I.R.C. § 168(i)(8) Treatment Of Leasehold Improvements
+
+
+I.R.C. § 168(i)(8)(A) In General — 
+                     
+                     
+In the case of any building erected (or improvements made) on leased property, if
+                        such building or improvement is property to which this section applies, the depreciation
+                        deduction shall be determined under the provisions of this section. 
+
+
+I.R.C. § 168(i)(8)(B) Treatment Of Lessor Improvements Which Are Abandoned At Termination Of Lease — 
+                     
+                     
+An improvement— 
+
+I.R.C. § 168(i)(8)(B)(i)  — 
+                        
+                        
+which is made by the lessor of leased property for the lessee of such property, and 
+
+
+I.R.C. § 168(i)(8)(B)(ii)  — 
+                        
+                        
+which is irrevocably disposed of or abandoned by the lessor at the termination of
+                           the lease by such lessee, 
+
+
+shall be treated for purposes of determining gain or loss under this title as disposed
+                           of by the lessor when so disposed of or abandoned.
+
+
+
+I.R.C. § 168(i)(8)(C) Cross Reference — 
+                     
+                     
+For treatment of qualified long-term real property constructed or improved in connection
+                        with cash or rent reduction from lessor to lessee, see section 110(b). 
+
+
+
+I.R.C. § 168(i)(9) Normalization Rules
+
+
+I.R.C. § 168(i)(9)(A) In General — 
+                     
+                     
+In order to use a normalization method of accounting with respect to any public utility
+                        property for purposes of subsection (f)(2)— 
+
+I.R.C. § 168(i)(9)(A)(i)  — 
+                        
+                        
+the taxpayer must, in computing its tax expense for purposes of establishing its cost
+                           of service for ratemaking purposes and reflecting operating results in its regulated
+                           books of account, use a method of depreciation with respect to such property that
+                           is the same as, and a depreciation period for such property that is no shorter than,
+                           the method and period used to compute its depreciation expense for such purposes;
+                           and 
+
+
+I.R.C. § 168(i)(9)(A)(ii)  — 
+                        
+                        
+if the amount allowable as a deduction under this section with respect to such property
+                           (respecting all elections made by the taxpayer under this section) differs from the
+                           amount that would be allowable as a deduction under section 167 using the method (including the period, first and last year convention, and salvage
+                           value) used to compute regulated tax expense under clause (i), the taxpayer must make adjustments to a reserve to reflect the deferral of taxes
+                           resulting from such difference. 
+
+
+
+I.R.C. § 168(i)(9)(B) Use Of Inconsistent Estimates And Projections, Etc.
+
+
+I.R.C. § 168(i)(9)(B)(i) In General — 
+                        
+                        
+One way in which the requirements of subparagraph (A) are not met is if the taxpayer, for ratemaking purposes, uses a procedure or adjustment
+                           which is inconsistent with the requirements of subparagraph (A). 
+
+
+I.R.C. § 168(i)(9)(B)(ii) Use Of Inconsistent Estimates And Projections — 
+                        
+                        
+The procedures and adjustments which are to be treated as inconsistent for purposes
+                           of clause (i) shall include any procedure or adjustment for ratemaking purposes which uses an estimate
+                           or projection of the taxpayer's tax expense, depreciation expense, or reserve for
+                           deferred taxes under subparagraph (A)(ii) unless such estimate or projection is also used, for ratemaking purposes, with respect
+                           to the other 2 such items and with respect to the rate base. 
+
+
+I.R.C. § 168(i)(9)(B)(iii) Regulatory Authority — 
+                        
+                        
+The Secretary may by regulations prescribe procedures and adjustments (in addition
+                           to those specified in clause (ii)) which are to be treated as inconsistent for purposes of clause (i). 
+
+
+
+I.R.C. § 168(i)(9)(C) Public Utility Property Which Does Not Meet Normalization Rules — 
+                     
+                     
+In the case of any public utility property to which this section does not apply by
+                        reason of subsection (f)(2), the allowance for depreciation under section 167(a) shall be an amount computed using the method and period referred to in subparagraph
+                        (A)(i). 
+
+
+
+I.R.C. § 168(i)(10) Public Utility Property — 
+                  
+                  
+The term “public utility property” means property used predominantly in the trade
+                     or business of the furnishing or sale of— 
+
+I.R.C. § 168(i)(10)(A)  — 
+                     
+                     
+electrical energy, water, or sewage disposal services, 
+
+
+I.R.C. § 168(i)(10)(B)  — 
+                     
+                     
+gas or steam through a local distribution system, 
+
+
+I.R.C. § 168(i)(10)(C)  — 
+                     
+                     
+telephone services, or other communication services if furnished or sold by the Communications
+                        Satellite Corporation for purposes authorized by the Communications Satellite Act
+                        of 1962 (47 U.S.C. 701), or 
+
+
+I.R.C. § 168(i)(10)(D)  — 
+                     
+                     
+transportation of gas or steam by pipeline, 
+
+
+if the rates for such furnishing or sale, as the case may be, have been established
+                        or approved by a State or political subdivision thereof, by any agency or instrumentality
+                        of the United States, or by a public service or public utility commission or other
+                        similar body of any State or political subdivision thereof.
+
+
+
+I.R.C. § 168(i)(11) Research And Experimentation — 
+                  
+                  
+The term “research and experimentation” has the same meaning as the term research
+                     and experimental has under section 174. 
+
+
+I.R.C. § 168(i)(12) Section 1245 And 1250 Property — 
+                  
+                  
+The terms “section 1245 property” and “section 1250 property” have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively. 
+
+
+I.R.C. § 168(i)(13) Single Purpose Agricultural Or Horticultural Structure
+
+
+I.R.C. § 168(i)(13)(A) In General — 
+                     
+                     
+The term ”single purpose agricultural or horticultural structure” means— 
+
+I.R.C. § 168(i)(13)(A)(i)  — 
+                        
+                        
+a single purpose livestock structure, and 
+
+
+I.R.C. § 168(i)(13)(A)(ii)  — 
+                        
+                        
+a single purpose horticultural structure. 
+
+
+
+I.R.C. § 168(i)(13)(B) Definitions — 
+                     
+                     
+For purposes of this paragraph— 
+
+I.R.C. § 168(i)(13)(B)(i) Single Purpose Livestock Structure — 
+                        
+                        
+The term “single purpose livestock structure” means any enclosure or structure specifically
+                           designed, constructed, and used— 
+
+I.R.C. § 168(i)(13)(B)(i)(I)  — 
+                           
+                           
+for housing, raising, and feeding a particular type of livestock and their produce,
+                              and 
+
+
+I.R.C. § 168(i)(13)(B)(i)(II)  — 
+                           
+                           
+for housing the equipment (including any replacements) necessary for the housing,
+                              raising, and feeding referred to in subclause (I). 
+
+
+
+I.R.C. § 168(i)(13)(B)(ii) Single Purpose Horticultural Structure — 
+                        
+                        
+The term “single purpose horticultural structure” means— 
+
+I.R.C. § 168(i)(13)(B)(ii)(I)  — 
+                           
+                           
+a greenhouse specifically designed, constructed, and used for the commercial production
+                              of plants, and 
+
+
+I.R.C. § 168(i)(13)(B)(ii)(II)  — 
+                           
+                           
+a structure specifically designed, constructed, and used for the commercial production
+                              of mushrooms. 
+
+
+
+I.R.C. § 168(i)(13)(B)(iii) Structures Which Include Work Space — 
+                        
+                        
+An enclosure or structure which provides work space shall be treated as a single purpose
+                           agricultural or horticultural structure only if such work space is solely for— 
+
+I.R.C. § 168(i)(13)(B)(iii)(I)  — 
+                           
+                           
+the stocking, caring for, or collecting of livestock or plants (as the case may be)
+                              or their produce, 
+
+
+I.R.C. § 168(i)(13)(B)(iii)(II)  — 
+                           
+                           
+the maintenance of the enclosure or structure, and 
+
+
+I.R.C. § 168(i)(13)(B)(iii)(III)  — 
+                           
+                           
+the maintenance or replacement of the equipment or stock enclosed or housed therein. 
+
+
+
+I.R.C. § 168(i)(13)(B)(iv) Livestock — 
+                        
+                        
+The term “livestock” includes poultry. 
+
+
+
+
+I.R.C. § 168(i)(14) Qualified Rent-To-Own Property
+
+
+I.R.C. § 168(i)(14)(A) In General — 
+                     
+                     
+The term “qualified rent-to-own property” means property held by a rent-to-own dealer
+                        for purposes of being subject to a rent-to-own contract. 
+
+
+I.R.C. § 168(i)(14)(B) Rent-To-Own Dealer — 
+                     
+                     
+The term “rent-to-own dealer” means a person that, in the ordinary course of business,
+                        regularly enters into rent-to-own contracts with customers for the use of consumer
+                        property, if a substantial portion of those contracts terminate and the property is
+                        returned to such person before the receipt of all payments required to transfer ownership
+                        of the property from such person to the customer. 
+
+
+I.R.C. § 168(i)(14)(C) Consumer Property — 
+                     
+                     
+The term “consumer property” means tangible personal property of a type generally
+                        used within the home for personal use. 
+
+
+I.R.C. § 168(i)(14)(D) Rent-To-Own Contract — 
+                     
+                     
+The term “rent-to-own contract” means any lease for the use of consumer property between
+                        a rent-to-own dealer and a customer who is an individual which— 
+
+I.R.C. § 168(i)(14)(D)(i)  — 
+                        
+                        
+is titled “Rent-to-Own Agreement” or “Lease Agreement with Ownership Option,” or uses
+                           other similar language, 
+
+
+I.R.C. § 168(i)(14)(D)(ii)  — 
+                        
+                        
+provides for level (or decreasing where no payment is less than 40 percent of the
+                           largest payment), regular periodic payments (for a payment period which is a week
+                           or month), 
+
+
+I.R.C. § 168(i)(14)(D)(iii)  — 
+                        
+                        
+provides that legal title to such property remains with the rent-to-own dealer until
+                           the customer makes all the payments described in clause (ii) or early purchase payments required under the contract to acquire legal title to
+                           the item of property, 
+
+
+I.R.C. § 168(i)(14)(D)(iv)  — 
+                        
+                        
+provides a beginning date and a maximum period of time for which the contract may
+                           be in effect that does not exceed 156 weeks or 36 months from such beginning date
+                           (including renewals or options to extend), 
+
+
+I.R.C. § 168(i)(14)(D)(v)  — 
+                        
+                        
+provides for payments within the 156-week or 36-month period that, in the aggregate,
+                           generally exceed the normal retail price of the consumer property plus interest, 
+
+
+I.R.C. § 168(i)(14)(D)(vi)  — 
+                        
+                        
+provides for payments under the contract that, in the aggregate, do not exceed $10,000
+                           per item of consumer property, 
+
+
+I.R.C. § 168(i)(14)(D)(vii)  — 
+                        
+                        
+provides that the customer does not have any legal obligation to make all the payments
+                           referred to in clause (ii) set forth under the contract, and that at the end of each payment period the customer
+                           may either continue to use the consumer property by making the payment for the next
+                           payment period or return such property to the rent-to-own dealer in good working order,
+                           in which case the customer does not incur any further obligations under the contract
+                           and is not entitled to a return of any payments previously made under the contract,
+                           and 
+
+
+I.R.C. § 168(i)(14)(D)(viii)  — 
+                        
+                        
+provides that the customer has no right to sell, sublease, mortgage, pawn, pledge,
+                           encumber, or otherwise dispose of the consumer property until all the payments stated
+                           in the contract have been made. 
+
+
+
+
+I.R.C. § 168(i)(15) Motorsports Entertainment Complex
+
+
+I.R.C. § 168(i)(15)(A) In General — 
+                     
+                     
+The term “motorsports entertainment complex” means a racing track facility which— 
+
+I.R.C. § 168(i)(15)(A)(i)  — 
+                        
+                        
+is permanently situated on land, and 
+
+
+I.R.C. § 168(i)(15)(A)(ii)  — 
+                        
+                        
+during the 36-month period following the first day of the month in which the asset
+                           is placed in service, hosts 1 or more racing events for automobiles (of any type),
+                           trucks, or motorcycles which are open to the public for the price of admission. 
+
+
+
+I.R.C. § 168(i)(15)(B) Ancillary And Support Facilities — 
+                     
+                     
+Such term shall include, if owned by the taxpayer who owns the complex and provided
+                        for the benefit of patrons of the complex— 
+
+I.R.C. § 168(i)(15)(B)(i)  — 
+                        
+                        
+ancillary facilities and land improvements in support of the complex's activities
+                           (including parking lots, sidewalks, waterways, bridges, fences, and landscaping), 
+
+
+I.R.C. § 168(i)(15)(B)(ii)  — 
+                        
+                        
+support facilities (including food and beverage retailing, souvenir vending, and other
+                           nonlodging accommodations), and 
+
+
+I.R.C. § 168(i)(15)(B)(iii)  — 
+                        
+                        
+appurtenances associated with such facilities and related attractions and amusements
+                           (including ticket booths, race track surfaces, suites and hospitality facilities,
+                           grandstands and viewing structures, props, walls, facilities that support the delivery
+                           of entertainment services, other special purpose structures, facades, shop interiors,
+                           and buildings). 
+
+
+
+I.R.C. § 168(i)(15)(C) Exception — 
+                     
+                     
+Such term shall not include any transportation equipment, administrative services
+                        assets, warehouses, administrative buildings, hotels, or motels. 
+
+
+I.R.C. § 168(i)(15)(D) Termination — 
+                     
+                     
+Such term shall not include any property placed in service after December 31, 2025. 
+
+
+
+I.R.C. § 168(i)(16) Alaska Natural Gas Pipeline — 
+                  
+                  
+The term “Alaska natural gas pipeline” means the natural gas pipeline system located
+                     in the State of Alaska which— 
+
+I.R.C. § 168(i)(16)(A)  — 
+                     
+                     
+has a capacity of more than 500,000,000,000 Btu of natural gas per day, and 
+
+
+I.R.C. § 168(i)(16)(B)  — 
+                     
+                     
+is— 
+
+I.R.C. § 168(i)(16)(B)(i)  — 
+                        
+                        
+placed in service after December 31, 2013, or 
+
+
+I.R.C. § 168(i)(16)(B)(ii)  — 
+                        
+                        
+treated as placed in service on January 1, 2014, if the taxpayer who places such system
+                           in service before January 1, 2014, elects such treatment. 
+
+
+Such term includes the pipe, trunk lines, related equipment, and appurtenances used
+                           to carry natural gas, but does not include any gas processing plant.
+
+
+
+
+I.R.C. § 168(i)(17) Natural Gas Gathering Line — 
+                  
+                  
+The term “natural gas gathering line” means— 
+
+I.R.C. § 168(i)(17)(A)  — 
+                     
+                     
+the pipe, equipment, and appurtenances determined to be a gathering line by the Federal
+                        Energy Regulatory Commission, and 
+
+
+I.R.C. § 168(i)(17)(B)  — 
+                     
+                     
+the pipe, equipment, and appurtenances used to deliver natural gas from the wellhead
+                        or a commonpoint to the point at which such gas first reaches— 
+
+I.R.C. § 168(i)(17)(B)(i)  — 
+                        
+                        
+a gas processing plant, 
+
+
+I.R.C. § 168(i)(17)(B)(ii)  — 
+                        
+                        
+an interconnection with a transmission pipeline for which a certificate as an interstate
+                           transmission pipeline has been issued by the Federal Energy Regulatory Commission, 
+
+
+I.R.C. § 168(i)(17)(B)(iii)  — 
+                        
+                        
+an interconnection with an intrastate transmission pipeline, or 
+
+
+I.R.C. § 168(i)(17)(B)(iv)  — 
+                        
+                        
+a direct interconnection with a local distribution company, a gas storage facility,
+                           or an industrial consumer. 
+
+
+
+
+I.R.C. § 168(i)(18) Qualified Smart Electric Meters
+
+
+I.R.C. § 168(i)(18)(A) In General — 
+                     
+                     
+The term “qualified smart electric meter” means any smart electric meter which— 
+
+I.R.C. § 168(i)(18)(A)(i)  — 
+                        
+                        
+is placed in service by a taxpayer who is a supplier of electric energy or a provider
+                           of electric energy services, and 
+
+
+I.R.C. § 168(i)(18)(A)(ii)  — 
+                        
+                        
+does not have a class life (determined without regard to subsection (e)) of less than 16 years. 
+
+
+
+I.R.C. § 168(i)(18)(B) Smart Electric Meter — 
+                     
+                     
+For purposes of subparagraph (A), the term “smart electric meter” means any time-based meter and related communication
+                        equipment which is capable of being used by the taxpayer as part of a system that— 
+
+I.R.C. § 168(i)(18)(B)(i)  — 
+                        
+                        
+measures and records electricity usage data on a time-differentiated basis in at least
+                           24 separate time segments per day, 
+
+
+I.R.C. § 168(i)(18)(B)(ii)  — 
+                        
+                        
+provides for the exchange of information between supplier or provider and the customer's
+                           electric meter in support of time-based rates or other forms of demand response, 
+
+
+I.R.C. § 168(i)(18)(B)(iii)  — 
+                        
+                        
+provides data to such supplier or provider so that the supplier or provider can provide
+                           energy usage information to customers electronically, and 
+
+
+I.R.C. § 168(i)(18)(B)(iv)  — 
+                        
+                        
+provides net metering. 
+
+
+
+
+I.R.C. § 168(i)(19) Qualified Smart Electric Grid Systems
+
+
+I.R.C. § 168(i)(19)(A) In General — 
+                     
+                     
+The term “qualified smart electric grid system” means any smart grid property which— 
+
+I.R.C. § 168(i)(19)(A)(i)  — 
+                        
+                        
+is used as part of a system for electric distribution grid communications, monitoring,
+                           and management placed in service by a taxpayer who is a supplier of electric energy
+                           or a provider of electric energy services, and 
+
+
+I.R.C. § 168(i)(19)(A)(ii)  — 
+                        
+                        
+does not have a class life (determined without regard to subsection (e)) of less than 16 years. 
+
+
+
+I.R.C. § 168(i)(19)(B) Smart Grid Property — 
+                     
+                     
+For the purposes of subparagraph (A), the term “smart grid property” means electronics and related equipment that is capable
+                        of— 
+
+I.R.C. § 168(i)(19)(B)(i)  — 
+                        
+                        
+sensing, collecting, and monitoring data of or from all portions of a utility's electric
+                           distribution grid, 
+
+
+I.R.C. § 168(i)(19)(B)(ii)  — 
+                        
+                        
+providing real-time, two-way communications to monitor or manage such grid, and 
+
+
+I.R.C. § 168(i)(19)(B)(iii)  — 
+                        
+                        
+providing real time analysis of and event prediction based upon collected data that
+                           can be used to improve electric distribution system reliability, quality, and performance.
+I.R.C. § 168(j) Property On Indian Reservations
+
+
+I.R.C. § 168(j)(1) In General — 
+                  
+                  
+For purposes of subsection (a), the applicable recovery period for qualified Indian reservation property shall be
+                     determined in accordance with the table contained in paragraph (2) in lieu of the table contained in subsection (c). 
+
+
+I.R.C. § 168(j)(2) Applicable Recovery Period For Indian Reservation Property — 
+                  
+                  
+For purposes of paragraph (1)—
+                     
+                     
+                     
+
+
+
+
+
+In the case of:
+The applicable recovery period is:
+
+
+3-year property
+2 years
+
+
+5-year property
+3 years
+
+
+7-year property
+4 years
+
+
+10-year property
+6 years
+
+
+15-year property
+9 years
+
+
+20-year property
+12 years
+
+
+Nonresidential real property
+22 years.
+
+
+
+
+
+
+
+
+
+
+In the case of:
+The applicable recovery period is:
+
+
+3-year property
+2 years
+
+
+5-year property
+3 years
+
+
+7-year property
+4 years
+
+
+10-year property
+6 years
+
+
+15-year property
+9 years
+
+
+20-year property
+12 years
+
+
+Nonresidential real property
+22 years.
+
+
+
+
+
+
+
+I.R.C. § 168(j)(3) Deduction Allowed In Computing Minimum Tax — 
+                  
+                  
+For purposes of determining alternative minimum taxable income under section 56, the deduction under subsection (a) for qualified Indian reservation property shall
+                     be determined under this section without regard to any adjustment under section 55. 
+
+
+I.R.C. § 168(j)(4) Qualified Indian Reservation Property Defined — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(j)(4)(A) In General — 
+                     
+                     
+The term “qualified Indian reservation property” means property which is property
+                        described in the table in paragraph (2) and which is— 
+
+I.R.C. § 168(j)(4)(A)(i)  — 
+                        
+                        
+used by the taxpayer predominantly in the active conduct of a trade or business within
+                           an Indian reservation, 
+
+
+I.R.C. § 168(j)(4)(A)(ii)  — 
+                        
+                        
+not used or located outside the Indian reservation on a regular basis, 
+
+
+I.R.C. § 168(j)(4)(A)(iii)  — 
+                        
+                        
+not acquired (directly or indirectly) by the taxpayer from a person who is related
+                           to the taxpayer (within the meaning of section 465(b)(3)(C)), and 
+
+
+I.R.C. § 168(j)(4)(A)(iv)  — 
+                        
+                        
+not property (or any portion thereof) placed in service for purposes of conducting
+                           or housing class I, II, or III gaming (as defined in section 4 of the Indian Regulatory Act (25 U.S.C. 2703)). 
+
+
+
+I.R.C. § 168(j)(4)(B) Exception For Alternative Depreciation Property — 
+                     
+                     
+The term “qualified Indian reservation property” does not include any property to
+                        which the alternative depreciation system under subsection (g) applies, determined— 
+
+I.R.C. § 168(j)(4)(B)(i)  — 
+                        
+                        
+without regard to subsection (g)(7) (relating to election to use alternative depreciation system), and 
+
+
+I.R.C. § 168(j)(4)(B)(ii)  — 
+                        
+                        
+after the application of section 280F(b) (relating to listed property with limited business use). 
+
+
+
+I.R.C. § 168(j)(4)(C) Special Rule For Reservation Infrastructure Investment
+
+
+I.R.C. § 168(j)(4)(C)(i) In General — 
+                        
+                        
+Subparagraph (A)(ii) shall not apply to qualified infrastructure property located outside of the Indian
+                           reservation if the purpose of such property is to connect with qualified infrastructure
+                           property located within the Indian reservation. 
+
+
+I.R.C. § 168(j)(4)(C)(ii) Qualified Infrastructure Property — 
+                        
+                        
+For purposes of this subparagraph, the term “qualified infrastructure property” means
+                           qualified Indian reservation property (determined without regard to subparagraph (A)(ii)) which— 
+
+I.R.C. § 168(j)(4)(C)(ii)(I)  — 
+                           
+                           
+benefits the tribal infrastructure, 
+
+
+I.R.C. § 168(j)(4)(C)(ii)(II)  — 
+                           
+                           
+is available to the general public, and 
+
+
+I.R.C. § 168(j)(4)(C)(ii)(III)  — 
+                           
+                           
+is placed in service in connection with the taxpayer's active conduct of a trade or
+                              business within an Indian reservation. 
+
+
+Such term includes, but is not limited to, roads, power lines, water systems, railroad
+                              spurs, and communications facilities.
+
+
+
+
+
+I.R.C. § 168(j)(5) Real Estate Rentals — 
+                  
+                  
+For purposes of this subsection, the rental to others of real property located within
+                     an Indian reservation shall be treated as the active conduct of a trade or business
+                     within an Indian reservation. 
+
+
+I.R.C. § 168(j)(6) Indian Reservation Defined — 
+                  
+                  
+For purposes of this subsection, the term “Indian reservation” means a reservation,
+                     as defined in— 
+
+I.R.C. § 168(j)(6)(A)  — 
+                     
+                     
+section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)), or 
+
+
+I.R.C. § 168(j)(6)(B)  — 
+                     
+                     
+section 4(10) of the Indian Child Welfare Act of 1978 (25 U.S.C. 1903(10)). 
+
+
+For purposes of the preceding sentence, such section 3(d) shall be applied by treating
+                        the term “former Indian reservations in Oklahoma” as including only lands which are
+                        within the jurisdictional area of an Oklahoma Indian tribe (as determined by the Secretary
+                        of the Interior) and are recognized by such Secretary as eligible for trust land status
+                        under 25 CFR Part 151 (as in effect on the date of the enactment of this sentence).
+
+
+
+I.R.C. § 168(j)(7) Coordination With Nonrevenue Laws — 
+                  
+                  
+Any reference in this subsection to a provision not contained in this title shall
+                     be treated for purposes of this subsection as a reference to such provision as in
+                     effect on the date of the enactment of this paragraph. 
+
+
+I.R.C. § 168(j)(8) Election Out — 
+                  
+                  
+If a taxpayer makes an election under this paragraph with respect to any class of
+                     property for any taxable year, paragraph (1) shall not apply to all property in such
+                     class placed in service during such taxable year. Such election, once made, shall
+                     be irrevocable. 
+
+
+I.R.C. § 168(j)(9) Termination — 
+                  
+                  
+This subsection shall not apply to property placed in service after December 31, 2021.
+I.R.C. § 168(k) Special Allowance For Certain Property
+
+
+I.R.C. § 168(k)(1) Additional Allowance — 
+                  
+                  
+In the case of any qualified property— 
+
+I.R.C. § 168(k)(1)(A)  — 
+                     
+                     
+the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an
+                        allowance equal to the applicable percentage of the adjusted basis of the qualified
+                        property, and 
+
+
+I.R.C. § 168(k)(1)(B)  — 
+                     
+                     
+the adjusted basis of the qualified property shall be reduced by the amount of such
+                        deduction before computing the amount otherwise allowable as a depreciation deduction
+                        under this chapter for such taxable year and any subsequent taxable year. 
+
+
+
+I.R.C. § 168(k)(2) Qualified Property — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(k)(2)(A) In General — 
+                     
+                     
+The term “qualified property” means property— 
+
+I.R.C. § 168(k)(2)(A)(i) 
+
+
+I.R.C. § 168(k)(2)(A)(i)(I)  — 
+                           
+                           
+to which this section applies which has a recovery period of 20 years or less, 
+
+
+I.R.C. § 168(k)(2)(A)(i)(II)  — 
+                           
+                           
+which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection, 
+
+
+I.R.C. § 168(k)(2)(A)(i)(III)  — 
+                           
+                           
+which is water utility property, or 
+
+
+I.R.C. § 168(k)(2)(A)(i)(IV)  — 
+                           
+                           
+which is a qualified film or television production (as defined in subsection (d) of
+                              section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection,
+                              or 
+
+
+I.R.C. § 168(k)(2)(A)(i)(V)  — 
+                           
+                           
+which is a qualified live theatrical production (as defined in subsection (e) of section
+                              181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection, 
+
+
+
+I.R.C. § 168(k)(2)(A)(ii)  — 
+                        
+                        
+the original use of which begins with the taxpayer or the acquisition of which by
+                           the taxpayer meets the requirements of clause (ii) of subparagraph (E), and 
+
+
+I.R.C. § 168(k)(2)(A)(iii)  — 
+                        
+                        
+which is placed in service by the taxpayer before January 1, 2027. 
+
+
+
+I.R.C. § 168(k)(2)(B) Certain Property Having Longer Production Periods Treated As Qualified Property
+
+
+I.R.C. § 168(k)(2)(B)(i) In General — 
+                        
+                        
+The term “qualified property” includes any property if such property— 
+
+I.R.C. § 168(k)(2)(B)(i)(I)  — 
+                           
+                           
+meets the requirements of clauses (i) and (ii) of subparagraph (A), 
+
+
+I.R.C. § 168(k)(2)(B)(i)(II)  — 
+                           
+                           
+is placed in service by the taxpayer before January 1, 2028, 
+
+
+I.R.C. § 168(k)(2)(B)(i)(III)  — 
+                           
+                           
+is acquired by the taxpayer (or acquired pursuant to a written binding contract entered
+                              into) before January 1, 2027, 
+
+
+I.R.C. § 168(k)(2)(B)(i)(IV)  — 
+                           
+                           
+has a recovery period of at least 10 years or is transportation property, 
+
+
+I.R.C. § 168(k)(2)(B)(i)(V)  — 
+                           
+                           
+is subject to section 263A, and 
+
+
+I.R.C. § 168(k)(2)(B)(i)(VI)  — 
+                           
+                           
+meets the requirements of clause (iii) of section 263A(f)(1)(B) (determined as if such clause also applies to property which has a long useful life
+                              (within the meaning of section 263A(f))). 
+
+
+
+I.R.C. § 168(k)(2)(B)(ii) Only Pre-January 1, 2027 Basis Eligible For Additional Allowance — 
+                        
+                        
+In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture,
+                           construction, or production before January 1, 2027. 
+
+
+I.R.C. § 168(k)(2)(B)(iii) Transportation Property — 
+                        
+                        
+For purposes of this subparagraph, the term “transportation property” means tangible
+                           personal property used in the trade or business of transporting persons or property. 
+
+
+I.R.C. § 168(k)(2)(B)(iv) Application Of Subparagraph — 
+                        
+                        
+This subparagraph shall not apply to any property which is described in subparagraph
+                           (C). 
+
+
+
+I.R.C. § 168(k)(2)(C) Certain Aircraft — 
+                     
+                     
+The term “qualified property” includes property— 
+
+I.R.C. § 168(k)(2)(C)(i)  — 
+                        
+                        
+which meets the requirements of subparagraph (A)(ii) and subclauses (II) and (III) of subparagraph (B)(i), 
+
+
+I.R.C. § 168(k)(2)(C)(ii)  — 
+                        
+                        
+which is an aircraft which is not a transportation property (as defined in subparagraph
+                           (B)(iii)) other than for agricultural or firefighting purposes, 
+
+
+I.R.C. § 168(k)(2)(C)(iii)  — 
+                        
+                        
+which is purchased and on which such purchaser, at the time of the contract for purchase,
+                           has made a nonrefundable deposit of the lesser of— 
+
+I.R.C. § 168(k)(2)(C)(iii)(I)  — 
+                           
+                           
+10 percent of the cost, or 
+
+
+I.R.C. § 168(k)(2)(C)(iii)(II)  — 
+                           
+                           
+$100,000, and 
+
+
+
+I.R.C. § 168(k)(2)(C)(iv)  — 
+                        
+                        
+which has— 
+
+I.R.C. § 168(k)(2)(C)(iv)(I)  — 
+                           
+                           
+an estimated production period exceeding 4 months, and 
+
+
+I.R.C. § 168(k)(2)(C)(iv)(II)  — 
+                           
+                           
+a cost exceeding $200,000. 
+
+
+
+
+I.R.C. § 168(k)(2)(D) Exception For Alternative Depreciation Property — 
+                     
+                     
+The term “qualified property” shall not include any property to which the alternative
+                        depreciation system under subsection (g) applies, determined— 
+
+I.R.C. § 168(k)(2)(D)(i)  — 
+                        
+                        
+without regard to paragraph (7) of subsection (g) (relating to election to have system apply), and 
+
+
+I.R.C. § 168(k)(2)(D)(ii)  — 
+                        
+                        
+after application of section 280F(b) (relating to listed property with limited business use). 
+
+
+
+I.R.C. § 168(k)(2)(E) Special Rules — 
+                     
+                     
+
+I.R.C. § 168(k)(2)(E)(i) Self-Constructed Property — 
+                        
+                        
+In the case of a taxpayer manufacturing, constructing, or producing property for the
+                           taxpayer's own use, the requirements of subclause (III) of subparagraph (B)(ii) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing
+                           the property before January 1, 2027. 
+
+
+I.R.C. § 168(k)(2)(E)(ii) Acquisition Requirements — 
+                        
+                        
+An acquisition of property meets the requirements of this clause if— 
+
+I.R.C. § 168(k)(2)(E)(ii)(I)  — 
+                           
+                           
+such property was not used by the taxpayer at any time prior to such acquisition,
+                              and 
+
+
+I.R.C. § 168(k)(2)(E)(ii)(II)  — 
+                           
+                           
+the acquisition of such property meets the requirements of paragraphs (2)(A), (2)(B),
+                              (2)(C), and (3) of section 179(d). 
+
+
+
+I.R.C. § 168(k)(2)(E)(iii) Syndication — 
+                        
+                        
+For purposes of subparagraph (A)(ii), if— 
+
+I.R.C. § 168(k)(2)(E)(iii)(I)  — 
+                           
+                           
+property is used by a lessor of such property and such use is the lessor's first use
+                              of such property, 
+
+
+I.R.C. § 168(k)(2)(E)(iii)(II)  — 
+                           
+                           
+such property is sold by such lessor or any subsequent purchaser within 3 months after
+                              the date such property was originally placed in service (or, in the case of multiple
+                              units of property subject to the same lease, within 3 months after the date the final
+                              unit is placed in service, so long as the period between the time the first unit is
+                              placed in service and the time the last unit is placed in service does not exceed
+                              12 months), and 
+
+
+I.R.C. § 168(k)(2)(E)(iii)(III)  — 
+                           
+                           
+the user of such property after the last sale during such 3-month period remains the
+                              same as when such property was originally placed in service, 
+
+
+
+such property shall be treated as originally placed in service not earlier than the
+                           date of such last sale.
+
+
+
+I.R.C. § 168(k)(2)(F) Coordination With Section 280F — 
+                     
+                     
+For purposes of section 280F— 
+
+I.R.C. § 168(k)(2)(F)(i) Automobiles — 
+                        
+                        
+In the case of a passenger automobile (as defined in section 280F(d)(5)) which is qualified property, the Secretary shall increase the limitation under section
+                           280F(a)(1)(A)(i) by $8,000. 
+
+
+I.R.C. § 168(k)(2)(F)(ii) Listed Property — 
+                        
+                        
+The deduction allowable under paragraph (1) shall be taken into account in computing any recapture amount under section 280F(b)(2). 
+
+
+I.R.C. § 168(k)(2)(F)(iii) Phase Down — 
+                        
+                        
+In the case of a passenger automobile acquired by the taxpayer before September 28,
+                           2017, and placed in service by the taxpayer after September 27, 2017, clause (i) shall be applied by substituting for “$8,000”— 
+
+I.R.C. § 168(k)(2)(F)(iii)(I)  — 
+                           
+                           
+in the case of an automobile placed in service during 2018, $6,400, and 
+
+
+I.R.C. § 168(k)(2)(F)(iii)(II)  — 
+                           
+                           
+in the case of an automobile placed in service during 2019, $4,800. 
+
+
+
+
+I.R.C. § 168(k)(2)(G) Deduction Allowed In Computing Minimum Tax — 
+                     
+                     
+For purposes of determining alternative minimum taxable income under section 55, the deduction under section 167 for qualified property shall be determined without regard to any adjustment under
+                        section 56. 
+
+
+I.R.C. § 168(k)(2)(H) Production Placed In Service — 
+                     
+                     
+For purposes of subparagraph (A)— 
+
+I.R.C. § 168(k)(2)(H)(i)  — 
+                        
+                        
+a qualified film or television production shall be considered to be placed in service
+                           at the time of initial release or broadcast, and 
+
+
+I.R.C. § 168(k)(2)(H)(ii)  — 
+                        
+                        
+a qualified live theatrical production shall be considered to be placed in service
+                           at the time of the initial live staged performance. 
+
+
+
+
+I.R.C. § 168(k)(3)  — 
+                  
+                  
+[Repealed. Pub. L. 115-97, Sec. 13204(a)(4)(B)(ii).] 
+
+
+I.R.C. § 168(k)(4)  — 
+                  
+                  
+[Repealed. Pub. L. 115-97, Sec. 12001(b)(13).] 
+
+
+I.R.C. § 168(k)(5) Special Rules For Certain Plants Bearing Fruits And Nuts
+
+
+I.R.C. § 168(k)(5)(A) In General — 
+                     
+                     
+In the case of any specified plant which is planted before January 1, 2027, or is
+                        grafted before such date to a plant that has already been planted, by the taxpayer
+                        in the ordinary course of the taxpayer's farming business (as defined in section 263A(e)(4)) during a taxable year for which the taxpayer has elected the application of this
+                        paragraph— 
+
+I.R.C. § 168(k)(5)(A)(i)  — 
+                        
+                        
+a depreciation deduction equal to the applicable percentage of the adjusted basis
+                           of such specified plant shall be allowed under section 167(a) for the taxable year in which such specified plant is so planted or grafted, and 
+
+
+I.R.C. § 168(k)(5)(A)(ii)  — 
+                        
+                        
+the adjusted basis of such specified plant shall be reduced by the amount of such
+                           deduction. 
+
+
+
+I.R.C. § 168(k)(5)(B) Specified Plant — 
+                     
+                     
+For purposes of this paragraph, the term “specified plant” means— 
+
+I.R.C. § 168(k)(5)(B)(i)  — 
+                        
+                        
+any tree or vine which bears fruits or nuts, and 
+
+
+I.R.C. § 168(k)(5)(B)(ii)  — 
+                        
+                        
+any other plant which will have more than one crop or yield of fruits or nuts and
+                           which generally has a pre-productive period of more than 2 years from the time of
+                           planting or grafting to the time at which such plant begins bearing a marketable crop
+                           or yield of fruits or nuts. 
+
+
+Such term shall not include any property which is planted or grafted outside of the
+                           United States.
+
+
+
+I.R.C. § 168(k)(5)(C) Election Revocable Only With Consent — 
+                     
+                     
+An election under this paragraph may be revoked only with the consent of the Secretary. 
+
+
+I.R.C. § 168(k)(5)(D) Additional Depreciation May Be Claimed Only Once — 
+                     
+                     
+If this paragraph applies to any specified plant, such specified plant shall not be
+                        treated as qualified property in the taxable year in which placed in service. 
+
+
+I.R.C. § 168(k)(5)(E) Deduction Allowed In Computing Minimum Tax — 
+                     
+                     
+Rules similar to the rules of paragraph (2)(G) shall apply for purposes of this paragraph. 
+
+
+I.R.C. § 168(k)(5)(F) Phase Down — 
+                     
+                     
+[Repealed. Pub. L. 115-97, Sec. 13201(a)(3)(A).] 
+
+
+
+I.R.C. § 168(k)(6) Applicable Percentage — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(k)(6)(A) In General — 
+                     
+                     
+Except as otherwise provided in this paragraph, the term “applicable percentage” means— 
+
+I.R.C. § 168(k)(6)(A)(i)  — 
+                        
+                        
+in the case of property placed in service after September 27, 2017, and before January
+                           1, 2023, 100 percent, 
+
+
+I.R.C. § 168(k)(6)(A)(ii)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2022, and before January
+                           1, 2024, 80 percent, 
+
+
+I.R.C. § 168(k)(6)(A)(iii)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2023, and before January
+                           1, 2025, 60 percent, 
+
+
+I.R.C. § 168(k)(6)(A)(iv)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2024, and before January
+                           1, 2026, 40 percent, and 
+
+
+I.R.C. § 168(k)(6)(A)(v)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2025, and before January
+                           1, 2027, 20 percent. 
+
+
+
+I.R.C. § 168(k)(6)(B) Rule For Property With Longer Production Periods — 
+                     
+                     
+In the case of property described in subparagraph (B) or (C) of paragraph (2), the
+                        term “applicable percentage” means— 
+
+I.R.C. § 168(k)(6)(B)(i)  — 
+                        
+                        
+in the case of property placed in service after September 27, 2017, and before January
+                           1, 2024, 100 percent, 
+
+
+I.R.C. § 168(k)(6)(B)(ii)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2023, and before January
+                           1, 2025, 80 percent, 
+
+
+I.R.C. § 168(k)(6)(B)(iii)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2024, and before January
+                           1, 2026, 60 percent, 
+
+
+I.R.C. § 168(k)(6)(B)(iv)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2025, and before January
+                           1, 2027, 40 percent, and 
+
+
+I.R.C. § 168(k)(6)(B)(v)  — 
+                        
+                        
+in the case of property placed in service after December 31, 2026, and before January
+                           1, 2028, 20 percent. 
+
+
+
+I.R.C. § 168(k)(6)(C) Rule For Plants Bearing Fruits And Nuts — 
+                     
+                     
+In the case of a specified plant described in paragraph (5), the term “applicable
+                        percentage” means— 
+
+I.R.C. § 168(k)(6)(C)(i)  — 
+                        
+                        
+in the case of a plant which is planted or grafted after September 27, 2017, and before
+                           January 1, 2023, 100 percent, 
+
+
+I.R.C. § 168(k)(6)(C)(ii)  — 
+                        
+                        
+in the case of a plant which is planted or grafted after December 31, 2022, and before
+                           January 1, 2024, 80 percent, 
+
+
+I.R.C. § 168(k)(6)(C)(iii)  — 
+                        
+                        
+in the case of a plant which is planted or grafted after December 31, 2023, and before
+                           January 1, 2025, 60 percent, 
+
+
+I.R.C. § 168(k)(6)(C)(iv)  — 
+                        
+                        
+in the case of a plant which is planted or grafted after December 31, 2024, and before
+                           January 1, 2026, 40 percent, and 
+
+
+I.R.C. § 168(k)(6)(C)(v)  — 
+                        
+                        
+in the case of a plant which is planted or grafted after December 31, 2025, and before
+                           January 1, 2027, 20 percent. 
+
+
+
+
+I.R.C. § 168(k)(7) Election Out — 
+                  
+                  
+If a taxpayer makes an election under this paragraph with respect to any class of
+                     property for any taxable year, paragraphs (1) and (2)(F) shall not apply to any qualified
+                     property in such class placed in service during such taxable year. An election under
+                     this paragraph may be revoked only with the consent of the Secretary. 
+
+
+I.R.C. § 168(k)(8) Phase Down — 
+                  
+                  
+In the case of qualified property acquired by the taxpayer before September 28, 2017,
+                     and placed in service by the taxpayer after September 27, 2017, paragraph (6) shall
+                     be applied by substituting for each percentage therein— 
+
+I.R.C. § 168(k)(8)(A)  — 
+                     
+                     
+“50 percent” in the case of— 
+
+I.R.C. § 168(k)(8)(A)(i)  — 
+                        
+                        
+property placed in service before January 1, 2018, and 
+
+
+I.R.C. § 168(k)(8)(A)(ii)  — 
+                        
+                        
+property described in subparagraph (B) or (C) of paragraph (2) which is placed in
+                           service in 2018, 
+
+
+
+I.R.C. § 168(k)(8)(B)  — 
+                     
+                     
+“40 percent” in the case of— 
+
+I.R.C. § 168(k)(8)(B)(i)  — 
+                        
+                        
+property placed in service in 2018 (other than property described in subparagraph
+                           (B) or (C) of paragraph (2)), and 
+
+
+I.R.C. § 168(k)(8)(B)(ii)  — 
+                        
+                        
+property described in subparagraph (B) or (C) of paragraph (2) which is placed in
+                           service in 2019, 
+
+
+
+I.R.C. § 168(k)(8)(C)  — 
+                     
+                     
+“30 percent” in the case of— 
+
+I.R.C. § 168(k)(8)(C)(i)  — 
+                        
+                        
+property placed in service in 2019 (other than property described in subparagraph
+                           (B) or (C) of paragraph (2)), and 
+
+
+I.R.C. § 168(k)(8)(C)(ii)  — 
+                        
+                        
+property described in subparagraph (B) or (C) of paragraph (2) which is placed in
+                           service in 2020, and 
+
+
+
+I.R.C. § 168(k)(8)(D)  — 
+                     
+                     
+“0 percent” in the case of— 
+
+I.R.C. § 168(k)(8)(D)(i)  — 
+                        
+                        
+property placed in service after 2019 (other than property described in subparagraph
+                           (B) or (C) of paragraph (2)), and 
+
+
+I.R.C. § 168(k)(8)(D)(ii)  — 
+                        
+                        
+property described in subparagraph (B) or (C) of paragraph (2) which is placed in
+                           service after 2020. 
+
+
+
+
+I.R.C. § 168(k)(9) Exception For Certain Property — 
+                  
+                  
+The term “qualified property” shall not include— 
+
+I.R.C. § 168(k)(9)(A)  — 
+                     
+                     
+any property which is primarily used in a trade or business described in clause (iv)
+                        of section 163(j)(7)(A), or 
+
+
+I.R.C. § 168(k)(9)(B)  — 
+                     
+                     
+any property used in a trade or business that has had floor plan financing indebtedness
+                        (as defined in paragraph (9) of section 163(j)), if the floor plan financing interest related to such indebtedness was taken into
+                        account under paragraph (1)(C) of such section. 
+
+
+
+I.R.C. § 168(k)(10) Special Rule For Property Placed In Service During Certain Periods
+
+
+I.R.C. § 168(k)(10)(A) In General — 
+                     
+                     
+In the case of qualified property placed in service by the taxpayer during the first
+                        taxable year ending after September 27, 2017, if the taxpayer elects to have this
+                        paragraph apply for such taxable year, paragraphs (1)(A) and (5)(A)(i) shall be applied
+                        by substituting “50 percent” for “the applicable percentage”. 
+
+
+I.R.C. § 168(k)(10)(B) Form Of Election — 
+                     
+                     
+Any election under this paragraph shall be made at such time and in such form and
+                        manner as the Secretary may prescribe.
+I.R.C. § 168(l) Special Allowance For Second Generation Biofuel Plant Property
+
+
+I.R.C. § 168(l)(1) Additional Allowance — 
+                  
+                  
+In the case of any qualified second generation biofuel plant property— 
+
+I.R.C. § 168(l)(1)(A)  — 
+                     
+                     
+the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an
+                        allowance equal to 50 percent of the adjusted basis of such property, and 
+
+
+I.R.C. § 168(l)(1)(B)  — 
+                     
+                     
+the adjusted basis of such property shall be reduced by the amount of such deduction
+                        before computing the amount otherwise allowable as a depreciation deduction under
+                        this chapter for such taxable year and any subsequent taxable year. 
+
+
+
+I.R.C. § 168(l)(2) Qualified Second Generation Biofuel Plant Property — 
+                  
+                  
+The term “qualified second generation biofuel plant property” means property of a
+                     character subject to the allowance for depreciation— 
+
+I.R.C. § 168(l)(2)(A)  — 
+                     
+                     
+which is used in the United States solely to produce second generation biofuel (as
+                        defined in section 40(b)(6)(E)), 
+
+
+I.R.C. § 168(l)(2)(B)  — 
+                     
+                     
+the original use of which commences with the taxpayer after the date of the enactment
+                        of this subsection, 
+
+
+I.R.C. § 168(l)(2)(C)  — 
+                     
+                     
+which is acquired by the taxpayer by purchase (as defined in section  179(d)) after the date of the enactment of this subsection, but only if no written binding
+                        contract for the acquisition was in effect on or before the date of the enactment
+                        of this subsection, and 
+
+
+I.R.C. § 168(l)(2)(D)  — 
+                     
+                     
+which is placed in service by the taxpayer before January 1, 2021. 
+
+
+
+I.R.C. § 168(l)(3) Exceptions
+
+
+I.R.C. § 168(l)(3)(A) Bonus Depreciation Property Under Subsection (k) — 
+                     
+                     
+Such term shall not include any property to which subsection (k) applies. 
+
+
+I.R.C. § 168(l)(3)(B) Alternative Depreciation Property — 
+                     
+                     
+Such term shall not include any property described in subsection (k)(2)(D). 
+
+
+I.R.C. § 168(l)(3)(C) Tax-Exempt Bond-Financed Property — 
+                     
+                     
+Such term shall not include any property any portion of which is financed with the
+                        proceeds of any obligation the interest on which is exempt from tax under section
+                        103. 
+
+
+I.R.C. § 168(l)(3)(D) Election Out — 
+                     
+                     
+If a taxpayer makes an election under this subparagraph with respect to any class
+                        of property for any taxable year, this subsection shall not apply to all property
+                        in such class placed in service during such taxable year. 
+
+
+
+I.R.C. § 168(l)(4) Special Rules — 
+                  
+                  
+For purposes of this subsection, rules similar to the rules of subsection (k)(2)(E)
+                     shall apply. 
+
+
+I.R.C. § 168(l)(5) Allowance Against Alternative Minimum Tax — 
+                  
+                  
+For purposes of this subsection, rules similar to the rules of subsection (k)(2)(G) shall apply. 
+
+
+I.R.C. § 168(l)(6) Recapture — 
+                  
+                  
+For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified second generation biofuel plant property
+                     which ceases to be qualified second generation biofuel plant property. 
+
+
+I.R.C. § 168(l)(7) Denial Of Double Benefit — 
+                  
+                  
+Paragraph (1) shall not apply to any qualified second generation biofuel plant property
+                     with respect to which an election has been made under section 179C (relating to election to expense certain refineries).
+I.R.C. § 168(m) Special Allowance For Certain Reuse And Recycling Property
+
+
+I.R.C. § 168(m)(1) In General — 
+                  
+                  
+In the case of any qualified reuse and recycling property— 
+
+I.R.C. § 168(m)(1)(A)  — 
+                     
+                     
+the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an
+                        allowance equal to 50 percent of the adjusted basis of the qualified reuse and recycling
+                        property, and 
+
+
+I.R.C. § 168(m)(1)(B)  — 
+                     
+                     
+the adjusted basis of the qualified reuse and recycling property shall be reduced
+                        by the amount of such deduction before computing the amount otherwise allowable as
+                        a depreciation deduction under this chapter for such taxable year and any subsequent
+                        taxable year. 
+
+
+
+I.R.C. § 168(m)(2) Qualified Reuse And Recycling Property — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(m)(2)(A) In General — 
+                     
+                     
+The term “qualified reuse and recycling property” means any reuse and recycling property— 
+
+I.R.C. § 168(m)(2)(A)(i)  — 
+                        
+                        
+to which this section applies, 
+
+
+I.R.C. § 168(m)(2)(A)(ii)  — 
+                        
+                        
+which has a useful life of at least 5 years, 
+
+
+I.R.C. § 168(m)(2)(A)(iii)  — 
+                        
+                        
+the original use of which commences with the taxpayer after August 31, 2008, and 
+
+
+I.R.C. § 168(m)(2)(A)(iv)  — 
+                        
+                        
+which is— 
+
+I.R.C. § 168(m)(2)(A)(iv)(I)  — 
+                           
+                           
+acquired by purchase (as defined in section 179(d)(2)) by the taxpayer after August 31, 2008, but only if no written binding contract for
+                              the acquisition was in effect before September 1, 2008, or 
+
+
+I.R.C. § 168(m)(2)(A)(iv)(II)  — 
+                           
+                           
+acquired by the taxpayer pursuant to a written binding contract which was entered
+                              into after August 31, 2008. 
+
+
+
+
+I.R.C. § 168(m)(2)(B) Exceptions
+
+
+I.R.C. § 168(m)(2)(B)(i) Bonus Depreciation Property Under Subsection (k) — 
+                        
+                        
+The term “qualified reuse and recycling property” shall not include any property to
+                           which subsection (k) (determined without regard to paragraph (4) thereof) applies. 
+
+
+I.R.C. § 168(m)(2)(B)(ii) Alternative Depreciation Property — 
+                        
+                        
+The term “qualified reuse and recycling property” shall not include any property to
+                           which the alternative depreciation system under subsection (g) applies, determined
+                           without regard to paragraph (7) of subsection (g) (relating to election to have system
+                           apply). 
+
+
+I.R.C. § 168(m)(2)(B)(iii) Election Out — 
+                        
+                        
+If a taxpayer makes an election under this clause with respect to any class of property
+                           for any taxable year, this subsection shall not apply to all property in such class
+                           placed in service during such taxable year. 
+
+
+
+I.R.C. § 168(m)(2)(C) Special Rule For Self-Constructed Property — 
+                     
+                     
+In the case of a taxpayer manufacturing, constructing, or producing property for the
+                        taxpayer's own use, the requirements of clause (iv) of subparagraph (A) shall be treated
+                        as met if the taxpayer begins manufacturing, constructing, or producing the property
+                        after August 31, 2008. 
+
+
+I.R.C. § 168(m)(2)(D) Deduction Allowed In Computing Minimum Tax — 
+                     
+                     
+For purposes of determining alternative minimum taxable income under section 55, the deduction under subsection (a) for qualified reuse and recycling property shall
+                        be determined under this section without regard to any adjustment under section 56. 
+
+
+
+I.R.C. § 168(m)(3) Definitions — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 168(m)(3)(A) Reuse And Recycling Property
+
+
+I.R.C. § 168(m)(3)(A)(i) In General — 
+                        
+                        
+The term “reuse and recycling property” means any machinery and equipment (not including
+                           buildings or real estate), along with all appurtenances thereto, including software
+                           necessary to operate such equipment, which is used exclusively to collect, distribute,
+                           or recycle qualified reuse and recyclable materials. 
+
+
+I.R.C. § 168(m)(3)(A)(ii) Exclusion — 
+                        
+                        
+Such term does not include rolling stock or other equipment used to transport reuse
+                           and recyclable materials. 
+
+
+
+I.R.C. § 168(m)(3)(B) Qualified Reuse and Recyclable Materials
+
+
+I.R.C. § 168(m)(3)(B)(i) In General — 
+                        
+                        
+The term “qualified reuse and recyclable materials” means scrap plastic, scrap glass,
+                           scrap textiles, scrap rubber, scrap packaging, recovered fiber, scrap ferrous and
+                           nonferrous metals, or electronic scrap generated by an individual or business. 
+
+
+I.R.C. § 168(m)(3)(B)(ii) Electronic Scrap — 
+                        
+                        
+For purposes of clause (i), the term “electronic scrap” means— 
+
+I.R.C. § 168(m)(3)(B)(ii)(I)  — 
+                           
+                           
+any cathode ray tube, flat panel screen, or similar video display device with a screen
+                              size greater than 4 inches measured diagonally, or 
+
+
+I.R.C. § 168(m)(3)(B)(ii)(II)  — 
+                           
+                           
+any central processing unit. 
+
+
+
+
+I.R.C. § 168(m)(3)(C) Recycling Or Recycle — 
+                     
+                     
+The term “recycling” or “recycle” means that process (including sorting) by which
+                        worn or superfluous materials are manufactured or processed into specification grade
+                        commodities that are suitable for use as a replacement or substitute for virgin materials
+                        in manufacturing tangible consumer and commercial products, including packaging.

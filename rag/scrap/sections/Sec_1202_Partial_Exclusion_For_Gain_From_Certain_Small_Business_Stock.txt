@@ -1,0 +1,856 @@
+Sec. 1202. Partial Exclusion For Gain From Certain Small Business Stock
+
+I.R.C. § 1202(a) Exclusion — 
+               
+               
+
+I.R.C. § 1202(a)(1) In General — 
+                  
+                  
+In  the case of a taxpayer other than a corporation, gross income shall not  include
+                     50 percent of any gain from the sale or exchange of qualified  small business stock
+                     held for more than 5 years. 
+
+
+I.R.C. § 1202(a)(2) Empowerment Zone Businesses
+
+
+I.R.C. § 1202(a)(2)(A) In General — 
+                     
+                     
+In  the case of qualified small business stock acquired after the date of the  enactment
+                        of this paragraph in a corporation which is a qualified business  entity (as defined
+                        in section 1397C(b)) during substantially all of the  taxpayer's holding period for such stock, paragraph
+                        (1)
+                        shall be applied  by substituting “60 percent”  for “50 percent”. 
+
+
+I.R.C. § 1202(a)(2)(B) Certain Rules To Apply — 
+                     
+                     
+Rules  similar to the rules of paragraphs (5) and (7)
+                        of section 1400B(b) (as in effect before its repeal) shall  apply for purposes of this paragraph. 
+
+
+I.R.C. § 1202(a)(2)(C) Gain After 2018 Not Qualified — 
+                     
+                     
+Subparagraph  (A) shall not apply to gain attributable to periods after December 31,
+                        2018. 
+
+
+I.R.C. § 1202(a)(2)(D) Treatment Of DC Zone — 
+                     
+                     
+The  District of Columbia Enterprise Zone shall not be treated as an  empowerment
+                        zone for purposes of this  paragraph. 
+
+
+
+I.R.C. § 1202(a)(3) Special Rules For 2009 And Certain Periods In 2010 — 
+                  
+                  
+In the case of qualified small business stock acquired after the date of the enactment
+                     of this paragraph and on or before the date of the enactment of the Creating Small
+                     Business Jobs Act of 2010 [September 27, 2010]— 
+
+I.R.C. § 1202(a)(3)(A)  — 
+                     
+                     
+paragraph (1) shall be applied by substituting “75 percent” for “50 percent”, and 
+
+
+I.R.C. § 1202(a)(3)(B)  — 
+                     
+                     
+paragraph (2) shall not apply. 
+
+
+In the case of any stock which would be described in the preceding sentence (but for
+                        this sentence), the acquisition date for purposes of this subsection shall be the
+                        first day on which such stock was held by the taxpayer determined after the application
+                        of section 1223.
+
+
+
+I.R.C. § 1202(a)(4) 100 Percent Exclusion For Stock Acquired During Certain Periods In 2010 And Thereafter — 
+                  
+                  
+In the case of qualified small business stock acquired after the date of the enactment
+                     of the Creating Small Business Jobs Act of 2010 [September 27, 2010]— 
+
+I.R.C. § 1202(a)(4)(A)  — 
+                     
+                     
+paragraph (1) shall be applied by substituting “100 percent” for “50 percent”, 
+
+
+I.R.C. § 1202(a)(4)(B)  — 
+                     
+                     
+paragraph (2) shall not apply, and 
+
+
+I.R.C. § 1202(a)(4)(C)  — 
+                     
+                     
+paragraph (7) of section 57(a) shall not apply. 
+
+
+
+In the case of any stock which would be described in the preceding sentence (but for
+                     this sentence), the acquisition date for purposes of this subsection shall be the
+                     first day on which such stock was held by the taxpayer determined after the application
+                     of section 1223.
+I.R.C. § 1202(b) Per-Issuer Limitation On Taxpayer's Eligible Gain
+
+
+I.R.C. § 1202(b)(1) In General — 
+                  
+                  
+If  the taxpayer has eligible gain for the taxable year from 1 or more  dispositions
+                     of stock issued by any corporation, the aggregate amount of  such gain from dispositions
+                     of stock issued by such corporation which may  be taken into account under subsection
+                     (a) for the taxable year shall not  exceed the greater of -- 
+
+I.R.C. § 1202(b)(1)(A)  — 
+                     
+                     
+$10,000,000 reduced by the aggregate amount of eligible  gain taken into account by
+                        the taxpayer under subsection (a) for prior  taxable years and attributable to dispositions
+                        of stock issued by such  corporation, or 
+
+
+I.R.C. § 1202(b)(1)(B)  — 
+                     
+                     
+10 times the aggregate adjusted bases of qualified small  business stock issued by
+                        such corporation and disposed of by the taxpayer  during the taxable year. 
+
+
+For purposes of subparagraph (B), the adjusted basis of  any stock shall be determined
+                        without regard to any addition to basis  after the date on which such stock was originally
+                        issued.
+
+
+
+I.R.C. § 1202(b)(2) Eligible Gain — 
+                  
+                  
+For  purposes of this subsection, the term “eligible gain” means any gain from  the
+                     sale or exchange of qualified small business stock held for more than  5 years. 
+
+
+I.R.C. § 1202(b)(3) Treatment Of Married Individuals
+
+
+I.R.C. § 1202(b)(3)(A) Separate Returns — 
+                     
+                     
+In  the case of a separate return by a married individual, paragraph (1)(A)  shall
+                        be applied by substituting “$5,000,000”
+                        for “$10,000,000”. 
+
+
+I.R.C. § 1202(b)(3)(B) Allocation Of Exclusion — 
+                     
+                     
+In  the case of any joint return, the amount of gain taken into account under  subsection
+                        (a) shall be allocated equally between the spouses for purposes  of applying this
+                        subsection to subsequent taxable years. 
+
+
+I.R.C. § 1202(b)(3)(C) Marital Status — 
+                     
+                     
+For  purposes of this subsection, marital status shall be determined under  section
+                        7703.
+I.R.C. § 1202(c) Qualified Small Business Stock — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1202(c)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this section, the term “qualified small business
+                     stock” means any stock in a C corporation which is originally issued after  the date
+                     of the enactment of the Revenue Reconciliation Act of 1993, if— 
+
+I.R.C. § 1202(c)(1)(A)  — 
+                     
+                     
+as of  the date of issuance, such corporation is a qualified small business, and 
+
+
+I.R.C. § 1202(c)(1)(B)  — 
+                     
+                     
+except  as provided in subsections (f)
+                        and (h), such stock is acquired by the  taxpayer at its original issue
+                        (directly or through an underwriter)— 
+
+I.R.C. § 1202(c)(1)(B)(i)  — 
+                        
+                        
+in  exchange for money or other property
+                           (not including stock), or 
+
+
+I.R.C. § 1202(c)(1)(B)(ii)  — 
+                        
+                        
+as  compensation for services provided to such corporation (other than  services performed
+                           as an underwriter of such stock). 
+
+
+
+
+I.R.C. § 1202(c)(2) Active Business Requirement; Etc.
+
+
+I.R.C. § 1202(c)(2)(A) In General — 
+                     
+                     
+Stock  in a corporation shall not be treated as qualified small business stock  unless,
+                        during substantially all of the taxpayer's holding period for such  stock, such corporation
+                        meets the active business requirements of  subsection (e) and such corporation is
+                        a C corporation. 
+
+
+I.R.C. § 1202(c)(2)(B) Special Rule For Certain Small Business Investment Companies
+
+
+I.R.C. § 1202(c)(2)(B)(i) Waiver Of Active Business Requirement — 
+                        
+                        
+Notwithstanding  any provision of subsection (e), a corporation shall be treated as
+                           meeting  the active business requirements of such subsection for any period during
+                           which such corporation qualifies as a specialized small business  investment company. 
+
+
+I.R.C. § 1202(c)(2)(B)(ii) Specialized Small Business Investment Company — 
+                        
+                        
+For  purposes of clause (i), the term “specialized small business investment  company”
+                           means any eligible corporation
+                           (as defined in subsection (e)(4))  which is licensed to operate under section 301(d) of the Small Business  Investment Act of 1958 (as in effect on May 13, 1993). 
+
+
+
+
+I.R.C. § 1202(c)(3) Certain Purchases By Corporation Of Its Own Stock
+
+
+I.R.C. § 1202(c)(3)(A) Redemptions From Taxpayer Or Related Person — 
+                     
+                     
+Stock  acquired by the taxpayer shall not be treated as qualified small business 
+                        stock if, at any time during the 4-year period beginning on the date 2  years before
+                        the issuance of such stock, the corporation issuing such  stock purchased (directly
+                        or indirectly) any of its stock from the  taxpayer or from a person related
+                        (within the meaning of section 267(b) or
+                        707(b)) to the taxpayer. 
+
+
+I.R.C. § 1202(c)(3)(B) Significant Redemptions — 
+                     
+                     
+Stock  issued by a corporation shall not be treated as qualified business stock  if,
+                        during the 2-year period beginning on the date 1 year before the  issuance of such
+                        stock, such corporation made 1 or more purchases of its  stock with an aggregate value
+                        (as of the time of the respective purchases)  exceeding 5 percent of the aggregate
+                        value of all of its stock as of the  beginning of such 2-year period. 
+
+
+I.R.C. § 1202(c)(3)(C) Treatment Of Certain Transactions — 
+                     
+                     
+If  any transaction is treated under section 304(a) as a distribution in
+                        redemption of the stock of any corporation, for purposes of subparagraphs
+                        (A) and (B), such corporation shall be treated as purchasing an amount of  its stock
+                        equal to the amount treated as such a distribution under section  304(a).
+I.R.C. § 1202(d) Qualified Small Business — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1202(d)(1) In General — 
+                  
+                  
+The  term “qualified small business” means any domestic corporation which is a  C
+                     corporation if— 
+
+I.R.C. § 1202(d)(1)(A)  — 
+                     
+                     
+the  aggregate gross assets of such corporation (or any predecessor thereof) at  all
+                        times on or after the date of the enactment of the Revenue  Reconciliation Act of
+                        1993 and before the issuance did not exceed  $50,000,000, 
+
+
+I.R.C. § 1202(d)(1)(B)  — 
+                     
+                     
+the  aggregate gross assets of such corporation immediately after the issuance  (determined
+                        by taking into account amounts received in the issuance) do  not exceed $50,000,000,
+                        and 
+
+
+I.R.C. § 1202(d)(1)(C)  — 
+                     
+                     
+such  corporation agrees to submit such reports to the Secretary and to  shareholders
+                        as the Secretary may require to carry out the purposes of  this section. 
+
+
+
+I.R.C. § 1202(d)(2) Aggregate Gross Assets
+
+
+I.R.C. § 1202(d)(2)(A) In General — 
+                     
+                     
+For  purposes of paragraph (1), the term “aggregate gross assets” means the  amount
+                        of cash and the aggregate adjusted bases of other property held by  the corporation. 
+
+
+I.R.C. § 1202(d)(2)(B) Treatment Of Contributed Property — 
+                     
+                     
+For  purposes of subparagraph (A), the adjusted basis of any property  contributed
+                        to the corporation (or other property with a basis determined  in whole or in part
+                        by reference to the adjusted basis of property so  contributed) shall be determined
+                        as if the basis of the property  contributed to the corporation (immediately after
+                        such contribution) were  equal to its fair market value as of the time of such contribution. 
+
+
+
+I.R.C. § 1202(d)(3) Aggregation Rules
+
+
+I.R.C. § 1202(d)(3)(A) In General — 
+                     
+                     
+All  corporations which are members of the same parent-subsidiary controlled  group
+                        shall be treated as 1 corporation for purposes of this subsection. 
+
+
+I.R.C. § 1202(d)(3)(B) Parent-Subsidiary Controlled Group — 
+                     
+                     
+For  purposes of subparagraph (A), the term “parent-subsidiary controlled  group”
+                        means any controlled group of corporations as defined in section  1563(a)(1), except that— 
+
+I.R.C. § 1202(d)(3)(B)(i)  — 
+                        
+                        
+“more  than 50 percent” shall be substituted for “at least 80 percent” each place
+                           it appears in section 1563(a)(1), and 
+
+
+I.R.C. § 1202(d)(3)(B)(ii)  — 
+                        
+                        
+section  1563(a)(4) shall not  apply.
+I.R.C. § 1202(e) Active Business Requirement
+
+
+I.R.C. § 1202(e)(1) In General — 
+                  
+                  
+For  purposes of subsection (c)(2), the requirements of this subsection are met  by
+                     a corporation for any period if during such period— 
+
+I.R.C. § 1202(e)(1)(A)  — 
+                     
+                     
+at  least 80 percent (by value) of the assets of such corporation are used by  such
+                        corporation in the active conduct of 1 or more qualified trades or  businesses, and 
+
+
+I.R.C. § 1202(e)(1)(B)  — 
+                     
+                     
+such  corporation is an eligible corporation. 
+
+
+
+I.R.C. § 1202(e)(2) Special Rule For Certain Activities — 
+                  
+                  
+For  purposes of paragraph (1), if, in connection with any future qualified  trade
+                     or business, a corporation is engaged in— 
+
+I.R.C. § 1202(e)(2)(A)  — 
+                     
+                     
+start-up  activities described in section 195(c)(1)(A), 
+
+
+I.R.C. § 1202(e)(2)(B)  — 
+                     
+                     
+activities  resulting in the payment or incurring of expenditures which may be treated
+                        as research and experimental expenditures under section 174,
+                        or 
+
+
+I.R.C. § 1202(e)(2)(C)  — 
+                     
+                     
+activities  with respect to in-house research expenses described in section 41(b)(4), 
+
+
+assets used in such activities shall be treated as used in the active  conduct of
+                        a qualified trade or business. Any determination under this  paragraph shall be made
+                        without regard to whether a corporation has any  gross income from such activities
+                        at the time of the determination.
+
+
+
+I.R.C. § 1202(e)(3) Qualified Trade Or Business — 
+                  
+                  
+For  purposes of this subsection, the term “qualified trade or business” means  any
+                     trade or business other than— 
+
+I.R.C. § 1202(e)(3)(A)  — 
+                     
+                     
+any  trade or business involving the performance of services in the fields of  health,
+                        law, engineering, architecture, accounting, actuarial science,  performing arts, consulting,
+                        athletics, financial services, brokerage  services, or any trade or business where
+                        the principal asset of such trade  or business is the reputation or skill of 1 or
+                        more of its  employees, 
+
+
+I.R.C. § 1202(e)(3)(B)  — 
+                     
+                     
+any  banking, insurance, financing, leasing, investing, or similar  business, 
+
+
+I.R.C. § 1202(e)(3)(C)  — 
+                     
+                     
+any  farming business (including the business of raising or harvesting  trees), 
+
+
+I.R.C. § 1202(e)(3)(D)  — 
+                     
+                     
+any  business involving the production or extraction of products of a character  with
+                        respect to which a deduction is allowable under section 613 or 613A,  and 
+
+
+I.R.C. § 1202(e)(3)(E)  — 
+                     
+                     
+any  business of operating a hotel, motel, restaurant, or similar  business. 
+
+
+
+I.R.C. § 1202(e)(4) Eligible Corporation — 
+                  
+                  
+For  purposes of this subsection, the term “eligible corporation” means any  domestic
+                     corporation; except that such term shall not include— 
+
+I.R.C. § 1202(e)(4)(A)  — 
+                     
+                     
+a  DISC or former DISC, 
+
+
+I.R.C. § 1202(e)(4)(B)  — 
+                     
+                     
+a  regulated investment company, real estate investment trust,   or REMIC,   and 
+
+
+I.R.C. § 1202(e)(4)(C)  — 
+                     
+                     
+a  cooperative. 
+
+
+
+I.R.C. § 1202(e)(5) Stock In Other Corporations
+
+
+I.R.C. § 1202(e)(5)(A) Look-Thru In Case Of Subsidiaries — 
+                     
+                     
+For  purposes of this subsection, stock and debt in any subsidiary corporation  shall
+                        be disregarded and the parent corporation shall be deemed to own its  ratable share
+                        of the subsidiary's assets, and to conduct its ratable share  of the subsidiary's
+                        activities. 
+
+
+I.R.C. § 1202(e)(5)(B) Portfolio Stock Or Securities — 
+                     
+                     
+A  corporation shall be treated as failing to meet the requirements of  paragraph
+                        (1) for any period during which more than 10 percent of the  value of its assets (in
+                        excess of liabilities)
+                        consists of stock or  securities in other corporations which are not subsidiaries
+                        of such  corporation (other than assets described in paragraph (6)). 
+
+
+I.R.C. § 1202(e)(5)(C) Subsidiary — 
+                     
+                     
+For  purposes of this paragraph, a corporation shall be considered a subsidiary  if
+                        the parent owns more than 50 percent of the combined voting power of  all classes
+                        of stock entitled to vote, or more than 50 percent in value of  all outstanding stock,
+                        of such corporation. 
+
+
+
+I.R.C. § 1202(e)(6) Working Capital — 
+                  
+                  
+For  purposes of paragraph (1)(A), any assets which— 
+
+I.R.C. § 1202(e)(6)(A)  — 
+                     
+                     
+are  held as a part of the reasonably required working capital needs of a  qualified
+                        trade or business of the corporation, or 
+
+
+I.R.C. § 1202(e)(6)(B)  — 
+                     
+                     
+are  held for investment and are reasonably expected to be used within 2 years  to
+                        finance research and experimentation in a qualified trade or business  or increases
+                        in working capital needs of a qualified trade or business, 
+
+
+shall be treated as used in the active conduct of a qualified trade or  business.
+                        For periods after the corporation has been in existence for at  least 2 years, in
+                        no event may more than 50 percent of the assets of the  corporation qualify as used
+                        in the active conduct of a qualified trade or  business by reason of this paragraph.
+
+
+
+I.R.C. § 1202(e)(7) Maximum Real Estate Holdings — 
+                  
+                  
+A  corporation shall not be treated as meeting the requirements of paragraph  (1)
+                     for any period during which more than 10 percent of the total value of  its assets
+                     consists of real property which is not used in the active  conduct of a qualified
+                     trade or business. For purposes of the preceding  sentence, the ownership of, dealing
+                     in, or renting of real property shall  not be treated as the active conduct of a qualified
+                     trade or  business. 
+
+
+I.R.C. § 1202(e)(8) Computer Software Royalties — 
+                  
+                  
+For  purposes of paragraph (1), rights to computer software which produces  active
+                     business computer software royalties (within the meaning of section  543(d)(1))
+                     shall be treated as an asset used in the active conduct of a  trade or business.
+I.R.C. § 1202(f) Stock Acquired On Conversion Of Other Stock — 
+               
+               
+If  any stock in a corporation is acquired solely through the conversion of  other
+                  stock in such corporation which is qualified small business stock in  the hands of
+                  the taxpayer— 
+
+I.R.C. § 1202(f)(1)  — 
+                  
+                  
+the  stock so acquired shall be treated as qualified small business stock in  the
+                     hands of the taxpayer, and 
+
+
+I.R.C. § 1202(f)(2)  — 
+                  
+                  
+the  stock so acquired shall be treated as having been held during the period  during
+                     which the converted stock was held.
+I.R.C. § 1202(g) Treatment Of Pass-Thru Entities
+
+
+I.R.C. § 1202(g)(1) In General — 
+                  
+                  
+If  any amount included in gross income by reason of holding an interest in a  pass-thru
+                     entity meets the requirements of paragraph (2)— 
+
+I.R.C. § 1202(g)(1)(A)  — 
+                     
+                     
+such  amount shall be treated as gain described in subsection (a),  and 
+
+
+I.R.C. § 1202(g)(1)(B)  — 
+                     
+                     
+for  purposes of applying subsection
+                        (b), such amount shall be treated as gain  from a disposition of stock in the corporation
+                        issuing the stock disposed  of by the pass-thru entity and the taxpayer's proportionate
+                        share of the  adjusted basis of the pass-thru entity in such stock shall be taken
+                        into  account. 
+
+
+
+I.R.C. § 1202(g)(2) Requirements — 
+                  
+                  
+An  amount meets the requirements of this paragraph if— 
+
+I.R.C. § 1202(g)(2)(A)  — 
+                     
+                     
+such  amount is attributable to gain on the sale or exchange by the pass-thru  entity
+                        of stock which is qualified small business stock in the hands of  such entity (determined
+                        by treating such entity as an individual) and  which was held by such entity for more
+                        than 5 years, and 
+
+
+I.R.C. § 1202(g)(2)(B)  — 
+                     
+                     
+such  amount is includible in the gross income of the taxpayer by reason of the  holding
+                        of an interest in such entity which was held by the taxpayer on  the date on which
+                        such pass-thru entity acquired such stock and at all  times thereafter before the
+                        disposition of such stock by such pass-thru  entity. 
+
+
+
+I.R.C. § 1202(g)(3) Limitation Based On Interest Originally Held By Taxpayer — 
+                  
+                  
+Paragraph  (1) shall not apply to any amount to the extent such amount exceeds the
+                     amount to which paragraph (1) would have applied if such amount were  determined by
+                     reference to the interest the taxpayer held in the pass-thru  entity on the date the
+                     qualified small business stock was acquired. 
+
+
+I.R.C. § 1202(g)(4) Pass-Thru Entity — 
+                  
+                  
+For  purposes of this subsection, the term “pass-thru entity” means— 
+
+I.R.C. § 1202(g)(4)(A)  — 
+                     
+                     
+any  partnership, 
+
+
+I.R.C. § 1202(g)(4)(B)  — 
+                     
+                     
+any S  corporation, 
+
+
+I.R.C. § 1202(g)(4)(C)  — 
+                     
+                     
+any  regulated investment company, and 
+
+
+I.R.C. § 1202(g)(4)(D)  — 
+                     
+                     
+any  common trust fund.
+I.R.C. § 1202(h) Certain Tax-Free And Other Transfers — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1202(h)(1) In General — 
+                  
+                  
+In  the case of a transfer described in paragraph (2), the transferee shall be  treated
+                     as— 
+
+I.R.C. § 1202(h)(1)(A)  — 
+                     
+                     
+having  acquired such stock in the same manner as the transferor, and 
+
+
+I.R.C. § 1202(h)(1)(B)  — 
+                     
+                     
+having  held such stock during any continuous period immediately preceding the  transfer
+                        during which it was held
+                        (or treated as held under this  subsection) by the transferor. 
+
+
+
+I.R.C. § 1202(h)(2) Description Of Transfers — 
+                  
+                  
+A  transfer is described in this subsection if such transfer is— 
+
+I.R.C. § 1202(h)(2)(A)  — 
+                     
+                     
+by  gift, 
+
+
+I.R.C. § 1202(h)(2)(B)  — 
+                     
+                     
+at  death, or 
+
+
+I.R.C. § 1202(h)(2)(C)  — 
+                     
+                     
+from  a partnership to a partner of stock with respect to which requirements  similar
+                        to the requirements of subsection (g) are met at the time of the  transfer (without
+                        regard to the 5-year holding period requirement). 
+
+
+
+I.R.C. § 1202(h)(3) Certain Rules Made Applicable — 
+                  
+                  
+Rules  similar to the rules of section 1244(d)(2) shall apply for purposes of  this section. 
+
+
+I.R.C. § 1202(h)(4) Incorporations And Reorganizations Involving Nonqualified Stock
+
+
+I.R.C. § 1202(h)(4)(A) In General — 
+                     
+                     
+In  the case of a transaction described in section 351 or a reorganization  described in section 368, if qualified small business stock is exchanged  for other stock which would not
+                        qualify as qualified small business stock  but for this subparagraph, such other stock
+                        shall be treated as qualified  small business stock acquired on the date on which
+                        the exchanged stock was
+                        acquired. 
+
+
+I.R.C. § 1202(h)(4)(B) Limitation — 
+                     
+                     
+This  section shall apply to gain from the sale or exchange of stock treated as  qualified
+                        small business stock by reason of subparagraph
+                        (A) only to the  extent of the gain which would have been recognized at the time of
+                        the  transfer described in subparagraph (A) if section 351 or 368 had not  applied at such time. The preceding sentence shall not apply if the stock
+                        which is treated as qualified small business stock by reason of  subparagraph (A)
+                        is issued by a corporation which (as of the time of the  transfer described in subparagraph
+                        (A)) is a qualified small business. 
+
+
+I.R.C. § 1202(h)(4)(C) Successive Application — 
+                     
+                     
+For  purposes of this paragraph, stock treated as qualified small business  stock
+                        under subparagraph (A) shall be so treated for subsequent  transactions or reorganizations,
+                        except that the limitation of  subparagraph (B) shall be applied as of the time of
+                        the first transfer to  which such limitation applied (determined after the application
+                        of the  second sentence of subparagraph (B)). 
+
+
+I.R.C. § 1202(h)(4)(D) Control Test — 
+                     
+                     
+In  the case of a transaction described in section 351, this paragraph shall  apply only if, immediately after the transaction, the corporation
+                        issuing
+                        the stock owns directly or indirectly stock representing control
+                        (within  the meaning of section 368(c))
+                        of the corporation whose stock was  exchanged.
+I.R.C. § 1202(i) Basis Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1202(i)(1) Stock Exchanged For Property — 
+                  
+                  
+In  the case where the taxpayer transfers property (other than money or stock)  to
+                     a corporation in exchange for stock in such corporation— 
+
+I.R.C. § 1202(i)(1)(A)  — 
+                     
+                     
+such  stock shall be treated as having been acquired by the taxpayer on the date 
+                        of such exchange, and 
+
+
+I.R.C. § 1202(i)(1)(B)  — 
+                     
+                     
+the  basis of such stock in the hands of the taxpayer shall in no event be less  than
+                        the fair market value of the property  exchanged. 
+
+
+
+I.R.C. § 1202(i)(2) Treatment Of Contributions To Capital — 
+                  
+                  
+If  the adjusted basis of any qualified small business stock is adjusted by  reason
+                     of any contribution to capital after the date on which such stock  was originally
+                     issued, in determining the amount of the adjustment by  reason of such contribution,
+                     the basis of the contributed property shall  in no event be treated as less than its
+                     fair market value on the date of  the contribution.
+I.R.C. § 1202(j) Treatment Of Certain Short Positions
+
+
+I.R.C. § 1202(j)(1) In General — 
+                  
+                  
+If  the taxpayer has an offsetting short position with respect to any  qualified small
+                     business stock, subsection (a) shall not apply to any gain  from the sale or exchange
+                     of such stock unless— 
+
+I.R.C. § 1202(j)(1)(A)  — 
+                     
+                     
+such  stock was held by the taxpayer for more than 5 years as of the first day  on
+                        which there was such a short position, and 
+
+
+I.R.C. § 1202(j)(1)(B)  — 
+                     
+                     
+the  taxpayer elects to recognize gain as if such stock were sold on such first  day
+                        for its fair market value. 
+
+
+
+I.R.C. § 1202(j)(2) Offsetting Short Position — 
+                  
+                  
+For  purposes of paragraph (1), the taxpayer shall be treated as having an  offsetting
+                     short position with respect to any qualified small business  stock if— 
+
+I.R.C. § 1202(j)(2)(A)  — 
+                     
+                     
+the  taxpayer has made a short sale of substantially identical  property, 
+
+
+I.R.C. § 1202(j)(2)(B)  — 
+                     
+                     
+the  taxpayer has acquired an option to sell substantially identical property  at
+                        a fixed price, or 
+
+
+I.R.C. § 1202(j)(2)(C)  — 
+                     
+                     
+to  the extent provided in regulations, the taxpayer has entered into any  other transaction
+                        which substantially reduces the risk of loss from  holding such qualified small business
+                        stock. 
+
+
+For purposes of the preceding  sentence, any reference to the taxpayer shall be treated
+                        as including a  reference to any person who is related (within the meaning of section
+                        267(b) or 707(b)) to the taxpayer.
+I.R.C. § 1202(k) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be appropriate to carry  out
+                  the purposes of this section, including regulations to prevent the  avoidance of the
+                  purposes of this section through split-ups, shell  corporations, partnerships, or
+                  otherwise.

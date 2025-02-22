@@ -1,0 +1,220 @@
+Sec. 704. Partner's Distributive Share
+
+I.R.C. § 704(a) Effect Of Partnership Agreement — 
+               
+               
+A  partner's distributive share of income, gain, loss, deduction, or credit  shall,
+                  except as otherwise provided in this chapter, be determined by the  partnership agreement.
+I.R.C. § 704(b) Determination Of Distributive Share — 
+               
+               
+A  partner's distributive share of income, gain, loss, deduction, or credit  (or item
+                  thereof) shall be determined in accordance with the partner's  interest in the partnership
+                  (determined by taking into account all facts  and circumstances), if— 
+
+I.R.C. § 704(b)(1)  — 
+                  
+                  
+the  partnership agreement does not provide as to the partner's distributive  share
+                     of income, gain, loss, deduction, or credit (or item thereof), or 
+
+
+I.R.C. § 704(b)(2)  — 
+                  
+                  
+the  allocation to a partner under the agreement of income, gain, loss,  deduction,
+                     or credit (or item thereof)
+                     does not have substantial economic  effect.
+I.R.C. § 704(c) Contributed Property
+
+
+I.R.C. § 704(c)(1) In General — 
+                  
+                  
+Under  regulations prescribed by the Secretary— 
+
+I.R.C. § 704(c)(1)(A)  — 
+                     
+                     
+income,  gain, loss, and deduction with respect to property contributed to the  partnership
+                        by a partner shall be shared among the partners so as to take  account of the variation
+                        between the basis of the property to the  partnership and its fair market value at
+                        the time of contribution, 
+
+
+I.R.C. § 704(c)(1)(B)  — 
+                     
+                     
+if  any property so contributed is distributed
+                        (directly or indirectly)  by  the partnership (other than to the contributing partner)
+                        within  7  years  of being contributed— 
+
+I.R.C. § 704(c)(1)(B)(i)  — 
+                        
+                        
+the  contributing partner shall be treated as recognizing gain or loss (as the  case
+                           may be) from the sale of such property in an amount equal to the gain  or loss which
+                           would have been allocated to such partner under subparagraph  (A) by reason of the
+                           variation described in subparagraph (A) if the  property had been sold at its fair
+                           market value at the time of the  distribution, 
+
+
+I.R.C. § 704(c)(1)(B)(ii)  — 
+                        
+                        
+the  character of such gain or loss shall be determined by reference to the  character
+                           of the gain or loss which would have resulted if such property  had been sold by the
+                           partnership to the distributee, and 
+
+
+I.R.C. § 704(c)(1)(B)(iii)  — 
+                        
+                        
+appropriate  adjustments shall be made to the adjusted basis of the contributing 
+                           partner's interest in the partnership and to the adjusted basis of the  property distributed
+                           to reflect any gain or loss recognized under this  subparagraph, and 
+
+
+
+I.R.C. § 704(c)(1)(C)  — 
+                     
+                     
+if  any property so contributed has a built-in loss— 
+
+I.R.C. § 704(c)(1)(C)(i)  — 
+                        
+                        
+such  built-in loss shall be taken into account only in determining the  amount of
+                           items allocated to the contributing partner,          and 
+
+
+I.R.C. § 704(c)(1)(C)(ii)  — 
+                        
+                        
+except as provided in regulations, in determining the amount of  items allocated to
+                           other partners, the basis of the contributed    property in the hands of the partnership
+                           shall be treated as being equal to its fair market value at the time of contribution. 
+
+
+For purposes of subparagraph (C), the  term “built-in loss” means the excess of the
+                           adjusted basis of the  property (determined without regard to subparagraph
+                           (C)(ii)) over its  fair market value at the time of contribution.
+
+
+
+
+I.R.C. § 704(c)(2) Special Rule For Distributions Where Gain Or Loss Would Not Be Recognized Outside
+                     Partnerships — 
+                  
+                  
+Under  regulations prescribed by the Secretary, if— 
+
+I.R.C. § 704(c)(2)(A)  — 
+                     
+                     
+property  contributed by a partner (hereinafter referred to as the “contributing 
+                        partner”) is distributed by the partnership to another partner, and 
+
+
+I.R.C. § 704(c)(2)(B)  — 
+                     
+                     
+other  property of a like kind (within the meaning of section 1031)
+                        is  distributed by the partnership to the contributing partner not later than  the
+                        earlier of— 
+
+I.R.C. § 704(c)(2)(B)(i)  — 
+                        
+                        
+the  180th day after the date of the distribution described in subparagraph  (A),
+                           or 
+
+
+I.R.C. § 704(c)(2)(B)(ii)  — 
+                        
+                        
+the  due date (determined with regard to extensions) for the contributing  partner's
+                           return of the tax imposed by this chapter for the taxable year  in which the distribution
+                           described in subparagraph (A) occurs, 
+
+
+
+then to  the extent of the value of the property described in subparagraph (B),  paragraph
+                        (1)(B) shall be applied as if the contributing partner had  contributed to the partnership
+                        the property described in subparagraph (B).
+
+
+
+I.R.C. § 704(c)(3) Other Rules — 
+                  
+                  
+Under  regulations prescribed by the Secretary, rules similar to the rules of  paragraph
+                     (1) shall apply to contributions by a partner (using the cash  receipts and disbursements
+                     method of accounting) of accounts payable and  other accrued but unpaid items. Any
+                     reference in paragraph (1) or (2) to  the contributing partner shall be treated as
+                     including a reference to any  successor of such partner.
+I.R.C. § 704(d) Limitation On Allowance Of Losses
+
+
+I.R.C. § 704(d)(1) In General — 
+                  
+                  
+A  partner's distributive share of partnership loss (including capital loss)  shall
+                     be allowed only to the extent of the adjusted basis of such  partner's interest in
+                     the partnership at the end of the partnership year  in which such loss occurred. 
+
+
+I.R.C. § 704(d)(2) Carryover — 
+                  
+                  
+Any excess of such loss over such basis shall  be allowed as a deduction at the end
+                     of the partnership year in which such  excess is repaid to the partnership. 
+
+
+I.R.C. § 704(d)(3) Special Rules
+
+
+I.R.C. § 704(d)(3)(A) In General — 
+                     
+                     
+In determining the amount of any loss under paragraph
+                        (1), there shall be taken into account the partner's distributive share of amounts
+                        described in paragraphs (4) and (6) of section 702(a). 
+
+
+I.R.C. § 704(d)(3)(B) Exception — 
+                     
+                     
+In the case of a charitable contribution of property whose fair market value exceeds
+                        its adjusted basis, subparagraph (A)
+                        shall not apply to the extent of the partner's distributive share of such excess.
+I.R.C. § 704(e) Partnership Interests Created By Gift
+
+
+I.R.C. § 704(e)(1) Distributive Share Of Donee Includible In Gross Income — 
+                  
+                  
+In  the case of any partnership interest created by gift, the distributive  share
+                     of the donee under the partnership agreement shall be includible in  his gross income,
+                     except to the extent that such share is determined  without allowance of reasonable
+                     compensation for services rendered to the  partnership by the donor, and except to
+                     the extent that the portion of  such share attributable to donated capital is proportionately
+                     greater than  the share of the donor attributable to the donor's capital. The  distributive
+                     share of a partner in the earnings of the partnership shall  not be diminished because
+                     of absence due to military service. 
+
+
+I.R.C. § 704(e)(2) Purchase Of Interest By Member Of Family — 
+                  
+                  
+For  purposes of this subsection, an interest purchased by one member of a family
+                     from another shall be considered to be created by gift from the seller,  and the fair
+                     market value of the purchased interest shall be considered to  be donated capital.
+                     The
+                     “family” of any individual shall include only his  spouse, ancestors, and lineal descendants,
+                     and any trusts for the primary  benefit of such persons.
+I.R.C. § 704(f) Cross Reference — 
+               
+               
+For  rules in the case of the sale, exchange, liquidation, or reduction of a  partner's
+                  interest, see section 706(c)(2).

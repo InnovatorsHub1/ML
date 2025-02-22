@@ -1,0 +1,216 @@
+Sec. 67. 2-Percent Floor On Miscellaneous Itemized Deductions
+
+I.R.C. § 67(a) General Rule — 
+               
+               
+In  the case of an individual, the miscellaneous itemized deductions for any  taxable
+                  year shall be allowed only to the extent that the aggregate of  such deductions exceeds
+                  2 percent of adjusted gross income.
+I.R.C. § 67(b) Miscellaneous Itemized Deductions — 
+               
+               
+For  purposes of this section, the term “miscellaneous itemized deductions”  means
+                  the itemized deductions other than— 
+
+I.R.C. § 67(b)(1)  — 
+                  
+                  
+the  deduction under section 163 (relating to interest), 
+
+
+I.R.C. § 67(b)(2)  — 
+                  
+                  
+the  deduction under section 164 (relating to taxes), 
+
+
+I.R.C. § 67(b)(3)  — 
+                  
+                  
+the  deduction under section 165(a) for casualty or theft losses described in  paragraph (2) or (3) of section 165(c) or for losses described in section  165(d), 
+
+
+I.R.C. § 67(b)(4)  — 
+                  
+                  
+the  deductions under section 170 (relating to charitable, etc., contributions  and gifts) and section 642(c) (relating to deduction for amounts paid or  permanently set aside for a charitable
+                     purpose), 
+
+
+I.R.C. § 67(b)(5)  — 
+                  
+                  
+the  deduction under section 213 (relating to medical, dental, etc., expenses), 
+
+
+I.R.C. § 67(b)(6)  — 
+                  
+                  
+any  deduction allowable for impairment-related work expenses, 
+
+
+I.R.C. § 67(b)(7)  — 
+                  
+                  
+the  deduction under section 691(c) (relating to deduction for estate tax in  case of income in respect of the decedent), 
+
+
+I.R.C. § 67(b)(8)  — 
+                  
+                  
+any  deduction allowable in connection with personal property used in a short  sale, 
+
+
+I.R.C. § 67(b)(9)  — 
+                  
+                  
+the  deduction under section 1341 (relating to computation of tax where  taxpayer restores substantial amount held
+                     under claim of right), 
+
+
+I.R.C. § 67(b)(10)  — 
+                  
+                  
+the deduction under section 72(b)(3) (relating to deduction where annuity  payments cease before investment recovered), 
+
+
+I.R.C. § 67(b)(11)  — 
+                  
+                  
+the deduction under section 171 (relating to deduction for amortizable  bond premium), and 
+
+
+I.R.C. § 67(b)(12)  — 
+                  
+                  
+the deduction under section 216 (relating to deductions in connection with  cooperative housing corporations).
+I.R.C. § 67(c) Disallowance Of Indirect Deduction Through Pass-Thru Entity
+
+
+I.R.C. § 67(c)(1) In General — 
+                  
+                  
+The  Secretary shall prescribe regulations which prohibit the indirect  deduction
+                     through pass-thru entities of amounts which are not allowable as  a deduction if paid
+                     or incurred directly by an individual and which  contain such reporting requirements
+                     as may be necessary to carry out the  purposes of this subsection. 
+
+
+I.R.C. § 67(c)(2) Treatment Of Publicly Offered Regulated Investment Companies
+
+
+I.R.C. § 67(c)(2)(A) In General — 
+                     
+                     
+Paragraph  (1) shall not apply with respect to any publicly offered regulated  investment company. 
+
+
+I.R.C. § 67(c)(2)(B) Publicly Offered Regulated Investment Companies — 
+                     
+                     
+For  purposes of this subsection— 
+
+I.R.C. § 67(c)(2)(B)(i) In General — 
+                        
+                        
+The  term “publicly offered regulated investment company"
+                           means a regulated  investment company the shares of which are— 
+
+I.R.C. § 67(c)(2)(B)(i)(I)  — 
+                           
+                           
+continuously  offered pursuant to a public offering (within the meaning of section
+                              4 of  the Securities Act of 1933, as amended (15 U.S.C. 77a to 77aa)), 
+
+
+I.R.C. § 67(c)(2)(B)(i)(II)  — 
+                           
+                           
+regularly  traded on an established securities market, or 
+
+
+I.R.C. § 67(c)(2)(B)(i)(III)  — 
+                           
+                           
+held  by or for no fewer than 500 persons at all times during the taxable year. 
+
+
+
+I.R.C. § 67(c)(2)(B)(ii) Secretary May Reduce 500 Person Requirement — 
+                        
+                        
+The  Secretary may by regulation decrease the minimum shareholder requirement  of
+                           clause (i)(III) in the case of regulated investment companies which  experience a loss of shareholders
+                           through net redemptions of their shares. 
+
+
+
+
+I.R.C. § 67(c)(3) Treatment Of Certain Other Entities — 
+                  
+                  
+Paragraph  (1) shall not apply— 
+
+I.R.C. § 67(c)(3)(A)  — 
+                     
+                     
+with  respect to cooperatives and real estate investment trusts, and 
+
+
+I.R.C. § 67(c)(3)(B)  — 
+                     
+                     
+except  as provided in regulations, with respect to estates and trusts.
+I.R.C. § 67(d) Impairment-Related Work Expenses — 
+               
+               
+For  purposes of this section, the term “impairment-related work expenses”  means
+                  expenses— 
+
+I.R.C. § 67(d)(1)  — 
+                  
+                  
+of a  handicapped individual (as defined in section 190(b)(3))
+                     for attendant  care services at the individual's place of employment and other expenses
+                     in connection with such place of employment which are necessary for such  individual
+                     to be able to work, and 
+
+
+I.R.C. § 67(d)(2)  — 
+                  
+                  
+with  respect to which a deduction is allowable under section 162 (determined
+                     without regard to this section).
+I.R.C. § 67(e) Determination Of Adjusted Gross Income In Case Of Estates And Trusts — 
+               
+               
+For  purposes of this section, the adjusted gross income of an estate or trust  shall
+                  be computed in the same manner as in the case of an individual,  except that— 
+
+I.R.C. § 67(e)(1)  — 
+                  
+                  
+the  deductions for costs which are paid or incurred in connection with the  administration
+                     of the estate or trust and which would not have been  incurred if the property were
+                     not held in such trust or estate, and 
+
+
+I.R.C. § 67(e)(2)  — 
+                  
+                  
+the  deductions allowable under sections 642(b), 651, and 661, 
+
+
+shall be treated  as allowable in arriving at adjusted gross income. Under regulations,
+                     appropriate adjustments shall be made in the application of part I of  subchapter
+                     J of this chapter to take into account the provisions of this  section.
+I.R.C. § 67(f) Coordination With Other Limitation — 
+               
+               
+This  section shall be applied before the application of the dollar  limitation  of
+                  the second sentence of section 162(a) (relating to trade or business  expenses).
+I.R.C. § 67(g) Suspension For Taxable Years 2018 Through 2025— — 
+               
+               
+Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed
+                  for any taxable year beginning after December 31, 2017, and before January 1, 2026.

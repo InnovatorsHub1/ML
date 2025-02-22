@@ -1,0 +1,259 @@
+Sec. 842. Foreign Companies Carrying On Insurance Business
+
+I.R.C. § 842(a) Taxation Under This Subchapter — 
+               
+               
+If  a foreign company carrying on an insurance business within the United  States
+                  would qualify under part I or II of this subchapter for the taxable  year if (without
+                  regard to income not effectively connected with the  conduct of any trade or business
+                  within the United States) it were a  domestic corporation, such company shall be taxable
+                  under such part on its  income effectively connected with its conduct of any trade
+                  or business  within the United States. With respect to the remainder of its income
+                  which is from sources within the United States, such a foreign company  shall be taxable
+                  as provided in section 881.
+I.R.C. § 842(b) Minimum Effectively Connected Net Investment Income
+
+
+I.R.C. § 842(b)(1) In General — 
+                  
+                  
+In  the case of a foreign company taxable under part I or II of this  subchapter for
+                     the taxable year, its net investment income for such year  which is effectively connected
+                     with the conduct of an insurance business  within the United States shall be not less
+                     than the product of— 
+
+I.R.C. § 842(b)(1)(A)  — 
+                     
+                     
+the required United States assets of such company, and 
+
+
+I.R.C. § 842(b)(1)(B)  — 
+                     
+                     
+the domestic investment yield applicable to such company  for such year. 
+
+
+
+I.R.C. § 842(b)(2) Required U.S. Assets
+
+
+I.R.C. § 842(b)(2)(A) In General — 
+                     
+                     
+For  purposes of paragraph (1), the required United States assets of any  foreign
+                        company for any taxable year is an amount equal to the product  of— 
+
+I.R.C. § 842(b)(2)(A)(i)  — 
+                        
+                        
+the mean of such foreign company's total insurance  liabilities on United States business,
+                           and 
+
+
+I.R.C. § 842(b)(2)(A)(ii)  — 
+                        
+                        
+the domestic asset/liability percentage applicable to  such foreign company for such
+                           year. 
+
+
+
+I.R.C. § 842(b)(2)(B) Total Insurance Liabilities — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 842(b)(2)(B)(i) Companies Taxable Under Part I — 
+                        
+                        
+In  the case of a company taxable under part I, the term “total insurance  liabilities”
+                           means the sum of the total reserves
+                           (as defined in section  816(c))
+                           plus (to the extent not included in total reserves) the items  referred to in paragraphs
+                           (3), (4), (5), and (6) of section 807(c). 
+
+
+I.R.C. § 842(b)(2)(B)(ii) Companies Taxable Under Part II — 
+                        
+                        
+In  the case of a company taxable under part II, the term “total insurance  liabilities”
+                           means the sum of unearned premiums and unpaid losses. 
+
+
+
+I.R.C. § 842(b)(2)(C) Domestic Asset/liability Percentage — 
+                     
+                     
+The  domestic asset/liability percentage applicable for purposes of  subparagraph
+                        (A)(ii) to any foreign company for any taxable year is a  percentage determined by
+                        the Secretary on the basis of a ratio— 
+
+I.R.C. § 842(b)(2)(C)(i)  — 
+                        
+                        
+the numerator of which is the mean of the assets of  domestic insurance companies
+                           taxable under the same part of this  subchapter as such foreign company, and 
+
+
+I.R.C. § 842(b)(2)(C)(ii)  — 
+                        
+                        
+the denominator of which is the mean of the total  insurance liabilities of the same
+                           companies. 
+
+
+
+
+I.R.C. § 842(b)(3) Domestic Investment Yield — 
+                  
+                  
+The  domestic investment yield applicable for purposes of paragraph (1)(B) to  any
+                     foreign company for any taxable year is the percentage determined by  the Secretary
+                     on the basis of a ratio— 
+
+I.R.C. § 842(b)(3)(A)  — 
+                     
+                     
+the numerator of which is the net investment income of  domestic insurance companies
+                        taxable under the same part of this  subchapter as such foreign company, and 
+
+
+I.R.C. § 842(b)(3)(B)  — 
+                     
+                     
+the denominator of which is the mean of the assets of  the same companies. 
+
+
+
+I.R.C. § 842(b)(4) Election To Use Worldwide Yield
+
+
+I.R.C. § 842(b)(4)(A) In General — 
+                     
+                     
+If  the foreign company makes an election under this paragraph, such company's  worldwide
+                        current investment yield shall be taken into account in lieu of  the domestic investment
+                        yield for purposes of paragraph (1)(B). 
+
+
+I.R.C. § 842(b)(4)(B) Worldwide Current Investment Yield — 
+                     
+                     
+For  purposes of subparagraph (A), the term “worldwide current investment  yield”
+                        means the percentage obtained by dividing— 
+
+I.R.C. § 842(b)(4)(B)(i)  — 
+                        
+                        
+the net investment income of the company from all  sources, by 
+
+
+I.R.C. § 842(b)(4)(B)(ii)  — 
+                        
+                        
+the mean of all assets of the company
+                           (whether or not  held in the United States). 
+
+
+
+I.R.C. § 842(b)(4)(C) Election — 
+                     
+                     
+An  election under this paragraph shall apply to the taxable year for which  made
+                        and all subsequent taxable years unless revoked with the consent of  the Secretary. 
+
+
+
+I.R.C. § 842(b)(5) Net Investment Income — 
+                  
+                  
+For  purposes of this subsection, the term “net investment income” means— 
+
+I.R.C. § 842(b)(5)(A)  — 
+                     
+                     
+gross investment income (within the meaning of section  834(b)), reduced by 
+
+
+I.R.C. § 842(b)(5)(B)  — 
+                     
+                     
+expenses allocable to such income.
+I.R.C. § 842(c) Special Rules For Purposes Of Subsection (b)
+
+
+I.R.C. § 842(c)(1) Reduction In Section 881 Taxes
+
+
+I.R.C. § 842(c)(1)(A) In General — 
+                     
+                     
+The  tax under section 881 (determined without regard to this paragraph) shall  be reduced (but not below zero)
+                        by an amount which bears the same ratio to  such tax as— 
+
+I.R.C. § 842(c)(1)(A)(i)  — 
+                        
+                        
+the amount of the increase in effectively connected  income of the company resulting
+                           from subsection (b), bears to 
+
+
+I.R.C. § 842(c)(1)(A)(ii)  — 
+                        
+                        
+the amount which would be subject to tax under section  881 if the amount taxable
+                           under such section were determined without  regard to sections 103 and 894. 
+
+
+
+I.R.C. § 842(c)(1)(B) Limitation On Reduction — 
+                     
+                     
+The  reduction under subparagraph (A) shall not exceed the increase in taxes  under
+                        part I or II (as the case may be) by reason of the increase in  effectively connected
+                        income of the company resulting from subsection (b). 
+
+
+
+I.R.C. § 842(c)(2) Data Used In Determining Domestic Asset/liability Percentages And Domestic Investment
+                     Yields — 
+                  
+                  
+Each  domestic asset/liability percentage, and each domestic investment yield,  for
+                     any taxable year shall be based on such representative data with  respect to domestic
+                     insurance companies for the second preceding taxable  year as the Secretary considers
+                     appropriate.
+I.R.C. § 842(d) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary or  appropriate
+                  to carry out the purposes of this section, including  regulations— 
+
+I.R.C. § 842(d)(1)  — 
+                  
+                  
+providing for the proper treatment of segregated asset  accounts, 
+
+
+I.R.C. § 842(d)(2)  — 
+                  
+                  
+providing for proper adjustments in succeeding taxable  years where the company's
+                     actual net investment income for any taxable  year which is effectively connected
+                     with the conduct of an insurance  business within the United States exceeds the amount
+                     required under  subsection (b)(1), 
+
+
+I.R.C. § 842(d)(3)  — 
+                  
+                  
+providing for the proper treatment of investments in  domestic subsidiaries, and 
+
+
+I.R.C. § 842(d)(4)  — 
+                  
+                  
+which may provide that, in the case of companies taxable  under part II of this subchapter,
+                     determinations under subsection (b) will  be made separately for categories of such
+                     companies established in such  regulations.

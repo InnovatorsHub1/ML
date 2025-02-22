@@ -1,0 +1,669 @@
+Sec. 197. Amortization Of Goodwill And Certain Other Intangibles
+
+I.R.C. § 197(a) General Rule — 
+               
+               
+A  taxpayer shall be entitled to an amortization deduction with respect to  any amortizable
+                  section 197 intangible. The amount of such deduction shall  be determined by amortizing
+                  the adjusted basis (for purposes of  determining gain) of such intangible ratably
+                  over the 15-year period  beginning with the month in which such intangible was  acquired.
+I.R.C. § 197(b) No Other Depreciation Or Amortization Deduction Allowable — 
+               
+               
+Except  as provided in subsection (a), no depreciation or amortization deduction  shall be allowable with respect to any
+                  amortizable section 197  intangible.
+I.R.C. § 197(c) Amortizable Section 197 Intangible — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 197(c)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this section, the term “amortizable section 197 
+                     intangible” means any section 197 intangible 
+
+I.R.C. § 197(c)(1)(A)  — 
+                     
+                     
+which  is acquired by the taxpayer after the date of the enactment of this  section,
+                        and 
+
+
+I.R.C. § 197(c)(1)(B)  — 
+                     
+                     
+which  is held in connection with the conduct of a trade or business or an  activity
+                        described in section 212. 
+
+
+
+I.R.C. § 197(c)(2) Exclusion Of Self-Created Intangibles, Etc.  — 
+                  
+                  
+The  term “amortizable section 197 intangible”
+                     shall not include any section  197 intangible— 
+
+I.R.C. § 197(c)(2)(A)  — 
+                     
+                     
+which  is not described in subparagraph (D), (E), or (F) of subsection (d)(1),  and 
+
+
+I.R.C. § 197(c)(2)(B)  — 
+                     
+                     
+which  is created by the taxpayer. 
+
+This paragraph shall not apply if the intangible is  created in connection with a
+                           transaction (or series of related  transactions) involving the acquisition of assets
+                           constituting a trade or  business or substantial portion thereof.
+
+
+
+
+I.R.C. § 197(c)(3) Anti-Churning Rules — 
+                  
+                  
+For  exclusion of intangibles acquired in certain transactions, see subsection  (f)(9).
+I.R.C. § 197(d) Section 197 Intangible — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 197(d)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this section, the term “section 197 intangible” 
+                     means— 
+
+I.R.C. § 197(d)(1)(A)  — 
+                     
+                     
+goodwill, 
+
+
+I.R.C. § 197(d)(1)(B)  — 
+                     
+                     
+going  concern value, 
+
+
+I.R.C. § 197(d)(1)(C)  — 
+                     
+                     
+any  of the following intangible items: 
+
+I.R.C. § 197(d)(1)(C)(i)  — 
+                        
+                        
+workforce  in place including its composition and terms and conditions (contractual
+                           or otherwise) of its employment, 
+
+
+I.R.C. § 197(d)(1)(C)(ii)  — 
+                        
+                        
+business  books and records, operating systems, or any other information base  (including
+                           lists or other information with respect to current or  prospective customers), 
+
+
+I.R.C. § 197(d)(1)(C)(iii)  — 
+                        
+                        
+any  patent, copyright, formula, process, design, pattern, knowhow, format, or  other
+                           similar item, 
+
+
+I.R.C. § 197(d)(1)(C)(iv)  — 
+                        
+                        
+any  customer-based intangible, 
+
+
+I.R.C. § 197(d)(1)(C)(v)  — 
+                        
+                        
+any  supplier-based intangible, and 
+
+
+I.R.C. § 197(d)(1)(C)(vi)  — 
+                        
+                        
+any  other similar item, 
+
+
+
+I.R.C. § 197(d)(1)(D)  — 
+                     
+                     
+any  license, permit, or other right granted by a governmental unit or an  agency
+                        or instrumentality thereof, 
+
+
+I.R.C. § 197(d)(1)(E)  — 
+                     
+                     
+any  covenant not to compete (or other arrangement to the extent such  arrangement
+                        has substantially the same effect as a covenant not to  compete) entered into in connection
+                        with an acquisition (directly or  indirectly) of an interest in a trade or business
+                        or substantial portion  thereof, and 
+
+
+I.R.C. § 197(d)(1)(F)  — 
+                     
+                     
+any  franchise, trademark, or trade name. 
+
+
+
+I.R.C. § 197(d)(2) Customer-Based Intangible
+
+
+I.R.C. § 197(d)(2)(A) In General — 
+                     
+                     
+The  term “customer-based intangible” means— 
+
+I.R.C. § 197(d)(2)(A)(i)  — 
+                        
+                        
+composition  of market, 
+
+
+I.R.C. § 197(d)(2)(A)(ii)  — 
+                        
+                        
+market  share, and 
+
+
+I.R.C. § 197(d)(2)(A)(iii)  — 
+                        
+                        
+any  other value resulting from future provision of goods or services pursuant  to
+                           relationships (contractual or otherwise) in the ordinary course of  business with
+                           customers. 
+
+
+
+I.R.C. § 197(d)(2)(B)  Special Rule For Financial Institutions — 
+                     
+                     
+In the case of a financial institution, the term  “customer based intangible” includes
+                        deposit base and similar  items. 
+
+
+
+I.R.C. § 197(d)(3) Supplier-Based Intangible — 
+                  
+                  
+The  term “supplier-based intangible” means any value resulting from future  acquisitions
+                     of goods or services pursuant to relationships (contractual  or otherwise) in the
+                     ordinary course of business with suppliers of goods  or services to be used or sold
+                     by the taxpayer.
+I.R.C. § 197(e) Exceptions — 
+               
+               
+For  purposes of this section, the term “section 197 intangible” shall not  include
+                  any of the following: 
+
+I.R.C. § 197(e)(1) Financial Interests — 
+                  
+                  
+Any  interest— 
+
+I.R.C. § 197(e)(1)(A)  — 
+                     
+                     
+in a  corporation, partnership, trust, or estate, or 
+
+
+I.R.C. § 197(e)(1)(B)  — 
+                     
+                     
+under  an existing futures contract, foreign currency contract, notional  principal
+                        contract, or other similar financial contract. 
+
+
+
+I.R.C. § 197(e)(2) Land — 
+                  
+                  
+Any  interest in land. 
+
+
+I.R.C. § 197(e)(3) Computer Software
+
+
+I.R.C. § 197(e)(3)(A) In General — 
+                     
+                     
+Any— 
+
+I.R.C. § 197(e)(3)(A)(i)  — 
+                        
+                        
+computer  software which is readily available for purchase by the general public,
+                           is  subject to a nonexclusive license, and has not been substantially  modified, and 
+
+
+I.R.C. § 197(e)(3)(A)(ii)  — 
+                        
+                        
+other  computer software which is not acquired in a transaction (or series of  related
+                           transactions) involving the acquisition of assets constituting a  trade or business
+                           or substantial portion thereof. 
+
+
+
+I.R.C. § 197(e)(3)(B) Computer Software Defined — 
+                     
+                     
+For  purposes of subparagraph (A), the term “computer software” means any  program designed to cause a computer to
+                        perform a desired function. Such  term shall not include any data base or similar
+                        item unless the data base  or item is in the public domain and is incidental to the
+                        operation of  otherwise qualifying computer software. 
+
+
+
+I.R.C. § 197(e)(4) Certain Interests Or Rights Acquired Separately — 
+                  
+                  
+Any  of the following not acquired in a transaction
+                     (or series of related  transactions) involving the acquisition of assets constituting
+                     a trade  business or substantial portion thereof: 
+
+I.R.C. § 197(e)(4)(A)  — 
+                     
+                     
+Any  interest in a film, sound recording, video tape, book, or similar  property. 
+
+
+I.R.C. § 197(e)(4)(B)  — 
+                     
+                     
+Any  right to receive tangible property or services under a contract or granted  by
+                        a governmental unit or agency or instrumentality thereof. 
+
+
+I.R.C. § 197(e)(4)(C)  — 
+                     
+                     
+Any  interest in a patent or copyright. 
+
+
+I.R.C. § 197(e)(4)(D)  — 
+                     
+                     
+To  the extent provided in regulations, any right under a contract (or granted  by
+                        a governmental unit or an agency or instrumentality thereof) if such  right— 
+
+I.R.C. § 197(e)(4)(D)(i)  — 
+                        
+                        
+has a  fixed duration of less than 15 years, or 
+
+
+I.R.C. § 197(e)(4)(D)(ii)  — 
+                        
+                        
+is  fixed as to amount and, without regard to this section, would be  recoverable
+                           under a method similar to the unit-of-production method. 
+
+
+
+
+I.R.C. § 197(e)(5) Interests Under Leases And Debt Instruments — 
+                  
+                  
+Any  interest under— 
+
+I.R.C. § 197(e)(5)(A)  — 
+                     
+                     
+an  existing lease of tangible property, or 
+
+
+I.R.C. § 197(e)(5)(B)  — 
+                     
+                     
+except  as provided in subsection (d)(2)(B), any existing indebtedness. 
+
+
+
+I.R.C. § 197(e)(6) Mortgage Servicing — 
+                  
+                  
+Any  right to service indebtedness which is secured by residential real  property
+                     unless such right is acquired in a transaction
+                     (or series of  related transactions) involving the acquisition of assets (other than
+                     rights described in this paragraph) constituting a trade or business or  substantial
+                     portion thereof. 
+
+
+I.R.C. § 197(e)(7) Certain Transaction Costs — 
+                  
+                  
+Any  fees for professional services, and any transaction costs, incurred by  parties
+                     to a transaction with respect to which any portion of the gain or  loss is not recognized
+                     under part III of subchapter  C.
+I.R.C. § 197(f) Special Rules
+
+
+I.R.C. § 197(f)(1) Treatment Of Certain Dispositions, Etc.
+
+
+I.R.C. § 197(f)(1)(A) In General — 
+                     
+                     
+If  there is a disposition of any amortizable section 197 intangible acquired  in
+                        a transaction or series of related transactions
+                        (or any such intangible  becomes worthless) and one or more other amortizable section
+                        197  intangibles acquired in such transaction or series of related transactions  are
+                        retained— 
+
+I.R.C. § 197(f)(1)(A)(i)  — 
+                        
+                        
+no  loss shall be recognized by reason of such disposition (or such  worthlessness),
+                           and 
+
+
+I.R.C. § 197(f)(1)(A)(ii)  — 
+                        
+                        
+appropriate  adjustments to the adjusted bases of such retained intangibles shall
+                           be  made for any loss not recognized under clause  (i). 
+
+
+
+I.R.C. § 197(f)(1)(B) Special Rule For Covenants Not To Compete — 
+                     
+                     
+In  the case of any section 197 intangible which is a covenant not to compete  (or
+                        other arrangement) described in subsection (d)(1)(E), in no event  shall such covenant or other arrangement be treated as disposed of
+                        (or 
+                        becoming worthless) before the disposition of the entire interest
+                        described in such subsection in connection with which such covenant
+                        (or  other arrangement) was entered into. 
+
+
+I.R.C. § 197(f)(1)(C) Special Rule — 
+                     
+                     
+All  persons treated as a single taxpayer under section 41(f)(1) shall be so  treated for purposes of this paragraph. 
+
+
+
+I.R.C. § 197(f)(2) Treatment Of Certain Transfers
+
+
+I.R.C. § 197(f)(2)(A) In General — 
+                     
+                     
+In  the case of any section 197 intangible transferred in a transaction  described
+                        in subparagraph (B), the transferee shall be treated as the  transferor for purposes of applying this
+                        section with respect to so much  of the adjusted basis in the hands of the transferee
+                        as does not exceed  the adjusted basis in the hands of the transferor. 
+
+
+I.R.C. § 197(f)(2)(B) Transactions Covered — 
+                     
+                     
+The  transactions described in this subparagraph are— 
+
+I.R.C. § 197(f)(2)(B)(i)  — 
+                        
+                        
+any  transaction described in section 332, 351, 361, 721, 731, 1031, or 1033,  and 
+
+
+I.R.C. § 197(f)(2)(B)(ii)  — 
+                        
+                        
+any  transaction between members of the same affiliated group during any  taxable
+                           year for which a consolidated return is made by such group. 
+
+
+
+
+I.R.C. § 197(f)(3) Treatment Of Amounts Paid Pursuant To Covenants Not To Compete, Etc.  — 
+                  
+                  
+Any  amount paid or incurred pursuant to a covenant or arrangement referred to  in
+                     subsection (d)(1)(E) shall be treated as an amount chargeable to  capital account. 
+
+
+I.R.C. § 197(f)(4) Treatment Of Franchises, Etc. 
+
+
+I.R.C. § 197(f)(4)(A) Franchise — 
+                     
+                     
+The  term “franchise” has the meaning given to such term by section  1253(b)(1). 
+
+
+I.R.C. § 197(f)(4)(B) Treatment Of Renewals — 
+                     
+                     
+Any  renewal of a franchise, trademark, or trade name
+                        (or of a license, a  permit, or other right referred to in subsection (d)(1)(D)) shall be  treated as an acquisition. The preceding sentence shall only apply with
+                        respect to costs incurred in connection with such renewal. 
+
+
+I.R.C. § 197(f)(4)(C) Certain Amounts Not Taken Into Account — 
+                     
+                     
+Any  amount to which section 1253(d)(1) applies shall not be taken into account  under this section. 
+
+
+
+I.R.C. § 197(f)(5) Treatment Of Certain Reinsurance Transactions — 
+                  
+                  
+In  the case of any amortizable section 197 intangible resulting from an  assumption
+                     reinsurance transaction, the amount taken into account as the  adjusted basis of such
+                     intangible under this section shall be the excess  of— 
+
+I.R.C. § 197(f)(5)(A)  — 
+                     
+                     
+the  amount paid or incurred by the acquirer under the assumption reinsurance  transaction,
+                        over 
+
+
+I.R.C. § 197(f)(5)(B)  — 
+                     
+                     
+the  amount required to be capitalized under section 848 in connection with  such transaction. 
+
+
+Subsection (b) shall not apply to any amount required to  be capitalized under section 848.
+
+
+
+I.R.C. § 197(f)(6) Treatment Of Certain Subleases — 
+                  
+                  
+For  purposes of this section, a sublease shall be treated in the same manner  as
+                     a lease of the underlying property involved. 
+
+
+I.R.C. § 197(f)(7) Treatment As Depreciable — 
+                  
+                  
+For  purposes of this chapter, any amortizable section 197 intangible shall be  treated
+                     as property which is of a character subject to the allowance for  depreciation provided
+                     in section 167. 
+
+
+I.R.C. § 197(f)(8) Treatment Of Certain Increments In Value — 
+                  
+                  
+This  section shall not apply to any increment in value if, without regard to  this
+                     section, such increment is properly taken into account in determining  the cost of
+                     property which is not a section 197 intangible. 
+
+
+I.R.C. § 197(f)(9) Anti-Churning Rules — 
+                  
+                  
+For  purposes of this section— 
+
+I.R.C. § 197(f)(9)(A) In General — 
+                     
+                     
+The  term “amortizable section 197 intangible”
+                        shall not include any section  197 intangible which is described in subparagraph (A) or (B) of subsection  (d)(1) (or for which depreciation or amortization would not have been  allowable but for
+                        this section)
+                        and which is acquired by the taxpayer  after the date of the enactment of this section,
+                        if— 
+
+I.R.C. § 197(f)(9)(A)(i)  — 
+                        
+                        
+the  intangible was held or used at any time on or after July 25, 1991, and on  or
+                           before such date of enactment by the taxpayer or a related  person, 
+
+
+I.R.C. § 197(f)(9)(A)(ii)  — 
+                        
+                        
+the  intangible was acquired from a person who held such intangible at any time  on
+                           or after July 25, 1991, and on or before such date of enactment, and, as  part of
+                           the transaction, the user of such intangible does not change,  or 
+
+
+I.R.C. § 197(f)(9)(A)(iii)  — 
+                        
+                        
+the  taxpayer grants the right to use such intangible to a person (or a person  related
+                           to such person)
+                           who held or used such intangible at any time on or  after July 25, 1991, and on or
+                           before such date of enactment. 
+
+
+For purposes  of this subparagraph, the determination of whether the user of property
+                           changes as part of a transaction shall be determined in accordance with  regulations
+                           prescribed by the Secretary. For purposes of this  subparagraph, deductions allowable
+                           under section 1253(d) shall be treated  as deductions allowable for amortization.
+
+
+
+I.R.C. § 197(f)(9)(B) Exception Where Gain Recognized — 
+                     
+                     
+If— 
+
+I.R.C. § 197(f)(9)(B)(i)  — 
+                        
+                        
+subparagraph  (A) would not apply to an intangible acquired by the taxpayer but for the  last sentence
+                           of subparagraph
+                           (C)(i), and 
+
+
+I.R.C. § 197(f)(9)(B)(ii)  — 
+                        
+                        
+the  person from whom the taxpayer acquired the intangible elects,  notwithstanding
+                           any other provision of this title— 
+
+I.R.C. § 197(f)(9)(B)(ii)(I)  — 
+                           
+                           
+to  recognize gain on the disposition of the intangible, and 
+
+
+I.R.C. § 197(f)(9)(B)(ii)(II)  — 
+                           
+                           
+to  pay a tax on such gain which, when added to any other income tax on such  gain
+                              under this title, equals such gain multiplied by the highest rate of  income tax applicable
+                              to such person under this title, 
+
+
+
+then subparagraph  (A) shall apply to the intangible only to the extent that the taxpayer's  adjusted basis
+                           in the intangible exceeds the gain recognized under clause  (ii)(I).
+
+
+
+I.R.C. § 197(f)(9)(C) Related Person Defined — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 197(f)(9)(C)(i) Related Person — 
+                        
+                        
+A  person (hereinafter in this paragraph referred to as the “related person”)  is
+                           related to any person if— 
+
+I.R.C. § 197(f)(9)(C)(i)(I)  — 
+                           
+                           
+the  related person bears a relationship to such person specified in section 267(b) or section 707(b)(1), or 
+
+
+I.R.C. § 197(f)(9)(C)(i)(II)  — 
+                           
+                           
+the  related person and such person are engaged in trades or businesses under  common
+                              control (within the meaning of subparagraphs (A) and (B) of section  41(f)(1)). 
+
+
+For purposes of subclause (I), in applying section 267(b) or  707(b)(1), “20 percent”
+                              shall be substituted for “50 percent”.
+
+
+
+I.R.C. § 197(f)(9)(C)(ii) Time For Making Determination — 
+                        
+                        
+A  person shall be treated as related to another person if such relationship  exists
+                           immediately before or immediately after the acquisition of the  intangible involved. 
+
+
+
+I.R.C. § 197(f)(9)(D) Acquisitions By Reason Of Death — 
+                     
+                     
+Subparagraph  (A) shall not apply to the acquisition of any property by the taxpayer if  the basis
+                        of the property in the hands of the taxpayer is determined under
+                        section 1014(a). 
+
+
+I.R.C. § 197(f)(9)(E) Special Rule For Partnerships — 
+                     
+                     
+With  respect to any increase in the basis of partnership property under section 
+                        732, 734, or 743, determinations under this paragraph shall be made at the  partner level and each
+                        partner shall be treated as having owned and used  such partner's proportionate share
+                        of the partnership assets. 
+
+
+I.R.C. § 197(f)(9)(F) Anti-Abuse Rules — 
+                     
+                     
+The  term “amortizable section 197 intangible”
+                        does not include any section 197  intangible acquired in a transaction, one of the
+                        principal purposes of  which is to avoid the requirement of subsection (c)(1) that
+                        the intangible  be acquired after the date of the enactment of this section or to
+                        avoid  the provisions of subparagraph (A). 
+
+
+
+I.R.C. § 197(f)(10) Tax-Exempt Use Property Subject To Lease — 
+                  
+                  
+In the case of any section 197 intangible which would be tax-exempt  use property
+                     as defined in subsection (h) of section 168 if such  section applied to such intangible, the amortization period under  this
+                     section shall not be less than 125 percent of the lease term  (within the meaning
+                     of section 168(i)(3)).
+I.R.C. § 197(g) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be appropriate to carry  out
+                  the purposes of this section, including such regulations as may be  appropriate to
+                  prevent avoidance of the purposes of this section through  related persons or otherwise.

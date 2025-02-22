@@ -1,0 +1,69 @@
+Sec. 244. Dividends Received On Certain Preferred Stock [Repealed]
+
+I.R.C. § 244(a) General Rule — 
+               
+               
+In  the case of a corporation, there shall be allowed as a deduction an amount  computed
+                  as follows: 
+
+I.R.C. § 244(a)(1)  — 
+                  
+                  
+First  determine the amount received as dividends on the preferred stock of a  public
+                     utility which is subject to taxation under this chapter and with  respect to which
+                     the deduction provided in section 247 for dividends paid  is allowable. 
+
+
+I.R.C. § 244(a)(2)  — 
+                  
+                  
+Then  multiply the amount determined under paragraph (1) by the fraction— 
+
+I.R.C. § 244(a)(2)(A)  — 
+                     
+                     
+the  numerator of which is 14 percent, and 
+
+
+I.R.C. § 244(a)(2)(B)  — 
+                     
+                     
+the  denominator of which is that percentage which equals the highest rate of  tax
+                        specified in section 11(b). 
+
+
+
+I.R.C. § 244(a)(3)  — 
+                  
+                  
+Finally  ascertain the amount which is 70 percent of the excess of— 
+
+I.R.C. § 244(a)(3)(A)  — 
+                     
+                     
+the  amount determined under paragraph
+                        (1), over 
+
+
+I.R.C. § 244(a)(3)(B)  — 
+                     
+                     
+the  amount determined under paragraph
+                        (2).
+I.R.C. § 244(b) Exception — 
+               
+               
+If  the dividends described in subsection (a)(1) are qualifying dividends (as  defined
+                  in section 243(b)(1), but determined without regard to section  243(d)(4))— 
+
+I.R.C. § 244(b)(1)  — 
+                  
+                  
+subsection  (a) shall be applied separately to such qualifying dividends, and 
+
+
+I.R.C. § 244(b)(2)  — 
+                  
+                  
+for  purposes of subsection (a)(3), the percentage applicable to such  qualifying
+                     dividends shall be 100 percent in lieu of 70 percent.

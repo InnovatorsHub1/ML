@@ -1,0 +1,238 @@
+Sec. 860I. Gain Recognition On Contributions To A FASIT And In Other Cases [Repealed]
+
+I.R.C. § 860I(a) Treatment Of Property Acquired By FASIT
+
+
+I.R.C. § 860I(a)(1) Property Acquired From Holder Of Ownership Interest Or Related Person — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+If property is sold or contributed to a FASIT by the  holder of the ownership interest
+                        in such FASIT
+                        (or by a related person)  gain (if any) shall be recognized to such holder (or person)
+                        in an amount  equal to the excess (if any) of such property's value under subsection
+                        (d)  on the date of such sale or contribution over its adjusted basis on such  date.
+
+
+
+I.R.C. § 860I(a)(2) Property Acquired Other Than From Holder Of Ownership Interest Or Related Person — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Property which is acquired by a FASIT other than in a  transaction to which paragraph
+                        (1) applies shall be treated—
+
+
+I.R.C. § 860I(a)(2)(A)  — 
+                     
+                     
+as having been acquired by the holder of the ownership  interest in the FASIT for
+                        an amount equal to the FASIT's cost of acquiring  such property, and 
+
+
+I.R.C. § 860I(a)(2)(B)  — 
+                     
+                     
+as having been sold by such holder to the FASIT at its  value under subsection (d)
+                        on such  date.
+I.R.C. § 860I(b) Gain Recognition On Property Outside FASIT Which Supports Regular Interests — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+If property held by the holder of the ownership interest  in a FASIT (or by any person
+                     related to such holder) supports any regular  interest in such FASIT—
+
+
+I.R.C. § 860I(b)(1)  — 
+                  
+                  
+gain shall be recognized to such holder (or person) in  the same manner as if such
+                     holder (or person)
+                     had sold such property at  its value under subsection (d) on the earliest date such
+                     property supports  such an interest, and 
+
+
+I.R.C. § 860I(b)(2)  — 
+                  
+                  
+such property shall be treated as held by such FASIT  for purposes of this part.
+I.R.C. § 860I(c) Deferral Of Gain Recognition — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The Secretary may prescribe regulations which—
+
+
+I.R.C. § 860I(c)(1)  — 
+                  
+                  
+provide that gain otherwise recognized under subsection  (a) or (b) shall not be recognized
+                     before the earliest date on which such  property supports any regular interest in
+                     such FASIT or any indebtedness  of the holder of the ownership interest
+                     (or of any person related to such  holder), and 
+
+
+I.R.C. § 860I(c)(2)  — 
+                  
+                  
+provide such adjustments to the other provisions of  this part to the extent appropriate
+                     in the context of the treatment  provided under paragraph (1).
+I.R.C. § 860I(d) Valuation — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 860I(d)(1) In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The value of any property under this subsection shall  be—
+
+
+I.R.C. § 860I(d)(1)(A)  — 
+                     
+                     
+in the case of a debt instrument which is not traded on  an established securities
+                        market, the sum of the present values of the  reasonably expected payments under such
+                        instrument determined (in the  manner provided by regulations prescribed by the Secretary)-- 
+
+I.R.C. § 860I(d)(1)(A)(i)  — 
+                        
+                        
+as of the date of the event resulting in the gain  recognition under this section,
+                           and 
+
+
+I.R.C. § 860I(d)(1)(A)(ii)  — 
+                        
+                        
+by using a discount rate equal to 120 percent of the  applicable Federal rate (as
+                           defined in section 1274(d)), or such other  discount rate specified in such regulations, compounded semiannually,
+                           and 
+
+
+
+I.R.C. § 860I(d)(1)(B)  — 
+                     
+                     
+in the case of any other property, its fair market  value. 
+
+
+
+I.R.C. § 860I(d)(2) Special Rule For Revolving Loan Accounts — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of paragraph (1)—
+
+
+I.R.C. § 860I(d)(2)(A)  — 
+                     
+                     
+each extension of credit (other than the accrual of  interest) on a revolving loan
+                        account shall be treated as a separate debt  instrument, and 
+
+
+I.R.C. § 860I(d)(2)(B)  — 
+                     
+                     
+payments on such extensions of credit having  substantially the same terms shall be
+                        applied to such extensions beginning  with the earliest such extension.
+I.R.C. § 860I(e) Special Rules
+
+
+I.R.C. § 860I(e)(1) Nonrecognition Rules Not To Apply — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Gain required to be recognized under this section shall  be recognized notwithstanding
+                        any other provision of this  subtitle.
+
+
+
+I.R.C. § 860I(e)(2) Basis Adjustments — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860I, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The basis of any property on which gain is recognized  under this section shall be
+                        increased by the amount of gain so recognized.

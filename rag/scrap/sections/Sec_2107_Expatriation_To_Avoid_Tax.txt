@@ -1,0 +1,147 @@
+Sec. 2107. Expatriation To Avoid Tax
+
+I.R.C. § 2107(a) Treatment Of Expatriates — 
+               
+               
+A tax computed in accordance with the table contained in section 2001 
+                  is hereby imposed on the transfer of the taxable estate, determined as  provided in
+                  section 2106, of every decedent nonresident    not a citizen  of the United States if the date
+                  of death occurs during a taxable year  with respect to which the decedent is subject
+                  to tax under section  877(b).
+I.R.C. § 2107(b) Gross Estate — 
+               
+               
+For  purposes of the tax imposed by subsection (a), the value of the gross
+                  estate of every decedent to whom subsection (a) applies shall be  determined as provided in section 2103, except that— 
+
+I.R.C. § 2107(b)(1)  — 
+                  
+                  
+if such decedent owned (within the meaning of section  958(a))
+                     at the time of his death 10 percent or more of the total combined
+                     voting power of all classes of stock entitled to vote of a foreign
+                     corporation, and 
+
+
+I.R.C. § 2107(b)(2)  — 
+                  
+                  
+if such decedent owned (within the meaning of section  958(a)), or is considered to have owned (by applying the ownership rules  of section 958(b)), at the time of his death, more than 50 percent of— 
+
+I.R.C. § 2107(b)(2)(A)  — 
+                     
+                     
+the total combined voting power of all classes of stock  entitled to vote of such
+                        corporation, or 
+
+
+I.R.C. § 2107(b)(2)(B)  — 
+                     
+                     
+the total value of the stock of such corporation, 
+
+
+then that proportion of the fair
+                        market value of the stock of such foreign corporation owned (within the  meaning of
+                        section 958(a))
+                        by such decedent at the time of his death,  which the fair market value of any assets
+                        owned by such foreign  corporation and situated in the United States, at the time
+                        of his death,  bears to the total fair market value of all assets owned by such foreign
+                        corporation at the time of his death, shall be included in the gross  estate of such
+                        decedent. For purposes of the preceding sentence, a  decedent shall be treated as
+                        owning stock of a foreign corporation at the 
+                        time of his death if, at the time of a transfer, by trust or otherwise,
+                        within the meaning of sections 2035 to 2038, inclusive, he owned such
+                        stock.
+I.R.C. § 2107(c) Credits
+
+
+I.R.C. § 2107(c)(1) Unified Credit
+
+
+I.R.C. § 2107(c)(1)(A) In General — 
+                     
+                     
+A  credit of $13,000 shall be allowed against the tax imposed by subsection  (a). 
+
+
+I.R.C. § 2107(c)(1)(B) Limitation Based On Amount Of Tax — 
+                     
+                     
+The  credit allowed under this paragraph shall not exceed the amount of the tax  imposed
+                        by subsection (a). 
+
+
+
+I.R.C. § 2107(c)(2) Credit For Foreign Death Taxes
+
+
+I.R.C. § 2107(c)(2)(A) In General — 
+                     
+                     
+The  tax imposed by subsection (a) shall be credited with the amount of any  estate, inheritance, legacy, or succession
+                        taxes actually paid to any  foreign country in respect of any property which is included
+                        in the gross  estate solely by reason of subsection (b). 
+
+
+I.R.C. § 2107(c)(2)(B) Limitation On Credit — 
+                     
+                     
+The  credit allowed by subparagraph (A) for such taxes paid to a foreign  country shall not exceed the lesser of— 
+
+I.R.C. § 2107(c)(2)(B)(i)  — 
+                        
+                        
+the amount which bears the same ratio to the amount of  such taxes actually paid to
+                           such foreign country as the value of the  property subjected to such taxes by such
+                           foreign country and included in  the gross estate solely by reason of subsection (b) bears to the value of 
+                           all property subjected to such taxes by such foreign country,  or 
+
+
+I.R.C. § 2107(c)(2)(B)(ii)  — 
+                        
+                        
+such property's proportionate share of the excess of— 
+
+I.R.C. § 2107(c)(2)(B)(ii)(I)  — 
+                           
+                           
+the tax imposed by subsection (a), over 
+
+
+I.R.C. § 2107(c)(2)(B)(ii)(II)  — 
+                           
+                           
+the tax which would be imposed by section 2101 but for  this section. 
+
+
+
+
+I.R.C. § 2107(c)(2)(C)  Proportionate Share — 
+                     
+                     
+In  the case of property which is included in the gross estate solely by  reason of
+                        subsection (b), such property's proportionate share is the  percentage which the value of such property
+                        bears to the total value of  all property included in the gross estate solely by reason
+                        of subsection  (b). 
+
+
+
+I.R.C. § 2107(c)(3) Other Credits — 
+                  
+                  
+The  tax imposed by subsection (a) shall be credited with the amounts  determined in accordance with subsections (a) and (b) of section 2102. For  purposes of subsection (a) of section 2102, sections 2012 and 2013 shall  be applied as if the credit allowed under paragraph (1) were allowed under  section 2010.
+I.R.C. § 2107(d) Burden Of Proof — 
+               
+               
+If  the Secretary establishes that it is reasonable to believe that an  individual's
+                  loss of United States citizenship would, but for this  section, result in a substantial
+                  reduction in the estate, inheritance,  legacy, and succession taxes in respect of
+                  the transfer of his estate, the  burden of proving that such loss of citizenship did
+                  not have for one of  its principal purposes the avoidance of taxes under this subtitle
+                  or  subtitle A shall be on the executor of such individual's  estate.
+I.R.C. § 2107(e) Cross Reference — 
+               
+               
+For  comparable treatment of long-term lawful permanent residents who ceased to  be
+                  taxed as residents, see section 877(e).

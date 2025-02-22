@@ -1,0 +1,601 @@
+Sec. 1022. Treatment Of Property Acquired From A Decedent Dying After December 31, 2009
+
+I.R.C. § 1022(a) In General — 
+               
+               
+Except  as otherwise provided in this section— 
+
+I.R.C. § 1022(a)(1)  — 
+                  
+                  
+property acquired from a decedent dying after December  31, 2009, shall be treated
+                     for purposes of this subtitle as transferred by  gift, and 
+
+
+I.R.C. § 1022(a)(2)  — 
+                  
+                  
+the basis of the person acquiring property from such a  decedent shall be the lesser
+                     of— 
+
+I.R.C. § 1022(a)(2)(A)  — 
+                     
+                     
+the adjusted basis of the decedent, or 
+
+
+I.R.C. § 1022(a)(2)(B)  — 
+                     
+                     
+the fair market value of the property at the date of  the decedent's death.
+I.R.C. § 1022(b) Basis Increase For Certain Property
+
+
+I.R.C. § 1022(b)(1) In General — 
+                  
+                  
+In  the case of property to which this subsection applies, the basis of such  property
+                     under subsection (a) shall be increased by its basis increase  under this subsection. 
+
+
+I.R.C. § 1022(b)(2) Basis Increase — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1022(b)(2)(A) In General — 
+                     
+                     
+The  basis increase under this subsection for any property is the portion of  the
+                        aggregate basis increase which is allocated to the property pursuant  to this section. 
+
+
+I.R.C. § 1022(b)(2)(B) Aggregate Basis Increase — 
+                     
+                     
+In  the case of any estate, the aggregate basis increase under this subsection  is
+                        $1,300,000. 
+
+
+I.R.C. § 1022(b)(2)(C) Limit Increased By Unused Built-In Losses And Loss Carryovers — 
+                     
+                     
+The  limitation under subparagraph (B) shall be increased by— 
+
+I.R.C. § 1022(b)(2)(C)(i)  — 
+                        
+                        
+the sum of the amount of any capital loss carryover  under section 1212(b), and the amount of any net operating loss carryover  under section 172, which would (but for the decedent's death) be carried  from the decedent's last
+                           taxable year to a later taxable year of the  decedent, plus 
+
+
+I.R.C. § 1022(b)(2)(C)(ii)  — 
+                        
+                        
+the sum of the amount of any losses that would have  been allowable under section
+                           165 if the property acquired from the  decedent had been sold at fair market value immediately
+                           before the  decedent's death. 
+
+
+
+
+I.R.C. § 1022(b)(3) Decedent Nonresidents Who Are Not Citizens Of The United  States — 
+                  
+                  
+In  the case of a decedent nonresident not a citizen of the United States— 
+
+I.R.C. § 1022(b)(3)(A)  — 
+                     
+                     
+paragraph (2)(B) shall be applied by substituting  “$60,000” for “$1,300,000”, and 
+
+
+I.R.C. § 1022(b)(3)(B)  — 
+                     
+                     
+paragraph (2)(C) shall not  apply.
+I.R.C. § 1022(c) Additional Basis Increase For Property Acquired By Surviving Spouse
+
+
+I.R.C. § 1022(c)(1) In General — 
+                  
+                  
+In  the case of property to which this subsection applies and which is  qualified
+                     spousal property, the basis of such property under subsection  (a) (as increased under
+                     subsection (b)) shall be increased by its spousal  property basis increase. 
+
+
+I.R.C. § 1022(c)(2) Spousal Property Basis Increase — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1022(c)(2)(A) In General — 
+                     
+                     
+The  spousal property basis increase for property referred to in paragraph (1)  is
+                        the portion of the aggregate spousal property basis increase which is  allocated to
+                        the property pursuant to this section. 
+
+
+I.R.C. § 1022(c)(2)(B) Aggregate Spousal Property Basis Increase — 
+                     
+                     
+In  the case of any estate, the aggregate spousal property basis increase is  $3,000,000. 
+
+
+
+I.R.C. § 1022(c)(3) Qualified Spousal Property — 
+                  
+                  
+For  purposes of this subsection, the term “spousal property” means— 
+
+I.R.C. § 1022(c)(3)(A)  — 
+                     
+                     
+outright transfer property, and 
+
+
+I.R.C. § 1022(c)(3)(B)  — 
+                     
+                     
+qualified terminable interest 
+                        property. 
+
+
+
+I.R.C. § 1022(c)(4) Outright Transfer Property — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1022(c)(4)(A) In General — 
+                     
+                     
+The  term “outright transfer property” means any interest in property acquired  from
+                        the decedent by the decedent's surviving spouse. 
+
+
+I.R.C. § 1022(c)(4)(B) Exception — 
+                     
+                     
+Subparagraph  (A) shall not apply where, on the lapse of time, on the occurrence of
+                        an  event or contingency, or on the failure of an event or contingency to  occur,
+                        an interest passing to the surviving spouse will terminate or fail— 
+
+I.R.C. § 1022(c)(4)(B)(i) 
+
+
+I.R.C. § 1022(c)(4)(B)(i)(I)  — 
+                           
+                           
+if an interest in such property passes or has passed  (for less than an adequate and
+                              full consideration in money or money's  worth) from the decedent to any person other
+                              than such surviving spouse  (or the estate of such spouse), and 
+
+
+I.R.C. § 1022(c)(4)(B)(i)(II)  — 
+                           
+                           
+if by reason of such passing such person (or his heirs  or assigns) may possess or
+                              enjoy any part of such property after such  termination or failure of the interest
+                              so passing to the surviving spouse,  or 
+
+
+
+I.R.C. § 1022(c)(4)(B)(ii)  — 
+                        
+                        
+if such interest is to be acquired for the surviving  spouse, pursuant to directions
+                           of the decedent, by his executor or by the  trustee of a trust. 
+
+
+For purposes of this subparagraph, an  interest shall not be considered as an interest
+                           which will terminate or  fail merely because it is the ownership of a bond, note,
+                           or similar
+                           contractual obligation, the discharge of which would not have the effect  of an annuity
+                           for life or for a term.
+
+
+
+I.R.C. § 1022(c)(4)(C) Interest Of Spouse Conditional On Survival For  Limited Period — 
+                     
+                     
+For  purposes of this paragraph, an interest passing to the surviving spouse  shall
+                        not be considered as an interest which will terminate or fail on the  death of such
+                        spouse if— 
+
+I.R.C. § 1022(c)(4)(C)(i)  — 
+                        
+                        
+such death will cause a termination or failure of such  interest only if it occurs
+                           within a period not exceeding 6 months after  the decedent's death, or only if it
+                           occurs as a result of a common  disaster resulting in the death of the decedent and
+                           the surviving spouse,  or only if it occurs in the case of either such event, and 
+
+
+I.R.C. § 1022(c)(4)(C)(ii)  — 
+                        
+                        
+such termination or failure does not in fact  occur. 
+
+
+
+
+I.R.C. § 1022(c)(5) Qualified Terminable Interest Property — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1022(c)(5)(A) In General — 
+                     
+                     
+The  term “qualified terminable interest property”
+                        means property— 
+
+I.R.C. § 1022(c)(5)(A)(i)  — 
+                        
+                        
+which passes from the decedent, and 
+
+
+I.R.C. § 1022(c)(5)(A)(ii)  — 
+                        
+                        
+in which the surviving spouse has a qualifying income  interest for life. 
+
+
+
+I.R.C. § 1022(c)(5)(B) Qualifying Income Interest For Life — 
+                     
+                     
+The  surviving spouse has a qualifying income interest for life if— 
+
+I.R.C. § 1022(c)(5)(B)(i)  — 
+                        
+                        
+the surviving spouse is entitled to all the income from  the property, payable annually
+                           or at more frequent intervals, or has a  usufruct interest for life in the property,
+                           and 
+
+
+I.R.C. § 1022(c)(5)(B)(ii)  — 
+                        
+                        
+no person has a power to appoint any part of the  property to any person other than
+                           the surviving spouse. 
+
+
+Clause (ii) shall not apply to a
+                           power exercisable only at or after the death of the surviving spouse. To  the extent
+                           provided in regulations, an annuity shall be treated in a  manner similar to an income
+                           interest in property (regardless of whether  the property from which the annuity is
+                           payable can be separately  identified).
+
+
+
+I.R.C. § 1022(c)(5)(C) Property Includes Interest Therein — 
+                     
+                     
+The  term “property” includes an interest in property. 
+
+
+I.R.C. § 1022(c)(5)(D) Specific Portion Treated As Separate Property — 
+                     
+                     
+A  specific portion of property shall be treated as separate property. For  purposes
+                        of the preceding sentence, the term “specific portion” only  includes a portion determined
+                        on a fractional or percentage basis.
+I.R.C. § 1022(d) Definitions And Special Rules For Application Of Subsections
+                  (b) And (c)
+
+
+I.R.C. § 1022(d)(1) Property To Which Subsections (b) And (c) Apply
+
+
+I.R.C. § 1022(d)(1)(A) In General — 
+                     
+                     
+The  basis of property acquired from a decedent may be increased under  subsection
+                        (b) or (c) only if the property was owned by the decedent at  the time of death. 
+
+
+I.R.C. § 1022(d)(1)(B) Rules Relating To Ownership
+
+
+I.R.C. § 1022(d)(1)(B)(i) Jointly Held Property — 
+                        
+                        
+In  the case of property which was owned by the decedent and another person as  joint
+                           tenants with right of survivorship or tenants by the entirety— 
+
+I.R.C. § 1022(d)(1)(B)(i)(I)  — 
+                           
+                           
+if the only such other person is the surviving spouse,  the decedent shall be treated
+                              as the owner of only 50 percent of the  property, 
+
+
+I.R.C. § 1022(d)(1)(B)(i)(II)  — 
+                           
+                           
+in any case (to which subclause
+                              (I) does not apply) in  which the decedent furnished consideration for the acquisition
+                              of the  property, the decedent shall be treated as the owner to the extent of the
+                              portion of the property which is proportionate to such consideration,  and 
+
+
+I.R.C. § 1022(d)(1)(B)(i)(III)  — 
+                           
+                           
+in any case (to which subclause
+                              (I) does not apply) in  which the property has been acquired by gift, bequest, devise,
+                              or  inheritance by the decedent and any other person as joint tenants with  right
+                              of survivorship and their interests are not otherwise specified or  fixed by law,
+                              the decedent shall be treated as the owner to the extent of  the value of a fractional
+                              part to be determined by dividing the value of  the property by the number of joint
+                              tenants with right of  survivorship. 
+
+
+
+I.R.C. § 1022(d)(1)(B)(ii) Revocable Trusts — 
+                        
+                        
+The  decedent shall be treated as owning property transferred by the decedent  during
+                           life to a qualified revocable trust (as defined in section  645(b)(1)). 
+
+
+I.R.C. § 1022(d)(1)(B)(iii) Powers Of Appointment — 
+                        
+                        
+The  decedent shall not be treated as owning any property by reason of holding  a
+                           power of appointment with respect to such property. 
+
+
+I.R.C. § 1022(d)(1)(B)(iv) Community Property — 
+                        
+                        
+Property  which represents the surviving spouse's one-half share of community  property
+                           held by the decedent and the surviving spouse under the community  property laws of
+                           any State or possession of the United States or any  foreign country shall be treated
+                           for purposes of this section as owned by,  and acquired from, the decedent if at least
+                           one-half of the whole of the  community interest in such property is treated as owned
+                           by, and acquired  from, the decedent without regard to this clause. 
+
+
+
+I.R.C. § 1022(d)(1)(C) Property Acquired By Decedent By Gift Within 3  Years Of Death
+
+
+I.R.C. § 1022(d)(1)(C)(i) In General — 
+                        
+                        
+Subsections  (b) and (c) shall not apply to property acquired by the decedent by gift
+                           or by inter vivos transfer for less than adequate and full consideration  in money
+                           or money's worth during the 3-year period ending on the date of  the decedent's death. 
+
+
+I.R.C. § 1022(d)(1)(C)(ii) Exception For Certain Gifts From Spouse — 
+                        
+                        
+Clause  (i) shall not apply to property acquired by the decedent from the  decedent's
+                           spouse unless, during such 3-year period, such spouse acquired  the property in whole
+                           or in part by gift or by inter vivos transfer for  less than adequate and full consideration
+                           in money or money's  worth. 
+
+
+
+I.R.C. § 1022(d)(1)(D) Stock Of Certain Entities — 
+                     
+                     
+Subsections  (b) and (c) shall not apply to— 
+
+I.R.C. § 1022(d)(1)(D)(i)  — 
+                        
+                        
+stock or securities of a foreign personal holding  company, 
+
+
+I.R.C. § 1022(d)(1)(D)(ii)  — 
+                        
+                        
+stock of a DISC or former DISC, 
+
+
+I.R.C. § 1022(d)(1)(D)(iii)  — 
+                        
+                        
+stock of a foreign investment company, or 
+
+
+I.R.C. § 1022(d)(1)(D)(iv)  — 
+                        
+                        
+stock of a passive foreign investment company unless  such company is a qualified
+                           electing fund (as defined in section 1295)
+                           with respect to the decedent. 
+
+
+
+
+I.R.C. § 1022(d)(2) Fair Market Value Limitation — 
+                  
+                  
+The  adjustments under subsections (b) and (c) shall not increase the basis of  any
+                     interest in property acquired from the decedent above its fair market  value in the
+                     hands of the decedent as of the date of the decedent's  death. 
+
+
+I.R.C. § 1022(d)(3) Allocation Rules
+
+
+I.R.C. § 1022(d)(3)(A) In General — 
+                     
+                     
+The  executor shall allocate the adjustments under subsections
+                        (b) and (c) on  the return required by section 6018. 
+
+
+I.R.C. § 1022(d)(3)(B) Changes In Allocation — 
+                     
+                     
+Any  allocation made pursuant to subparagraph (A) may be changed only as  provided
+                        by the Secretary. 
+
+
+
+I.R.C. § 1022(d)(4) Inflation Adjustment Of Basis Adjustment Amounts
+
+
+I.R.C. § 1022(d)(4)(A) In General — 
+                     
+                     
+In  the case of decedents dying in a calendar year after 2010, the $1,300,000,  $60,000,
+                        and $3,000,000 dollar amounts in subsections
+                        (b) and (c)(2)(B)  shall each be increased by an amount equal to the product of— 
+
+I.R.C. § 1022(d)(4)(A)(i)  — 
+                        
+                        
+such dollar amount, and 
+
+
+I.R.C. § 1022(d)(4)(A)(ii)  — 
+                        
+                        
+the cost-of-living adjustment determined under section  1(f)(3) for such calendar year, determined by substituting “2009”
+                           for  “1992” in subparagraph (B) thereof. 
+
+
+
+I.R.C. § 1022(d)(4)(B) Rounding — 
+                     
+                     
+If  any increase determined under subparagraph (A) is not a multiple of— 
+
+I.R.C. § 1022(d)(4)(B)(i)  — 
+                        
+                        
+$100,000 in the case of the $1,300,000
+                           amount, 
+
+
+I.R.C. § 1022(d)(4)(B)(ii)  — 
+                        
+                        
+$5,000 in the case of the $60,000 amount,  and 
+
+
+I.R.C. § 1022(d)(4)(B)(iii)  — 
+                        
+                        
+$250,000 in the case of the $3,000,000 amount, 
+
+
+such increase shall be rounded to the  next lowest multiple  thereof.
+I.R.C. § 1022(e) Property Acquired From The Decedent — 
+               
+               
+For  purposes of this section, the following property shall be considered to  have
+                  been acquired from the decedent: 
+
+I.R.C. § 1022(e)(1)  — 
+                  
+                  
+Property acquired by bequest, devise, or inheritance,  or by the decedent's estate
+                     from the decedent. 
+
+
+I.R.C. § 1022(e)(2)  — 
+                  
+                  
+Property transferred by the decedent during his  lifetime— 
+
+I.R.C. § 1022(e)(2)(A)  — 
+                     
+                     
+to a qualified revocable trust
+                        (as defined in section  645(b)(1)), or 
+
+
+I.R.C. § 1022(e)(2)(B)  — 
+                     
+                     
+to any other trust with respect to which the decedent  reserved the right to make
+                        any change in the enjoyment thereof through the  exercise of a power to alter, amend,
+                        or terminate the  trust. 
+
+
+
+I.R.C. § 1022(e)(3)  — 
+                  
+                  
+Any other property passing from the decedent by reason  of death to the extent that
+                     such property passed without  consideration.
+I.R.C. § 1022(f) Coordination With Section 691 — 
+               
+               
+This  section shall not apply to property which constitutes a right to receive  an
+                  item of income in respect of a decedent under section 691.
+I.R.C. § 1022(g) Certain Liabilities Disregarded
+
+
+I.R.C. § 1022(g)(1) In General — 
+                  
+                  
+In  determining whether gain is recognized on the acquisition of property— 
+
+I.R.C. § 1022(g)(1)(A)  — 
+                     
+                     
+from a decedent by a decedent's estate or any  beneficiary other than a tax-exempt
+                        beneficiary, and 
+
+
+I.R.C. § 1022(g)(1)(B)  — 
+                     
+                     
+from the decedent's estate by any beneficiary other  than a tax-exempt beneficiary, 
+
+
+and in determining the adjusted
+                        basis of such property, liabilities in excess of basis shall be 
+                        disregarded.
+
+
+
+I.R.C. § 1022(g)(2) Tax-Exempt Beneficiary — 
+                  
+                  
+For  purposes of paragraph (1), the term “tax-exempt beneficiary” means— 
+
+I.R.C. § 1022(g)(2)(A)  — 
+                     
+                     
+the United States, any State or political subdivision  thereof, any possession of
+                        the United States, any Indian tribal government  (within the meaning of section 7871), or any agency or instrumentality of  any of the foregoing, 
+
+
+I.R.C. § 1022(g)(2)(B)  — 
+                     
+                     
+an organization (other than a cooperative described in  section 521)
+                        which is exempt from tax imposed by chapter 1, 
+
+
+I.R.C. § 1022(g)(2)(C)  — 
+                     
+                     
+any foreign person or entity (within the meaning of  section 168(h)(2)), and 
+
+
+I.R.C. § 1022(g)(2)(D)  — 
+                     
+                     
+to the extent provided in regulations, any person to  whom property is transferred
+                        for the principal purpose of tax  avoidance.
+I.R.C. § 1022(h) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary to carry  out
+                  the purposes of this section.

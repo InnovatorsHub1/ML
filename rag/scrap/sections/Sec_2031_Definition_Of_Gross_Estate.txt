@@ -1,0 +1,291 @@
+Sec. 2031. Definition Of Gross Estate
+
+I.R.C. § 2031(a) General — 
+               
+               
+The  value of the gross estate of the decedent shall be determined by including  to
+                  the extent provided for in this part, the value at the time of his  death of all property,
+                  real or personal, tangible or intangible, wherever  situated.
+I.R.C. § 2031(b) Valuation Of Unlisted Stock And Securities — 
+               
+               
+In  the case of stock and securities of a corporation the value of which, by  reason
+                  of their not being listed on an exchange and by reason of the  absence of sales thereof,
+                  cannot be determined with reference to bid and  asked prices or with reference to
+                  sales prices, the value thereof shall be  determined by taking into consideration,
+                  in addition to all other factors,  the value of stock or securities of corporations
+                  engaged in the same or a  similar line of business which are listed on an exchange.
+I.R.C. § 2031(c)  Estate Tax With Respect To Land Subject To A Qualified Conservation Easement
+
+
+I.R.C. § 2031(c)(1)  In General — 
+                  
+                  
+If  the executor makes the election described in paragraph (6), then, except  as otherwise provided in this subsection, there shall be excluded
+                     from the  gross estate the lesser of— 
+
+I.R.C. § 2031(c)(1)(A)  — 
+                     
+                     
+the applicable percentage of the value of land subject  to a qualified conservation
+                        easement, reduced by the amount of any  deduction under section 2055(f) with respect to such land, or 
+
+
+I.R.C. § 2031(c)(1)(B)  — 
+                     
+                     
+$500,000. 
+
+
+
+I.R.C. § 2031(c)(2)  Applicable Percentage — 
+                  
+                  
+For  purposes of paragraph (1), the term “applicable percentage” means 40  percent reduced (but not below zero)
+                     by 2 percentage points for each  percentage point (or fraction thereof)
+                     by which the value of the qualified  conservation easement is less than 30 percent
+                     of the value of the land  (determined without regard to the value of such easement
+                     and reduced by  the value of any retained development right (as defined in paragraph
+                     (5))).  The values taken into account under the preceding sentence shall be such  values
+                     as of the date of the contribution referred to in paragraph  (8)(B). 
+
+
+I.R.C. § 2031(c)(3)  Exclusion Limitation — 
+                  
+                  
+[Repealed. Pub. L. 113-295, Div. A, title II, Sec. 221(a)(96).] 
+
+
+I.R.C. § 2031(c)(4)  Treatment Of Certain Indebtedness
+
+
+I.R.C. § 2031(c)(4)(A) In General — 
+                     
+                     
+The  exclusion provided in paragraph (1) shall not apply to the extent that the  land is debt-financed property. 
+
+
+I.R.C. § 2031(c)(4)(B)  Definitions — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 2031(c)(4)(B)(i)  Debt-Financed Property — 
+                        
+                        
+The  term “debt-financed property” means any property with respect to which  there
+                           is an acquisition indebtedness
+                           (as defined in clause (ii))
+                           on the  date of the decedent's death. 
+
+
+I.R.C. § 2031(c)(4)(B)(ii)  Acquisition Indebtedness — 
+                        
+                        
+The  term “acquisition indebtedness” means, with respect to debt-financed  property,
+                           the unpaid amount of— 
+
+I.R.C. § 2031(c)(4)(B)(ii)(I)  — 
+                           
+                           
+the indebtedness incurred by the donor in acquiring  such property, 
+
+
+I.R.C. § 2031(c)(4)(B)(ii)(II)  — 
+                           
+                           
+the indebtedness incurred before the acquisition of  such property if such indebtedness
+                              would not have been incurred but for  such acquisition, 
+
+
+I.R.C. § 2031(c)(4)(B)(ii)(III)  — 
+                           
+                           
+the indebtedness incurred after the acquisition of such  property if such indebtedness
+                              would not have been incurred but for such  acquisition and the incurrence of such
+                              indebtedness was reasonably  foreseeable at the time of such acquisition, and 
+
+
+I.R.C. § 2031(c)(4)(B)(ii)(IV)  — 
+                           
+                           
+the extension, renewal, or refinancing of an  acquisition  indebtedness. 
+
+
+
+
+
+I.R.C. § 2031(c)(5)  Treatment Of Retained Development Right
+
+
+I.R.C. § 2031(c)(5)(A)  In General — 
+                     
+                     
+Paragraph  (1) shall not apply to the value of any development right retained by the  donor in the
+                        conveyance of a qualified conservation easement. 
+
+
+I.R.C. § 2031(c)(5)(B)  Termination Of Retained Development Right — 
+                     
+                     
+If  every person in being who has an interest (whether or not in possession)  in the
+                        land executes an agreement to extinguish permanently some or all of  any development
+                        rights (as defined in subparagraph (D))
+                        retained by the  donor on or before the date for filing the return of the tax imposed
+                        by  section 2001, then any tax imposed by section 2001 shall be reduced  accordingly. Such agreement shall be filed with the return of the
+                        tax  imposed by section 2001. The agreement shall be in such form as the  Secretary shall prescribe. 
+
+
+I.R.C. § 2031(c)(5)(C)  Additional Tax — 
+                     
+                     
+Any  failure to implement the agreement described in subparagraph (B) not later  than the earlier of— 
+
+I.R.C. § 2031(c)(5)(C)(i)  — 
+                        
+                        
+the date which is 2 years after the date of the  decedent's death, or 
+
+
+I.R.C. § 2031(c)(5)(C)(ii)  — 
+                        
+                        
+the date of the sale of such land subject to the  qualified conservation easement, 
+
+
+shall result in the imposition of an additional tax in  the amount of the tax which
+                           would have been due on the retained
+                           development rights subject to such agreement. Such additional tax shall be  due and
+                           payable on the last day of the 6th month following such  date.
+
+
+
+I.R.C. § 2031(c)(5)(D)  Development Right Defined — 
+                     
+                     
+For  purposes of this paragraph, the term “development right” means any right  to
+                        use the land subject to the qualified conservation easement in which  such right is
+                        retained for any commercial purpose which is not subordinate  to and directly supportive
+                        of the use of such land as a farm for farming  purposes (within the meaning of section
+                        2032A(e)(5)). 
+
+
+
+I.R.C. § 2031(c)(6)  Election — 
+                  
+                  
+The  election under this subsection shall be made on or before the due date  (including
+                     extensions) for filing the return of tax imposed by section  2001 and shall be made on such return. 
+
+
+I.R.C. § 2031(c)(7)  Calculation Of Estate Tax Due — 
+                  
+                  
+An  executor making the election described in paragraph (6) shall, for  purposes of calculating the amount of tax imposed by section 2001, include  the value of any development right (as defined in paragraph (5)) retained  by the donor in the conveyance of such qualified conservation easement.
+                     The computation of tax on any retained development right prescribed in  this paragraph
+                     shall be done in such manner and on such forms as the  Secretary shall prescribe. 
+
+
+I.R.C. § 2031(c)(8) Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 2031(c)(8)(A)  Land Subject To A Qualified Conservation Easement — 
+                     
+                     
+The  term “land subject to a qualified conservation easement” means land— 
+
+I.R.C. § 2031(c)(8)(A)(i)  — 
+                        
+                        
+which is located in the United States or any possession  of the United States, 
+
+
+I.R.C. § 2031(c)(8)(A)(ii)  — 
+                        
+                        
+which was owned by the decedent or a member of the  decedent's family at all times
+                           during the 3-year period ending on the date  of the decedent's death, and 
+
+
+I.R.C. § 2031(c)(8)(A)(iii)  — 
+                        
+                        
+with respect to which a qualified conservation easement  has been made by an individual
+                           described in subparagraph (C), as of the  date of the election described in paragraph
+                           (6). 
+
+
+
+I.R.C. § 2031(c)(8)(B)  Qualified Conservation Easement — 
+                     
+                     
+The  term “qualified conservation easement”
+                        means a qualified conservation  contribution (as defined in section 170(h)(1)) of a qualified real  property interest (as defined in section 170(h)(2)(C)), except that clause  (iv) of section 170(h)(4)(A) shall not apply, and the restriction on the  use of such interest described in section
+                        170(h)(2)(C) shall include a  prohibition on more than a de minimis use for a commercial recreational
+                        activity. 
+
+
+I.R.C. § 2031(c)(8)(C)  Individual Described — 
+                     
+                     
+An  individual is described in this subparagraph if such individual is— 
+
+I.R.C. § 2031(c)(8)(C)(i)  — 
+                        
+                        
+the decedent, 
+
+
+I.R.C. § 2031(c)(8)(C)(ii)  — 
+                        
+                        
+a member of the decedent's family, 
+
+
+I.R.C. § 2031(c)(8)(C)(iii)  — 
+                        
+                        
+the executor of the decedent's estate, or 
+
+
+I.R.C. § 2031(c)(8)(C)(iv)  — 
+                        
+                        
+the trustee of a trust the corpus of which includes the  land to be subject to the
+                           qualified conservation
+                           easement. 
+
+
+
+I.R.C. § 2031(c)(8)(D)  Member Of Family — 
+                     
+                     
+The  term “member of the decedent's family”
+                        means any member of the family (as  defined in section 2032A(e)(2)) of the decedent. 
+
+
+
+I.R.C. § 2031(c)(9) Treatment Of Easements Granted After Death — 
+                  
+                  
+In  any case in which the qualified conservation easement is granted after the  date
+                     of the decedent's death and on or before the due date (including  extensions) for
+                     filing the return of tax imposed by section 2001, the  deduction under section 2055(f) with respect to such easement shall be  allowed to the estate but only if no charitable
+                     deduction is allowed under  chapter 1 to any person with respect to the grant of such
+                     easement. 
+
+
+I.R.C. § 2031(c)(10)  Application Of This Section To Interests In Partnerships, Corporations, And Trusts — 
+                  
+                  
+This  section shall apply to an interest in a partnership, corporation, or trust 
+                     if at least 30 percent of the entity is owned
+                     (directly or indirectly) by  the decedent, as determined under the rules described
+                     in section  2057(e)(3) (as in effect before its repeal).
+I.R.C. § 2031(d) Cross Reference — 
+               
+               
+For  executor's right to be furnished on request a statement regarding any  valuation
+                  made by the Secretary within the gross estate, see section 7517.

@@ -1,0 +1,190 @@
+Sec. 1400C. First-Time Homebuyer Credit For District Of Columbia [Repealed]
+
+I.R.C. § 1400C(a) Allowance Of Credit — 
+               
+               
+In  the case of an individual who is a first-time homebuyer of a principal  residence
+                  in the District of Columbia during any taxable year, there shall  be allowed as a
+                  credit against the tax imposed by this chapter for the  taxable year an amount equal
+                  to so much of the purchase price of the  residence as does not exceed $5,000.
+I.R.C. § 1400C(b) Limitation Based On Modified Adjusted Gross Income
+
+
+I.R.C. § 1400C(b)(1) In General — 
+                  
+                  
+The  amount allowable as a credit under subsection (a)
+                     (determined without  regard to this subsection and subsection (d))
+                     for the taxable year shall  be reduced (but not below zero) by the amount which bears
+                     the same ratio  to the credit so allowable as— 
+
+I.R.C. § 1400C(b)(1)(A)  — 
+                     
+                     
+the  excess (if any) of— 
+
+I.R.C. § 1400C(b)(1)(A)(i)  — 
+                        
+                        
+the  taxpayer's modified adjusted gross income for such taxable year,  over 
+
+
+I.R.C. § 1400C(b)(1)(A)(ii)  — 
+                        
+                        
+$70,000 ($110,000 in the case of a joint return), bears  to 
+
+
+
+I.R.C. § 1400C(b)(1)(B)  — 
+                     
+                     
+$20,000. 
+
+
+
+I.R.C. § 1400C(b)(2) Modified Adjusted Gross Income — 
+                  
+                  
+For  purposes of paragraph (1), the term “modified adjusted gross income” means  the
+                     adjusted gross income of the taxpayer for the taxable year increased  by any amount
+                     excluded from gross income under section 911, 931, or  933.
+I.R.C. § 1400C(c) First-Time Homebuyer — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1400C(c)(1) In General — 
+                  
+                  
+The  term “first-time homebuyer” means any individual if such individual (and  if
+                     married, such individual's spouse) had no present ownership interest in  a principal
+                     residence in the District of Columbia during the 1-year period  ending on the date
+                     of the purchase of the principal residence to which  this section applies. 
+
+
+I.R.C. § 1400C(c)(2) One-Time Only — 
+                  
+                  
+If  an individual is treated as a first-time homebuyer with respect to any  principal
+                     residence, such individual may not be treated as a first-time  homebuyer with respect
+                     to any other principal residence. 
+
+
+I.R.C. § 1400C(c)(3) Principal Residence — 
+                  
+                  
+The  term “principal residence” has the same meaning as when used in section  121.
+I.R.C. § 1400C(d) Carryforward Of Unused Credit — 
+               
+               
+If the credit allowable under subsection (a) exceeds the limitation imposed by section
+                  26(a) for such taxable year reduced by the sum of the credits allowable under subpart A
+                  of part IV of subchapter A (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit
+                  allowable under subsection (a) for such taxable year.
+I.R.C. § 1400C(e) Special Rules — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1400C(e)(1) Allocation Of Dollar Limitation
+
+
+I.R.C. § 1400C(e)(1)(A) Married Individuals Filing Separately — 
+                     
+                     
+In  the case of a married individual filing a separate return, subsection (a)  shall
+                        be applied by substituting “$2,500”
+                        for “$5,000”. 
+
+
+I.R.C. § 1400C(e)(1)(B) Other Taxpayers — 
+                     
+                     
+If  2 or more individuals who are not married purchase a principal residence,  the
+                        amount of the credit allowed under subsection
+                        (a) shall be allocated  among such individuals in such manner as the Secretary may
+                        prescribe,  except that the total amount of the credits allowed to all such  individuals
+                        shall not exceed $5,000. 
+
+
+
+I.R.C. § 1400C(e)(2) Purchase
+
+
+I.R.C. § 1400C(e)(2)(A) In General — 
+                     
+                     
+The  term “purchase” means any acquisition, but only if— 
+
+I.R.C. § 1400C(e)(2)(A)(i)  — 
+                        
+                        
+the  property is not acquired from a person whose relationship to the person  acquiring
+                           it would result in the disallowance of losses under section 267  or 707(b) (but, in applying section 267(b) and (c) for purposes of this  section, paragraph (4) of section 267(c) shall be treated as providing
+                           that the family of an individual shall include only his spouse, ancestors,
+                           and lineal descendants), and 
+
+
+I.R.C. § 1400C(e)(2)(A)(ii)  — 
+                        
+                        
+the basis of the property in the hands of the person acquiring it is not  determined— 
+
+I.R.C. § 1400C(e)(2)(A)(ii)(I)  — 
+                           
+                           
+in  whole or in part by reference to the adjusted basis of such property in  the hands
+                              of the person from whom acquired, or 
+
+
+I.R.C. § 1400C(e)(2)(A)(ii)(II)  — 
+                           
+                           
+under section 1014(a) (relating to property acquired from a  decedent). 
+
+
+
+
+I.R.C. § 1400C(e)(2)(B) Construction — 
+                     
+                     
+A  residence which is constructed by the taxpayer shall be treated as  purchased by
+                        the taxpayer on the date the taxpayer first occupies such  residence. 
+
+
+
+I.R.C. § 1400C(e)(3) Purchase Price — 
+                  
+                  
+The  term “purchase price” means the adjusted basis of the principal residence  on
+                     the date such residence is purchased. 
+
+
+I.R.C. § 1400C(e)(4) Coordination With National First-Time Homebuyers Credit — 
+                  
+                  
+No credit shall be allowed under this section to any taxpayer with respect to the
+                     purchase of a residence after December 31, 2008, if a credit under section 36 is allowable to such taxpayer (or the taxpayer's spouse) with respect to such purchase.
+I.R.C. § 1400C(f) Reporting — 
+               
+               
+If  the Secretary requires information reporting under section 6045 by a  person described in subsection (e)(2) thereof to verify the eligibility of
+                  taxpayers for the credit allowable by this section, the exception provided  by section
+                  6045(e)(5) shall not apply.
+I.R.C. § 1400C(g) Credit Treated As Nonrefundable Personal Credit — 
+               
+               
+For  purposes of this title, the credit allowed by this section shall be  treated
+                  as a credit allowable under subpart A of part IV of subchapter A  of this chapter.
+I.R.C. § 1400C(h) Basis Adjustment — 
+               
+               
+For  purposes of this subtitle, if a credit is allowed under this section with  respect
+                  to the purchase of any residence, the basis of such residence  shall be reduced by
+                  the amount of the credit so allowed.
+I.R.C. § 1400C(i) Application Of Section — 
+               
+               
+This  section shall apply to property purchased after August 4, 1997, and before 
+                  January 1,  2012 .

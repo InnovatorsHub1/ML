@@ -1,0 +1,163 @@
+Sec. 6702. Frivolous Tax Submissions
+
+I.R.C. § 6702(a) Civil Penalty For Frivolous Tax Returns — 
+               
+               
+A  person shall pay a penalty of    $5,000 if-- 
+
+I.R.C. § 6702(a)(1)  — 
+                  
+                  
+such  person files what purports to be a return of a tax imposed by this       title
+                     but which-- 
+
+I.R.C. § 6702(a)(1)(A)  — 
+                     
+                     
+does  not contain information on which the substantial correctness of        the 
+                        self-assessment may be judged, or 
+
+
+I.R.C. § 6702(a)(1)(B)  — 
+                     
+                     
+contains information that on its face indicates that the         self-assessment is
+                        substantially incorrect, and 
+
+
+
+I.R.C. § 6702(a)(2)  — 
+                  
+                  
+the  conduct referred to in paragraph
+                     (1)-- 
+
+I.R.C. § 6702(a)(2)(A)  — 
+                     
+                     
+is  based on a position which the Secretary has identified as        frivolous  under
+                        subsection (c), or 
+
+
+I.R.C. § 6702(a)(2)(B)  — 
+                     
+                     
+reflects a desire to delay or impede the administration of Federal         tax laws.
+I.R.C. § 6702(b) Civil Penalty For Specified Frivolous Submissions
+
+
+I.R.C. § 6702(b)(1) Imposition Of Penalty — 
+                  
+                  
+Except as provided in paragraph (3), any person  
+                     who submits a  specified frivolous submission shall pay a penalty of $5,000. 
+
+
+I.R.C. § 6702(b)(2) Specified Frivolous Submission — 
+                  
+                  
+For  purposes of this section-- 
+
+I.R.C. § 6702(b)(2)(A) Specified Frivolous Submission — 
+                     
+                     
+The  term “specified frivolous        submission” means a specified submission  if
+                        any portion of such        submission-- 
+
+I.R.C. § 6702(b)(2)(A)(i)  — 
+                        
+                        
+is  based on a position which the Secretary has identified as           frivolous
+                           under subsection (c), or 
+
+
+I.R.C. § 6702(b)(2)(A)(ii)  — 
+                        
+                        
+reflects a desire to delay or impede the administration of Federal           tax laws. 
+
+
+
+I.R.C. § 6702(b)(2)(B) Specified Submission — 
+                     
+                     
+The  term “specified submission” means-- 
+
+I.R.C. § 6702(b)(2)(B)(i)  — 
+                        
+                        
+a  request for a hearing under-- 
+
+I.R.C. § 6702(b)(2)(B)(i)(I)  — 
+                           
+                           
+section 6320 (relating to notice and opportunity for hearing upon             filing of notice
+                              of lien), or 
+
+
+I.R.C. § 6702(b)(2)(B)(i)(II)  — 
+                           
+                           
+section 6330 (relating to notice and opportunity for hearing             before levy), and 
+
+
+
+I.R.C. § 6702(b)(2)(B)(ii)  — 
+                        
+                        
+an  application under-- 
+
+I.R.C. § 6702(b)(2)(B)(ii)(I)  — 
+                           
+                           
+section 6159 (relating to agreements for payment of tax liability             in installments), 
+
+
+I.R.C. § 6702(b)(2)(B)(ii)(II)  — 
+                           
+                           
+section 7122 (relating to compromises), or 
+
+
+I.R.C. § 6702(b)(2)(B)(ii)(III)  — 
+                           
+                           
+section 7811 (relating to taxpayer assistance
+                              orders). 
+
+
+
+
+
+I.R.C. § 6702(b)(3) Opportunity To Withdraw Submission — 
+                  
+                  
+If  the Secretary provides a person      with notice that a submission is a  specified
+                     frivolous submission and such  
+                     person withdraws such  submission within 30 days after such notice, the      penalty
+                     imposed  under paragraph (1) shall not apply with respect to such       submission.
+I.R.C. § 6702(c) Listing Of Frivolous Positions — 
+               
+               
+The  Secretary shall prescribe (and    periodically revise) a list of positions  which
+                  the Secretary has identified as
+                  being frivolous for purposes of  this subsection. The Secretary shall not    include
+                  in such list any  position that the Secretary determines meets the    requirement
+                  of section  6662(d)(2)(B)(ii)(II).
+I.R.C. § 6702(d) Reduction Of Penalty — 
+               
+               
+The Secretary may reduce the amount of any penalty
+                  imposed under this  section if the Secretary determines that such reduction    would
+                  promote  compliance with and administration of the Federal tax laws.
+I.R.C. § 6702(e) Penalties In Addition To Other Penalties — 
+               
+               
+The  penalties imposed by this    section shall be in addition to any other  penalty
+                  provided by law.
+I.R.C. § 6702(f) Partnership Adjustments — 
+               
+               
+An administrative adjustment request under section 6227 and a partnership adjustment
+                  tracking report under section 6226(b)(4)(A)
+                  shall be treated as a return for purposes of this section.

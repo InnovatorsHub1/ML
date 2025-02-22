@@ -1,0 +1,82 @@
+Sec. 179B. Deduction For Capital Costs Incurred In Complying With Environmental Protection Agency Sulfur Regulations
+
+I.R.C. § 179B(a) Allowance Of Deduction — 
+               
+               
+In  the case of a small business refiner (as defined in section 45H(c)(1))
+                  which elects the application of this section, there shall be allowed as a  deduction
+                  an amount equal to 75 percent of qualified costs (as
+                  defined in section 45H(c)(2))
+                  which are paid or incurred by the taxpayer  during the taxable year and which are
+                  properly chargeable to capital account.
+I.R.C. § 179B(b) Reduced Percentage — 
+               
+               
+In  the case of a small business refiner with average daily domestic refinery  runs
+                  for the 1-year period ending on December 31, 2002, in excess of  155,000 barrels,
+                  the number of percentage points described in subsection  (a) shall be reduced (not below zero) by the product of such number  (before the application
+                  of this subsection) and the ratio of such excess 
+                  to 50,000 barrels.
+I.R.C. § 179B(c) Basis Reduction
+
+
+I.R.C. § 179B(c)(1) In General — 
+                  
+                  
+For  purposes of this title, the basis of any property shall be reduced by the  portion
+                     of the cost of such property taken into account under subsection  (a). 
+
+
+I.R.C. § 179B(c)(2) Ordinary Income Recapture — 
+                  
+                  
+For  purposes of section 1245, the amount of the deduction allowable under  subsection (a) with respect to any property which is of a character  subject to the allowance for
+                     depreciation shall be treated as a deduction  allowed for depreciation under section
+                     167.
+I.R.C. § 179B(d) Coordination With Other Provisions — 
+               
+               
+Section  280B shall not apply to amounts which are treated as expenses under this  section.
+I.R.C. § 179B(e) Election To Allocate Deduction To Cooperative Owner
+
+
+I.R.C. § 179B(e)(1) In General — 
+                  
+                  
+If— 
+
+I.R.C. § 179B(e)(1)(A)  — 
+                     
+                     
+a  small business refiner to which subsection (a) applies is an organization   to which part I of subchapter T applies, and 
+
+
+I.R.C. § 179B(e)(1)(B)  — 
+                     
+                     
+one  or more persons directly  holding an ownership interest in the refiner are  organizations
+                        to which part I  of subchapter T apply, 
+
+
+the refiner may elect to allocate all  or a portion of the  deduction allowable under
+                        subsection (a) to such  persons. Such allocation shall  be equal to the person's ratable share of
+                        the total amount allocated, determined  on the basis of the person's  ownership interest
+                        in the taxpayer. The taxable  income of the refiner  shall not be reduced under section
+                        1382 by reason of any  amount to which  the preceding sentence applies.
+
+
+
+I.R.C. § 179B(e)(2) Form And Effect Of Election — 
+                  
+                  
+An  election under paragraph (1) for any  taxable year shall be made on a  timely filed return for such year. Such
+                     election, once made, shall be  irrevocable for such taxable year. 
+
+
+I.R.C. § 179B(e)(3) Written Notice To Owners — 
+                  
+                  
+If  any portion of the deduction available  under subsection
+                     (a) is allocated  to owners under paragraph (1), the cooperative shall provide  any owner  receiving an allocation written notice
+                     of the amount of the  allocation.  Such notice shall be provided before the date on
+                     which the return   described in paragraph (2) is due.

@@ -1,0 +1,800 @@
+Sec. 543. Personal Holding Company Income
+
+I.R.C. § 543(a) General Rule — 
+               
+               
+For  purposes of this subtitle, the term “personal holding company income”  means
+                  the portion of the adjusted ordinary gross income which consists of: 
+
+I.R.C. § 543(a)(1) Dividends, Etc. — 
+                  
+                  
+Dividends,  interest, royalties (other than mineral, oil, or gas royalties or  copyright
+                     royalties), and annuities. This paragraph shall not apply to— 
+
+I.R.C. § 543(a)(1)(A)  — 
+                     
+                     
+interest  constituting rent (as defined in subsection (b)(3)), 
+
+
+I.R.C. § 543(a)(1)(B)  — 
+                     
+                     
+interest  on amounts set aside in a reserve fund under chapter 533 or 535 of title
+                        46, United States Code, 
+
+
+I.R.C. § 543(a)(1)(C)  — 
+                     
+                     
+dividends received by a United States shareholder (as defined in section 951(b)) from
+                        a controlled foreign corporation (as defined in section 957(a)), 
+
+
+I.R.C. § 543(a)(1)(D)  — 
+                     
+                     
+active  business computer software royalties
+                        (within the meaning of subsection  (d)), and 
+
+
+I.R.C. § 543(a)(1)(E)  — 
+                     
+                     
+interest  received by a broker or dealer
+                        (within the meaning of section 3(a)(4) or  (5) of the Securities and Exchange Act
+                        of 1934) in connection with— 
+
+I.R.C. § 543(a)(1)(E)(i)  — 
+                        
+                        
+any  securities or money market instruments held as property described in  section
+                           1221(a)(1), 
+
+
+I.R.C. § 543(a)(1)(E)(ii)  — 
+                        
+                        
+margin  accounts, or 
+
+
+I.R.C. § 543(a)(1)(E)(iii)  — 
+                        
+                        
+any  financing for a customer secured by securities or money market  instruments. 
+
+
+
+
+I.R.C. § 543(a)(2) Rents — 
+                  
+                  
+The  adjusted income from rents; except that such adjusted income shall not be  included
+                     if— 
+
+I.R.C. § 543(a)(2)(A)  — 
+                     
+                     
+such  adjusted income constitutes 50 percent or more of the adjusted ordinary  gross
+                        income, and 
+
+
+I.R.C. § 543(a)(2)(B)  — 
+                     
+                     
+the  sum of— 
+
+I.R.C. § 543(a)(2)(B)(i)  — 
+                        
+                        
+the  dividends paid during the taxable year (determined under section 562), 
+
+
+I.R.C. § 543(a)(2)(B)(ii)  — 
+                        
+                        
+the  dividends considered as paid on the last day of the taxable year under  section
+                           563(c) (as limited by the second sentence of section 563(b)), and 
+
+
+I.R.C. § 543(a)(2)(B)(iii)  — 
+                        
+                        
+the  consent dividends for the taxable year (determined under section 565), 
+
+
+equals or exceeds the amount, if any, by which the personal holding  company income
+                           for the taxable year (computed without regard to this  paragraph and paragraph (6),
+                           and computed by including as personal holding  company income copyright royalties
+                           and the adjusted income from mineral,  oil, and gas royalties)
+                           exceeds 10 percent of the ordinary gross income.
+
+
+
+
+I.R.C. § 543(a)(3) Mineral, Oil, And Gas Royalties — 
+                  
+                  
+The  adjusted income from mineral, oil, and gas royalties;
+                     except that such  adjusted income shall not be included if— 
+
+I.R.C. § 543(a)(3)(A)  — 
+                     
+                     
+such  adjusted income constitutes 50 percent or more of the adjusted ordinary  gross
+                        income, 
+
+
+I.R.C. § 543(a)(3)(B)  — 
+                     
+                     
+the  personal holding company income for the taxable year (computed without  regard
+                        to this paragraph, and computed by including as personal holding  company income copyright
+                        royalties and the adjusted income from rents) is  not more than 10 percent of the
+                        ordinary gross income, and 
+
+
+I.R.C. § 543(a)(3)(C)  — 
+                     
+                     
+the  sum of the deductions which are allowable under section 162 (relating to  trade or business expenses) other than— 
+
+I.R.C. § 543(a)(3)(C)(i)  — 
+                        
+                        
+deductions  for compensation for personal services rendered by the shareholders, and 
+
+
+I.R.C. § 543(a)(3)(C)(ii)  — 
+                        
+                        
+deductions  which are specifically allowable under sections other than section 162,  equals or exceeds 15 percent of the adjusted ordinary gross income. 
+
+
+
+
+I.R.C. § 543(a)(4) Copyright Royalties — 
+                  
+                  
+Copyright  royalties; except that copyright royalties shall not be included if— 
+
+I.R.C. § 543(a)(4)(A)  — 
+                     
+                     
+such  royalties (exclusive of royalties received for the use of, or right to  use,
+                        copyrights or interests in copyrights on works created in whole, or  in part, by any
+                        shareholder)
+                        constitute 50 percent or more of the ordinary  gross income, 
+
+
+I.R.C. § 543(a)(4)(B)  — 
+                     
+                     
+the  personal holding company income for the taxable year computed— 
+
+I.R.C. § 543(a)(4)(B)(i)  — 
+                        
+                        
+without  regard to copyright royalties, other than royalties received for the use
+                           of, or right to use, copyrights or interests in copyrights in works  created in whole,
+                           or in part, by any shareholder owning more than 10  percent of the total outstanding
+                           capital stock of the corporation, 
+
+
+I.R.C. § 543(a)(4)(B)(ii)  — 
+                        
+                        
+without  regard to dividends from any corporation in which the taxpayer owns at  least
+                           50 percent of all classes of stock entitled to vote and at least 50  percent of the
+                           total value of all classes of stock and which corporation  meets the requirements
+                           of this subparagraph and subparagraphs (A) and (C), 
+                           and 
+
+
+I.R.C. § 543(a)(4)(B)(iii)  — 
+                        
+                        
+by  including as personal holding company income the adjusted income from  rents and
+                           the adjusted income from mineral, oil, and gas royalties, is not  more than 10 percent
+                           of the ordinary gross income, and 
+
+
+
+I.R.C. § 543(a)(4)(C)  — 
+                     
+                     
+the  sum of the deductions which are properly allocable to such royalties and  which
+                        are allowable under section 162, other than-- 
+
+I.R.C. § 543(a)(4)(C)(i)  — 
+                        
+                        
+deductions  for compensation for personal services rendered by the shareholders, 
+
+
+I.R.C. § 543(a)(4)(C)(ii)  — 
+                        
+                        
+deductions  for royalties paid or accrued, and 
+
+
+I.R.C. § 543(a)(4)(C)(iii)  — 
+                        
+                        
+deductions  which are specifically allowable under sections other than section 162, 
+
+
+equals or exceeds 25 percent of the amount by which the  ordinary gross income exceeds
+                           the sum of the royalties paid or accrued and  the amounts allowable as deductions
+                           under section 167 (relating to  depreciation)
+                           with respect to copyright royalties.
+
+
+
+For purposes of this subsection, the term “copyright
+                        royalties” means compensation, however designated, for the use of, or the  right to
+                        use, copyrights in works protected by copyright issued under  title 17 of the United
+                        States Code and to which copyright protection is  also extended by the laws of any
+                        country other than the United States of  America by virtue of any international treaty,
+                        convention, or agreement,  or interests in any such copyrighted works, and includes
+                        payments from any  person for performing rights in any such copyrighted work and payments
+                        (other than produced film rents as defined in paragraph
+                        (5)(B)) received  for the use of, or right to use, films. For purposes of this paragraph,
+                        the term “shareholder” shall include any person who owns stock within the  meaning
+                        of section 544. This paragraph shall not apply to active business  computer software royalties.
+
+
+
+I.R.C. § 543(a)(5) Produced Film Rents
+
+
+I.R.C. § 543(a)(5)(A)  — 
+                     
+                     
+Produced  film rents; except that such rents shall not be included if such rents 
+                        constitute 50 percent or more of the ordinary gross income. 
+
+
+I.R.C. § 543(a)(5)(B)  — 
+                     
+                     
+For  purposes of this section, the term
+                        “produced film rents” means payments  received with respect to an interest in a film
+                        for the use of, or right to  use, such film, but only to the extent that such interest
+                        was acquired  before substantial completion of production of such film. In the case
+                        of a  producer who actively participates in the production of the film, such  term
+                        includes an interest in the proceeds or profits from the film, but
+                        only to the extent such interest is attributable to such active 
+                        participation. 
+
+
+
+I.R.C. § 543(a)(6) Use Of Corporate Property By Shareholder
+
+
+I.R.C. § 543(a)(6)(A)  — 
+                     
+                     
+Amounts  received as compensation (however designated and from whomever received)
+                        for the use of, or the right to use, tangible property of the corporation  in any
+                        case where, at any time during the taxable year, 25 percent or more  in value of the
+                        outstanding stock of the corporation is owned, directly or  indirectly, by or for
+                        an individual entitled to the use of the property  (whether such right is obtained
+                        directly from the corporation or by means 
+                        of a sublease or other arrangement). 
+
+
+I.R.C. § 543(a)(6)(B)  — 
+                     
+                     
+Subparagraph  (A) shall apply only to a corporation which has personal holding company
+                        income in excess of 10 percent of its ordinary gross income. 
+
+
+I.R.C. § 543(a)(6)(C)  — 
+                     
+                     
+For  purposes of the limitation in subparagraph
+                        (B), personal holding company  income shall be computed— 
+
+I.R.C. § 543(a)(6)(C)(i)  — 
+                        
+                        
+without  regard to subparagraph (A)
+                           or paragraph (2), 
+
+
+I.R.C. § 543(a)(6)(C)(ii)  — 
+                        
+                        
+by  excluding amounts received as compensation for the use of (or right to  use) intangible
+                           property (other than mineral, oil, or gas royalties or  copyright royalties) if a
+                           substantial part of the tangible property used  in connection with such intangible
+                           property is owned by the corporation  and all such tangible and intangible property
+                           is used in the active  conduct of a trade or business by an individual or individuals
+                           described  in subparagraph (A), and 
+
+
+I.R.C. § 543(a)(6)(C)(iii)  — 
+                        
+                        
+by  including copyright royalties and adjusted income from mineral, oil, and  gas
+                           royalties. 
+
+
+
+
+I.R.C. § 543(a)(7) Personal Service Contracts — 
+                  
+                  
+
+I.R.C. § 543(a)(7)(A)  — 
+                     
+                     
+Amounts  received under a contract under which the corporation is to furnish  personal
+                        services; if some person other than the corporation has the right  to designate (by
+                        name or by description) the individual who is to perform  the services, or if the
+                        individual who is to perform the services is  designated (by name or by description)
+                        in the contract; and 
+
+
+I.R.C. § 543(a)(7)(B)  — 
+                     
+                     
+amounts  received from the sale or other disposition of such a contract. 
+
+
+This paragraph shall apply with respect to amounts 
+                        received for services under a particular contract only if at some time  during the
+                        taxable year 25 percent or more in value of the outstanding
+                        stock of the corporation is owned, directly or indirectly, by or for the  individual
+                        who has performed, is to perform, or may be designated
+                        (by name  or by description) as the one to perform, such services.
+
+
+
+I.R.C. § 543(a)(8) Estates And Trusts — 
+                  
+                  
+Amounts  includible in computing the taxable income of the corporation under part
+                     I  of subchapter J (sec. 641 and following, relating to estates, trusts, and  beneficiaries).
+I.R.C. § 543(b) Definitions — 
+               
+               
+For  purposes of this part— 
+
+I.R.C. § 543(b)(1) Ordinary Gross Income — 
+                  
+                  
+The  term “ordinary gross income” means the gross income determined by  excluding— 
+
+I.R.C. § 543(b)(1)(A)  — 
+                     
+                     
+all  gains from the sale or other disposition of capital assets,   and 
+
+
+I.R.C. § 543(b)(1)(B)  — 
+                     
+                     
+all  gains (other than those referred to in subparagraph (A)) from the sale or  other
+                        disposition of property described in section 1231(b). 
+
+
+I.R.C. § 543(b)(1)(C)  — 
+                     
+                     
+[Struck.  Pub. L. 108-357, Sec. 413(c)(8).] 
+
+
+
+I.R.C. § 543(b)(2) Adjusted Ordinary Gross Income — 
+                  
+                  
+The  term “adjusted ordinary gross income” means the ordinary gross income  adjusted
+                     as follows: 
+
+I.R.C. § 543(b)(2)(A) Rents — 
+                     
+                     
+From  the gross income from rents (as defined in the second sentence of  paragraph
+                        (3) of this subsection) subtract the amount allowable as  deductions for— 
+
+I.R.C. § 543(b)(2)(A)(i)  — 
+                        
+                        
+exhaustion,  wear and tear, obsolescence, and amortization of property other than
+                           tangible personal property which is not customarily retained by any one  lessee for
+                           more than three years, 
+
+
+I.R.C. § 543(b)(2)(A)(ii)  — 
+                        
+                        
+property  taxes, 
+
+
+I.R.C. § 543(b)(2)(A)(iii)  — 
+                        
+                        
+interest,  and 
+
+
+I.R.C. § 543(b)(2)(A)(iv)  — 
+                        
+                        
+rent, 
+
+
+to the extent allocable, under regulations prescribed by the Secretary, to  such gross
+                           income from rents. The amount subtracted under this  subparagraph shall not exceed
+                           such gross income from rents.
+
+
+
+I.R.C. § 543(b)(2)(B) Mineral Royalties, Etc. — 
+                     
+                     
+From  the gross income from mineral, oil, and gas royalties described in  paragraph
+                        (4), and from the gross income from working interests in an oil  or gas well, subtract
+                        the amount allowable as deductions for— 
+
+I.R.C. § 543(b)(2)(B)(i)  — 
+                        
+                        
+exhaustion,  wear and tear, obsolescence, amortization, and depletion, 
+
+
+I.R.C. § 543(b)(2)(B)(ii)  — 
+                        
+                        
+property  and severance taxes, 
+
+
+I.R.C. § 543(b)(2)(B)(iii)  — 
+                        
+                        
+interest,  and 
+
+
+I.R.C. § 543(b)(2)(B)(iv)  — 
+                        
+                        
+rent, 
+
+
+to the extent allocable, under regulations prescribed by the Secretary, to  such gross
+                           income from royalties or such gross income from working  interests in oil or gas wells.
+                           The amount subtracted under this  subparagraph with respect to royalties shall not
+                           exceed the gross income  from such royalties, and the amount subtracted under this
+                           subparagraph  with respect to working interests shall not exceed the gross income
+                           from  such working interests.
+
+
+
+I.R.C. § 543(b)(2)(C) Interest — 
+                     
+                     
+There  shall be excluded— 
+
+I.R.C. § 543(b)(2)(C)(i)  — 
+                        
+                        
+interest  received on a direct obligation of the United States held for sale to  customers
+                           in the ordinary course of trade or business by a regular dealer  who is making a primary
+                           market in such obligations, and 
+
+
+I.R.C. § 543(b)(2)(C)(ii)  — 
+                        
+                        
+interest  on a condemnation award, a judgment, and a tax refund. 
+
+
+
+I.R.C. § 543(b)(2)(D) Certain Excluded Rents — 
+                     
+                     
+From  the gross income consisting of compensation described in subparagraph (D)  of
+                        paragraph (3) subtract the amount allowable as deductions for the items  described
+                        in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the  extent allocable,
+                        under regulations prescribed by the Secretary, to such  gross income. The amount subtracted
+                        under this subparagraph shall not  exceed such gross income. 
+
+
+
+I.R.C. § 543(b)(3) Adjusted Income From Rents — 
+                  
+                  
+The  term “adjusted income from rents” means the gross income from rents,  reduced
+                     by the amount subtracted under paragraph
+                     (2)(A) of this  subsection. For purposes of the preceding sentence, the term “rents”
+                     means  compensation, however designated, for the use of, or right to use,  property,
+                     and the interest on debts owed to the corporation, to the extent  such debts represent
+                     the price for which real property held primarily for  sale to customers in the ordinary
+                     course of its trade or business was sold  or exchanged by the corporation; but such
+                     term does not include— 
+
+I.R.C. § 543(b)(3)(A)  — 
+                     
+                     
+amounts  constituting personal holding company income under subsection (a)(6), 
+
+
+I.R.C. § 543(b)(3)(B)  — 
+                     
+                     
+copyright  royalties (as defined in subsection (a)(4)), 
+
+
+I.R.C. § 543(b)(3)(C)  — 
+                     
+                     
+produced  film rents (as defined in subsection (a)(5)(B)), 
+
+
+I.R.C. § 543(b)(3)(D)  — 
+                     
+                     
+compensation,  however designated, for the use of, or the right to use, any tangible
+                        personal property manufactured or produced by the taxpayer, if during the  taxable
+                        year the taxpayer is engaged in substantial manufacturing or  production of tangible
+                        personal property of the same type, or 
+
+
+I.R.C. § 543(b)(3)(E)  — 
+                     
+                     
+active  business computer software royalties
+                        (as defined in subsection (d)). 
+
+
+
+I.R.C. § 543(b)(4) Adjusted Income From Mineral, Oil, And Gas Royalties — 
+                  
+                  
+The  term “adjusted income from mineral, oil, and gas royalties” means the  gross
+                     income from mineral, oil, and gas royalties
+                     (including production  payments and overriding royalties), reduced by the amount subtracted
+                     under  paragraph (2)(B) of this subsection in respect of such royalties.
+I.R.C. § 543(c) Gross Income Of Insurance Companies Other Than Life Insurance Companies — 
+               
+               
+In  the case of an insurance company other than a life insurance company, the  term
+                  “gross income” as used in this part means the gross income, as  defined in section
+                  832(b)(1), increased by the amount of losses incurred,  as defined in section 832(b)(5), and the amount of expenses incurred, as  defined in section 832(b)(6), and decreased by the amount deductible under  section 832(c)(7) (relating to tax-free interest).
+I.R.C. § 543(d) Active Business Computer Software Royalties
+
+
+I.R.C. § 543(d)(1) In General — 
+                  
+                  
+For  purposes of this section, the term “active business computer software  royalties”
+                     means any royalties— 
+
+I.R.C. § 543(d)(1)(A)  — 
+                     
+                     
+received  by any corporation during the taxable year in connection with the  licensing
+                        of computer software, and 
+
+
+I.R.C. § 543(d)(1)(B)  — 
+                     
+                     
+with  respect to which the requirements of paragraphs (2), (3), (4), and (5) are 
+                        met. 
+
+
+
+I.R.C. § 543(d)(2) Royalties Must Be Received By Corporation Actively Engaged In Computer Software Business — 
+                  
+                  
+The  requirements of this paragraph are met if the royalties described in  paragraph
+                     (1)— 
+
+I.R.C. § 543(d)(2)(A)  — 
+                     
+                     
+are  received by a corporation engaged in the active conduct of the trade or  business
+                        of developing, manufacturing, or producing computer software, and 
+
+
+I.R.C. § 543(d)(2)(B)  — 
+                     
+                     
+are  attributable to computer software which— 
+
+I.R.C. § 543(d)(2)(B)(i)  — 
+                        
+                        
+is  developed, manufactured, or produced by such corporation (or its  predecessor)
+                           in connection with the trade or business described in  subparagraph (A), or 
+
+
+I.R.C. § 543(d)(2)(B)(ii)  — 
+                        
+                        
+is  directly related to such trade or business. 
+
+
+
+
+I.R.C. § 543(d)(3) Royalties Must Constitute At Least 50 Percent Of Income — 
+                  
+                  
+The  requirements of this paragraph are met if the royalties described in  paragraph
+                     (1) constitute at least 50 percent of the ordinary gross income  of the corporation
+                     for the taxable year. 
+
+
+I.R.C. § 543(d)(4) Deductions Under Sections 162 And 174 Relating To Royalties Must Equal Or Exceed 25
+                     Percent Of Ordinary Gross Income
+
+
+I.R.C. § 543(d)(4)(A) In General — 
+                     
+                     
+The  requirements of this paragraph are met if— 
+
+I.R.C. § 543(d)(4)(A)(i)  — 
+                        
+                        
+the  sum of the deductions allowable to the corporation under sections 162,
+                           174, and 195 for the taxable year which are properly allocable to the  trade or business described
+                           in paragraph
+                           (2) equals or exceeds 25 percent  of the ordinary gross income of such corporation
+                           for such taxable year, or 
+
+
+I.R.C. § 543(d)(4)(A)(ii)  — 
+                        
+                        
+the  average of such deductions for the 5-taxable year period ending with such  taxable
+                           year equals or exceeds 25 percent of the average ordinary gross  income of such corporation
+                           for such period. 
+
+
+If a corporation has not been in existence during the
+                           5-taxable year period described in clause (ii), then the period of
+                           existence of such corporation shall be substituted for such 5-taxable year  period.
+
+
+
+I.R.C. § 543(d)(4)(B) Deductions Allowable Under Section 162 — 
+                     
+                     
+For  purposes of subparagraph (A), a deduction shall not be treated as  allowable
+                        under section 162 if it is specifically allowable under another  section. 
+
+
+I.R.C. § 543(d)(4)(C) Limitation On Allowable Deductions — 
+                     
+                     
+For  purposes of subparagraph (A), no deduction shall be taken into account  with
+                        respect to compensation for personal services rendered by the 5  individual shareholders
+                        holding the largest percentage
+                        (by value) of the  outstanding stock of the corporation. For purposes of the preceding
+                        sentence— 
+
+I.R.C. § 543(d)(4)(C)(i)  — 
+                        
+                        
+individuals  holding less than 5 percent
+                           (by value) of the stock of such corporation  shall not be taken into account, and 
+
+
+I.R.C. § 543(d)(4)(C)(ii)  — 
+                        
+                        
+stock  deemed to be owned by a shareholder solely by attribution from a partner  under
+                           section 544(a)(2) shall be disregarded. 
+
+
+
+
+I.R.C. § 543(d)(5) Dividends Must Equal Or Exceed Excess Of Personal Holding Company Income Over 10 Percent
+                     Of Ordinary Gross Income
+
+
+I.R.C. § 543(d)(5)(A) In General — 
+                     
+                     
+The  requirements of this paragraph are met if the sum of— 
+
+I.R.C. § 543(d)(5)(A)(i)  — 
+                        
+                        
+the  dividends paid during the taxable year (determined under section 562), 
+
+
+I.R.C. § 543(d)(5)(A)(ii)  — 
+                        
+                        
+the  dividends considered as paid on the last day of the taxable year under  section
+                           563(c) (as limited by the second sentence of section 563(b)), and 
+
+
+I.R.C. § 543(d)(5)(A)(iii)  — 
+                        
+                        
+the  consent dividends for the taxable year (determined under section 565), 
+
+
+equals or exceeds the amount, if any, by which the personal holding  company income
+                           for the taxable year exceeds 10 percent of the ordinary  gross income of such corporation
+                           for such taxable year.
+
+
+
+I.R.C. § 543(d)(5)(B) Computation Of Personal Holding Company Income — 
+                     
+                     
+For  purposes of this paragraph, personal holding company income shall be  computed— 
+
+I.R.C. § 543(d)(5)(B)(i)  — 
+                        
+                        
+without  regard to amounts described in subsection (a)(1)(C), 
+
+
+I.R.C. § 543(d)(5)(B)(ii)  — 
+                        
+                        
+without  regard to interest income during any taxable year— 
+
+I.R.C. § 543(d)(5)(B)(ii)(I)  — 
+                           
+                           
+which  is in the 5-taxable year period beginning with the later of the 1st  taxable
+                              year of the corporation or the 1st taxable year in which the  corporation conducted
+                              the trade or business described in paragraph (2)(A),  and 
+
+
+I.R.C. § 543(d)(5)(B)(ii)(II)  — 
+                           
+                           
+during  which the corporation meets the requirements of paragraphs (2), (3), and 
+                              (4), and 
+
+
+
+I.R.C. § 543(d)(5)(B)(iii)  — 
+                        
+                        
+by  including adjusted income from rents and adjusted income from mineral,  oil, and
+                           gas royalties (within the meaning of paragraphs (2) and (3) of  subsection (a)). 
+
+
+
+
+I.R.C. § 543(d)(6) Special Rules For Affiliated Group Members
+
+
+I.R.C. § 543(d)(6)(A) In General — 
+                     
+                     
+In  any case in which— 
+
+I.R.C. § 543(d)(6)(A)(i)  — 
+                        
+                        
+the  taxpayer receives royalties in connection with the licensing of computer  software,
+                           and 
+
+
+I.R.C. § 543(d)(6)(A)(ii)  — 
+                        
+                        
+another  corporation which is a member of the same affiliated group as the taxpayer
+                           meets the requirements of paragraphs (2), (3), (4), and (5) with respect  to such
+                           computer software, the taxpayer shall be treated as having met  such requirements. 
+
+
+
+I.R.C. § 543(d)(6)(B) Affiliated Group — 
+                     
+                     
+For  purposes of this paragraph, the term “affiliated group” has the meaning  given
+                        such term by section 1504(a).

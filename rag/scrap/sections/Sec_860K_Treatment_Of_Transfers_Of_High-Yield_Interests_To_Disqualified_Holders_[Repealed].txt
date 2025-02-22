@@ -1,0 +1,266 @@
+Sec. 860K. Treatment Of Transfers Of High-Yield Interests To Disqualified Holders [Repealed]
+
+I.R.C. § 860K(a) General Rule — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+In the case of any high-yield interest which is held by  a disqualified holder—
+
+
+I.R.C. § 860K(a)(1)  — 
+                  
+                  
+the gross income of such holder shall not include any  income (other than gain) attributable
+                     to such interest, and 
+
+
+I.R.C. § 860K(a)(2)  — 
+                  
+                  
+amounts not includible in the gross income of such  holder by reason of 
+
+
+paragraph (1) shall be included (at
+                     the time otherwise includible under paragraph (1)) in the gross income of  the most
+                     recent holder of such interest which is not a disqualified
+                     holder.
+I.R.C. § 860K(b) Exceptions — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Rules similar to the rules of paragraphs
+                     (4) and (7) of  section 860E(e) shall apply to the tax imposed by reason of the inclusion  in gross income under
+                     subsection (a).
+I.R.C. § 860K(c) Disqualified Holder — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of this section, the term ‘disqualified  holder’ means any holder other
+                     than—
+
+
+I.R.C. § 860K(c)(1)  — 
+                  
+                  
+an eligible corporation (as defined in section  860L(a)(2)), or 
+
+
+I.R.C. § 860K(c)(2)  — 
+                  
+                  
+a FASIT.
+I.R.C. § 860K(d) Treatment Of Interests Held By Securities Dealers — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                           the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+I.R.C. § 860K(d)(1) In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Subsection (a) shall not apply to any high-yield  interest held by a disqualified
+                        holder if such holder is a dealer in  securities who acquired such interest exclusively
+                        for sale to customers in  the ordinary course of business (and not for investment).
+
+
+
+I.R.C. § 860K(d)(2) Change In Dealer Status — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+I.R.C. § 860K(d)(2)(A) In General — 
+                     
+                     
+In  the case of a dealer in securities which is not an eligible corporation  (as defined
+                        in section 860L(a)(2)), if— 
+
+I.R.C. § 860K(d)(2)(A)(i)  — 
+                        
+                        
+such dealer ceases to be a dealer in securities,  or 
+
+
+I.R.C. § 860K(d)(2)(A)(ii)  — 
+                        
+                        
+such dealer commences holding the high-yield interest  for investment, 
+
+
+there is hereby imposed (in addition
+                           to other taxes) an excise tax equal to the product of the highest rate of  tax specified
+                           in section 11(b)(1) and the income of such dealer  attributable to such interest for periods after the
+                           date of such cessation  or commencement.
+
+
+
+I.R.C. § 860K(d)(2)(B) Holding For 31 Days Or Less — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+For purposes of subparagraph (A)(ii), a dealer shall  not be treated as holding an
+                           interest for investment before the 32d day  after the date such dealer acquired such
+                           interest unless such interest is  so held as part of a plan to avoid the purposes
+                           of this  paragraph.
+
+
+
+I.R.C. § 860K(d)(2)(C) Administrative Provisions — 
+                     
+                     
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                                 the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+The deficiency procedures of subtitle F shall apply to  the tax imposed by this paragraph.
+I.R.C. § 860K(e) Treatment Of High-Yield Interests In Pass-Thru Entities
+
+
+I.R.C. § 860K(e)(1) In General — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+If a pass-thru entity (as defined in section 860E(e)(6))
+                        issues a debt or equity interest—
+
+
+I.R.C. § 860K(e)(1)(A)  — 
+                     
+                     
+which is supported by any regular interest in a FASIT,  and 
+
+
+I.R.C. § 860K(e)(1)(B)  — 
+                     
+                     
+which has an original yield to maturity which is  greater than each of— 
+
+I.R.C. § 860K(e)(1)(B)(i)  — 
+                        
+                        
+the sum determined under clauses
+                           (i) and (ii) of  section 163(i)(1) (B)
+                           with respect to such debt or equity interest,  and 
+
+
+I.R.C. § 860K(e)(1)(B)(ii)  — 
+                        
+                        
+the yield to maturity to such entity on such regular  interest (determined as of the
+                           date such entity acquired such interest), 
+
+
+there is hereby imposed on the  pass-thru entity a tax (in addition to other taxes)
+                           equal to the product  of the highest rate of tax specified in section 11(b)(1) and the income of
+                           the holder of such debt or equity interest which is properly attributable
+                           to such regular interest. For purposes of the preceding sentence, the  yield to maturity
+                           of any equity interest shall be determined under  regulations prescribed by the  Secretary.
+
+
+
+
+I.R.C. § 860K(e)(2) Exception — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 835(a), repealed Sec. 860K, effective January 1, 2005, except for FASITs in existence on
+                              the date of the enactment of this Act [Enacted: Oct. 22, 2004].
+
+
+
+
+Paragraph (1) shall not apply to arrangements not having  as a principal purpose the
+                        avoidance of the purposes of this subsection.
+
+
+(Added Pub. L. 104-188, title I, 1621, Aug. 20, 1996,  110 Stat. 1755;
+                        Repealed by Pub. L. 108-357, title VIII, 835(a), Oct. 22,  2004, 118 Stat. 1418.)

@@ -1,0 +1,518 @@
+Sec. 865. Source Rules For Personal Property Sales
+
+I.R.C. § 865(a) General Rule — 
+               
+               
+Except  as otherwise provided in this section, income from the sale of personal  property— 
+
+I.R.C. § 865(a)(1)  — 
+                  
+                  
+by a United States resident shall be sourced in the  United States, or 
+
+
+I.R.C. § 865(a)(2)  — 
+                  
+                  
+by a nonresident shall be sourced outside the United  States.
+I.R.C. § 865(b) Exception For Inventory Property — 
+               
+               
+In  the case of income derived from the sale of inventory property— 
+
+I.R.C. § 865(b)(1)  — 
+                  
+                  
+this section shall not apply, and 
+
+
+I.R.C. § 865(b)(2)  — 
+                  
+                  
+such income shall be sourced under the rules of sections  861(a)(6), 862(a)(6), and  863. 
+
+
+Notwithstanding the preceding sentence, any income from
+                     the sale of any unprocessed timber which is a softwood and was cut from an  area in
+                     the United States shall be sourced in the United States and the  rules of sections
+                     862(a)(6) and 863(b) shall not apply to any such income.  For purposes of the preceding sentence, the
+                     term “unprocessed timber” means any log, cant, or similar form of timber.  1
+
+
+1 Amendments:
+                           Section 13239(c) of the Revenue Reconciliation Act of 1993 amended  subsection
+                           (b) of section 865 by adding at the end the following:  “Notwithstanding the preceding
+                           sentence, any income from the sale of any  unprocessed timber which is a softwood
+                           and was cut from an area in the  United States shall be sourced in the United States
+                           and the rules of  sections 862(a)(6) and 863(b) shall not apply to any such income.
+                           For  purposes of the preceding sentence, the term ‘unprocessed timber’ means  any
+                           log, cant, or similar form of  timber.”
+I.R.C. § 865(c) Exception For Depreciable Personal Property
+
+
+I.R.C. § 865(c)(1) In General — 
+                  
+                  
+Gain  (not in excess of the depreciation adjustments)
+                     from the sale of  depreciable personal property shall be allocated between sources
+                     in the  United States and sources outside the United States— 
+
+I.R.C. § 865(c)(1)(A)  — 
+                     
+                     
+by treating the same proportion of such gain as sourced  in the United States as the
+                        United States depreciation adjustments with  respect to such property bear to the
+                        total depreciation adjustments, and 
+
+
+I.R.C. § 865(c)(1)(B)  — 
+                     
+                     
+by treating the remaining portion of such gain as  sourced outside the United States. 
+
+
+
+I.R.C. § 865(c)(2) Gain In Excess Of Depreciation — 
+                  
+                  
+Gain  (in excess of the depreciation adjustments) from the sale of depreciable  personal
+                     property shall be sourced as if such property were inventory  property. 
+
+
+I.R.C. § 865(c)(3) United States Depreciation Adjustments — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 865(c)(3)(A) In General — 
+                     
+                     
+The  term “United States depreciation adjustments” means the portion of the  depreciation
+                        adjustments to the adjusted basis of the property which are  attributable to the depreciation
+                        deductions allowable in computing taxable  income from sources in the United States. 
+
+
+I.R.C. § 865(c)(3)(B) Special Rule For Certain Property — 
+                     
+                     
+Except  in the case of property of a kind described in section 168(g)(4), if, for  any taxable year— 
+
+I.R.C. § 865(c)(3)(B)(i)  — 
+                        
+                        
+such property is used predominantly in the United  States, or 
+
+
+I.R.C. § 865(c)(3)(B)(ii)  — 
+                        
+                        
+such property is used predominantly outside the United  States, all of the depreciation
+                           deductions allowable for such year shall  be treated as having been allocated to income
+                           from sources in the United  States (or, where clause (ii) applies, from sources outside
+                           the United  States). 
+
+
+
+
+I.R.C. § 865(c)(4) Other Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 865(c)(4)(A) Depreciable Personal Property — 
+                     
+                     
+The  term “depreciable personal property” means any personal property if the  adjusted
+                        basis of such property includes depreciation adjustments. 
+
+
+I.R.C. § 865(c)(4)(B) Depreciation Adjustments — 
+                     
+                     
+The  term “depreciation adjustments” means adjustments reflected in the  adjusted
+                        basis of any property on account of depreciation deductions  (whether allowed with
+                        respect to such property or other property and  whether allowed to the taxpayer or
+                        to any other person). 
+
+
+I.R.C. § 865(c)(4)(C) Depreciation Deductions — 
+                     
+                     
+The  term “depreciation deductions” means any deductions for depreciation or  amortization
+                        or any other deduction allowable under any provision of this  chapter which treats
+                        an otherwise capital expenditure as a deductible  expense.
+I.R.C. § 865(d) Exception For Intangibles
+
+
+I.R.C. § 865(d)(1) In General — 
+                  
+                  
+In  the case of any sale of an intangible— 
+
+I.R.C. § 865(d)(1)(A)  — 
+                     
+                     
+this section shall apply only to the extent the payments  in consideration of such
+                        sale are not contingent on the productivity, use,  or disposition of the intangible,
+                        and 
+
+
+I.R.C. § 865(d)(1)(B)  — 
+                     
+                     
+to the extent such payments are so contingent, the  source of such payments shall
+                        be determined under this part in the same  manner as if such payments were royalties. 
+
+
+
+I.R.C. § 865(d)(2) Intangible — 
+                  
+                  
+For  purposes of paragraph (1), the term “intangible"
+                     means any patent,  copyright, secret process or formula, goodwill, trademark, trade
+                     brand,  franchise, or other like property. 
+
+
+I.R.C. § 865(d)(3) Special Rule In The Case Of Goodwill — 
+                  
+                  
+To  the extent this section applies to the sale of goodwill, payments in  consideration
+                     of such sale shall be treated as from sources in the country  in which such goodwill
+                     was generated. 
+
+
+I.R.C. § 865(d)(4) Coordination With Subsection (c)
+
+
+I.R.C. § 865(d)(4)(A) Gain Not In Excess Of Depreciation Adjustments Sourced Under Subsection (c) — 
+                     
+                     
+Notwithstanding  paragraph (1), any gain from the sale of an intangible shall be sourced
+                        under subsection (c) to the extent such gain does not exceed the  depreciation adjustments
+                        with respect to such intangible. 
+
+
+I.R.C. § 865(d)(4)(B) Subsection (c)(2) Not To Apply To Intangibles — 
+                     
+                     
+Paragraph  (2) of subsection (c) shall not apply to any gain from the sale of an 
+                        intangible.
+I.R.C. § 865(e) Special Rules For Sales Through Offices Or Fixed Places Of Business
+
+
+I.R.C. § 865(e)(1) Sales By Residents
+
+
+I.R.C. § 865(e)(1)(A) In General — 
+                     
+                     
+In  the case of income not sourced under subsection
+                        (b), (c), (d)(1)(B) or  (3), or (f), if a United States resident maintains an office
+                        or other  fixed place of business in a foreign country, income from sales of  personal
+                        property attributable to such office or other fixed place of  business shall be sourced
+                        outside the United States. 
+
+
+I.R.C. § 865(e)(1)(B) Tax Must Be Imposed — 
+                     
+                     
+Subparagraph  (A) shall not apply unless an income tax equal to at least 10 percent
+                        of  the income from the sale is actually paid to a foreign country with  respect to
+                        such income. 
+
+
+
+I.R.C. § 865(e)(2) Sales By Nonresidents
+
+
+I.R.C. § 865(e)(2)(A) In General — 
+                     
+                     
+Notwithstanding  any other provisions of this part, if a nonresident maintains an
+                        office or  other fixed place of business in the United States, income from any sale
+                        of personal property (including inventory property) attributable to such  office or
+                        other fixed place of business shall be sourced in the United  States. The preceding
+                        sentence shall not apply for purposes of section 971  (defining export trade corporation). 
+
+
+I.R.C. § 865(e)(2)(B) Exception — 
+                     
+                     
+Subparagraph  (A) shall not apply to any sale of inventory property which is sold
+                        for  use, disposition, or consumption outside the United States if an office or  other
+                        fixed place of business of the taxpayer in a foreign country  materially participated
+                        in the sale. 
+
+
+
+I.R.C. § 865(e)(3) Sales Attributable To An Office Or Other Fixed Place Of Business — 
+                  
+                  
+The  principles of section 864(c)(5) shall apply in determining whether a  taxpayer has an office or other fixed place
+                     of business and whether a sale  is attributable to such an office or other fixed place
+                     of business.
+I.R.C. § 865(f) Stock Of Affiliates — 
+               
+               
+If— 
+
+I.R.C. § 865(f)(1)  — 
+                  
+                  
+a United States resident sells stock in an affiliate  which is a foreign corporation, 
+
+
+I.R.C. § 865(f)(2)  — 
+                  
+                  
+such sale occurs in a foreign country in which such  affiliate is engaged in the active
+                     conduct of a trade or business, and 
+
+
+I.R.C. § 865(f)(3)  — 
+                  
+                  
+more than 50 percent of the gross income of such  affiliate for the 3-year period
+                     ending with the close of such affiliate's  taxable year immediately preceding the
+                     year in which the sale occurred was  derived from the active conduct of a trade or
+                     business in such foreign  country, 
+
+
+any gain from such sale shall be sourced outside the United  States. For purposes
+                     of paragraphs (2)
+                     and (3), the United States resident  may elect to treat an affiliate and all other
+                     corporations which are  wholly owned (directly or indirectly)
+                     by the affiliate as one corporation.
+I.R.C. § 865(g) United States Resident; Nonresident — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 865(g)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this subsection— 
+
+I.R.C. § 865(g)(1)(A) United States Resident — 
+                     
+                     
+The  term “United States resident” means— 
+
+I.R.C. § 865(g)(1)(A)(i)  — 
+                        
+                        
+any individual who— 
+
+I.R.C. § 865(g)(1)(A)(i)(I)  — 
+                           
+                           
+is a United States citizen or a resident alien and does  not have a tax home (as defined
+                              in section 911(d)(3)) in a foreign 
+                              country, or 
+
+
+I.R.C. § 865(g)(1)(A)(i)(II)  — 
+                           
+                           
+is a nonresident alien and has a tax home (as so  defined) in the United States, and 
+
+
+
+I.R.C. § 865(g)(1)(A)(ii)  — 
+                        
+                        
+any corporation, trust, or estate which is a United  States person (as defined in
+                           section 7701(a)(30)). 
+
+
+
+I.R.C. § 865(g)(1)(B) Nonresident — 
+                     
+                     
+The  term “nonresident” means any person other than a United States resident. 
+
+
+
+I.R.C. § 865(g)(2) Special Rules For United States Citizens And Resident Aliens — 
+                  
+                  
+For  purposes of this section, a United States citizen or resident alien shall  not
+                     be treated as a nonresident with respect to any sale of personal  property unless
+                     an income tax equal to at least 10 percent of the gain  derived from such sale is
+                     actually paid to a foreign country with respect  to that gain. 
+
+
+I.R.C. § 865(g)(3) Special Rule For Certain Stock Sales By Residents Of Puerto Rico — 
+                  
+                  
+Paragraph  (2) shall not apply to the sale by an individual who was a bona fide  resident
+                     of Puerto Rico during the entire taxable year of stock in a  corporation if— 
+
+I.R.C. § 865(g)(3)(A)  — 
+                     
+                     
+such corporation is engaged in the active conduct of a  trade or business in Puerto
+                        Rico, and 
+
+
+I.R.C. § 865(g)(3)(B)  — 
+                     
+                     
+more than 50 percent of its gross income for the 3-year  period ending with the close
+                        of such corporation's taxable year  immediately preceding the year in which such sale
+                        occurred was derived  from the active conduct of a trade or business in Puerto Rico. 
+
+
+For purposes of the preceding sentence, the taxpayer may  elect to treat a corporation
+                        and all other corporations which are wholly  owned (directly or indirectly) by such
+                        corporation as one corporation.
+I.R.C. § 865(h) Treatment Of Gains From Sale Of Certain Stock Or Intangibles And From Certain Liquidations
+
+
+I.R.C. § 865(h)(1) In General — 
+                  
+                  
+In  the case of gain to which this subsection applies— 
+
+I.R.C. § 865(h)(1)(A)  — 
+                     
+                     
+such gain shall be sourced outside the United States,  but 
+
+
+I.R.C. § 865(h)(1)(B)  — 
+                     
+                     
+subsections
+                        (a), (b), and (c) of section 904 and
+                        sections 907 and 960 shall be applied separately with respect to  such gain. 
+
+
+
+I.R.C. § 865(h)(2) Gain To Which Subsection Applies — 
+                  
+                  
+This  subsection shall apply to— 
+
+I.R.C. § 865(h)(2)(A) Gain From Sale Of Certain Stock Or Intangibles — 
+                     
+                     
+Any  gain— 
+
+I.R.C. § 865(h)(2)(A)(i)  — 
+                        
+                        
+which is from the sale of stock in a foreign corporation  or an intangible (as defined
+                           in subsection
+                           (d)(2)) and which would  otherwise be sourced in the United States under this section, 
+
+
+I.R.C. § 865(h)(2)(A)(ii)  — 
+                        
+                        
+which, under a treaty obligation of the United States  (applied without regard to
+                           this section), would be sourced outside the  United States, and 
+
+
+I.R.C. § 865(h)(2)(A)(iii)  — 
+                        
+                        
+with respect to which the taxpayer chooses the benefits  of this subsection. 
+
+
+
+I.R.C. § 865(h)(2)(B) Gain From Liquidation In Possession — 
+                     
+                     
+Any  gain which is derived from the receipt of any distribution in liquidation  of
+                        a corporation— 
+
+I.R.C. § 865(h)(2)(B)(i)  — 
+                        
+                        
+which is organized in a possession of the United States,  and 
+
+
+I.R.C. § 865(h)(2)(B)(ii)  — 
+                        
+                        
+more than 50 percent of the gross income of which during  the 3-taxable year period
+                           ending with the close of the taxable year  immediately preceding the taxable year
+                           in which the distribution is  received is from the active conduct of a trade or business
+                           in such  possession.
+I.R.C. § 865(i) Other Definitions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 865(i)(1) Inventory Property — 
+                  
+                  
+The  term “inventory property” means personal property described in paragraph  (1)
+                     of  section 1221(a). 
+
+
+I.R.C. § 865(i)(2) Sale Includes Exchange — 
+                  
+                  
+The  term “sale” includes an exchange or any other disposition. 
+
+
+I.R.C. § 865(i)(3) Treatment Of Possessions — 
+                  
+                  
+Any  possession of the United States shall be treated as a foreign country. 
+
+
+I.R.C. § 865(i)(4) Affiliate — 
+                  
+                  
+The  term “affiliate” means a member of the same affiliated group (within the  meaning
+                     of section 1504(a) without regard to section 1504(b)). 
+
+
+I.R.C. § 865(i)(5) Treatment Of Partnerships — 
+                  
+                  
+In  the case of a partnership, except as provided in regulations, this section  shall
+                     be applied at the partner level.
+I.R.C. § 865(j) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary or  appropriate
+                  to carry out the purpose of this section, including  regulations— 
+
+I.R.C. § 865(j)(1)  — 
+                  
+                  
+relating to the treatment of losses from sales of  personal property, 
+
+
+I.R.C. § 865(j)(2)  — 
+                  
+                  
+applying the rules of this section to income derived  from trading in futures contracts,
+                     forward contracts, options contracts,  and other instruments, and 
+
+
+I.R.C. § 865(j)(3)  — 
+                  
+                  
+providing that, subject to such conditions (which may  include provisions comparable
+                     to section 877) as may be provided in such
+                     regulations, subsections (e)(1)(B) and (g)(2) shall not apply for purposes  of sections
+                     931 and 933.
+I.R.C. § 865(k) Cross References
+
+
+I.R.C. § 865(k)(1)  — 
+                  
+                  
+For provisions relating to the characterization as dividends for source purposes of
+                     gains from the sale of stock in certain  foreign corporations, see section 1248. 
+
+
+I.R.C. § 865(k)(2)  — 
+                  
+                  
+For sourcing of income from certain foreign currency  transactions, see section 988.

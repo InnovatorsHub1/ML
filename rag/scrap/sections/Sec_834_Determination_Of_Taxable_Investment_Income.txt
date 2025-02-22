@@ -1,0 +1,243 @@
+Sec. 834. Determination Of Taxable Investment Income
+
+I.R.C. § 834(a) General Rule — 
+               
+               
+For  purposes of section 831(b), the term “taxable investment income” means the  gross investment income, minus the
+                  deductions provided in subsection (c).
+I.R.C. § 834(b) Gross Investment Income — 
+               
+               
+For  purposes of subsection (a), the term “gross investment income” means the  sum
+                  of the following: 
+
+I.R.C. § 834(b)(1)  — 
+                  
+                  
+The gross amount of income during the taxable year  from— 
+
+I.R.C. § 834(b)(1)(A)  — 
+                     
+                     
+interest, dividends, rents, and royalties, 
+
+
+I.R.C. § 834(b)(1)(B)  — 
+                     
+                     
+the entering into of any lease, mortgage, or other  instrument or agreement from which
+                        the insurance company derives interest,  rents, or royalties, 
+
+
+I.R.C. § 834(b)(1)(C)  — 
+                     
+                     
+the alteration or termination of any instrument or  agreement described in subparagraph
+                        (B), and 
+
+
+I.R.C. § 834(b)(1)(D)  — 
+                     
+                     
+gains from sales or exchanges of capital assets to the  extent provided in subchapter
+                        P (relating to  capital gains and losses). 
+
+
+
+I.R.C. § 834(b)(2)  — 
+                  
+                  
+The gross income during the taxable year from any trade  or business (other than an
+                     insurance business)
+                     carried on by the insurance  company, or by a partnership of which the insurance company
+                     is a partner.  In computing gross income under this paragraph, there shall be excluded
+                     any item described in paragraph
+                     (1).
+I.R.C. § 834(c) Deductions — 
+               
+               
+In  computing taxable investment income, the following deductions shall be  allowed: 
+
+I.R.C. § 834(c)(1) Tax-Free Interest — 
+                  
+                  
+The  amount of interest which under section 103 is excluded for the taxable
+                     year from gross income. 
+
+
+I.R.C. § 834(c)(2) Investment Expenses — 
+                  
+                  
+Investment  expenses paid or accrued during the taxable year. If any general expenses
+                     are in part assigned to or included in the investment expenses, the total  deduction
+                     under this paragraph shall not exceed one-fourth of 1 percent of  the mean of the
+                     book value of the invested assets held at the beginning  and end of the taxable year
+                     plus one-fourth of the amount by which taxable  investment income (computed without
+                     any deduction for investment expenses  allowed by this paragraph, for tax-free interest
+                     allowed by paragraph (1),
+                     or for dividends received allowed by paragraph (7)), exceeds 33/4 percent
+                     of the book value of the mean of the invested assets held at the beginning  and end
+                     of the taxable year. 
+
+
+I.R.C. § 834(c)(3) Real Estate Expenses — 
+                  
+                  
+Taxes  (as provided in section 164), and other expenses, paid or accrued during  the taxable year exclusively on or
+                     with respect to the real estate owned  by the company. No deduction shall be allowed
+                     under this paragraph for any  amount paid out for new buildings, or for permanent
+                     improvements or  betterments made to increase the value of any property. 
+
+
+I.R.C. § 834(c)(4) Depreciation — 
+                  
+                  
+The  depreciation deduction allowed by section 167. 
+
+
+I.R.C. § 834(c)(5) Interest Paid Or Accrued — 
+                  
+                  
+All  interest paid or accrued within the taxable year on indebtedness, except  on
+                     indebtedness incurred or continued to purchase or carry obligations the  interest
+                     on which is wholly exempt from taxation under this subtitle. 
+
+
+I.R.C. § 834(c)(6) Capital Losses — 
+                  
+                  
+Capital  losses to the extent provided in subchapter P (sec. 1201 and following)  plus losses from capital assets sold or exchanged in order to obtain
+                     funds  to meet abnormal insurance losses and to provide for the payment of  dividends
+                     and similar distributions to policyholders. Capital assets shall  be considered as
+                     sold or exchanged in order to obtain funds to meet  abnormal insurance losses and
+                     to provide for the payment of dividends and  similar distributions to policyholders
+                     to the extent that the gross  receipts from their sale or exchange are not greater
+                     than the excess, if  any, for the taxable year of the sum of dividends and similar
+                     distributions paid to policyholders, losses paid, and expenses paid over  the sum
+                     of the items described in subsection (b) (other than paragraph  (1)(D) thereof) and
+                     net premiums received. In the application of section  1212 for purposes of this section, the net capital loss for the taxable  year shall be
+                     the amount by which losses for such year from sales or  exchanges of capital assets
+                     exceeds the sum of the gains from such sales  or exchanges and whichever of the following
+                     amounts is the lesser: 
+
+I.R.C. § 834(c)(6)(A)  — 
+                     
+                     
+the taxable investment income (computed without regard  to gains or losses from sales
+                        or exchanges of capital assets); or 
+
+
+I.R.C. § 834(c)(6)(B)  — 
+                     
+                     
+losses from the sale or exchange of capital assets sold  or exchanged to obtain funds
+                        to meet abnormal insurance losses and to  provide for the payment of dividends and
+                        similar distributions to  policyholders. 
+
+
+
+I.R.C. § 834(c)(7) Special Deductions — 
+                  
+                  
+The  special deductions allowed by part VIII (except section 248) of subchapter  B (sec. 241 and following, relating to dividends received). In applying  section 246(b) (relating to limitation on aggregate amount of deductions  for dividends received)
+                     for purposes of this paragraph, the reference in  such section to “taxable income"
+                     shall be treated as a reference to  “taxable investment income”. 
+
+
+I.R.C. § 834(c)(8) Trade Or Business Deductions — 
+                  
+                  
+The  deductions allowed by this subtitle (without regard to this part) which  are
+                     attributable to any trade or business (other than an insurance  business) carried
+                     on by the insurance company, or by a partnership of  which the insurance company is
+                     a partner;
+                     except that for purposes of this  paragraph— 
+
+I.R.C. § 834(c)(8)(A)  — 
+                     
+                     
+any item, to the extent attributable to the carrying on  of the insurance business,
+                        shall not be taken into account, and 
+
+
+I.R.C. § 834(c)(8)(B)  — 
+                     
+                     
+the deduction for net operating losses provided in  section 172 shall not be allowed. 
+
+
+
+I.R.C. § 834(c)(9) Depletion — 
+                  
+                  
+The  deduction allowed by section 611 (relating to depletion).
+I.R.C. § 834(d) Other Applicable Rules
+
+
+I.R.C. § 834(d)(1) Rental Value Of Real Estate — 
+                  
+                  
+The  deduction under subsection (c)(3) or (4) on account of any real estate  owned
+                     and occupied in whole or in part by a mutual insurance company  subject to the tax
+                     imposed by section 831 shall be limited to an amount
+                     which bears the same ratio to such deduction (computed without regard to  this paragraph)
+                     as the rental value of the space not so occupied bears to  the rental value of the
+                     entire property. 
+
+
+I.R.C. § 834(d)(2) Amortization Of Premium And Accrual Of Discount — 
+                  
+                  
+The  gross amount of income during the taxable year from interest and the  deduction
+                     provided in subsection (c)(1) shall each be decreased to reflect  the appropriate
+                     amortization of premium and increased to reflect the  appropriate accrual of discount
+                     attributable to the taxable year on bonds,  notes, debentures, or other evidences
+                     of indebtedness held by a mutual  insurance company subject to the tax imposed by
+                     section 831. Such  amortization and accrual shall be determined— 
+
+I.R.C. § 834(d)(2)(A)  — 
+                     
+                     
+in accordance with the method regularly employed by such  company, if such method
+                        is reasonable, and 
+
+
+I.R.C. § 834(d)(2)(B)  — 
+                     
+                     
+in all other cases, in accordance with regulations  prescribed by the Secretary. 
+
+
+No accrual of discount shall be required under this
+                        paragraph on any bond (as defined in section 171(d)) except in the case of
+                        discount which is original issue discount (as defined in section 1273).
+
+
+
+I.R.C. § 834(d)(3) Double Deductions — 
+                  
+                  
+Nothing  in this part shall permit the same item to be deducted more than once.
+I.R.C. § 834(e) Definitions — 
+               
+               
+For  purposes of this part— 
+
+I.R.C. § 834(e)(1) Net Premiums — 
+                  
+                  
+The  term “net premiums” means gross premiums (including deposits and  assessments)
+                     written or received on insurance contracts during the taxable  year less return premiums
+                     and premiums paid or incurred for reinsurance.  Amounts returned where the amount
+                     is not fixed in the insurance contract  but depends on the experience of the company
+                     or the discretion of the  management shall not be included in return premiums but
+                     shall be treated  as dividends to policyholders under paragraph (2). 
+
+
+I.R.C. § 834(e)(2) Dividends To Policyholders — 
+                  
+                  
+The  term “dividends to policyholders” means dividends and similar  distributions
+                     paid or declared to policyholders. For purposes of the  preceding sentence, the term
+                     “paid or declared” shall be construed  according to the method regularly employed
+                     in keeping the books of the  insurance company.

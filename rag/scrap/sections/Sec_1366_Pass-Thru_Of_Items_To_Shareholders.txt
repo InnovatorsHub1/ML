@@ -1,0 +1,204 @@
+Sec. 1366. Pass-Thru Of Items To Shareholders
+
+I.R.C. § 1366(a) Determination Of Shareholder's Tax Liability
+
+
+I.R.C. § 1366(a)(1) In General — 
+                  
+                  
+In  determining the tax under this chapter of a shareholder for the  shareholder's
+                     taxable year in which the taxable year of the S corporation  ends (or for the final
+                     taxable year of a shareholder who dies, or of a  trust or estate which terminates,
+                     before the end of the corporation's  taxable year), there shall be taken into account
+                     the shareholder's pro  rata share of the corporation's— 
+
+I.R.C. § 1366(a)(1)(A)  — 
+                     
+                     
+items  of income (including tax-exempt income), loss, deduction, or credit the  separate
+                        treatment of which could affect the liability for tax of any  shareholder, and 
+
+
+I.R.C. § 1366(a)(1)(B)  — 
+                     
+                     
+nonseparately  computed income or loss. 
+
+
+For purposes of the preceding sentence, the items  referred to in subparagraph (A)
+                        shall include amounts described in  paragraph
+                        (4) or (6) of section 702(a).
+
+
+
+I.R.C. § 1366(a)(2) Nonseparately Computed Income Or Loss Defined — 
+                  
+                  
+For  purposes of this subchapter, the term “nonseparately computed income or  loss”
+                     means gross income minus the deductions allowed to the corporation  under this chapter,
+                     determined by excluding all items described in  paragraph (1)(A).
+I.R.C. § 1366(b) Character Passed Thru — 
+               
+               
+The  character of any item included in a shareholder's pro rata share under  paragraph
+                  (1) of subsection (a) shall be determined as if such item were  realized directly
+                  from the source from which realized by the corporation,  or incurred in the same manner
+                  as incurred by the corporation.
+I.R.C. § 1366(c) Gross Income Of A Shareholder — 
+               
+               
+In  any case where it is necessary to determine the gross income of a  shareholder
+                  for purposes of this title, such gross income shall include  the shareholder's pro
+                  rata share of the gross income of the corporation.
+I.R.C. § 1366(d) Special Rules For Losses And Deductions
+
+
+I.R.C. § 1366(d)(1) Cannot Exceed Shareholder's Basis In Stock And Debt — 
+                  
+                  
+The  aggregate amount of losses and deductions taken into account by a  shareholder
+                     under subsection (a) for any taxable year shall not exceed the  sum of— 
+
+I.R.C. § 1366(d)(1)(A)  — 
+                     
+                     
+the  adjusted basis of the shareholder's stock in the S corporation (determined  with
+                        regard to paragraphs
+                        (1) and (2)(A) of section 1367(a) for the  taxable year), and 
+
+
+I.R.C. § 1366(d)(1)(B)  — 
+                     
+                     
+the  shareholder's adjusted basis of any indebtedness of the S corporation to  the
+                        shareholder (determined without regard to any adjustment under  paragraph (2) of section
+                        1367(b) for the taxable year). 
+
+
+
+I.R.C. § 1366(d)(2) Indefinite Carryover Of Disallowed Losses And Deductions
+
+
+I.R.C. § 1366(d)(2)(A) In General — 
+                     
+                     
+Except as provided in subparagraph (B), any loss or deduction which  is disallowed
+                        for any taxable year by reason of paragraph
+                        (1) shall  be treated as incurred by the corporation in the succeeding taxable  year
+                        with respect to that shareholder. 
+
+
+I.R.C. § 1366(d)(2)(B) Transfers Of Stock Between Spouses Or Incident To Divorce — 
+                     
+                     
+In the case of any transfer described in section 1041(a) of stock  of an S corporation, any loss or deduction described in  subparagraph (A)
+                        with respect such stock shall be treated as  incurred by the corporation in the succeeding
+                        taxable year with  respect to the transferee. 
+
+
+
+I.R.C. § 1366(d)(3) Carryover Of Disallowed Losses And Deductions To Post-Termination Transition Period
+
+
+I.R.C. § 1366(d)(3)(A) In General — 
+                     
+                     
+If  for the last taxable year of a corporation for which it was an S  corporation
+                        a loss or deduction was disallowed by reason of paragraph (1),  such loss or deduction
+                        shall be treated as incurred by the shareholder on  the last day of any post-termination
+                        transition period. 
+
+
+I.R.C. § 1366(d)(3)(B) Cannot Exceed Shareholder's Basis In Stock — 
+                     
+                     
+The  aggregate amount of losses and deductions taken into account by a  shareholder
+                        under subparagraph (A) shall not exceed the adjusted basis of  the shareholder's stock
+                        in the corporation
+                        (determined at the close of the  last day of the post-termination transition period
+                        and without regard to  this paragraph). 
+
+
+I.R.C. § 1366(d)(3)(C) Adjustment In Basis Of Stock — 
+                     
+                     
+The  shareholder's basis in the stock of the corporation shall be reduced by  the
+                        amount allowed as a deduction by reason of this paragraph. 
+
+
+I.R.C. § 1366(d)(3)(D) At-Risk Limitations — 
+                     
+                     
+To  the extent that any increase in adjusted basis described in subparagraph  (B)
+                        would have increased the shareholder's amount at risk under section  465 if such increase had occurred on the day preceding the commencement of
+                        the post-termination transition period, rules similar to the rules
+                        described in subparagraphs (A) through (C) shall apply to any losses
+                        disallowed by reason of section  465(a). 
+
+
+
+I.R.C. § 1366(d)(4) Application Of Limitation On Charitable Contributions — 
+                  
+                  
+In the case of any charitable contribution of property to which the second sentence
+                     of section 1367(a)(2) applies, paragraph
+                     (1) shall not apply to the extent of the excess (if any) of— 
+
+I.R.C. § 1366(d)(4)(A)  — 
+                     
+                     
+the shareholder's pro rata share of such contribution, over 
+
+
+I.R.C. § 1366(d)(4)(B)  — 
+                     
+                     
+the shareholder's pro rata share of the adjusted basis of such property.
+I.R.C. § 1366(e) Treatment Of Family Group — 
+               
+               
+If  an individual who is a member of the family (within the meaning of section  704(e)(2))
+                  of one or more shareholders of an S corporation renders  services for the corporation
+                  or furnishes capital to the corporation  without receiving reasonable compensation
+                  therefor, the Secretary shall  make such adjustments in the items taken into account
+                  by such individual
+                  and such shareholders as may be necessary in order to reflect the value of  such services
+                  or capital.
+I.R.C. § 1366(f) Special Rules
+
+
+I.R.C. § 1366(f)(1) Subsection (a) Not To Apply To Credit Allowable Under Section 34 — 
+                  
+                  
+Subsection  (a) shall not apply with respect to any credit allowable under section
+                     34 
+                     (relating to certain uses of gasoline and special fuels). 
+
+
+I.R.C. § 1366(f)(2) Treatment Of Tax Imposed On Built-In Gains — 
+                  
+                  
+If  any tax is imposed under section 1374 for any taxable year on an S  corporation, for purposes of subsection (a), the amount
+                     so imposed shall  be treated as a loss sustained by the S corporation during such
+                     taxable  year. The character of such loss shall be determined by allocating the  loss
+                     proportionately among the recognized built-in gains giving rise to  such tax. 
+
+
+I.R.C. § 1366(f)(3) Reduction In Pass-Thru For Tax Imposed On Excess Net Passive Income — 
+                  
+                  
+If  any tax is imposed under section 1375 for any taxable year on an S  corporation, for purposes of subsection (a), each item
+                     of passive
+                     investment income shall be reduced by an amount which bears the same ratio  to the
+                     amount of such tax as-- 
+
+I.R.C. § 1366(f)(3)(A)  — 
+                     
+                     
+the  amount of such item, bears to 
+
+
+I.R.C. § 1366(f)(3)(B)  — 
+                     
+                     
+the  total passive investment income for the taxable year.

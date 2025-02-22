@@ -1,0 +1,377 @@
+Sec. 250. Foreign-Derived Intangible Income And Global Intangible Low-Taxed Income
+
+I.R.C. § 250(a) Allowance Of Deduction
+
+
+I.R.C. § 250(a)(1) In General — 
+                  
+                  
+In the case of a domestic corporation for any taxable year, there shall be allowed
+                     as a deduction an amount equal to the sum of— 
+
+I.R.C. § 250(a)(1)(A)  — 
+                     
+                     
+37.5 percent of the foreign-derived intangible income of such domestic corporation
+                        for such taxable year, plus 
+
+
+I.R.C. § 250(a)(1)(B)  — 
+                     
+                     
+50 percent of— 
+
+I.R.C. § 250(a)(1)(B)(i)  — 
+                        
+                        
+the global intangible low-taxed income amount (if any) which is included in the gross
+                           income of such domestic corporation under section 951A for such taxable year, and 
+
+
+I.R.C. § 250(a)(1)(B)(ii)  — 
+                        
+                        
+the amount treated as a dividend received by such corporation under section 78 which is attributable to the amount described in clause (i). 
+
+
+
+
+I.R.C. § 250(a)(2) Limitation Based On Taxable Income
+
+
+I.R.C. § 250(a)(2)(A) In General — 
+                     
+                     
+If, for any taxable year 
+
+I.R.C. § 250(a)(2)(A)(i)  — 
+                        
+                        
+the sum of the foreign-derived intangible income and the global intangible low-taxed
+                           income amount otherwise taken into account by the domestic corporation under paragraph
+                           (1), exceeds 
+
+
+I.R.C. § 250(a)(2)(A)(ii)  — 
+                        
+                        
+the taxable income of the domestic corporation
+                           (determined without regard to this section), 
+
+then the amount of the foreign-derived intangible income and the global intangible
+                              low-taxed income amount so taken into account shall be reduced as provided in subparagraph
+                              (B).
+
+
+
+
+I.R.C. § 250(a)(2)(B) Reduction — 
+                     
+                     
+For purposes of subparagraph (A)— 
+
+I.R.C. § 250(a)(2)(B)(i)  — 
+                        
+                        
+foreign-derived intangible income shall be reduced by an amount which bears the same
+                           ratio to the excess described in subparagraph (A) as such foreign-derived intangible
+                           income bears to the sum described in subparagraph (A)(i), and 
+
+
+I.R.C. § 250(a)(2)(B)(ii)  — 
+                        
+                        
+the global intangible low-taxed income amount shall be reduced by the remainder of
+                           such excess. 
+
+
+
+
+I.R.C. § 250(a)(3) Reduction In Deduction For Taxable Years After 2025 — 
+                  
+                  
+In the case of any taxable year beginning after December 31, 2025, paragraph (1) shall
+                     be applied by substituting— 
+
+I.R.C. § 250(a)(3)(A)  — 
+                     
+                     
+“21.875 percent” for “37.5 percent” in subparagraph (A), and 
+
+
+I.R.C. § 250(a)(3)(B)  — 
+                     
+                     
+“37.5 percent” for “50 percent” in subparagraph (B).
+I.R.C. § 250(b) Foreign-Derived Intangible Income — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 250(b)(1) In General — 
+                  
+                  
+The foreign-derived intangible income of any domestic corporation is the amount which
+                     bears the same ratio to the deemed intangible income of such corporation as— 
+
+I.R.C. § 250(b)(1)(A)  — 
+                     
+                     
+the foreign-derived deduction eligible income of such corporation, bears to 
+
+
+I.R.C. § 250(b)(1)(B)  — 
+                     
+                     
+the deduction eligible income of such corporation. 
+
+
+
+I.R.C. § 250(b)(2) Deemed Intangible Income — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 250(b)(2)(A) In General — 
+                     
+                     
+The term “deemed intangible income” means the excess (if any) of— 
+
+I.R.C. § 250(b)(2)(A)(i)  — 
+                        
+                        
+the deduction eligible income of the domestic corporation, over 
+
+
+I.R.C. § 250(b)(2)(A)(ii)  — 
+                        
+                        
+the deemed tangible income return of the corporation. 
+
+
+
+I.R.C. § 250(b)(2)(B) Deemed Tangible Income Return — 
+                     
+                     
+The term “deemed tangible income return”
+                        means, with respect to any corporation, an amount equal to 10 percent of the corporation's
+                        qualified business asset investment (as defined in section 951A(d), determined by substituting “deduction eligible income”
+                        for “tested income” in paragraph (2) thereof and without regard to whether the corporation
+                        is a controlled foreign corporation). 
+
+
+
+I.R.C. § 250(b)(3) Deduction Eligible Income
+
+
+I.R.C. § 250(b)(3)(A) In General — 
+                     
+                     
+The term “deduction eligible income” means, with respect to any domestic corporation,
+                        the excess (if any) of— 
+
+I.R.C. § 250(b)(3)(A)(i)  — 
+                        
+                        
+gross income of such corporation determined without regard to— 
+
+I.R.C. § 250(b)(3)(A)(i)(I)  — 
+                           
+                           
+any amount included in the gross income of such corporation under section 951(a)(1), 
+
+
+I.R.C. § 250(b)(3)(A)(i)(II)  — 
+                           
+                           
+the global intangible low-taxed income included in the gross income of such corporation
+                              under section 951A, 
+
+
+I.R.C. § 250(b)(3)(A)(i)(III)  — 
+                           
+                           
+any financial services income (as defined in section 904(d)(2)(D))
+                              of such corporation, 
+
+
+I.R.C. § 250(b)(3)(A)(i)(IV)  — 
+                           
+                           
+any dividend received from a corporation which is a controlled foreign corporation
+                              of such domestic corporation, 
+
+
+I.R.C. § 250(b)(3)(A)(i)(V)  — 
+                           
+                           
+any domestic oil and gas extraction income of such corporation, and 
+
+
+I.R.C. § 250(b)(3)(A)(i)(VI)  — 
+                           
+                           
+any foreign branch income (as defined in section 904(d)(2)(J)), over 
+
+
+
+I.R.C. § 250(b)(3)(A)(ii)  — 
+                        
+                        
+the deductions (including taxes) properly allocable to such gross income. 
+
+
+
+I.R.C. § 250(b)(3)(B) Domestic Oil And Gas Extraction Income — 
+                     
+                     
+For purposes of subparagraph (A), the term “domestic oil and gas extraction income”
+                        means income described in section 907(c)(1), determined by substituting “within the United States” for “without the United States”. 
+
+
+
+I.R.C. § 250(b)(4) Foreign-Derived Deduction Eligible Income — 
+                  
+                  
+The term “foreign-derived deduction eligible income”
+                     means, with respect to any taxpayer for any taxable year, any deduction eligible income
+                     of such taxpayer which is derived in connection with— 
+
+I.R.C. § 250(b)(4)(A)  — 
+                     
+                     
+property— 
+
+I.R.C. § 250(b)(4)(A)(i)  — 
+                        
+                        
+which is sold by the taxpayer to any person who is not a United States person, and 
+
+
+I.R.C. § 250(b)(4)(A)(ii)  — 
+                        
+                        
+which the taxpayer establishes to the satisfaction of the Secretary is for a foreign
+                           use, or 
+
+
+
+I.R.C. § 250(b)(4)(B)  — 
+                     
+                     
+services provided by the taxpayer which the taxpayer establishes to the satisfaction
+                        of the Secretary are provided to any person, or with respect to property, not located
+                        within the United States. 
+
+
+
+I.R.C. § 250(b)(5) Rules Relating To Foreign Use Property Or Services — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 250(b)(5)(A) Foreign Use — 
+                     
+                     
+The term “foreign use” means any use, consumption, or disposition which is not within
+                        the United States. 
+
+
+I.R.C. § 250(b)(5)(B) Property Or Services Provided To Domestic Intermediaries
+
+
+I.R.C. § 250(b)(5)(B)(i) Property — 
+                        
+                        
+If a taxpayer sells property to another person (other than a related party) for further
+                           manufacture or other modification within the United States, such property shall not
+                           be treated as sold for a foreign use even if such other person subsequently uses such
+                           property for a foreign use. 
+
+
+I.R.C. § 250(b)(5)(B)(ii) Services — 
+                        
+                        
+If a taxpayer provides services to another person (other than a related party) located
+                           within the United States, such services shall not be treated as described in paragraph
+                           (4)(B) even if such other person uses such services in providing services which are so described. 
+
+
+
+I.R.C. § 250(b)(5)(C) Special Rules With Respect To Related Party Transactions
+
+
+I.R.C. § 250(b)(5)(C)(i) Sales To Related Parties — 
+                        
+                        
+If property is sold to a related party who is not a United States person, such sale
+                           shall not be treated as for a foreign use unless— 
+
+I.R.C. § 250(b)(5)(C)(i)(I)  — 
+                           
+                           
+such property is ultimately sold by a related party, or used by a related party in
+                              connection with property which is sold or the provision of services, to another person
+                              who is an unrelated party who is not a United States person, and 
+
+
+I.R.C. § 250(b)(5)(C)(i)(II)  — 
+                           
+                           
+the taxpayer establishes to the satisfaction of the Secretary that such property is
+                              for a foreign use. 
+
+For purposes of this clause, a sale of property shall be treated as a sale of each
+                                 of the components thereof
+
+
+
+
+I.R.C. § 250(b)(5)(C)(ii) Service Provided To Related Parties — 
+                        
+                        
+If a service is provided to a related party who is not located in the United States,
+                           such service shall not be treated described in subparagraph (A)(ii) unless the taxpayer established to the satisfaction of the Secretary that such service
+                           is not substantially similar to services provided by such related party to persons
+                           located within the United States. 
+
+
+
+I.R.C. § 250(b)(5)(D) Related Party — 
+                     
+                     
+For purposes of this paragraph, the term “related party” means any member of an affiliated
+                        group as defined in section 1504(a), determined— 
+
+I.R.C. § 250(b)(5)(D)(i)  — 
+                        
+                        
+by substituting “more than 50 percent”
+                           for “at least 80 percent” each place it appears, and 
+
+
+I.R.C. § 250(b)(5)(D)(ii)  — 
+                        
+                        
+without regard to paragraphs (2) and
+                           (3) of section 1504(b). 
+
+Any person (other than a corporation)
+                              shall be treated as a member of such group if such person is controlled by members
+                              of such group (including any entity treated as a member of such group by reason of
+                              this sentence) or controls any such member. For purposes of the preceding sentence,
+                              control shall be determined under the rules of section 954(d)(3).
+
+
+
+
+I.R.C. § 250(b)(5)(E) Sold — 
+                     
+                     
+For purposes of this subsection, the terms “sold”, “sells”, and “sale” shall include
+                        any lease, license, exchange, or other disposition.
+I.R.C. § 250(c) Regulations — 
+               
+               
+The Secretary shall prescribe such regulations or other guidance as may be necessary
+                  or appropriate to carry out the provisions of this section.

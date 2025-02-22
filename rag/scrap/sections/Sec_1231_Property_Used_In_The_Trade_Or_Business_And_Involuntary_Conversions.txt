@@ -1,0 +1,328 @@
+Sec. 1231. Property Used In The Trade Or Business And Involuntary Conversions
+
+I.R.C. § 1231(a) General Rule
+
+
+I.R.C. § 1231(a)(1) Gains Exceed Losses — 
+                  
+                  
+If— 
+
+I.R.C. § 1231(a)(1)(A)  — 
+                     
+                     
+the  section 1231 gains for any taxable year, exceed 
+
+
+I.R.C. § 1231(a)(1)(B)  — 
+                     
+                     
+the  section 1231 losses for such taxable year, 
+
+
+such gains and losses shall be  treated as long-term capital gains or long-term capital
+                        losses, as the  case may be.
+
+
+
+I.R.C. § 1231(a)(2) Gains Do Not Exceed Losses — 
+                  
+                  
+If— 
+
+I.R.C. § 1231(a)(2)(A)  — 
+                     
+                     
+the  section 1231 gains for any taxable year, do not exceed 
+
+
+I.R.C. § 1231(a)(2)(B)  — 
+                     
+                     
+the  section 1231 losses for such taxable year, 
+
+
+such gains and losses shall not
+                        be treated as gains and losses from sales or exchanges of capital assets.
+
+
+
+I.R.C. § 1231(a)(3) Section 1231 Gains And Losses — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1231(a)(3)(A) Section 1231 Gain — 
+                     
+                     
+The  term “section 1231 gain” means— 
+
+I.R.C. § 1231(a)(3)(A)(i)  — 
+                        
+                        
+any  recognized gain on the sale or exchange of property used in the trade or  business,
+                           and 
+
+
+I.R.C. § 1231(a)(3)(A)(ii)  — 
+                        
+                        
+any  recognized gain from the compulsory or involuntary conversion (as a result  of
+                           destruction in whole or in part, theft or seizure, or an exercise of  the power of
+                           requisition or condemnation or the threat or imminence  thereof) into other property
+                           or money of— 
+
+I.R.C. § 1231(a)(3)(A)(ii)(I)  — 
+                           
+                           
+property  used in the trade or business, or 
+
+
+I.R.C. § 1231(a)(3)(A)(ii)(II)  — 
+                           
+                           
+any  capital asset which is held for more than 1 year and is held in connection  with
+                              a trade or business or a transaction entered into for profit. 
+
+
+
+
+I.R.C. § 1231(a)(3)(B) Section 1231 Loss — 
+                     
+                     
+The  term “section 1231 loss” means any recognized loss from a sale or exchange  or
+                        conversion described in subparagraph (A). 
+
+
+
+I.R.C. § 1231(a)(4) Special Rules — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1231(a)(4)(A)  — 
+                     
+                     
+In  determining under this subsection whether gains exceed losses— 
+
+I.R.C. § 1231(a)(4)(A)(i)  — 
+                        
+                        
+the  section 1231 gains shall be included only if and to the extent taken into  account
+                           in computing gross income, and 
+
+
+I.R.C. § 1231(a)(4)(A)(ii)  — 
+                        
+                        
+the  section 1231 losses shall be included only if and to the extent taken into  account
+                           in computing taxable income, except that section 1211 shall not  apply. 
+
+
+
+I.R.C. § 1231(a)(4)(B)  — 
+                     
+                     
+Losses  (including losses not compensated for by insurance or otherwise) on the  destruction,
+                        in whole or in part, theft or seizure, or requisition or  condemnation of— 
+
+I.R.C. § 1231(a)(4)(B)(i)  — 
+                        
+                        
+property  used in the trade or business, or 
+
+
+I.R.C. § 1231(a)(4)(B)(ii)  — 
+                        
+                        
+capital  assets which are held for more than 1 year and are held in connection with
+                           a trade or business or a transaction entered into for profit, 
+
+
+shall be  treated as losses from a compulsory or involuntary conversion.
+
+
+
+I.R.C. § 1231(a)(4)(C)  — 
+                     
+                     
+In  the case of any involuntary conversion
+                        (subject to the provisions of this  subsection but for this sentence)
+                        arising from fire, storm, shipwreck, or  other casualty, or from theft, of any— 
+
+I.R.C. § 1231(a)(4)(C)(i)  — 
+                        
+                        
+property  used in the trade or business, or 
+
+
+I.R.C. § 1231(a)(4)(C)(ii)  — 
+                        
+                        
+any  capital asset which is held for more than 1 year and is held in connection  with
+                           a trade or business or a transaction entered into for profit, 
+
+
+this  subsection shall not apply to such conversion (whether resulting in gain  or
+                           loss) if during the taxable year the recognized losses from such  conversions exceed
+                           the recognized gains from such conversions.
+I.R.C. § 1231(b) Definition Of Property Used In The Trade Or Business — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1231(b)(1) General Rule — 
+                  
+                  
+The  term “property used in the trade or business” means property used in the  trade
+                     or business, of a character which is subject to the allowance for  depreciation provided
+                     in section 167, held for more than 1 year, and real  property used in the trade or business, held
+                     for more than 1 year, which  is not— 
+
+I.R.C. § 1231(b)(1)(A)  — 
+                     
+                     
+property  of a kind which would properly be includible in the inventory of the  taxpayer
+                        if on hand at the close of the taxable year, 
+
+
+I.R.C. § 1231(b)(1)(B)  — 
+                     
+                     
+property  held by the taxpayer primarily for sale to customers in the ordinary  course
+                        of his trade or business, 
+
+
+I.R.C. § 1231(b)(1)(C)  — 
+                     
+                     
+a patent, invention, model or design
+                        (whether or not patented), a secret formula or process, a  copyright, a literary,
+                        musical, or artistic composition, a letter or  memorandum, or similar property, held
+                        by a taxpayer described in paragraph  (3)
+                        of section 1221(a), or 
+
+
+I.R.C. § 1231(b)(1)(D)  — 
+                     
+                     
+a  publication of the United States Government (including the Congressional  Record)
+                        which is received from the United States Government, or any agency  thereof, other
+                        than by purchase at the price at which it is offered for  sale to the public, and
+                        which is held by a taxpayer described in paragraph  (5) of section 1221(a). 
+
+
+
+I.R.C. § 1231(b)(2) Timber, Coal, Or Domestic Iron Ore — 
+                  
+                  
+Such  term includes timber, coal, and iron ore with respect to which section 631 
+                     applies. 
+
+
+I.R.C. § 1231(b)(3) Livestock — 
+                  
+                  
+Such  term includes— 
+
+I.R.C. § 1231(b)(3)(A)  — 
+                     
+                     
+cattle  and horses, regardless of age, held by the taxpayer for draft, breeding, 
+                        dairy, or sporting purposes, and held by him for 24 months or more from  the date
+                        of acquisition, and 
+
+
+I.R.C. § 1231(b)(3)(B)  — 
+                     
+                     
+other  livestock, regardless of age, held by the taxpayer for draft, breeding,  dairy,
+                        or sporting purposes, and held by him for 12 months or more from  the date of acquisition. 
+
+
+Such term does not include poultry.
+
+
+
+I.R.C. § 1231(b)(4) Unharvested Crop — 
+                  
+                  
+In  the case of an unharvested crop on land used in the trade or business and  held
+                     for more than 1 year, if the crop and the land are sold or exchanged  (or compulsorily
+                     or involuntarily converted) at the same time and to the  same person, the crop shall
+                     be considered as “property used in the trade  or business.”
+I.R.C. § 1231(c) Recapture Of Net Ordinary Losses
+
+
+I.R.C. § 1231(c)(1) In General — 
+                  
+                  
+The  net section 1231 gain for any taxable year shall be treated as ordinary  income
+                     to the extent such gain does not exceed the non-recaptured net  section 1231 losses. 
+
+
+I.R.C. § 1231(c)(2) Non-Recaptured Net Section 1231 Losses — 
+                  
+                  
+For  purposes of this subsection, the term “non-recaptured net section 1231  losses”
+                     means the excess of— 
+
+I.R.C. § 1231(c)(2)(A)  — 
+                     
+                     
+the  aggregate amount of the net section 1231 losses for the 5 most recent  preceding
+                        taxable years, over 
+
+
+I.R.C. § 1231(c)(2)(B)  — 
+                     
+                     
+the  portion of such losses taken into account under paragraph (1) for such  preceding
+                        taxable years. 
+
+
+
+I.R.C. § 1231(c)(3) Net Section 1231 Gain — 
+                  
+                  
+For  purposes of this subsection, the term “net section 1231 gain” means the  excess
+                     of— 
+
+I.R.C. § 1231(c)(3)(A)  — 
+                     
+                     
+the  section 1231 gains, over 
+
+
+I.R.C. § 1231(c)(3)(B)  — 
+                     
+                     
+the  section 1231 losses. 
+
+
+
+I.R.C. § 1231(c)(4) Net Section 1231 Loss — 
+                  
+                  
+For  purposes of this subsection, the term “net section 1231 loss” means the  excess
+                     of— 
+
+I.R.C. § 1231(c)(4)(A)  — 
+                     
+                     
+the  section 1231 losses, over 
+
+
+I.R.C. § 1231(c)(4)(B)  — 
+                     
+                     
+the  section 1231 gains. 
+
+
+
+I.R.C. § 1231(c)(5) Special Rules — 
+                  
+                  
+For  purposes of determining the amount of the net section 1231 gain or loss  for
+                     any taxable year, the rules of paragraph (4)
+                     of subsection (a) shall  apply.

@@ -1,0 +1,38 @@
+Sec. 860B. Taxation Of Holders Of Regular Interests
+
+I.R.C. § 860B(a) General Rule — 
+               
+               
+In  determining the tax under this chapter of any holder of a regular interest  in
+                  a REMIC, such interest (if not otherwise a debt instrument) shall be  treated as a
+                  debt instrument.
+I.R.C. § 860B(b) Holders Must Use Accrual Method — 
+               
+               
+The  amounts includible in gross income with respect to any regular interest in  a
+                  REMIC shall be determined under the accrual method of accounting.
+I.R.C. § 860B(c) Portion Of Gain Treated As Ordinary Income — 
+               
+               
+Gain  on the disposition of a regular interest shall be treated as ordinary  income
+                  to the extent such gain does not exceed the excess (if any) of— 
+
+I.R.C. § 860B(c)(1)  — 
+                  
+                  
+the amount which would have been includible in the gross  income of the taxpayer with
+                     respect to such interest if the yield on such  interest were 110 percent of the applicable
+                     Federal rate (as defined in  section 1274(d) without regard to paragraph
+                     (2) thereof) as of the  beginning of the taxpayer's holding period, over 
+
+
+I.R.C. § 860B(c)(2)  — 
+                  
+                  
+the amount actually includible in gross income with  respect to such interest by the
+                     taxpayer.
+I.R.C. § 860B(d) Cross Reference — 
+               
+               
+For  special rules in determining inclusion of original issue discount on  regular
+                  interests, see section 1272(a)(6).

@@ -1,0 +1,165 @@
+Sec. 9825. Reporting On Pharmacy Benefits And Drug Costs
+
+I.R.C. § 9825(a) In General  — 
+               
+               
+Not later than 1 year after the date of enactment of the Consolidated Appropriations
+                  Act, 2021, and not later than June 1 of each year thereafter, a group health plan
+                  shall submit to the Secretary, the Secretary of Health and Human Services, and the
+                  Secretary of Labor the following information with respect to the health plan in the
+                  previous plan year: 
+
+I.R.C. § 9825(a)(1)  — 
+                  
+                  
+The beginning and end dates of the plan year. 
+
+
+I.R.C. § 9825(a)(2)  — 
+                  
+                  
+The number of participants and beneficiaries. 
+
+
+I.R.C. § 9825(a)(3)  — 
+                  
+                  
+Each State in which the plan is offered. 
+
+
+I.R.C. § 9825(a)(4)  — 
+                  
+                  
+The 50 brand prescription drugs most frequently dispensed by pharmacies for claims
+                     paid by the plan, and the total number of paid claims for each such drug. 
+
+
+I.R.C. § 9825(a)(5)  — 
+                  
+                  
+The 50 most costly prescription drugs with respect to the plan by total annual spending,
+                     and the annual amount spent by the plan for each such drug. 
+
+
+I.R.C. § 9825(a)(6)  — 
+                  
+                  
+The 50 prescription drugs with the greatest increase in plan expenditures over the
+                     plan year preceding the plan year that is the subject of the report, and, for each
+                     such drug, the change in amounts expended by the plan in each such plan year. 
+
+
+I.R.C. § 9825(a)(7)  — 
+                  
+                  
+Total spending on health care services by such group health plan, broken down by— 
+
+I.R.C. § 9825(a)(7)(A)  — 
+                     
+                     
+the type of costs, including— 
+
+I.R.C. § 9825(a)(7)(A)(i)  — 
+                        
+                        
+hospital costs; 
+
+
+I.R.C. § 9825(a)(7)(A)(ii)  — 
+                        
+                        
+health care provider and clinical service costs, for primary care and specialty care
+                           separately; 
+
+
+I.R.C. § 9825(a)(7)(A)(iii)  — 
+                        
+                        
+costs for prescription drugs; and 
+
+
+I.R.C. § 9825(a)(7)(A)(iv)  — 
+                        
+                        
+other medical costs, including wellness services; and 
+
+
+
+I.R.C. § 9825(a)(7)(B)  — 
+                     
+                     
+spending on prescription drugs by— 
+
+I.R.C. § 9825(a)(7)(B)(i)  — 
+                        
+                        
+the health plan; and 
+
+
+I.R.C. § 9825(a)(7)(B)(ii)  — 
+                        
+                        
+the participants and beneficiaries. 
+
+
+
+
+I.R.C. § 9825(a)(8)  — 
+                  
+                  
+The average monthly premium— 
+
+I.R.C. § 9825(a)(8)(A)  — 
+                     
+                     
+paid by employers on behalf of participants and beneficiaries, as applicable; and 
+
+
+I.R.C. § 9825(a)(8)(B)  — 
+                     
+                     
+paid by participants and beneficiaries. 
+
+
+
+I.R.C. § 9825(a)(9)  — 
+                  
+                  
+Any impact on premiums by rebates, fees, and any other remuneration paid by drug manufacturers
+                     to the plan or its administrators or service providers, with respect to prescription
+                     drugs prescribed to participants or beneficiaries in the plan, including— 
+
+I.R.C. § 9825(a)(9)(A)  — 
+                     
+                     
+the amounts so paid for each therapeutic class of drugs; and 
+
+
+I.R.C. § 9825(a)(9)(B)  — 
+                     
+                     
+the amounts so paid for each of the 25 drugs that yielded the highest amount of rebates
+                        and other remuneration under the plan from drug manufacturers during the plan year. 
+
+
+
+I.R.C. § 9825(a)(10)  — 
+                  
+                  
+Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or
+                     other remuneration described in paragraph (9).
+I.R.C. § 9825(b) Report — 
+               
+               
+Not later than 18 months after the date on which the first report is required under
+                  subsection (a) and biannually thereafter, the Secretary, acting in coordination with
+                  the Inspector General of the Department of the Treasury, shall make available on the
+                  internet website of the Department of the Treasury a report on prescription drug reimbursements
+                  under group health plans, prescription drug pricing trends, and the role of prescription
+                  drug costs in contributing to premium increases or decreases under such plans, aggregated
+                  in such a way as no drug or plan specific information will be made public.
+I.R.C. § 9825(c) Privacy Protections — 
+               
+               
+No confidential or trade secret information submitted to the Secretary under subsection
+                  (a) shall be included in the report under subsection (b).

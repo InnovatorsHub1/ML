@@ -1,0 +1,346 @@
+Sec. 1246. Gain On Foreign Investment Company Stock [Repealed]
+
+I.R.C. § 1246(a) Treatment Of Gain As Ordinary Income
+
+
+I.R.C. § 1246(a)(1) General Rule — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations end.
+
+
+
+
+In the case of a sale or exchange
+                        (or a distribution  which, under section 302 or 331, is treated as an exchange of stock) after  December 31, 1962, of stock in a foreign
+                        corporation which was a foreign  investment company (as defined in subsection
+                        (b)) at any time during the  period during which the taxpayer held such stock, any
+                        gain shall be  treated as ordinary income, to the extent of the taxpayer's ratable
+                        share  of the earnings and profits of such corporation accumulated for taxable  years
+                        beginning after December 31, 1962.
+
+
+
+I.R.C. § 1246(a)(2) Ratable Share — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations end.
+
+
+
+
+For purposes of this section, the taxpayer's ratable  share shall be determined under
+                        regulations prescribed by the Secretary,  but shall include only his ratable share
+                        of the accumulated earnings and  profits of such corporation—
+
+
+I.R.C. § 1246(a)(2)(A)  — 
+                     
+                     
+for  the period during which the taxpayer held such stock, but 
+
+
+I.R.C. § 1246(a)(2)(B)  — 
+                     
+                     
+excluding  such earnings and profits attributable to-- 
+
+I.R.C. § 1246(a)(2)(B)(i)  — 
+                        
+                        
+any  amount previously included in the gross income of such taxpayer under  section
+                           951 (but only to the extent the inclusion of such amount did not  result in an exclusion
+                           of any other amount from gross income under section  959), or 
+
+
+I.R.C. § 1246(a)(2)(B)(ii)  — 
+                        
+                        
+any  taxable year during which such corporation was not a foreign investment  company
+                           but only if-- 
+
+I.R.C. § 1246(a)(2)(B)(ii)(I)  — 
+                           
+                           
+such  corporation was not a foreign investment company at any time before such  taxable
+                              year, and 
+
+
+I.R.C. § 1246(a)(2)(B)(ii)(II)  — 
+                           
+                           
+such  corporation was treated as a foreign investment company solely by reason  of
+                              subsection (b)(2). 
+
+
+
+
+
+I.R.C. § 1246(a)(3) Taxpayer To Establish Earnings And Profits — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations end.
+
+
+
+
+Unless the taxpayer establishes the amount of the  accumulated earnings and profits
+                        of the foreign investment company and the  ratable share thereof for the period during
+                        which the taxpayer held such  stock, all the gain from the sale or exchange of stock
+                        in such company  shall be considered as ordinary income.
+
+
+
+I.R.C. § 1246(a)(4) Holding Period Of Stock Must Be More Than 6 Months — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations end.
+
+
+
+
+This section shall not apply with respect to the sale or  exchange of stock where
+                        the holding period of such stock as of the date of  such sale or exchange is 1 year
+                        or less.
+I.R.C. § 1246(b) Definition Of Foreign Investment Company — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+For purposes of this section, the term “foreign  investment company” means any foreign
+                     corporation which, for any taxable  year beginning after December 31, 1962, is—
+
+
+I.R.C. § 1246(b)(1)  — 
+                  
+                  
+registered  under the Investment Company Act of 1940, as amended (15 U.S.C. 80a-1 to  80b-2), either as a management company or as a unit investment trust, or 
+
+
+I.R.C. § 1246(b)(2)  — 
+                  
+                  
+engaged  (or holding itself out as being engaged) primarily in the business of  investing,
+                     reinvesting, or trading in— 
+
+I.R.C. § 1246(b)(2)(A)  — 
+                     
+                     
+securities  (as defined in section 2(a)(36)
+                        of the Investment Company Act of 1940, as  amended), 
+
+
+I.R.C. § 1246(b)(2)(B)  — 
+                     
+                     
+commodities,  or 
+
+
+I.R.C. § 1246(b)(2)(C)  — 
+                     
+                     
+any  interest (including a futures or forward contract or option) in property  described
+                        in subparagraph
+                        (A) or (B), at a time when 50 percent or more of  the total combined voting power
+                        of all classes of stock entitled to vote,  or the total value of all classes of stock,
+                        was held directly (or  indirectly through applying paragraphs (2) and (3) of section
+                        958(a) and  paragraph (4) of section 318(a))
+                        by United States persons (as defined in  section 7701(a)(30)).
+I.R.C. § 1246(c) Stock Having Transferred Or Substituted Basis — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+To the extent provided in regulations prescribed by the  Secretary, stock in a foreign
+                     corporation, the basis of which (in the  hands of the taxpayer selling or exchanging
+                     such stock) is determined by  reference to the basis (in the hands of such taxpayer
+                     or any other person)  of stock in a foreign investment company, shall be treated as
+                     stock of a  foreign investment company and held by the taxpayer throughout the holding
+                     period for such stock
+                     (determined under section 1223).
+I.R.C. § 1246(d) Rules Relating To Entities Holding Foreign Investment Company Stock — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+To the extent provided in regulations prescribed by the  Secretary—
+
+
+I.R.C. § 1246(d)(1)  — 
+                  
+                  
+trust  certificates of a trust to which section 677 (relating to income for  benefit of grantor) applies, and 
+
+
+I.R.C. § 1246(d)(2)  — 
+                  
+                  
+stock  of a domestic corporation, shall be treated as stock of a foreign  investment
+                     company and held by the taxpayer throughout the holding period  for such certificates
+                     or stock
+                     (determined under section 1223)
+                     in the same  proportion that the investment in stock in a foreign investment company
+                     by  the trust or domestic corporation bears to the total assets of such trust  or
+                     corporation.
+I.R.C. § 1246(e) Rules Relating To Stock Acquired From A Decedent
+
+
+I.R.C. § 1246(e)(1) Basis — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations end.
+
+
+
+
+In the case of stock of a foreign investment company  acquired by bequest, devise,
+                        or inheritance (or by the decedent's estate)  from a decedent dying after December
+                        31, 1962, the basis determined under  section 1014 shall be reduced (but not below the adjusted basis of such  stock in the hands of
+                        the decedent immediately before his death) by the  amount of the decedent's ratable
+                        share of the earnings and profits of such  company accumulated after December 31,
+                        1962. Any stock so acquired shall  be treated as stock described in subsection (c).
+
+
+
+I.R.C. § 1246(e)(2) Deduction For Estate Tax — 
+                  
+                  
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                              after December 31, 2004, and to taxable years of United States shareholders with or
+                              within which such taxable years of foreign corporations  end.
+
+
+
+
+If stock to which subsection (a)
+                        applies is acquired  from a decedent, the taxpayer shall, under regulations prescribed
+                        by the  Secretary or his delegate, be allowed (for the taxable year of the sale or
+                        exchange) a deduction from gross income equal to that portion of the  decedent's estate
+                        tax deemed paid which is attributable to the excess of  (A) the value at which such
+                        stock was taken into account for purposes of  determining the value of the decedent's
+                        gross estate, over (B) the value  at which it would have been so taken into account
+                        if such value had been  reduced by the amount described in paragraph (1).
+I.R.C. § 1246(f) Information With Respect To Certain Foreign Investment Companies — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+Every United States person who, on the last day of the  taxable year of a foreign
+                     investment company, owns 5 percent or more in  value of the stock of such company
+                     shall furnish with respect to such  company such information as the Secretary shall
+                     by regulations prescribe.
+I.R.C. § 1246(g) Coordination With Section 1248 — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations  beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+This section shall not apply to any gain to the extent  such gain is treated as ordinary
+                     income under section 1248 (determined
+                     without regard to section 1248(g)(2)).
+I.R.C. § 1246(h) Cross Reference — 
+               
+               
+
+
+
+
+Editor's Note: 
+Pub. L. 108-357, Sec. 413(a)(2), repealed Sec. 1246, effective for taxable years of foreign corporations beginning
+                           after December 31, 2004, and to taxable years of United States shareholders with or
+                           within which such taxable years of foreign corporations end.
+
+
+
+
+For special rules relating to the earnings and profits  of foreign investment companies,
+                     see section 312(l)[(j)].

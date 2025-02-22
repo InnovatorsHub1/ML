@@ -1,0 +1,491 @@
+Sec. 1400Z-2. Special Rules For Capital Gains Invested In Opportunity Zones
+
+I.R.C. § 1400Z-2(a) In General
+
+
+I.R.C. § 1400Z-2(a)(1) Treatment Of Gains — 
+                  
+                  
+In the case of gain from the sale to, or exchange with, an unrelated person of any
+                     property held by the taxpayer, at the election of the taxpayer— 
+
+I.R.C. § 1400Z-2(a)(1)(A)  — 
+                     
+                     
+gross income for the taxable year shall not include so much of such gain as does not
+                        exceed the aggregate amount invested by the taxpayer in a qualified opportunity fund
+                        during the 180-day period beginning on the date of such sale or exchange, 
+
+
+I.R.C. § 1400Z-2(a)(1)(B)  — 
+                     
+                     
+the amount of gain excluded by subparagraph
+                        (A) shall be included in gross income as provided by subsection (b), and 
+
+
+I.R.C. § 1400Z-2(a)(1)(C)  — 
+                     
+                     
+subsection (c) shall apply. 
+
+
+
+I.R.C. § 1400Z-2(a)(2) Election — 
+                  
+                  
+No election may be made under paragraph (1)— 
+
+I.R.C. § 1400Z-2(a)(2)(A)  — 
+                     
+                     
+with respect to a sale or exchange if an election previously made with respect to
+                        such sale or exchange is in effect, or 
+
+
+I.R.C. § 1400Z-2(a)(2)(B)  — 
+                     
+                     
+with respect to any sale or exchange after December 31, 2026.
+I.R.C. § 1400Z-2(b) Deferral Of Gain Invested In Opportunity Zone Property
+
+
+I.R.C. § 1400Z-2(b)(1) Year Of Inclusion — 
+                  
+                  
+Gain to which subsection (a)(1)(B) applies shall be included in income in the taxable
+                     year which includes the earlier of— 
+
+I.R.C. § 1400Z-2(b)(1)(A)  — 
+                     
+                     
+the date on which such investment is sold or exchanged, or 
+
+
+I.R.C. § 1400Z-2(b)(1)(B)  — 
+                     
+                     
+December 31, 2026. 
+
+
+
+I.R.C. § 1400Z-2(b)(2) Amount Includible
+
+
+I.R.C. § 1400Z-2(b)(2)(A) In General — 
+                     
+                     
+The amount of gain included in gross income under subsection
+                        (a)(1)(A) shall be the excess of— 
+
+I.R.C. § 1400Z-2(b)(2)(A)(i)  — 
+                        
+                        
+the lesser of the amount of gain excluded under paragraph (1) or the fair market value
+                           of the investment as determined as of the date described in paragraph (1), over 
+
+
+I.R.C. § 1400Z-2(b)(2)(A)(ii)  — 
+                        
+                        
+the taxpayer's basis in the investment. 
+
+
+
+I.R.C. § 1400Z-2(b)(2)(B) Determination Of Basis
+
+
+I.R.C. § 1400Z-2(b)(2)(B)(i) In General — 
+                        
+                        
+Except as otherwise provided in this clause or subsection
+                           (c), the taxpayer's basis in the investment shall be zero. 
+
+
+I.R.C. § 1400Z-2(b)(2)(B)(ii) Increase For Gain Recognized Under Subsection (a)(1)(B).— — 
+                        
+                        
+The basis in the investment shall be increased by the amount of gain recognized by
+                           reason of subsection (a)(1)(B) with respect to such property. 
+
+
+I.R.C. § 1400Z-2(b)(2)(B)(iii) Investments Held For 5 Years — 
+                        
+                        
+In the case of any investment held for at least 5 years, the basis of such investment
+                           shall be increased by an amount equal to 10 percent of the amount of gain deferred
+                           by reason of subsection
+                           (a)(1)(A). 
+
+
+I.R.C. § 1400Z-2(b)(2)(B)(iv) Investments Held For 7 Years — 
+                        
+                        
+In the case of any investment held by the taxpayer for at least 7 years, in addition
+                           to any adjustment made under clause
+                           (iii), the basis of such property shall be increased by an amount equal to 5 percent
+                           of the amount of gain deferred by reason of subsection
+                           (a)(1)(A).
+I.R.C. § 1400Z-2(c) Special Rule For Investments Held For At Least 10 Years — 
+               
+               
+In the case of any investment held by the taxpayer for at least 10 years and with
+                  respect to which the taxpayer makes an election under this clause, the basis of such
+                  property shall be equal to the fair market value of such investment on the date that
+                  the investment is sold or exchanged.
+I.R.C. § 1400Z-2(d) Qualified Opportunity Fund — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 1400Z-2(d)(1) In General — 
+                  
+                  
+The term “qualified opportunity fund” means any investment vehicle which is organized
+                     as a corporation or a partnership for the purpose of investing in qualified opportunity
+                     zone property
+                     (other than another qualified opportunity fund) that holds at least 90 percent of
+                     its assets in qualified opportunity zone property, determined by the average of the
+                     percentage of qualified opportunity zone property held in the fund as measured— 
+
+I.R.C. § 1400Z-2(d)(1)(A)  — 
+                     
+                     
+on the last day of the first 6-month period of the taxable year of the fund, and 
+
+
+I.R.C. § 1400Z-2(d)(1)(B)  — 
+                     
+                     
+on the last day of the taxable year of the fund. 
+
+
+
+I.R.C. § 1400Z-2(d)(2) Qualified Opportunity Zone Property
+
+
+I.R.C. § 1400Z-2(d)(2)(A) In General — 
+                     
+                     
+The term “qualified opportunity zone property”
+                        means property which is— 
+
+I.R.C. § 1400Z-2(d)(2)(A)(i)  — 
+                        
+                        
+qualified opportunity zone stock, 
+
+
+I.R.C. § 1400Z-2(d)(2)(A)(ii)  — 
+                        
+                        
+qualified opportunity zone partnership interest, or 
+
+
+I.R.C. § 1400Z-2(d)(2)(A)(iii)  — 
+                        
+                        
+qualified opportunity zone business property. 
+
+
+
+I.R.C. § 1400Z-2(d)(2)(B) Qualified Opportunity Zone Stock
+
+
+I.R.C. § 1400Z-2(d)(2)(B)(i) In General — 
+                        
+                        
+Except as provided in clause (ii), the term “qualified opportunity zone stock” means
+                           any stock in a domestic corporation if— 
+
+I.R.C. § 1400Z-2(d)(2)(B)(i)(I)  — 
+                           
+                           
+such stock is acquired by the qualified opportunity fund after December 31, 2017,
+                              at its original issue (directly or through an underwriter) from the corporation solely
+                              in exchange for cash, 
+
+
+I.R.C. § 1400Z-2(d)(2)(B)(i)(II)  — 
+                           
+                           
+as of the time such stock was issued, such corporation was a qualified opportunity
+                              zone business (or, in the case of a new corporation, such corporation was being organized
+                              for purposes of being a qualified opportunity zone business), and 
+
+
+I.R.C. § 1400Z-2(d)(2)(B)(i)(III)  — 
+                           
+                           
+during substantially all of the qualified opportunity fund's holding period for such
+                              stock, such corporation qualified as a qualified opportunity zone business. 
+
+
+
+I.R.C. § 1400Z-2(d)(2)(B)(ii) Redemptions — 
+                        
+                        
+A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this paragraph. 
+
+
+
+I.R.C. § 1400Z-2(d)(2)(C) Qualified Opportunity Zone Partnership Interest — 
+                     
+                     
+The term “qualified opportunity zone partnership interest” means any capital or profits
+                        interest in a domestic partnership if— 
+
+I.R.C. § 1400Z-2(d)(2)(C)(i)  — 
+                        
+                        
+such interest is acquired by the qualified opportunity fund after December 31, 2017,
+                           from the partnership solely in exchange for cash, 
+
+
+I.R.C. § 1400Z-2(d)(2)(C)(ii)  — 
+                        
+                        
+as of the time such interest was acquired, such partnership was a qualified opportunity
+                           zone business (or, in the case of a new partnership, such partnership was being organized
+                           for purposes of being a qualified opportunity zone business), and 
+
+
+I.R.C. § 1400Z-2(d)(2)(C)(iii)  — 
+                        
+                        
+during substantially all of the qualified opportunity fund's holding period for such
+                           interest, such partnership qualified as a qualified opportunity zone business. 
+
+
+
+I.R.C. § 1400Z-2(d)(2)(D) Qualified Opportunity Zone Business Property
+
+
+I.R.C. § 1400Z-2(d)(2)(D)(i) In General — 
+                        
+                        
+The term “qualified opportunity zone business property”
+                           means tangible property used in a trade or business of the qualified opportunity fund
+                           if— 
+
+I.R.C. § 1400Z-2(d)(2)(D)(i)(I)  — 
+                           
+                           
+such property was acquired by the qualified opportunity fund by purchase (as defined
+                              in section 179(d)(2)) after December 31, 2017, 
+
+
+I.R.C. § 1400Z-2(d)(2)(D)(i)(II)  — 
+                           
+                           
+the original use of such property in the qualified opportunity zone commences with
+                              the qualified opportunity fund or the qualified opportunity fund substantially improves
+                              the property, and 
+
+
+I.R.C. § 1400Z-2(d)(2)(D)(i)(III)  — 
+                           
+                           
+during substantially all of the qualified opportunity fund's holding period for such
+                              property, substantially all of the use of such property was in a qualified opportunity
+                              zone. 
+
+
+
+I.R.C. § 1400Z-2(d)(2)(D)(ii) Substantial Improvement — 
+                        
+                        
+For purposes of subparagraph (A)(ii), property shall be treated as substantially improved
+                           by the qualified opportunity fund only if, during any 30-month period beginning after
+                           the date of acquisition of such property, additions to basis with respect to such
+                           property in the hands of the qualified opportunity fund exceed an amount equal to
+                           the adjusted basis of such property at the beginning of such 30-month period in the
+                           hands of the qualified opportunity fund. 
+
+
+I.R.C. § 1400Z-2(d)(2)(D)(iii) Related Party — 
+                        
+                        
+For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection in lieu of the application
+                           of such rule in section 179(d)(2)(A). 
+
+
+
+
+I.R.C. § 1400Z-2(d)(3) Qualified Opportunity Zone Business
+
+
+I.R.C. § 1400Z-2(d)(3)(A) In General — 
+                     
+                     
+The term “qualified opportunity zone business”
+                        means a trade or business— 
+
+I.R.C. § 1400Z-2(d)(3)(A)(i)  — 
+                        
+                        
+in which substantially all of the tangible property owned or leased by the taxpayer
+                           is qualified opportunity zone business property (determined by substituting “qualified
+                           opportunity zone business” for “qualified opportunity fund” each place it appears
+                           in paragraph (2)(D)), 
+
+
+I.R.C. § 1400Z-2(d)(3)(A)(ii)  — 
+                        
+                        
+which satisfies the requirements of paragraphs (2), (4), and (8) of section 1397C(b), and 
+
+
+I.R.C. § 1400Z-2(d)(3)(A)(iii)  — 
+                        
+                        
+which is not described in section 144(c)(6)(B). 
+
+
+
+I.R.C. § 1400Z-2(d)(3)(B) Special Rule — 
+                     
+                     
+For purposes of subparagraph (A), tangible property that ceases to be a qualified
+                        opportunity zone business property shall continue to be treated as a qualified opportunity
+                        zone business property for the lesser of— 
+
+I.R.C. § 1400Z-2(d)(3)(B)(i)  — 
+                        
+                        
+5 years after the date on which such tangible property ceases to be so qualified,
+                           or 
+
+
+I.R.C. § 1400Z-2(d)(3)(B)(ii)  — 
+                        
+                        
+the date on which such tangible property is no longer held by the qualified opportunity
+                           zone business.
+I.R.C. § 1400Z-2(e) Applicable Rules
+
+
+I.R.C. § 1400Z-2(e)(1) Treatment Of Investments With Mixed Funds — 
+                  
+                  
+In the case of any investment in a qualified opportunity fund only a portion of which
+                     consists of investments of gain to which an election under subsection (a) is in effect— 
+
+I.R.C. § 1400Z-2(e)(1)(A)  — 
+                     
+                     
+such investment shall be treated as 2 separate investments, consisting of— 
+
+I.R.C. § 1400Z-2(e)(1)(A)(i)  — 
+                        
+                        
+one investment that only includes amounts to which the election under subsection (a)
+                           applies, and 
+
+
+I.R.C. § 1400Z-2(e)(1)(A)(ii)  — 
+                        
+                        
+a separate investment consisting of other amounts, and 
+
+
+
+I.R.C. § 1400Z-2(e)(1)(B)  — 
+                     
+                     
+subsections (a), (b), and (c) shall only apply to the investment described in subparagraph
+                        (A)(i). 
+
+
+
+I.R.C. § 1400Z-2(e)(2) Related Persons — 
+                  
+                  
+For purposes of this section, persons are related to each other if such persons are
+                     described in section 267(b) or 707(b)(1), determined by substituting “20 percent” for “50 percent”
+                     each place it occurs in such sections. 
+
+
+I.R.C. § 1400Z-2(e)(3) Decedents — 
+                  
+                  
+In the case of a decedent, amounts recognized under this section shall, if not properly
+                     includible in the gross income of the decedent, be includible in gross income as provided
+                     by section 691. 
+
+
+I.R.C. § 1400Z-2(e)(4) Regulations — 
+                  
+                  
+The Secretary shall prescribe such regulations as may be necessary or appropriate
+                     to carry out the purposes of this section, including— 
+
+I.R.C. § 1400Z-2(e)(4)(A)  — 
+                     
+                     
+rules for the certification of qualified opportunity funds for the purposes of this
+                        section, 
+
+
+I.R.C. § 1400Z-2(e)(4)(B)  — 
+                     
+                     
+rules to ensure a qualified opportunity fund has a reasonable period of time to reinvest
+                        the return of capital from investments in qualified opportunity zone stock and qualified
+                        opportunity zone partnership interests, and to reinvest proceeds received from the
+                        sale or disposition of qualified opportunity zone property, and 
+
+
+I.R.C. § 1400Z-2(e)(4)(C)  — 
+                     
+                     
+rules to prevent abuse.
+I.R.C. § 1400Z-2(f) Failure Of Qualified Opportunity Fund To Maintain Investment Standard
+
+
+I.R.C. § 1400Z-2(f)(1) In General — 
+                  
+                  
+If a qualified opportunity fund fails to meet the 90-percent requirement of subsection
+                     (c)(1), the qualified opportunity fund shall pay a penalty for each month it fails
+                     to meet the requirement in an amount equal to the product of— 
+
+I.R.C. § 1400Z-2(f)(1)(A)  — 
+                     
+                     
+the excess of— 
+
+I.R.C. § 1400Z-2(f)(1)(A)(i)  — 
+                        
+                        
+the amount equal to 90 percent of its aggregate assets, over 
+
+
+I.R.C. § 1400Z-2(f)(1)(A)(ii)  — 
+                        
+                        
+the aggregate amount of qualified opportunity zone property held by the fund, multiplied
+                           by 
+
+
+
+I.R.C. § 1400Z-2(f)(1)(B)  — 
+                     
+                     
+the underpayment rate established under section 6621(a)(2) for such month. 
+
+
+
+I.R.C. § 1400Z-2(f)(2) Special Rule For Partnerships — 
+                  
+                  
+In the case that the qualified opportunity fund is a partnership, the penalty imposed
+                     by paragraph (1) shall be taken into account proportionately as part of the distributive
+                     share of each partner of the partnership. 
+
+
+I.R.C. § 1400Z-2(f)(3) Reasonable Cause Exception — 
+                  
+                  
+No penalty shall be imposed under this subsection with respect to any failure if it
+                     is shown that such failure is due to reasonable cause.

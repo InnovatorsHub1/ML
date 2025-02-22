@@ -1,0 +1,230 @@
+Sec. 1446. Withholding Of Tax On Foreign Partners' Share Of Effectively Connected Income
+
+I.R.C. § 1446(a) General Rule — 
+               
+               
+If— 
+
+I.R.C. § 1446(a)(1)  — 
+                  
+                  
+a  partnership has effectively connected taxable income for any taxable year,  and 
+
+
+I.R.C. § 1446(a)(2)  — 
+                  
+                  
+any  portion of such income is allocable under section 704 to a foreign  partner, 
+
+
+such partnership shall pay a withholding tax under this section  at such time and
+                     in such manner as the Secretary shall by regulations  prescribe.
+I.R.C. § 1446(b) Amount Of Withholding Tax
+
+
+I.R.C. § 1446(b)(1) In General — 
+                  
+                  
+The  amount of the withholding tax payable by any partnership under subsection  (a)
+                     shall be equal to the applicable percentage of the effectively  connected taxable
+                     income of the partnership which is allocable under  section 704 to foreign partners. 
+
+
+I.R.C. § 1446(b)(2) Applicable Percentage — 
+                  
+                  
+For  purposes of paragraph (1), the term “applicable percentage” means-- 
+
+I.R.C. § 1446(b)(2)(A)  — 
+                     
+                     
+the  highest rate of tax specified in section 1 in the case of the portion of  the effectively connected taxable income which is
+                        allocable under section  704 to foreign partners who are not corporations, and 
+
+
+I.R.C. § 1446(b)(2)(B)  — 
+                     
+                     
+the  highest rate of tax specified in section 11(b) in the case of the  portion of the effectively connected taxable income which is
+                        allocable  under section 704 to foreign partners which are corporations.
+I.R.C. § 1446(c) Effectively Connected Taxable Income — 
+               
+               
+For  purposes of this section, the term “effectively connected taxable income”  means
+                  the taxable income of the partnership which is effectively connected  (or treated
+                  as effectively connected)
+                  with the conduct of a trade or  business in the United States computed with the following
+                  adjustments: 
+
+I.R.C. § 1446(c)(1)  — 
+                  
+                  
+Paragraph  (1) of section 703(a) shall not apply. 
+
+
+I.R.C. § 1446(c)(2)  — 
+                  
+                  
+The  partnership shall be allowed a deduction for depletion with respect to oil  and
+                     gas wells but the amount of such deduction shall be determined without  regard to
+                     sections 613 and 613A. 
+
+
+I.R.C. § 1446(c)(3)  — 
+                  
+                  
+There  shall not be taken into account any item of income, gain, loss, or  deduction
+                     to the extent allocable under section 704 to any partner who is  not a foreign partner.
+I.R.C. § 1446(d) Treatment Of Foreign Partners
+
+
+I.R.C. § 1446(d)(1) Allowance Of Credit — 
+                  
+                  
+Each  foreign partner of a partnership shall be allowed a credit under section  33
+                     for such partner's share of the withholding tax paid by the partnership  under this
+                     section. Such credit shall be allowed for the partner's taxable  year in which (or
+                     with which)
+                     the partnership taxable year (for which such  tax was paid) ends. 
+
+
+I.R.C. § 1446(d)(2) Credit Treated As Distributed To Partner — 
+                  
+                  
+Except  as provided in regulations, a foreign partner's share of any withholding 
+                     tax paid by the partnership under this section shall be treated as  distributed to
+                     such partner by such partnership on the earlier of— 
+
+I.R.C. § 1446(d)(2)(A)  — 
+                     
+                     
+the  day on which such tax was paid by the partnership, or 
+
+
+I.R.C. § 1446(d)(2)(B)  — 
+                     
+                     
+the  last day of the partnership's taxable year for which such tax was paid.
+I.R.C. § 1446(e) Foreign Partner — 
+               
+               
+For  purposes of this section, the term “foreign partner"
+                  means any partner who  is not a United States person.
+I.R.C. § 1446(f) Special Rules For Withholding On Dispositions Of Partnership Interests
+
+
+I.R.C. § 1446(f)(1) In General — 
+                  
+                  
+Except as provided in this subsection, if any portion of the gain (if any) on any
+                     disposition of an interest in a partnership would be treated under section 864(c)(8) as effectively connected with the conduct of a trade or business within the United
+                     States, the transferee shall be required to deduct and withhold a tax equal to 10
+                     percent of the amount realized on the disposition. 
+
+
+I.R.C. § 1446(f)(2) Exception If Nonforeign Affidavit Furnished
+
+
+I.R.C. § 1446(f)(2)(A) In General — 
+                     
+                     
+No person shall be required to deduct and withhold any amount under paragraph (1)
+                        with respect to any disposition if the transferor furnishes to the transferee an affidavit
+                        by the transferor stating, under penalty of perjury, the transferor's United States
+                        taxpayer identification number and that the transferor is not a foreign person. 
+
+
+I.R.C. § 1446(f)(2)(B) False Affidavit — 
+                     
+                     
+Subparagraph (A) shall not apply to any disposition if— 
+
+I.R.C. § 1446(f)(2)(B)(i)  — 
+                        
+                        
+the transferee has actual knowledge that the affidavit is false, or the transferee
+                           receives a notice (as described in section 1445(d))
+                           from a transferor's agent or transferee's agent that such affidavit or statement is
+                           false, or 
+
+
+I.R.C. § 1446(f)(2)(B)(ii)  — 
+                        
+                        
+the Secretary by regulations requires the transferee to furnish a copy of such affidavit
+                           or statement to the Secretary and the transferee fails to furnish a copy of such affidavit
+                           or statement to the Secretary at such time and in such manner as required by such
+                           regulations. 
+
+
+
+I.R.C. § 1446(f)(2)(C) Rules For Agents — 
+                     
+                     
+The rules of section 1445(d) shall apply to a transferor's agent or transferee's agent with respect to any affidavit
+                        described in subparagraph (A) in the same manner as such rules apply with respect
+                        to the disposition of a United States real property interest under such section. 
+
+
+
+I.R.C. § 1446(f)(3) Authority Of Secretary To Prescribe Reduced Amount — 
+                  
+                  
+At the request of the transferor or transferee, the Secretary may prescribe a reduced
+                     amount to be withheld under this section if the Secretary determines that to substitute
+                     such reduced amount will not jeopardize the collection of the tax imposed under this
+                     title with respect to gain treated under section 864(c)(8) as effectively connected with the conduct of a trade or business with in the United
+                     States. 
+
+
+I.R.C. § 1446(f)(4) Partnership To Withhold Amounts Not Withheld By The Transferee — 
+                  
+                  
+If a transferee fails to withhold any amount required to be withheld under paragraph
+                     (1), the partnership shall be required to deduct and withhold from distributions to
+                     the transferee a tax in an amount equal to the amount the transferee failed to withhold
+                     (plus interest under this title on such amount). 
+
+
+I.R.C. § 1446(f)(5) Definitions — 
+                  
+                  
+Any term used in this subsection which is also used under section 1445 shall have the same meaning as when used in such section. 
+
+
+I.R.C. § 1446(f)(6) Regulations — 
+                  
+                  
+The Secretary shall prescribe such regulations or other guidance as may be necessary
+                     to carry out the purposes of this subsection, including regulations providing for
+                     exceptions from the provisions of this subsection.
+I.R.C. § 1446(g) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary to carry  out
+                  the purposes of this section, including— 
+
+I.R.C. § 1446(g)(1)  — 
+                  
+                  
+regulations  providing for the application of this section in the case of publicly
+                     traded partnerships, and 
+
+
+I.R.C. § 1446(g)(2)  — 
+                  
+                  
+regulations  providing— 
+
+I.R.C. § 1446(g)(2)(A)  — 
+                     
+                     
+that,  for purposes of section 6655, the withholding tax imposed under this  section shall be treated as a tax imposed
+                        by section 11 and any  partnership required to pay such tax shall be treated as a corporation,
+                        and 
+
+
+I.R.C. § 1446(g)(2)(B)  — 
+                     
+                     
+appropriate  adjustments in applying section 6655 with respect to such withholding tax.

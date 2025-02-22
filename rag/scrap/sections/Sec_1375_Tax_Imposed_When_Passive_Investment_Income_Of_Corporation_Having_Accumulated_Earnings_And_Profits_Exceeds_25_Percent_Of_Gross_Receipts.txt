@@ -1,0 +1,134 @@
+Sec. 1375. Tax Imposed When Passive Investment Income Of Corporation Having Accumulated Earnings And Profits Exceeds 25 Percent Of Gross Receipts
+
+I.R.C. § 1375(a) General Rule — 
+               
+               
+If  for the taxable year an S corporation has— 
+
+I.R.C. § 1375(a)(1)  — 
+                  
+                  
+accumulated earnings and profits at the close of such taxable year, and 
+
+
+I.R.C. § 1375(a)(2)  — 
+                  
+                  
+gross  receipts more than 25 percent of which are passive investment income, 
+
+
+then  there is hereby imposed a tax on the income of such corporation for such  taxable
+                     year. Such tax shall be computed by multiplying the excess net  passive income by
+                     the highest rate of tax specified in section 11(b).
+I.R.C. § 1375(b) Definitions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1375(b)(1) Excess Net Passive Income
+
+
+I.R.C. § 1375(b)(1)(A) In General — 
+                     
+                     
+Except  as provided in subparagraph (B), the term “excess net passive income”  means
+                        an amount which bears the same ratio to the net passive income for  the taxable year
+                        as-- 
+
+I.R.C. § 1375(b)(1)(A)(i)  — 
+                        
+                        
+the  amount by which the passive investment income for the taxable year exceeds  25
+                           percent of the gross receipts for the taxable year, bears to 
+
+
+I.R.C. § 1375(b)(1)(A)(ii)  — 
+                        
+                        
+the  passive investment income for the taxable year. 
+
+
+
+I.R.C. § 1375(b)(1)(B) Limitation — 
+                     
+                     
+The  amount of the excess net passive income for any taxable year shall not  exceed
+                        the amount of the corporation's taxable income for such taxable  year as determined
+                        under section 63(a)— 
+
+I.R.C. § 1375(b)(1)(B)(i)  — 
+                        
+                        
+without  regard to the deductions allowed by part VIII of subchapter B (other than
+                           the deduction allowed by section 248, relating to organization  expenditures), and 
+
+
+I.R.C. § 1375(b)(1)(B)(ii)  — 
+                        
+                        
+without  regard to the deduction under section 172. 
+
+
+
+
+I.R.C. § 1375(b)(2) Net Passive Income — 
+                  
+                  
+The  term “net passive income” means— 
+
+I.R.C. § 1375(b)(2)(A)  — 
+                     
+                     
+passive  investment income, reduced by 
+
+
+I.R.C. § 1375(b)(2)(B)  — 
+                     
+                     
+the  deductions allowable under this chapter which are directly connected with  the
+                        production of such income (other than deductions allowable under  section 172 and part VIII of subchapter B). 
+
+
+
+I.R.C. § 1375(b)(3) Passive Investment Income, Etc. — 
+                  
+                  
+The  terms “passive investment income” and “gross receipts"
+                     have the same  respective meanings as when used in paragraph (3) of section 1362(d). 
+
+
+I.R.C. § 1375(b)(4) Coordination With Section 1374 — 
+                  
+                  
+Notwithstanding  paragraph (3), the amount of passive investment income shall be determined
+                     by not taking into account any recognized built-in gain or loss of the S  corporation
+                     for any taxable year in the recognition period. Terms used in  the preceding sentence
+                     shall have the same respective meanings as when  used in section 1374.
+I.R.C. § 1375(c) Credits Not Allowable — 
+               
+               
+No  credit shall be allowed under part IV of subchapter A of this chapter  (other
+                  than section 34)
+                  against the tax imposed by subsection (a).
+I.R.C. § 1375(d) Waiver Of Tax In Certain Cases — 
+               
+               
+If  the S corporation establishes to the satisfaction of the Secretary that— 
+
+I.R.C. § 1375(d)(1)  — 
+                  
+                  
+it  determined in good faith that it had no  accumulated  earnings and profits  at
+                     the close of a taxable year, and 
+
+
+I.R.C. § 1375(d)(2)  — 
+                  
+                  
+during  a reasonable period of time after it was determined that it did have   accumulated
+                     earnings and profits at the close of such taxable year such  earnings and profits
+                     were distributed, 
+
+
+the Secretary may waive the tax 
+                     imposed by subsection (a) for such taxable year.

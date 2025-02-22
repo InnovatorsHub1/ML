@@ -1,0 +1,199 @@
+Sec. 1244. Losses On Small Business Stock
+
+I.R.C. § 1244(a) General Rule — 
+               
+               
+In  the case of an individual, a loss on section 1244 stock issued to such  individual
+                  or to a partnership which would (but for this section) be  treated as a loss from
+                  the sale or exchange of a capital asset shall, to  the extent provided in this section,
+                  be treated as an ordinary loss.
+I.R.C. § 1244(b) Maximum Amount For Any Taxable Year — 
+               
+               
+For  any taxable year the aggregate amount treated by the taxpayer by reason of  this
+                  section as an ordinary loss shall not exceed— 
+
+I.R.C. § 1244(b)(1)  — 
+                  
+                  
+$50,000,  or 
+
+
+I.R.C. § 1244(b)(2)  — 
+                  
+                  
+$100,000,  in the case of a husband and wife filing a joint return for such year 
+                     under section 6013.
+I.R.C. § 1244(c) Section 1244 Stock Defined
+
+
+I.R.C. § 1244(c)(1) In General — 
+                  
+                  
+For  purposes of this section, the term “section 1244 stock” means stock in a  domestic
+                     corporation if— 
+
+I.R.C. § 1244(c)(1)(A)  — 
+                     
+                     
+at  the time such stock is issued, such corporation was a small business  corporation, 
+
+
+I.R.C. § 1244(c)(1)(B)  — 
+                     
+                     
+such  stock was issued by such corporation for money or other property (other  than
+                        stock and securities), and 
+
+
+I.R.C. § 1244(c)(1)(C)  — 
+                     
+                     
+such  corporation, during the period of its 5 most recent taxable years ending  before
+                        the date the loss on such stock was sustained, derived more than 50  percent of its
+                        aggregate gross receipts from sources other than royalties,  rents, dividends, interests,
+                        annuities, and sales or exchanges of stocks
+                        or securities. 
+
+
+
+I.R.C. § 1244(c)(2) Rules For Application Of Paragraph (1)(C)
+
+
+I.R.C. § 1244(c)(2)(A) Period Taken Into Account With Respect To New Corporations — 
+                     
+                     
+For  purposes of paragraph (1)(C), if the corporation has not been in existence  for
+                        5 taxable years ending before the date the loss on the stock was  sustained, there
+                        shall be substituted for such 5-year period— 
+
+I.R.C. § 1244(c)(2)(A)(i)  — 
+                        
+                        
+the  period of the corporation's taxable years ending before such date, or 
+
+
+I.R.C. § 1244(c)(2)(A)(ii)  — 
+                        
+                        
+if  the corporation has not been in existence for 1 taxable year ending before  such
+                           date, the period such corporation has been in existence before such  date. 
+
+
+
+I.R.C. § 1244(c)(2)(B) Gross Receipts From Sales Of Securities — 
+                     
+                     
+For  purposes of paragraph (1)(C), gross receipts from the sales or exchanges  of
+                        stock or securities shall be taken into account only to the extent of  gains therefrom. 
+
+
+I.R.C. § 1244(c)(2)(C) Nonapplication Where Deductions Exceed Gross Income — 
+                     
+                     
+Paragraph  (1)(C) shall not apply with respect to any corporation if, for the period
+                        taken into account for purposes of paragraph (1)(C), the amount of the  deductions
+                        allowed by this chapter
+                        (other than by sections 172, 243,  and 245) exceeds the amount of gross income. 
+
+
+
+I.R.C. § 1244(c)(3) Small Business Corporation Defined
+
+
+I.R.C. § 1244(c)(3)(A) In General — 
+                     
+                     
+For  purposes of this section, a corporation shall be treated as a small  business
+                        corporation if the aggregate amount of money and other property  received by the corporation
+                        for stock, as a contribution to capital, and  as paid-in surplus, does not exceed
+                        $1,000,000. The determination under  the preceding sentence shall be made as of the
+                        time of the issuance of the  stock in question but shall include amounts received
+                        for such stock and  for all stock theretofore issued. 
+
+
+I.R.C. § 1244(c)(3)(B) Amount Taken Into Account With Respect To Property — 
+                     
+                     
+For  purposes of subparagraph (A), the amount taken into account with respect  to
+                        any property other than money shall be the amount equal to the adjusted  basis to
+                        the corporation of such property for determining gain, reduced by  any liability to
+                        which the property was subject or which was assumed by  the corporation. The determination
+                        under the preceding sentence shall be  made as of the time the property was received
+                        by the corporation.
+I.R.C. § 1244(d) Special Rules
+
+
+I.R.C. § 1244(d)(1) Limitations On Amount Of Ordinary Loss
+
+
+I.R.C. § 1244(d)(1)(A) Contributions Of Property Having Basis In Excess Of Value — 
+                     
+                     
+If— 
+
+I.R.C. § 1244(d)(1)(A)(i)  — 
+                        
+                        
+section  1244 stock was issued in exchange for property, 
+
+
+I.R.C. § 1244(d)(1)(A)(ii)  — 
+                        
+                        
+the  basis of such stock in the hands of the taxpayer is determined by  reference
+                           to the basis in his hands of such property, and 
+
+
+I.R.C. § 1244(d)(1)(A)(iii)  — 
+                        
+                        
+the  adjusted basis (for determining loss) of such property immediately before  the
+                           exchange exceeded its fair market value at such time, 
+
+
+then in  computing the amount of the loss on such stock for purposes of this  section
+                           the basis of such stock shall be reduced by an amount equal to the  excess described
+                           in clause (iii).
+
+
+
+I.R.C. § 1244(d)(1)(B) Increases In Basis  — 
+                     
+                     
+In  computing the amount of the loss on stock for purposes of this section,  any increase
+                        in the basis of such stock (through contributions to the  capital of the corporation,
+                        or otherwise) shall be treated as allocable to  stock which is not section 1244 stock. 
+
+
+
+I.R.C. § 1244(d)(2) Recapitalizations, Changes In Name, Etc. — 
+                  
+                  
+To  the extent provided in regulations prescribed by the Secretary, stock in a  corporation,
+                     the basis of which (in the hands of a taxpayer) is determined  in whole or in part
+                     by reference to the basis in his hands of stock in  such corporation which meets the
+                     requirements of subsection (c)(1) (other  than subparagraph (C)
+                     thereof), or which is received in a reorganization  described in section 368(a)(1)(F) in exchange for stock which meets such  requirements, shall be treated as meeting
+                     such requirements. For purposes  of paragraphs (1)(C) and (3)(A) of subsection (c),
+                     a successor corporation  in a reorganization described in section 368(a)(1)(F) shall be treated as  the same corporation as its predecessor. 
+
+
+I.R.C. § 1244(d)(3) Relationship To Net Operating Loss Deduction — 
+                  
+                  
+For  purposes of section 172 (relating to the net operating loss deduction),  any amount of loss treated by reason
+                     of this section as an ordinary loss  shall be treated as attributable to a trade or
+                     business of the taxpayer. 
+
+
+I.R.C. § 1244(d)(4) Individual Defined — 
+                  
+                  
+For  purposes of this section, the term “individual"
+                     does not include a trust  or estate.
+I.R.C. § 1244(e) Regulations — 
+               
+               
+The  Secretary shall prescribe such regulations as may be necessary to carry  out
+                  the purposes of this section.

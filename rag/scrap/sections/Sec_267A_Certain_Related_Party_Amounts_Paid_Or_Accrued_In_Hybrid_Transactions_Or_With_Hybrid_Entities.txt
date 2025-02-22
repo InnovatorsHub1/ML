@@ -1,0 +1,147 @@
+Sec. 267A. Certain Related Party Amounts Paid Or Accrued In Hybrid Transactions Or With Hybrid Entities
+
+I.R.C. § 267A(a) In General — 
+               
+               
+No deduction shall be allowed under this chapter for any disqualified related party
+                  amount paid or accrued pursuant to a hybrid transaction or by, or to, a hybrid entity.
+I.R.C. § 267A(b) Disqualified Related Party Amount — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 267A(b)(1) Disqualified Related Party Amount — 
+                  
+                  
+The term “disqualified related party amount”
+                     means any interest or royalty paid or accrued to a related party to the extent that— 
+
+I.R.C. § 267A(b)(1)(A)  — 
+                     
+                     
+such amount is not included in the income of such related party under the tax law
+                        of the country of which such related party is a resident for tax purposes or is subject
+                        to tax, or 
+
+
+I.R.C. § 267A(b)(1)(B)  — 
+                     
+                     
+such related party is allowed a deduction with respect to such amount under the tax
+                        law of such country. 
+
+
+Such term shall not include any payment to the extent such payment is included in
+                        the gross income of a United States shareholder under section 951(a).
+
+
+
+I.R.C. § 267A(b)(2) Related Party — 
+                  
+                  
+The term “related party” means a related person as defined in section 954(d)(3), except that such section shall be applied with respect to the person making the
+                     payment described in paragraph (1) in lieu of the controlled foreign corporation otherwise
+                     referred to in such section.
+I.R.C. § 267A(c) Hybrid Transaction — 
+               
+               
+For purposes of this section, the term “hybrid transaction” means any transaction,
+                  series of transactions, agreement, or instrument one or more payments with respect
+                  to which are treated as interest or royalties for purposes of this chapter and which
+                  are not so treated for purposes the tax law of the foreign country of which the recipient
+                  of such payment is resident for tax purposes or is subject to tax.
+I.R.C. § 267A(d) Hybrid Entity — 
+               
+               
+For purposes of this section, the term “hybrid entity” means any entity which is either— 
+
+I.R.C. § 267A(d)(1)  — 
+                  
+                  
+treated as fiscally transparent for purposes of this chapter but not so treated for
+                     purposes of the tax law of the foreign country of which the entity is resident for
+                     tax purposes or is subject to tax, or 
+
+
+I.R.C. § 267A(d)(2)  — 
+                  
+                  
+treated as fiscally transparent for purposes of such tax law but not so treated for
+                     purposes of this chapter.
+I.R.C. § 267A(e) Regulations — 
+               
+               
+The Secretary shall issue such regulations or other guidance as may be necessary or
+                  appropriate to carry out the purposes of this section, including regulations or other
+                  guidance providing for— 
+
+I.R.C. § 267A(e)(1)  — 
+                  
+                  
+rules for treating certain conduit arrangements which involve a hybrid transaction
+                     or a hybrid entity as subject to subsection (a), 
+
+
+I.R.C. § 267A(e)(2)  — 
+                  
+                  
+rules for the application of this section to branches or domestic entities, 
+
+
+I.R.C. § 267A(e)(3)  — 
+                  
+                  
+rules for treating certain structured transactions as subject to subsection (a), 
+
+
+I.R.C. § 267A(e)(4)  — 
+                  
+                  
+rules for treating a tax preference as an exclusion from income for purposes of applying
+                     subsection (b)(1)
+                     if such tax preference has the effect of reducing the generally applicable statutory
+                     rate by 25 percent or more, 
+
+
+I.R.C. § 267A(e)(5)  — 
+                  
+                  
+rules for treating the entire amount of interest or royalty paid or accrued to a related
+                     party as a disqualified related party amount if such amount is subject to a participation
+                     exemption system or other system which provides for the exclusion or deduction of
+                     a substantial portion of such amount, 
+
+
+I.R.C. § 267A(e)(6)  — 
+                  
+                  
+rules for determining the tax residence of a foreign entity if the entity is otherwise
+                     considered a resident of more than one country or of no country, 
+
+
+I.R.C. § 267A(e)(7)  — 
+                  
+                  
+exceptions from subsection (a) with respect to— 
+
+I.R.C. § 267A(e)(7)(A)  — 
+                     
+                     
+cases in which the disqualified related party amount is taxed under the laws of a
+                        foreign country other than the country of which the related party is a resident for
+                        tax purposes, and 
+
+
+I.R.C. § 267A(e)(7)(B)  — 
+                     
+                     
+other cases which the Secretary determines do not present a risk of eroding the Federal
+                        tax base, 
+
+
+
+I.R.C. § 267A(e)(8)  — 
+                  
+                  
+requirements for record keeping and information reporting in addition to any requirements
+                     imposed by section 6038A.

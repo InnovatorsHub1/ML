@@ -1,0 +1,589 @@
+Sec. 6662. Imposition Of Accuracy-Related Penalty On Underpayments
+
+I.R.C. § 6662(a) Imposition Of Penalty — 
+               
+               
+If this section applies to any portion of an underpayment of tax required to be shown
+                  on a return, there shall be added to the tax an amount equal to 20 percent of the
+                  portion of the underpayment to which this section applies.
+I.R.C. § 6662(b) Portion Of Underpayment To Which Section Applies — 
+               
+               
+This section shall apply to the portion of any underpayment which is attributable
+                  to 1 or more of the following: 
+
+I.R.C. § 6662(b)(1)  — 
+                  
+                  
+Negligence or disregard of rules or regulations. 
+
+
+I.R.C. § 6662(b)(2)  — 
+                  
+                  
+Any substantial understatement of income tax. 
+
+
+I.R.C. § 6662(b)(3)  — 
+                  
+                  
+Any substantial valuation misstatement under chapter 1. 
+
+
+I.R.C. § 6662(b)(4)  — 
+                  
+                  
+Any substantial overstatement of pension liabilities. 
+
+
+I.R.C. § 6662(b)(5)  — 
+                  
+                  
+Any substantial estate or gift tax valuation understatement. 
+
+
+I.R.C. § 6662(b)(6)  — 
+                  
+                  
+Any disallowance of claimed tax benefits by reason of a transaction lacking economic
+                     substance (within the meaning of section 7701(o)) or failing to meet the requirements of any similar rule of law. 
+
+
+I.R.C. § 6662(b)(7)  — 
+                  
+                  
+Any undisclosed foreign financial asset understatement. 
+
+
+I.R.C. § 6662(b)(8)  — 
+                  
+                  
+Any inconsistent estate basis. 
+
+
+I.R.C. § 6662(b)(9)  — 
+                  
+                  
+Any overstatement of the deduction provided in section 170(p). 
+
+
+I.R.C. § 6662(b)(10)  — 
+                  
+                  
+Any disallowance of a deduction by reason of section 170(h)(7). 
+
+
+This section shall not apply to any portion of an underpayment on which a penalty
+                     is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable
+                     to a reportable transaction understatement on which a penalty is imposed under section
+                     6662A.
+I.R.C. § 6662(c) Negligence — 
+               
+               
+For purposes of this section, the term “negligence” includes any failure to make a
+                  reasonable attempt to comply with the provisions of this title, and the term “disregard”
+                  includes any careless, reckless, or intentional disregard.
+I.R.C. § 6662(d) Substantial Understatement Of Income Tax
+
+
+I.R.C. § 6662(d)(1) Substantial Understatement
+
+
+I.R.C. § 6662(d)(1)(A) In General — 
+                     
+                     
+For purposes of this section, there is a substantial understatement of income tax
+                        for any taxable year if the amount of the understatement for the taxable year exceeds
+                        the greater of— 
+
+I.R.C. § 6662(d)(1)(A)(i)  — 
+                        
+                        
+10 percent of the tax required to be shown on the return for the taxable year, or 
+
+
+I.R.C. § 6662(d)(1)(A)(ii)  — 
+                        
+                        
+$5,000. 
+
+
+
+I.R.C. § 6662(d)(1)(B) Special Rule For Corporations — 
+                     
+                     
+In the case of a corporation other than an S corporation or a personal holding company
+                        (as defined in section 542), there is a substantial understatement of income tax for any taxable year if the
+                        amount of the understatement for the taxable year exceeds the lesser of— 
+
+I.R.C. § 6662(d)(1)(B)(i)  — 
+                        
+                        
+10 percent of the tax required to be shown on the return for the taxable year (or,
+                           if greater, $10,000), or 
+
+
+I.R.C. § 6662(d)(1)(B)(ii)  — 
+                        
+                        
+$10,000,000. 
+
+
+
+I.R.C. § 6662(d)(1)(C) Special Rule For Taxpayers Claiming Section 199A Deduction — 
+                     
+                     
+In the case of any taxpayer who claims any deduction allowed under section 199A for the taxable year, subparagraph (A) shall be applied by substituting “5 percent”
+                        for “10 percent”. 
+
+
+
+I.R.C. § 6662(d)(2) Understatement
+
+
+I.R.C. § 6662(d)(2)(A) In General — 
+                     
+                     
+For purposes of paragraph (1), the term “understatement” means the excess of— 
+
+I.R.C. § 6662(d)(2)(A)(i)  — 
+                        
+                        
+the amount of the tax required to be shown on the return for the taxable year, over 
+
+
+I.R.C. § 6662(d)(2)(A)(ii)  — 
+                        
+                        
+the amount of the tax imposed which is shown on the return, reduced by any rebate
+                           (within the meaning of section 6211(b)(2)). 
+
+
+The excess under the preceding sentence shall be determined without regard to items
+                           to which section 6662A applies.
+
+
+
+I.R.C. § 6662(d)(2)(B) Reduction For Understatement Due To Position Of Taxpayer Or Disclosed Item — 
+                     
+                     
+The amount of the understatement under subparagraph (A) shall be reduced by that portion
+                        of the understatement which is attributable to -- 
+
+I.R.C. § 6662(d)(2)(B)(i)  — 
+                        
+                        
+the tax treatment of any item by the taxpayer if there is or was substantial authority
+                           for such treatment, or 
+
+
+I.R.C. § 6662(d)(2)(B)(ii)  — 
+                        
+                        
+any item if— 
+
+I.R.C. § 6662(d)(2)(B)(ii)(I)  — 
+                           
+                           
+the relevant facts affecting the item's tax treatment are adequately disclosed in
+                              the return or in a statement attached to the return, and 
+
+
+I.R.C. § 6662(d)(2)(B)(ii)(II)  — 
+                           
+                           
+there is a reasonable basis for the tax treatment of such item by the taxpayer. 
+
+
+For purposes of clause (ii)(II), in no event shall a corporation be treated as having
+                              a reasonable basis for its tax treatment of an item attributable to a multiple-party
+                              financing transaction if such treatment does not clearly reflect the income of the
+                              corporation.
+
+
+
+
+I.R.C. § 6662(d)(2)(C) Reduction Not To Apply To Tax Shelters
+
+
+I.R.C. § 6662(d)(2)(C)(i) In General — 
+                        
+                        
+Subparagraph (B) shall not apply to any item attributable to a tax shelter. 
+
+
+I.R.C. § 6662(d)(2)(C)(ii) Tax Shelter — 
+                        
+                        
+For purposes of clause (i), the term “tax shelter” means— 
+
+I.R.C. § 6662(d)(2)(C)(ii)(I)  — 
+                           
+                           
+a partnership or other entity, 
+
+
+I.R.C. § 6662(d)(2)(C)(ii)(II)  — 
+                           
+                           
+any investment plan or arrangement, or 
+
+
+I.R.C. § 6662(d)(2)(C)(ii)(III)  — 
+                           
+                           
+any other plan or arrangement, 
+
+
+if a significant purpose of such partnership, entity, plan, or arrangement is the
+                              avoidance or evasion of Federal income tax.
+
+
+
+
+
+I.R.C. § 6662(d)(3) Secretarial List — 
+                  
+                  
+The Secretary may prescribe a list of positions which the Secretary believes do not
+                     meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(3), and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register
+                     or the Internal Revenue Bulletin.
+I.R.C. § 6662(e) Substantial Valuation Misstatement Under Chapter 1
+
+
+I.R.C. § 6662(e)(1) In General — 
+                  
+                  
+For purposes of this section, there is a substantial valuation misstatement under
+                     chapter 1 if— 
+
+I.R.C. § 6662(e)(1)(A)  — 
+                     
+                     
+the value of any property (or the adjusted basis of any property) claimed on any return
+                        of tax imposed by chapter 1 is 150 percent or more of the amount determined to be
+                        the correct amount of such valuation or adjusted basis (as the case may be), or 
+
+
+I.R.C. § 6662(e)(1)(B) 
+
+
+I.R.C. § 6662(e)(1)(B)(i)  — 
+                        
+                        
+the price for any property or services (or for the use of property) claimed on any
+                           such return in connection with any transaction between persons described in section
+                           482 is 200 percent or more (or 50 percent or less) of the amount determined under section
+                           482 to be the correct amount of such price, or 
+
+
+I.R.C. § 6662(e)(1)(B)(ii)  — 
+                        
+                        
+the net section 482 transfer price adjustment for the taxable year exceeds the lesser of $5,000,000 or
+                           10 percent of the taxpayer's gross receipts. 
+
+
+
+
+I.R.C. § 6662(e)(2) Limitation — 
+                  
+                  
+No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the
+                     underpayment for the taxable year attributable to substantial valuation misstatements
+                     under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an
+                     S corporation or a personal holding company (as defined in section 542)). 
+
+
+I.R.C. § 6662(e)(3) Net Section 482 Transfer Price Adjustment — 
+                  
+                  
+For purposes of this subsection— 
+
+I.R.C. § 6662(e)(3)(A) In General — 
+                     
+                     
+The term “net section 482 transfer price adjustment” means, with respect to any taxable year, the net increase
+                        in taxable income for the taxable year (determined without regard to any amount carried
+                        to such taxable year from another taxable year) resulting from adjustments under section
+                        482 in the price for any property or services (or for the use of property). 
+
+
+I.R.C. § 6662(e)(3)(B) Certain Adjustments Excluded In Determining Threshold — 
+                     
+                     
+For purposes of determining whether the threshold requirements of paragraph (1)(B)(ii)
+                        are met, the following shall be excluded: 
+
+I.R.C. § 6662(e)(3)(B)(i)  — 
+                        
+                        
+Any portion of the net increase in taxable income referred to in subparagraph (A)
+                           which is attributable to any redetermination of a price if— 
+
+I.R.C. § 6662(e)(3)(B)(i)(I)  — 
+                           
+                           
+it is established that the taxpayer determined such price in accordance with a specific
+                              pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable, 
+
+
+I.R.C. § 6662(e)(3)(B)(i)(II)  — 
+                           
+                           
+the taxpayer has documentation (which was in existence as of the time of filing the
+                              return) which sets forth the determination of such price in accordance with such a
+                              method and which establishes that the use of such method was reasonable, and 
+
+
+I.R.C. § 6662(e)(3)(B)(i)(III)  — 
+                           
+                           
+the taxpayer provides such documentation to the Secretary within 30 days of a request
+                              for such documentation. 
+
+
+
+I.R.C. § 6662(e)(3)(B)(ii)  — 
+                        
+                        
+Any portion of the net increase in taxable income referred to in subparagraph (A)
+                           which is attributable to a redetermination of price where such price was not determined
+                           in accordance with such a specific pricing method if -- 
+
+I.R.C. § 6662(e)(3)(B)(ii)(I)  — 
+                           
+                           
+the taxpayer establishes that none of such pricing methods was likely to result in
+                              a price that would clearly reflect income, the taxpayer used another pricing method
+                              to determine such price, and such other pricing method was likely to result in a price
+                              that would clearly reflect income, 
+
+
+I.R.C. § 6662(e)(3)(B)(ii)(II)  — 
+                           
+                           
+the taxpayer has documentation (which was in existence as of the time of filing the
+                              return) which sets forth the determination of such price in accordance with such other
+                              method and which establishes that the requirements of subclause (I) were satisfied,
+                              and 
+
+
+I.R.C. § 6662(e)(3)(B)(ii)(III)  — 
+                           
+                           
+the taxpayer provides such documentation to the Secretary within 30 days of request
+                              for such documentation. 
+
+
+
+I.R.C. § 6662(e)(3)(B)(iii)  — 
+                        
+                        
+Any portion of such net increase which is attributable to any transaction solely between
+                           foreign corporations unless, in the case of any such corporations, the treatment of
+                           such transaction affects the determination of income from sources within the United
+                           States or taxable income effectively connected with the conduct of a trade or business
+                           within the United States. 
+
+
+
+I.R.C. § 6662(e)(3)(C) Special Rule — 
+                     
+                     
+If the regular tax (as defined in section 55(c)) imposed by chapter 1 on the taxpayer is determined by reference to an amount other
+                        than taxable income, such amount shall be treated as the taxable income of such taxpayer
+                        for purposes of this paragraph. 
+
+
+I.R.C. § 6662(e)(3)(D) Coordination With Reasonable Cause Exception — 
+                     
+                     
+For purposes of section 6664(c) the taxpayer shall not be treated as having reasonable cause for any portion of an
+                        underpayment attributable to a net section 482 transfer price adjustment unless such taxpayer meets the requirements of clause (i),
+                        (ii), or (iii) of subparagraph (B) with respect to such portion.
+I.R.C. § 6662(f) Substantial Overstatement Of Pension Liabilities 
+
+
+I.R.C. § 6662(f)(1) In General — 
+                  
+                  
+For purposes of this section, there is a substantial overstatement of pension liabilities
+                     if the actuarial determination of the liabilities taken into account for purposes
+                     of computing the deduction under paragraph (1) or (2) of section 404(a) is 200 percent or more of the amount determined to be the correct amount of such
+                     liabilities. 
+
+
+I.R.C. § 6662(f)(2) Limitation — 
+                  
+                  
+No penalty shall be imposed by reason of subsection (b)(4) unless the portion of the
+                     underpayment for the taxable year attributable to substantial overstatements of pension
+                     liabilities exceeds $1,000.
+I.R.C. § 6662(g) Substantial Estate Or Gift Tax Valuation Understatement
+
+
+I.R.C. § 6662(g)(1) In General — 
+                  
+                  
+For purposes of this section, there is a substantial estate or gift tax valuation
+                     understatement if the value of any property claimed on any return of tax imposed by
+                     subtitle B is 65 percent or less of the amount determined to be the correct amount
+                     of such valuation. 
+
+
+I.R.C. § 6662(g)(2) Limitation — 
+                  
+                  
+No penalty shall be imposed by reason of subsection (b)(5) unless the portion of the
+                     underpayment attributable to substantial estate or gift tax valuation understatements
+                     for the taxable period (or, in the case of the tax imposed by chapter 11, with respect
+                     to the estate of the decedent) exceeds $5,000.
+I.R.C. § 6662(h) Increase In Penalty In Case Of Gross Valuation Misstatements
+
+
+I.R.C. § 6662(h)(1) In General — 
+                  
+                  
+To the extent that a portion of the underpayment to which this section applies is
+                     attributable to one or more gross valuation misstatements, subsection (a) shall be
+                     applied with respect to such portion by substituting “40 percent” for “20 percent”. 
+
+
+I.R.C. § 6662(h)(2) Gross Valuation Misstatements — 
+                  
+                  
+The term “gross valuation misstatements” means— 
+
+I.R.C. § 6662(h)(2)(A)  — 
+                     
+                     
+any substantial valuation misstatement under chapter 1 as determined under subsection
+                        (e) by substituting— 
+
+I.R.C. § 6662(h)(2)(A)(i)  — 
+                        
+                        
+in paragraph (1)(A), “200 percent” for “150 percent”, 
+
+
+I.R.C. § 6662(h)(2)(A)(ii)  — 
+                        
+                        
+in paragraph (1)(B)(i)— 
+
+I.R.C. § 6662(h)(2)(A)(ii)(I)  — 
+                           
+                           
+“400 percent” for “200 percent”, and 
+
+
+I.R.C. § 6662(h)(2)(A)(ii)(II)  — 
+                           
+                           
+“25 percent” for “50 percent”, and 
+
+
+
+I.R.C. § 6662(h)(2)(A)(iii)  — 
+                        
+                        
+in paragraph (1)(B)(ii)— 
+
+I.R.C. § 6662(h)(2)(A)(iii)(I)  — 
+                           
+                           
+“$20,000,000” for “$5,000,000”, and 
+
+
+I.R.C. § 6662(h)(2)(A)(iii)(II)  — 
+                           
+                           
+“20 percent” for “10 percent”. 
+
+
+
+
+I.R.C. § 6662(h)(2)(B)  — 
+                     
+                     
+any substantial overstatement of pension liabilities as determined under subsection
+                        (f) by substituting “400 percent” for “200 percent”, 
+
+
+I.R.C. § 6662(h)(2)(C)  — 
+                     
+                     
+any substantial estate or gift tax valuation understatement as determined under subsection
+                        (g) by substituting “40 percent” for “65 percent”, and 
+
+
+I.R.C. § 6662(h)(2)(D)  — 
+                     
+                     
+any disallowance of a deduction described in subsection (b)(10).
+I.R.C. § 6662(i) Increase In Penalty In Case Of Nondisclosed Noneconomic Substance Transactions
+
+
+I.R.C. § 6662(i)(1) In General — 
+                  
+                  
+In the case of any portion of an underpayment which is attributable to one or more
+                     nondisclosed noneconomic substance transactions, subsection (a) shall be applied with
+                     respect to such portion by substituting “40 percent” for “20 percent”. 
+
+
+I.R.C. § 6662(i)(2) Nondisclosed Noneconomic Substance Transactions — 
+                  
+                  
+For purposes of this subsection, the term “nondisclosed noneconomic substance transaction”
+                     means any portion of a transaction described in subsection (b)(6) with respect to
+                     which the relevant facts affecting the tax treatment are not adequately disclosed
+                     in the return nor in a statement attached to the return. 
+
+
+I.R.C. § 6662(i)(3) Special Rule For Amended Returns — 
+                  
+                  
+In no event shall any amendment or supplement to a return of tax be taken into account
+                     for purposes of this subsection if the amendment or supplement is filed after the
+                     earlier of the date the taxpayer is first contacted by the Secretary regarding the
+                     examination of the return or such other date as is specified by the Secretary.
+I.R.C. § 6662(j) Undisclosed Foreign Financial Asset Understatement
+
+
+I.R.C. § 6662(j)(1) In General — 
+                  
+                  
+For purposes of this section, the term “undisclosed foreign financial asset understatement”
+                     means, for any taxable year, the portion of the understatement for such taxable year
+                     which is attributable to any transaction involving an undisclosed foreign financial
+                     asset. 
+
+
+I.R.C. § 6662(j)(2) Undisclosed Foreign Financial Asset — 
+                  
+                  
+For purposes of this subsection, the term “undisclosed foreign financial asset” means,
+                     with respect to any taxable year, any asset with respect to which information was
+                     required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the
+                     provisions of those sections. 
+
+
+I.R.C. § 6662(j)(3) Increase In Penalty For Undisclosed Foreign Financial Asset Understatements — 
+                  
+                  
+In the case of any portion of an underpayment which is attributable to any undisclosed
+                     foreign financial asset understatement, subsection (a) shall be applied with respect
+                     to such portion by substituting “40 percent” for “20 percent”.
+I.R.C. § 6662(k) Inconsistent Estate Basis Reporting — 
+               
+               
+For purposes of this section, the term “inconsistent estate basis” means any portion
+                  of an underpayment attributable to the failure to comply with section 1014(f).
+I.R.C. § 6662(l) Increase In Penalty In Case Of Overstatement Of Qualified Charitable Contributions — 
+               
+               
+In the case of any portion of an underpayment which is attributable to one or more
+                  overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50
+                  percent” for “20 percent.”

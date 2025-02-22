@@ -1,0 +1,196 @@
+Sec. 1363. Effect Of Election On Corporation
+
+I.R.C. § 1363(a) General Rule — 
+               
+               
+Except  as otherwise provided in this subchapter, an S corporation shall not be  subject
+                  to the taxes imposed by this chapter.
+I.R.C. § 1363(b) Computation Of Corporation's Taxable Income — 
+               
+               
+The  taxable income of an S corporation shall be computed in the same manner as  in
+                  the case of an individual, except that— 
+
+I.R.C. § 1363(b)(1)  — 
+                  
+                  
+the  items described in section 1366(a)(1)(A) shall be separately stated, 
+
+
+I.R.C. § 1363(b)(2)  — 
+                  
+                  
+the  deductions referred to in section 703(a)(2) shall not be allowed to the  corporation, 
+
+
+I.R.C. § 1363(b)(3)  — 
+                  
+                  
+section  248 shall apply, and 
+
+
+I.R.C. § 1363(b)(4)  — 
+                  
+                  
+section  291 shall apply if the S corporation (or any predecessor) was a C  corporation for any
+                     of the 3 immediately preceding taxable years.
+I.R.C. § 1363(c) Elections Of The S Corporation
+
+
+I.R.C. § 1363(c)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), any election affecting the computation of  items
+                     derived from an S corporation shall be made by the corporation. 
+
+
+I.R.C. § 1363(c)(2) Exceptions — 
+                  
+                  
+In  the case of an S corporation, elections under the following provisions  shall
+                     be made by each shareholder separately— 
+
+I.R.C. § 1363(c)(2)(A)  — 
+                     
+                     
+section  617 (relating to deduction and recapture of certain mining exploration  expenditures),
+                        and 
+
+
+I.R.C. § 1363(c)(2)(B)  — 
+                     
+                     
+section  901 (relating to taxes of foreign countries and possessions of the United  States).
+I.R.C. § 1363(d) Recapture Of LIFO Benefits
+
+
+I.R.C. § 1363(d)(1) In General — 
+                  
+                  
+If— 
+
+I.R.C. § 1363(d)(1)(A)  — 
+                     
+                     
+an S  corporation was a C corporation for the last taxable year before the first 
+                        taxable year for which the election under section 1362(a) was effective,  and 
+
+
+I.R.C. § 1363(d)(1)(B)  — 
+                     
+                     
+the  corporation inventoried goods under the LIFO method for such last taxable  year, 
+
+
+the LIFO recapture amount shall be included in the gross income of  the corporation
+                        for such last taxable year (and appropriate adjustments to  the basis of inventory
+                        shall be made to take into account the amount  included in gross income under this
+                        paragraph).
+
+
+
+I.R.C. § 1363(d)(2) Additional Tax Payable In Installments
+
+
+I.R.C. § 1363(d)(2)(A) In General — 
+                     
+                     
+Any  increase in the tax imposed by this chapter by reason of this subsection  shall
+                        be payable in 4 equal installments. 
+
+
+I.R.C. § 1363(d)(2)(B) Date For Payment Of Installments — 
+                     
+                     
+The  first installment under subparagraph (A) shall be paid on or before the  due
+                        date (determined without regard to extensions)
+                        for the return of the  tax imposed by this chapter for the last taxable year for which
+                        the  corporation was a C corporation and the 3 succeeding installments shall be  paid
+                        on or before the due date (as so determined)
+                        for the corporation's  return for the 3 succeeding taxable years. 
+
+
+I.R.C. § 1363(d)(2)(C) No Interest For Period Of Extension — 
+                     
+                     
+Notwithstanding  section 6601(b), for purposes of section 6601, the date prescribed for the  payment of each installment under this paragraph shall
+                        be determined under  this paragraph. 
+
+
+
+I.R.C. § 1363(d)(3) LIFO Recapture Amount — 
+                  
+                  
+For  purposes of this subsection, the term “LIFO recapture amount” means the  amount
+                     (if any) by which— 
+
+I.R.C. § 1363(d)(3)(A)  — 
+                     
+                     
+the  inventory amount of the inventory asset under the first-in, first-out  method
+                        authorized by section 471, exceeds 
+
+
+I.R.C. § 1363(d)(3)(B)  — 
+                     
+                     
+the  inventory amount of such assets under the LIFO method. 
+
+
+For purposes of the preceding sentence, inventory  amounts shall be determined as
+                        of the close of the last taxable year  referred to in paragraph (1).
+
+
+
+I.R.C. § 1363(d)(4) Other Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 1363(d)(4)(A) LIFO Method — 
+                     
+                     
+The  term “LIFO method” means the method authorized by section 472. 
+
+
+I.R.C. § 1363(d)(4)(B) Inventory Assets — 
+                     
+                     
+The  term “inventory assets” means stock in trade of the corporation, or other  property
+                        of a kind which would properly be included in the inventory of  the corporation if
+                        on hand at the close of the taxable year. 
+
+
+I.R.C. § 1363(d)(4)(C) Method Of Determining Inventory Amount — 
+                     
+                     
+The  inventory amount of assets under a method authorized by section 471 shall
+                        be determined— 
+
+I.R.C. § 1363(d)(4)(C)(i)  — 
+                        
+                        
+if  the corporation uses the retail method of valuing inventories under  section 472, by using such method, or 
+
+
+I.R.C. § 1363(d)(4)(C)(ii)  — 
+                        
+                        
+if  clause (i) does not apply, by using cost or market, whichever is lower. 
+
+
+
+I.R.C. § 1363(d)(4)(D) Not Treated As Member Of Affiliated Group — 
+                     
+                     
+Except  as provided in regulations, the corporation referred to in paragraph (1) 
+                        shall not be treated as a member of an affiliated group with respect to  the amount
+                        included in gross income under paragraph  (1). 
+
+
+
+I.R.C. § 1363(d)(5) Special Rule — 
+                  
+                  
+Sections  1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any  increase
+                     in the tax imposed by reason of this subsection.

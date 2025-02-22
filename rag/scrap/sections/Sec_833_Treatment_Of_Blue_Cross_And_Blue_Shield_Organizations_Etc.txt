@@ -1,0 +1,345 @@
+Sec. 833. Treatment Of Blue Cross And Blue Shield Organizations, Etc.
+
+I.R.C. § 833(a) General Rule — 
+               
+               
+In  the case of any organization to which this section applies— 
+
+I.R.C. § 833(a)(1) Treated As Stock Company — 
+                  
+                  
+Such  organization shall be taxable under this part in the same manner as if it  were
+                     a stock insurance company. 
+
+
+I.R.C. § 833(a)(2) Special Deduction Allowed — 
+                  
+                  
+The  deduction determined under subsection (b) for any taxable year shall be  allowed. 
+
+
+I.R.C. § 833(a)(3) Reductions In Unearned Premium Reserves Not To Apply — 
+                  
+                  
+Subparagraph  (B) of paragraph (4) of section 832(b) shall be applied by substituting
+                     “100 percent” for “80 percent”, and subparagraph (C) of such paragraph
+                     (4)  shall not apply.
+I.R.C. § 833(b) Amount Of Deduction
+
+
+I.R.C. § 833(b)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), the deduction determined under this  subsection
+                     for any taxable year is the excess
+                     (if any) of— 
+
+I.R.C. § 833(b)(1)(A)  — 
+                     
+                     
+25 percent of the sum of— 
+
+I.R.C. § 833(b)(1)(A)(i)  — 
+                        
+                        
+the claims incurred during the taxable year and  liabilities incurred during the taxable
+                           year under cost-plus contracts,  and 
+
+
+I.R.C. § 833(b)(1)(A)(ii)  — 
+                        
+                        
+the expenses incurred during the taxable year in  connection with the administration,
+                           adjustment, or settlement of claims or  in connection with the administration of cost-plus
+                           contracts,  over 
+
+
+
+I.R.C. § 833(b)(1)(B)  — 
+                     
+                     
+the adjusted surplus as of the beginning of the taxable  year. 
+
+
+
+I.R.C. § 833(b)(2) Limitation — 
+                  
+                  
+The  deduction determined under paragraph (1) for any taxable year shall not  exceed
+                     taxable income for such taxable year
+                     (determined without regard to  such deduction). 
+
+
+I.R.C. § 833(b)(3) Adjusted Surplus — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 833(b)(3)(A) In General — 
+                     
+                     
+The  adjusted surplus as of the beginning of any taxable year is an amount  equal
+                        to the adjusted surplus as of the beginning of the preceding taxable  year— 
+
+I.R.C. § 833(b)(3)(A)(i)  — 
+                        
+                        
+increased by the amount of any adjusted taxable income  for such preceding taxable
+                           year, or 
+
+
+I.R.C. § 833(b)(3)(A)(ii)  — 
+                        
+                        
+decreased by the amount of any adjusted net operating  loss for such preceding taxable
+                           year. 
+
+
+
+I.R.C. § 833(b)(3)(B) Special Rule — 
+                     
+                     
+The  adjusted surplus as of the beginning of the organization's 1st taxable  year
+                        beginning after December 31, 1986, shall be its surplus as of such  time. For purposes
+                        of the preceding sentence and subsection (c)(3)(C), the  term “surplus” means the
+                        excess of the total assets over total liabilities  as shown on the annual statement. 
+
+
+I.R.C. § 833(b)(3)(C) Adjusted Taxable Income — 
+                     
+                     
+The  term “adjusted taxable income” means taxable income determined— 
+
+I.R.C. § 833(b)(3)(C)(i)  — 
+                        
+                        
+without regard to the deduction determined under this  subsection, 
+
+
+I.R.C. § 833(b)(3)(C)(ii)  — 
+                        
+                        
+without regard to any carryforward or carryback to such  taxable year, and 
+
+
+I.R.C. § 833(b)(3)(C)(iii)  — 
+                        
+                        
+by increasing gross income by an amount equal to the net  exempt income for the taxable
+                           year. 
+
+
+
+I.R.C. § 833(b)(3)(D) Adjusted Net Operating Loss — 
+                     
+                     
+The  term “adjusted net operating loss” means the net operating loss for any  taxable
+                        year determined with the adjustments set forth in subparagraph  (C). 
+
+
+I.R.C. § 833(b)(3)(E) Net Exempt Income — 
+                     
+                     
+The  term “net exempt income” means— 
+
+I.R.C. § 833(b)(3)(E)(i)  — 
+                        
+                        
+any tax-exempt interest received or accrued during the  taxable year, reduced by any
+                           amount (not otherwise deductible) which would  have been allowable as a deduction
+                           for the taxable year if such interest  were not tax-exempt, and 
+
+
+I.R.C. § 833(b)(3)(E)(ii)  — 
+                        
+                        
+the aggregate amount allowed as a deduction for the  taxable year under sections 243 and 245. 
+
+
+The amount determined under clause (ii) shall be reduced
+                           by the amount of any decrease in deductions allowable for the taxable year  by reason
+                           of section 832(b)(5)(B) to the extent such decrease is  attributable to deductions under sections 243 and 245.
+
+
+
+
+I.R.C. § 833(b)(4) Only Health-Related Items Taken Into Account — 
+                  
+                  
+Any  determination under this subsection shall be made by only taking into  account
+                     items attributable to the health-related business of the taxpayer.
+I.R.C. § 833(c) Organizations To Which Section Applies
+
+
+I.R.C. § 833(c)(1) In General — 
+                  
+                  
+This  section shall apply to— 
+
+I.R.C. § 833(c)(1)(A)  — 
+                     
+                     
+any existing Blue Cross or Blue Shield organization, and 
+
+
+I.R.C. § 833(c)(1)(B)  — 
+                     
+                     
+any other organization meeting the requirements of  paragraph (3). 
+
+
+
+I.R.C. § 833(c)(2) Existing Blue Cross Or Blue Shield Organization — 
+                  
+                  
+The  term “existing Blue Cross or Blue Shield organization"
+                     means any Blue  Cross or Blue Shield organization if— 
+
+I.R.C. § 833(c)(2)(A)  — 
+                     
+                     
+such organization was in existence on August 16, 1986, 
+
+
+I.R.C. § 833(c)(2)(B)  — 
+                     
+                     
+such organization is determined to be exempt from tax  for its last taxable year beginning
+                        before January 1, 1987, and 
+
+
+I.R.C. § 833(c)(2)(C)  — 
+                     
+                     
+no material change has occurred in the operations of  such organization or in its
+                        structure after August 16, 1986, and before  the close of the taxable year. 
+
+
+To the extent permitted by the Secretary, any successor
+                        to an organization meeting the requirements of the preceding sentence, and  any organization
+                        resulting from the merger or consolidation of
+                        organizations each of which met such requirements, shall be treated as an  existing
+                        Blue Cross or Blue Shield organization.
+
+
+
+I.R.C. § 833(c)(3) Other Organizations
+
+
+I.R.C. § 833(c)(3)(A) In General — 
+                     
+                     
+An  organization meets the requirements of this paragraph for any taxable year  if— 
+
+I.R.C. § 833(c)(3)(A)(i)  — 
+                        
+                        
+substantially all the activities of such organization  involve the providing of health
+                           insurance, 
+
+
+I.R.C. § 833(c)(3)(A)(ii)  — 
+                        
+                        
+at least 10 percent of the health insurance provided by  such organization is provided
+                           to individuals and small groups (not taking  into account any medicare supplemental
+                           coverage), 
+
+
+I.R.C. § 833(c)(3)(A)(iii)  — 
+                        
+                        
+such organization provides continuous full-year open  enrollment (including conversions)
+                           for individuals and small groups, 
+
+
+I.R.C. § 833(c)(3)(A)(iv)  — 
+                        
+                        
+such organization's policies covering individuals  provide full coverage of pre-existing
+                           conditions of high-risk individuals  without a price differential (with a reasonable
+                           waiting period), and  coverage is provided without regard to age, income, or employment
+                           status  of individuals under age 65, 
+
+
+I.R.C. § 833(c)(3)(A)(v)  — 
+                        
+                        
+at least 35 percent of its premiums are determined on a  community rated basis, and 
+
+
+I.R.C. § 833(c)(3)(A)(vi)  — 
+                        
+                        
+no part of its net earnings inures to the benefit of any  private shareholder or individual. 
+
+
+
+I.R.C. § 833(c)(3)(B) Small Group Defined — 
+                     
+                     
+For  purposes of subparagraph (A), the term “small group"
+                        means the lesser of— 
+
+I.R.C. § 833(c)(3)(B)(i)  — 
+                        
+                        
+15 individuals, or 
+
+
+I.R.C. § 833(c)(3)(B)(ii)  — 
+                        
+                        
+the number of individuals required for a small group  under applicable State law. 
+
+
+
+I.R.C. § 833(c)(3)(C) Special Rule For Determining Adjusted Surplus — 
+                     
+                     
+For  purposes of subsection (b), the adjusted surplus of any organization  meeting
+                        the requirements of this paragraph as of the beginning of the 1st  taxable year for
+                        which it meets such requirements shall be its surplus as  of such time. 
+
+
+
+I.R.C. § 833(c)(4) Treatment As Existing Blue Cross Or Blue Shield Organization
+
+
+I.R.C. § 833(c)(4)(A) In General — 
+                     
+                     
+Paragraph  (2) shall be applied to an organization described in subparagraph (B) as
+                        if it were a Blue Cross or Blue Shield organization. 
+
+
+I.R.C. § 833(c)(4)(B) Applicable Organization — 
+                     
+                     
+An  organization is described in this subparagraph if it— 
+
+I.R.C. § 833(c)(4)(B)(i)  — 
+                        
+                        
+is organized under, and governed by, State laws which  are specifically and exclusively
+                           applicable to not- for-profit health  insurance or health service type organizations,
+                           and 
+
+
+I.R.C. § 833(c)(4)(B)(ii)  — 
+                        
+                        
+is not a Blue Cross or Blue Shield organization or  health maintenance organization. 
+
+
+
+
+I.R.C. § 833(c)(5) Nonapplication Of Section In Case Of Low Medical Loss Ratio — 
+                  
+                  
+Notwithstanding the preceding paragraphs, paragraphs
+                     (2) and (3) of subsection (a) shall not apply to any organization unless such organization's
+                     percentage of total premium revenue expended on reimbursement for clinical services
+                     and for activities that improve health  care quality provided to enrollees under its
+                     policies during such taxable year (as reported under section 2718 of the Public Health
+                     Service Act) is not less than 85 percent.

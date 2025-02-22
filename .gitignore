@@ -9,6 +9,7 @@ venv/
 virtualenv/
 ENV/
 env/
+rag/chroma_db
 *.egg-info/
 *.egg
 

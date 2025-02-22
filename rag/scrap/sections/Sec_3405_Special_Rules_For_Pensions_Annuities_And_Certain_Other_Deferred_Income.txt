@@ -1,0 +1,431 @@
+Sec. 3405. Special Rules For Pensions, Annuities, And Certain Other Deferred Income
+
+I.R.C. § 3405(a) Periodic Payments 
+
+
+I.R.C. § 3405(a)(1) Withholding As If Payment Were Wages — 
+                  
+                  
+The  payor of any periodic payment (as defined in subsection (e)(2)) shall  withhold from such payment the amount which would be required to be  withheld
+                     from such payment if such payment were a payment of wages by an  employer to an employee
+                     for the appropriate payroll  period. 
+
+
+I.R.C. § 3405(a)(2) Election Of No Withholding — 
+                  
+                  
+An  individual may elect to have paragraph (1) not apply with respect to  periodic payments made to such individual. Such an election
+                     shall remain  in effect until revoked by such individual. 
+
+
+I.R.C. § 3405(a)(3) When Election Takes Effect — 
+                  
+                  
+Any  election under this subsection
+                     (and any revocation of such an election)  shall take effect as provided by subsection
+                     (f)(3) of section 3402 for
+                     withholding allowance certificates. 
+
+
+I.R.C. § 3405(a)(4) Amount Withheld Where No Withholding Allowance Certificate In Effect — 
+                  
+                  
+In  the case of any payment with respect to which a withholding allowance  certificate
+                     is not in effect, the amount withheld under paragraph (1)  shall be determined under rules prescribed by the Secretary.
+I.R.C. § 3405(b) Nonperiodic Distribution
+
+
+I.R.C. § 3405(b)(1) Withholding — 
+                  
+                  
+The  payor of any nonperiodic distribution (as defined in subsection (e)(3))
+                     shall withhold from such  distribution an amount equal to 10 percent of such distribution. 
+
+
+I.R.C. § 3405(b)(2) Election Of No Withholding 
+
+
+I.R.C. § 3405(b)(2)(A) In General — 
+                     
+                     
+An  individual may elect not to have paragraph (1) apply with respect to any  nonperiodic distribution. 
+
+
+I.R.C. § 3405(b)(2)(B) Scope Of Election — 
+                     
+                     
+An  election under subparagraph (A)— 
+
+I.R.C. § 3405(b)(2)(B)(i)  — 
+                        
+                        
+except as provided in clause (ii), shall be on a  distribution-by-distribution basis, or 
+
+
+I.R.C. § 3405(b)(2)(B)(ii)  — 
+                        
+                        
+to the extent provided in regulations, may apply to  subsequent nonperiodic distributions
+                           made by the payor to the payee under  the same arrangement.
+I.R.C. § 3405(c) Eligible Rollover Distributions 
+
+
+I.R.C. § 3405(c)(1) In General — 
+                  
+                  
+In  the case of any designated distribution which is an eligible rollover  distribution— 
+
+I.R.C. § 3405(c)(1)(A)  — 
+                     
+                     
+subsections (a) and (b) shall not apply, and 
+
+
+I.R.C. § 3405(c)(1)(B)  — 
+                     
+                     
+the payor of such distribution shall withhold from such  distribution an amount equal
+                        to 20 percent of such distribution. 
+
+
+
+I.R.C. § 3405(c)(2) Exception — 
+                  
+                  
+Paragraph  (1)(B) shall not apply to any distribution if the distributee elects under  section 401(a)(31)(A) to have such distribution paid directly to an  eligible retirement plan. 
+
+
+I.R.C. § 3405(c)(3) Eligible Rollover Distribution — 
+                  
+                  
+For  purposes of this subsection, the term “eligible rollover distribution” has  the
+                     meaning given such term by section
+                     402(f)(2)(A).
+I.R.C. § 3405(d) Liability For Withholding
+
+
+I.R.C. § 3405(d)(1) In General — 
+                  
+                  
+Except  as provided in paragraph (2), the payor of a designated distribution (as  defined in subsection (e)(1)) shall withhold, and be liable for, payment  of the tax required to be withheld under
+                     this section. 
+
+
+I.R.C. § 3405(d)(2) Plan Administrator Liable In Certain Cases
+
+
+I.R.C. § 3405(d)(2)(A) In General — 
+                     
+                     
+In  the case of any plan to which this paragraph applies, paragraph (1) shall
+                        not apply and the plan administrator shall withhold, and be liable for,  payment of
+                        the tax unless the plan administrator— 
+
+I.R.C. § 3405(d)(2)(A)(i)  — 
+                        
+                        
+directs the payor to withhold such tax, and 
+
+
+I.R.C. § 3405(d)(2)(A)(ii)  — 
+                        
+                        
+provides the payor with such information as the  Secretary may require by regulations. 
+
+
+
+I.R.C. § 3405(d)(2)(B) Plans To Which Paragraph Applies — 
+                     
+                     
+This  paragraph applies to any plan described in, or which at any time has been  determined
+                        to be described in— 
+
+I.R.C. § 3405(d)(2)(B)(i)  — 
+                        
+                        
+section 401(a), 
+
+
+I.R.C. § 3405(d)(2)(B)(ii)  — 
+                        
+                        
+section 403(a), 
+
+
+I.R.C. § 3405(d)(2)(B)(iii)  — 
+                        
+                        
+section 301(d) of the Tax Reduction Act of 1975,  or 
+
+
+I.R.C. § 3405(d)(2)(B)(iv)  — 
+                        
+                        
+section 457(b) and which is maintained by an eligible  employer described in section  457(e)(1)(A).
+I.R.C. § 3405(e) Definitions And Special Rules  — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 3405(e)(1) Designated Distribution
+
+
+I.R.C. § 3405(e)(1)(A) In General — 
+                     
+                     
+Except  as provided in subparagraph (B), the term “designated distribution” means  any distribution or payment from or under— 
+
+I.R.C. § 3405(e)(1)(A)(i)  — 
+                        
+                        
+an employer deferred compensation plan, 
+
+
+I.R.C. § 3405(e)(1)(A)(ii)  — 
+                        
+                        
+an individual retirement plan (as defined in section  7701(a)(37)), or 
+
+
+I.R.C. § 3405(e)(1)(A)(iii)  — 
+                        
+                        
+a commercial annuity. 
+
+
+
+I.R.C. § 3405(e)(1)(B) Exceptions — 
+                     
+                     
+The  term “designated distribution” shall not include— 
+
+I.R.C. § 3405(e)(1)(B)(i)  — 
+                        
+                        
+any amount which is wages without regard to this  section, 
+
+
+I.R.C. § 3405(e)(1)(B)(ii)  — 
+                        
+                        
+the portion of a distribution or payment which it is  reasonable to believe is not
+                           includible in gross income, and 
+
+
+I.R.C. § 3405(e)(1)(B)(iii)  — 
+                        
+                        
+any amount which is subject to withholding under  subchapter A of chapter 3 (relating
+                           to withholding of tax on nonresident  aliens and foreign corporations) by the person
+                           paying such amount or which  would be so subject but for a tax treaty, or 
+
+
+I.R.C. § 3405(e)(1)(B)(iv)  — 
+                        
+                        
+any distribution described in section 404(k)(2). 
+
+
+For purposes of clause (ii), any distribution or payment  from or under an individual retirement plan (other
+                           than a Roth IRA) shall  be treated as includible in gross income.
+
+
+
+
+I.R.C. § 3405(e)(2) Periodic Payment — 
+                  
+                  
+The  term “periodic payment” means a designated distribution which is an  annuity
+                     or similar periodic payment. 
+
+
+I.R.C. § 3405(e)(3) Nonperiodic Distribution — 
+                  
+                  
+The  term “nonperiodic distribution” means any designated distribution which is  not
+                     a periodic payment. 
+
+
+I.R.C. § 3405(e)(4)  — 
+                  
+                  
+[Repealed.] 
+
+
+I.R.C. § 3405(e)(5) Employer Deferred Compensation Plan — 
+                  
+                  
+The  term “employer deferred compensation plan” means any pension, annuity,  profit-sharing,
+                     or stock bonus plan or other plan deferring the receipt of  compensation. 
+
+
+I.R.C. § 3405(e)(6) Commercial Annuity — 
+                  
+                  
+The  term “commercial annuity” means an annuity, endowment, or life insurance  contract
+                     issued by an insurance company licensed to do business under the  laws of any State. 
+
+
+I.R.C. § 3405(e)(7) Plan Administrator — 
+                  
+                  
+The  term “plan administrator” has the meaning given such term by section  414(g). 
+
+
+I.R.C. § 3405(e)(8) Maximum Amount Withheld — 
+                  
+                  
+The  maximum amount to be withheld under this section on any designated  distribution
+                     shall not exceed the sum of the amount of money and the fair  market value of other
+                     property (other than securities of the employer  corporation) received in the distribution.
+                     No amount shall be required to  be withheld under this section in the case of any
+                     designated distribution  which consists only of securities of the employer corporation
+                     and cash  (not in excess of $200) in lieu of financial shares. For purposes of this
+                     paragraph, the term “securities of the employer corporation” has the  meaning given
+                     such term by section 402(e)(4)(E). 
+
+
+I.R.C. § 3405(e)(9) Separate Arrangements To Be Treated Separately — 
+                  
+                  
+If  the payor has more than 1 arrangement under which designated distributions  may
+                     be made to any individual, each such arrangement shall be treated  separately. 
+
+
+I.R.C. § 3405(e)(10) Time And Manner Of Election
+
+
+I.R.C. § 3405(e)(10)(A) In General — 
+                     
+                     
+Any  election and any revocation under this section shall be made at such time  and
+                        in such manner as the Secretary shall prescribe. 
+
+
+I.R.C. § 3405(e)(10)(B) Payor Required To Notify Payee Of Rights To Elect
+
+
+I.R.C. § 3405(e)(10)(B)(i) Periodic Payments — 
+                        
+                        
+The  payor of any periodic payment— 
+
+I.R.C. § 3405(e)(10)(B)(i)(I)  — 
+                           
+                           
+shall transmit to the payee notice of the right to make  an election under subsection
+                              (a) not earlier than 6 months before the  first of such payments and not later than when
+                              making the first of such  payments, 
+
+
+I.R.C. § 3405(e)(10)(B)(i)(II)  — 
+                           
+                           
+if such a notice is not transmitted under subclause (I) 
+                              when making such first payment, shall transmit such a notice when making  such first
+                              payment, and 
+
+
+I.R.C. § 3405(e)(10)(B)(i)(III)  — 
+                           
+                           
+shall transmit to payees, not less frequently than once  each calendar year, notice
+                              of their rights to make elections under  subsection (a) and to revoke such elections. 
+
+
+
+I.R.C. § 3405(e)(10)(B)(ii) Nonperiodic Distributions — 
+                        
+                        
+The  payor of any nonperiodic distribution shall transmit to the payee notice  of
+                           the right to make any election provided in subsection (b) at the time  of the distribution (or at such earlier time as may be provided in 
+                           regulations). 
+
+
+I.R.C. § 3405(e)(10)(B)(iii) Notice — 
+                        
+                        
+Any  notice transmitted pursuant to this subparagraph shall be in such form and  contain
+                           such information as the Secretary shall prescribe. 
+
+
+
+
+I.R.C. § 3405(e)(11) Withholding Includes Deduction — 
+                  
+                  
+The  terms “withholding”, “withhold”, and “withheld"
+                     include “deducting”,  “deduct”, and “deducted”. 
+
+
+I.R.C. § 3405(e)(12) Failure To Provide Correct TIN — 
+                  
+                  
+If— 
+
+I.R.C. § 3405(e)(12)(A)  — 
+                     
+                     
+a payee fails to furnish his TIN to the payor in the  manner required by the Secretary,
+                        or 
+
+
+I.R.C. § 3405(e)(12)(B)  — 
+                     
+                     
+the Secretary notifies the payor before any payment or  distribution that the TIN
+                        furnished by the payee is incorrect, 
+
+
+no election  under subsection (a)(2) or (b)(2) shall be treated as in effect and  subsection (a)(4) shall not apply to such payee.
+
+
+
+I.R.C. § 3405(e)(13) Election May Not Be Made With Respect To Certain Payments Outside The United States
+                     Or Its Possessions
+
+
+I.R.C. § 3405(e)(13)(A) In General — 
+                     
+                     
+Except  as provided in subparagraph (B), in the case of any periodic payment or  nonperiodic distribution which is to be
+                        delivered outside of the United  States and any possession of the United States, no
+                        election may be made  under subsection (a)(2) or (b)(2) with respect to such payment. 
+
+
+I.R.C. § 3405(e)(13)(B) Exception — 
+                     
+                     
+Subparagraph  (A) shall not apply if the recipient certifies to the payor, in such  manner as the Secretary
+                        may prescribe, that such person is not— 
+
+I.R.C. § 3405(e)(13)(B)(i)  — 
+                        
+                        
+a United States citizen or a resident alien of the  United States, or 
+
+
+I.R.C. § 3405(e)(13)(B)(ii)  — 
+                        
+                        
+an individual to whom section 877  applies.
+I.R.C. § 3405(f) Withholding To Be Treated As Wage Withholding Under Section 3402 For Other Purposes — 
+               
+               
+For  purposes of this chapter (and so much of subtitle F as relates to this  chapter)— 
+
+I.R.C. § 3405(f)(1)  — 
+                  
+                  
+any designated distribution (whether or not an election  under this section applies
+                     to such distribution)
+                     shall be treated as if it  were wages paid by an employer to an employee with respect
+                     to which there  has been withholding under section 3402, and 
+
+
+I.R.C. § 3405(f)(2)  — 
+                  
+                  
+in the case of any designated distribution not subject  to withholding under this
+                     section by reason of an election under this  section, the amount withheld shall be
+                     treated as zero.

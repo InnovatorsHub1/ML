@@ -1,0 +1,648 @@
+Sec. 1256. Section 1256 Contracts Marked To Market
+
+I.R.C. § 1256(a) General Rule — 
+               
+               
+For  purposes of this subtitle— 
+
+I.R.C. § 1256(a)(1)  — 
+                  
+                  
+each  section 1256 contract held by the taxpayer at the close of the taxable  year
+                     shall be treated as sold for its fair market value on the last  business day of such
+                     taxable year (and any gain or loss shall be taken  into account for the taxable year), 
+
+
+I.R.C. § 1256(a)(2)  — 
+                  
+                  
+proper  adjustment shall be made in the amount of any gain or loss subsequently  realized
+                     for gain or loss taken into account by reason of paragraph (1), 
+
+
+I.R.C. § 1256(a)(3)  — 
+                  
+                  
+any  gain or loss with respect to a section 1256 contract shall be treated as— 
+
+I.R.C. § 1256(a)(3)(A)  — 
+                     
+                     
+short-term  capital gain or loss, to the extent of 40 percent of such gain or loss,
+                        and 
+
+
+I.R.C. § 1256(a)(3)(B)  — 
+                     
+                     
+long-term  capital gain or loss, to the extent of 60 percent of such gain or loss,
+                        and 
+
+
+
+I.R.C. § 1256(a)(4)  — 
+                  
+                  
+if  all the offsetting positions making up any straddle consist of section  1256 contracts
+                     to which this section applies (and such straddle is not  part of a larger straddle),
+                     sections 1092 and 263(g) shall not apply with
+                     respect to such straddle.
+I.R.C. § 1256(b) Section 1256 Contract Defined
+
+
+I.R.C. § 1256(b)(1) In General — 
+                  
+                  
+For  purposes of this section, the term “section 1256 contract” means— 
+
+I.R.C. § 1256(b)(1)(A)  — 
+                     
+                     
+any  regulated futures contract, 
+
+
+I.R.C. § 1256(b)(1)(B)  — 
+                     
+                     
+any  foreign currency contract, 
+
+
+I.R.C. § 1256(b)(1)(C)  — 
+                     
+                     
+any  nonequity option, 
+
+
+I.R.C. § 1256(b)(1)(D)  — 
+                     
+                     
+any  dealer equity option , and 
+
+
+I.R.C. § 1256(b)(1)(E)  — 
+                     
+                     
+any  dealer securities futures  contract. 
+
+
+
+I.R.C. § 1256(b)(2) Exceptions — 
+                  
+                  
+The term “section 1256 contract” shall not include— 
+
+I.R.C. § 1256(b)(2)(A)  — 
+                     
+                     
+any securities futures contract or option on such a contract unless such contract
+                        or option is a dealer securities futures contract, or 
+
+
+I.R.C. § 1256(b)(2)(B)  — 
+                     
+                     
+any interest rate swap, currency swap, basis swap, interest rate cap, interest rate
+                        floor, commodity swap, equity swap, equity index swap, credit default swap, or similar
+                        agreement.
+I.R.C. § 1256(c) Terminations, Etc.
+
+
+I.R.C. § 1256(c)(1) In General — 
+                  
+                  
+The  rules of paragraphs (1), (2), and (3) of subsection
+                     (a) shall also apply  to the termination (or transfer) during the taxable year of
+                     the taxpayer's  obligation (or rights) with respect to a section 1256 contract by
+                     offsetting, by taking or making delivery, by exercise or being exercised,  by assignment
+                     or being assigned, by lapse, or otherwise. 
+
+
+I.R.C. § 1256(c)(2) Special Rule Where Taxpayer Takes Delivery On Or Exercises Part Of Straddle — 
+                  
+                  
+If— 
+
+I.R.C. § 1256(c)(2)(A)  — 
+                     
+                     
+2 or  more section 1256 contracts are part of a straddle (as defined in section  1092(c)), and 
+
+
+I.R.C. § 1256(c)(2)(B)  — 
+                     
+                     
+the  taxpayer takes delivery under or exercises any of such contracts, 
+
+
+then,  for purposes of this section, each of the other such contracts shall be  treated
+                        as terminated on the day on which the taxpayer took delivery.
+
+
+
+I.R.C. § 1256(c)(3) Fair Market Value Taken Into Account — 
+                  
+                  
+For  purposes of this subsection, fair market value at the time of the  termination
+                     (or transfer) shall be taken into account.
+I.R.C. § 1256(d) Elections With Respect To Mixed Straddles
+
+
+I.R.C. § 1256(d)(1) Election — 
+                  
+                  
+The  taxpayer may elect to have this section not to apply to all section 1256  contracts
+                     which are part of a mixed straddle. 
+
+
+I.R.C. § 1256(d)(2) Time And Manner — 
+                  
+                  
+An  election under paragraph (1) shall be made at such time and in such manner  as
+                     the Secretary may by regulations prescribe. 
+
+
+I.R.C. § 1256(d)(3) Election Revocable Only With Consent — 
+                  
+                  
+An  election under paragraph (1) shall apply to the taxpayer's taxable year  for which
+                     made and to all subsequent taxable years, unless the Secretary  consents to a revocation
+                     of such election. 
+
+
+I.R.C. § 1256(d)(4) Mixed Straddle — 
+                  
+                  
+For  purposes of this subsection, the term “mixed straddle"
+                     means any straddle  (as defined in section 1092(c))— 
+
+I.R.C. § 1256(d)(4)(A)  — 
+                     
+                     
+at  least 1 (but not all) of the positions of which are section 1256  contracts, and 
+
+
+I.R.C. § 1256(d)(4)(B)  — 
+                     
+                     
+with  respect to which each position forming part of such straddle is clearly  identified,
+                        before the close of the day on which the first section 1256  contract forming part
+                        of the straddle is acquired (or such earlier time as  the Secretary may prescribe
+                        by regulations), as being part of such  straddle.
+I.R.C. § 1256(e) Mark To Market Not To Apply To Hedging Transactions
+
+
+I.R.C. § 1256(e)(1) Section Not To Apply — 
+                  
+                  
+Subsection  (a) shall not apply in the case of a hedging transaction. 
+
+
+I.R.C. § 1256(e)(2) Definition Of Hedging Transaction — 
+                  
+                  
+For  purposes of this subsection, the term “hedging transaction” means any  hedging
+                     transaction (as defined in section 1221(b)(2)(A)) if, before the  close of the day on which such transaction was entered into (or
+                     such  earlier time as the Secretary may prescribe by regulations), the taxpayer  clearly
+                     identifies such transaction as being a hedging
+                     transaction. 
+
+
+I.R.C. § 1256(e)(3) Special Rule For Syndicates
+
+
+I.R.C. § 1256(e)(3)(A) In General — 
+                     
+                     
+Notwithstanding  paragraph (2), the term “hedging transaction"
+                        shall not include any  transaction entered into by or for a syndicate. 
+
+
+I.R.C. § 1256(e)(3)(B) Syndicate Defined — 
+                     
+                     
+For  purposes of subparagraph (A), the term “syndicate"
+                        means any partnership  or other entity (other than a corporation which is not an S
+                        corporation)  if more than 35 percent of the losses of such entity during the taxable
+                        year are allocable to limited partners or limited entrepreneurs (within  the meaning
+                        of section 461(k)(4)). 
+
+
+I.R.C. § 1256(e)(3)(C) Holdings Attributable To Active Management — 
+                     
+                     
+For  purposes of subparagraph (B), an interest in an entity shall not be  treated
+                        as held by a limited partner or a limited entrepreneur (within the  meaning of section
+                        461(k)(4))— 
+
+I.R.C. § 1256(e)(3)(C)(i)  — 
+                        
+                        
+for  any period if during such period such interest is held by an individual  who
+                           actively participates at all times during such period in the  management of such entity, 
+
+
+I.R.C. § 1256(e)(3)(C)(ii)  — 
+                        
+                        
+for  any period if during such period such interest is held by the spouse,  children,
+                           grandchildren, and parents of an individual who actively  participates at all times
+                           during such period in the management of such  entity, 
+
+
+I.R.C. § 1256(e)(3)(C)(iii)  — 
+                        
+                        
+if  such interest is held by an individual who actively participated in the  management
+                           of such entity for a period of not less than 5 years, 
+
+
+I.R.C. § 1256(e)(3)(C)(iv)  — 
+                        
+                        
+if  such interest is held by the estate of an individual who actively  participated
+                           in the management of such entity or is held by the estate of  an individual if with
+                           respect to such individual such interest was at any  time described in clause
+                           (ii), or 
+
+
+I.R.C. § 1256(e)(3)(C)(v)  — 
+                        
+                        
+if  the Secretary determines (by regulations or otherwise) that such interest  should
+                           be treated as held by an individual who actively participates in  the management of
+                           such entity, and that such entity and such interest are  not used (or to be used)
+                           for tax-avoidance purposes. 
+
+
+For purposes of this subparagraph, a legally adopted
+                           child of an individual shall be treated as a child of such individual by  blood.
+
+
+
+
+I.R.C. § 1256(e)(4) Limitation On Losses From Hedging Transactions
+
+
+I.R.C. § 1256(e)(4)(A) In General
+
+
+I.R.C. § 1256(e)(4)(A)(i) Limitation — 
+                        
+                        
+Any  hedging loss for a taxable year which is allocable to any limited partner  or
+                           limited entrepreneur (within the meaning of paragraph (3)) shall be  allowed only
+                           to the extent of the taxable income of such limited partner  or entrepreneur for such
+                           taxable year attributable to the trade or  business in which the hedging transactions
+                           were entered into. For purposes  of the preceding sentence, taxable income shall be
+                           determined by not  taking into account items attributable to hedging transactions. 
+
+
+I.R.C. § 1256(e)(4)(A)(ii) Carryover Of Disallowed Loss — 
+                        
+                        
+Any  hedging loss disallowed under clause (i) shall be treated as a deduction  attributable
+                           to a hedging transaction allowable in the first succeeding  taxable year. 
+
+
+
+I.R.C. § 1256(e)(4)(B) Exception Where Economic Loss — 
+                     
+                     
+Subparagraph  (A)(i) shall not apply to any hedging loss to the extent that such loss
+                        exceeds the aggregate unrecognized gains from hedging transactions as of  the close
+                        of the taxable year attributable to the trade or business in  which the hedging transactions
+                        were entered into. 
+
+
+I.R.C. § 1256(e)(4)(C) Exception For Certain Hedging Transactions — 
+                     
+                     
+In  the case of any hedging transaction relating to property other than stock  or
+                        securities, this paragraph shall apply only in the case of a taxpayer  described in
+                        section 465(a)(1). 
+
+
+I.R.C. § 1256(e)(4)(D) Hedging Loss — 
+                     
+                     
+The  term “hedging loss” means the excess of— 
+
+I.R.C. § 1256(e)(4)(D)(i)  — 
+                        
+                        
+the  deductions allowable under this chapter for the taxable year attributable  to
+                           hedging transactions
+                           (determined without regard to subparagraph  (A)(i)), over 
+
+
+I.R.C. § 1256(e)(4)(D)(ii)  — 
+                        
+                        
+income  received or accrued by the taxpayer during such taxable year from such  transactions. 
+
+
+
+I.R.C. § 1256(e)(4)(E) Unrecognized Gain — 
+                     
+                     
+The  term “unrecognized gain” has the meaning given to such term by section  1092(a)(3).
+I.R.C. § 1256(f) Special Rules
+
+
+I.R.C. § 1256(f)(1) Denial Of Capital Gains Treatment For Property Identified As Part Of A Hedging Transaction — 
+                  
+                  
+For  purposes of this title, gain from any property shall in no event be  considered
+                     as gain from the sale or exchange of a capital asset if such  property was at any
+                     time personal property
+                     (as defined in section  1092(d)(1))
+                     identified under  subsection (e)(2)  by the taxpayer as being  part of a hedging transaction. 
+
+
+I.R.C. § 1256(f)(2) Subsection (a)(3) Not To Apply To Ordinary Income Property — 
+                  
+                  
+Paragraph  (3) of subsection (a) shall not apply to any gain or loss which, but for
+                     such paragraph, would be ordinary income or loss. 
+
+
+I.R.C. § 1256(f)(3) Capital Gain Treatment For Traders In Section 1256 Contracts
+
+
+I.R.C. § 1256(f)(3)(A) In General — 
+                     
+                     
+For  purposes of this title, gain or loss from trading of section 1256  contracts
+                        shall be treated as gain or loss from the sale or exchange of a  capital asset. 
+
+
+I.R.C. § 1256(f)(3)(B) Exception For Certain Hedging Transactions — 
+                     
+                     
+Subparagraph  (A) shall not apply to any section 1256 contract to the extent such
+                        contract is held for purposes of hedging property if any loss with respect  to such
+                        property in the hands of the taxpayer would be ordinary loss. 
+
+
+I.R.C. § 1256(f)(3)(C) Treatment Of Underlying Property — 
+                     
+                     
+For  purposes of determining whether gain or loss with respect to any property  is
+                        ordinary income or loss, the fact that the taxpayer is actively engaged  in dealing
+                        in or trading section 1256 contracts related to such property  shall not be taken
+                        into account. 
+
+
+
+I.R.C. § 1256(f)(4) Special Rule For Dealer Equity Options And Dealer Securities Futures Contracts Of
+                     Limited Partners  Or Limited Entrepreneurs — 
+                  
+                  
+In  the case of any gain or loss with respect to dealer equity options, or  dealer
+                     securities futures contracts,  which are allocable to limited  partners or limited
+                     entrepreneurs (within the
+                     meaning of subsection  (e)(3))— 
+
+I.R.C. § 1256(f)(4)(A)  — 
+                     
+                     
+paragraph  (3) of subsection (a) shall not apply to any such gain or loss, and 
+
+
+I.R.C. § 1256(f)(4)(B)  — 
+                     
+                     
+all  such gains or losses shall be treated as short-term capital gains or  losses,
+                        as the case may be. 
+
+
+
+I.R.C. § 1256(f)(5) Special Rule Related To Losses — 
+                  
+                  
+Section  1091 (relating to loss from wash sales of stock or securities) shall not  apply to any
+                     loss taken into account by reason of paragraph (1) of  subsection
+                     (a).
+I.R.C. § 1256(g) Definitions — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 1256(g)(1) Regulated Futures Contracts Defined — 
+                  
+                  
+The  term “regulated futures contract” means a contract— 
+
+I.R.C. § 1256(g)(1)(A)  — 
+                     
+                     
+with  respect to which the amount required to be deposited and the amount which  may
+                        be withdrawn depends on a system of marking to market, and 
+
+
+I.R.C. § 1256(g)(1)(B)  — 
+                     
+                     
+which  is traded on or subject to the rules of a qualified board or exchange. 
+
+
+
+I.R.C. § 1256(g)(2) Foreign Currency Contract Defined
+
+
+I.R.C. § 1256(g)(2)(A) Foreign Currency Contract — 
+                     
+                     
+The  term “foreign currency contract” means a contract— 
+
+I.R.C. § 1256(g)(2)(A)(i)  — 
+                        
+                        
+which  requires delivery of, or the settlement of which depends on the value of, 
+                           a foreign currency which is a currency in which positions are also traded  through
+                           regulated futures contracts, 
+
+
+I.R.C. § 1256(g)(2)(A)(ii)  — 
+                        
+                        
+which  is traded in the interbank market, and 
+
+
+I.R.C. § 1256(g)(2)(A)(iii)  — 
+                        
+                        
+which  is entered into at arm's length at a price determined by reference to the 
+                           price in the interbank market. 
+
+
+
+I.R.C. § 1256(g)(2)(B) Regulations — 
+                     
+                     
+The  Secretary shall prescribe such regulations as may be necessary or  appropriate
+                        to carry out the purposes of subparagraph
+                        (A), including  regulations excluding from the application of subparagraph
+                        (A) any  contract (or type of contract) if its application thereto would be  inconsistent
+                        with such purposes. 
+
+
+
+I.R.C. § 1256(g)(3) Nonequity Option — 
+                  
+                  
+The  term “nonequity option” means any listed option which is not an equity  option. 
+
+
+I.R.C. § 1256(g)(4) Dealer Equity Option — 
+                  
+                  
+The  term “dealer equity option” means, with respect to an options dealer, any  listed
+                     option which— 
+
+I.R.C. § 1256(g)(4)(A)  — 
+                     
+                     
+is an  equity option, 
+
+
+I.R.C. § 1256(g)(4)(B)  — 
+                     
+                     
+is  purchased or granted by such options dealer in the normal course of his  activity
+                        of dealing in options, and 
+
+
+I.R.C. § 1256(g)(4)(C)  — 
+                     
+                     
+is  listed on the qualified board or exchange on which such options dealer is  registered. 
+
+
+
+I.R.C. § 1256(g)(5) Listed Option — 
+                  
+                  
+The  term “listed option” means any option (other than a right to acquire stock  from
+                     the issuer) which is traded on (or subject to the rules of) a  qualified board or
+                     exchange. 
+
+
+I.R.C. § 1256(g)(6) Equity Option — 
+                  
+                  
+The  term “equity option” means any option— 
+
+I.R.C. § 1256(g)(6)(A)  — 
+                     
+                     
+to buy or sell stock, or 
+
+
+I.R.C. § 1256(g)(6)(B)  — 
+                     
+                     
+the value of which is determined directly or indirectly  by reference to any stock
+                        or any narrow-based security index (as defined  in section 3(a)(55) of the Securities Exchange  Act of 1934, as in effect  on the date of the enactment
+                        of this paragraph). 
+
+
+The term “equity option” includes such an option on a  group of stocks only if such
+                        group meets the requirements for a
+                        narrow-based security index (as so defined).   The Secretary may prescribe  regulations
+                        regarding the status of options the values of which are  determined directly or indirectly
+                        by reference to any index which becomes  (or ceases to be) a narrow-based security
+                        index
+                        (as so defined).
+
+
+
+I.R.C. § 1256(g)(7) Qualified Board Or Exchange — 
+                  
+                  
+The  term “qualified board or exchange” means— 
+
+I.R.C. § 1256(g)(7)(A)  — 
+                     
+                     
+a  national securities exchange which is registered with the Securities and  Exchange
+                        Commission, 
+
+
+I.R.C. § 1256(g)(7)(B)  — 
+                     
+                     
+a  domestic board of trade designated as a contract market by the Commodity  Futures
+                        Trading Commission, or 
+
+
+I.R.C. § 1256(g)(7)(C)  — 
+                     
+                     
+any  other exchange, board of trade, or other market which the Secretary  determines
+                        has rules adequate to carry out the purposes of this section. 
+
+
+
+I.R.C. § 1256(g)(8) Options Dealer
+
+
+I.R.C. § 1256(g)(8)(A) In General — 
+                     
+                     
+The  term “options dealer” means any person registered with an appropriate  national
+                        securities exchange as a market maker or specialist in listed  options. 
+
+
+I.R.C. § 1256(g)(8)(B) Persons Trading In Other Markets — 
+                     
+                     
+In  any case in which the Secretary makes a determination under subparagraph  (C)
+                        of paragraph (7), the term “options dealer"
+                        also includes any person  whom the Secretary determines performs functions similar
+                        to the persons  described in subparagraph (A). Such determinations shall be made to
+                        the  extent appropriate to carry out the purposes of this  section. 
+
+
+
+I.R.C. § 1256(g)(9) Dealer Securities Futures Contract
+
+
+I.R.C. § 1256(g)(9)(A) In General — 
+                     
+                     
+The  term “dealer securities futures contract”  means, with respect to any  dealer,
+                        any securities futures contract, and any  option on such a  contract, which— 
+
+I.R.C. § 1256(g)(9)(A)(i)  — 
+                        
+                        
+is entered into by such dealer
+                           (or, in the case of an   option, is purchased or granted by such dealer)
+                           in the normal course of  his  activity of dealing in such contracts or options, as
+                           the case may be,  and 
+
+
+I.R.C. § 1256(g)(9)(A)(ii)  — 
+                        
+                        
+is traded on a qualified board or  exchange. 
+
+
+
+I.R.C. § 1256(g)(9)(B) Dealer — 
+                     
+                     
+For  purposes of subparagraph (A), a person shall be treated as a dealer in  securities
+                        futures contracts or options on such contracts if the  Secretary determines  that
+                        such person performs, with respect to such  contracts or options, as the  case may
+                        be, functions similar to the  functions performed by persons described  in paragraph
+                        (8)(A). Such  determination shall be made to the extent appropriate
+                        to carry out the  purposes of this section. 
+
+
+I.R.C. § 1256(g)(9)(C) Securities Futures Contract — 
+                     
+                     
+The  term “securities futures contract” has the meaning given to such term  by  section
+                        1234B.

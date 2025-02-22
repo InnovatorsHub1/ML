@@ -1,0 +1,747 @@
+Sec. 6654. Failure By Individual To Pay Estimated Income Tax
+
+I.R.C. § 6654(a) Addition To The Tax — 
+               
+               
+Except  as otherwise provided in
+                  this section, in the case of any underpayment of  estimated tax by
+                  an individual, there shall be added to the tax under  chapter 1, the
+                  tax under chapter 2, and the tax under chapter 2A for the taxable
+                  year an amount  determined by applying— 
+
+I.R.C. § 6654(a)(1)  — 
+                  
+                  
+the underpayment rate established under section 6621, 
+
+
+I.R.C. § 6654(a)(2)  — 
+                  
+                  
+to the amount of the underpayment, 
+
+
+I.R.C. § 6654(a)(3)  — 
+                  
+                  
+for the period of the underpayment.
+I.R.C. § 6654(b) Amount Of Underpayment; Period Of Underpayment — 
+               
+               
+For  purposes of subsection (a)— 
+
+I.R.C. § 6654(b)(1) Amount — 
+                  
+                  
+The  amount of the underpayment shall be the excess
+                     of— 
+
+I.R.C. § 6654(b)(1)(A)  — 
+                     
+                     
+the required installment, over 
+
+
+I.R.C. § 6654(b)(1)(B)  — 
+                     
+                     
+the amount (if any) of the installment
+                        paid on or before  the due date for the installment. 
+
+
+
+I.R.C. § 6654(b)(2) Period Of Underpayment — 
+                  
+                  
+The  period of the underpayment shall run from the due
+                     date for the installment  to whichever of the following dates is the
+                     earlier— 
+
+I.R.C. § 6654(b)(2)(A)  — 
+                     
+                     
+the 15th day of the 4th month following
+                        the close of the  taxable year, or 
+
+
+I.R.C. § 6654(b)(2)(B)  — 
+                     
+                     
+with respect to any portion of the
+                        underpayment, the  date on which such portion is paid. 
+
+
+
+I.R.C. § 6654(b)(3) Order Of Crediting Payments — 
+                  
+                  
+For  purposes of paragraph (2)(B), a payment of
+                     estimated tax shall be credited  against unpaid required installments
+                     in the order in which such  installments are required to be paid.
+I.R.C. § 6654(c) Number Of Required Installments; Due Dates — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 6654(c)(1) Payable In 4 Installments — 
+                  
+                  
+There  shall be 4 required installments for each taxable
+                     year. 
+
+
+I.R.C. § 6654(c)(2)  Time For Payment Of Installments
+
+
+
+
+
+
+
+In the case of the following required installments:
+The due date is:
+
+
+1st  … 
+April 15
+
+
+2nd  … 
+June 15
+
+
+3rd  … 
+September 15
+
+
+4th  … 
+January 15 of the following taxable year.
+I.R.C. § 6654(d) Amount Of Required Installments — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 6654(d)(1) Amount
+
+
+I.R.C. § 6654(d)(1)(A) In General — 
+                     
+                     
+Except  as provided in paragraph (2), the amount of any required
+                        installment shall  be 25 percent of the required annual payment. 
+
+
+I.R.C. § 6654(d)(1)(B) Required Annual Payment — 
+                     
+                     
+For  purposes of subparagraph (A), the term “required
+                        annual payment” means the  lesser of— 
+
+I.R.C. § 6654(d)(1)(B)(i)  — 
+                        
+                        
+90 percent of the tax shown on the
+                           return for the  taxable year (or, if no return is filed, 90 percent
+                           of the tax for such  year), or 
+
+
+I.R.C. § 6654(d)(1)(B)(ii)  — 
+                        
+                        
+100 percent of the tax shown on
+                           the return of the  individual for the preceding taxable year. 
+
+
+Clause (ii) shall
+                           not apply if the preceding taxable  year was not a taxable year of
+                           12 months or if the individual did not file  a return for such preceding
+                           taxable year.
+
+
+
+I.R.C. § 6654(d)(1)(C) Limitation On Use Of Preceding Year's Tax
+
+
+I.R.C. § 6654(d)(1)(C)(i)  In General — 
+                        
+                        
+If  the adjusted gross income shown on the return of
+                           the individual for the  preceding taxable year beginning in any calendar
+                           year exceeds $150,000,  clause (ii) of subparagraph (B) shall be applied
+                           by substituting “110 percent” for “100 percent”. 
+
+
+I.R.C. § 6654(d)(1)(C)(ii) Separate Returns — 
+                        
+                        
+In  the case of a married individual (within the meaning
+                           of section 7703)
+                           who  files a separate return for the taxable year for which the amount
+                           of the  installment is being determined, clause (i) shall be applied
+                           by  substituting “$75,000” for “$150,000”. 
+
+
+I.R.C. § 6654(d)(1)(C)(iii) Special Rule — 
+                        
+                        
+In  the case of an estate or trust, adjusted gross income
+                           shall be determined  as provided in section 67(e). 
+
+
+
+
+I.R.C. § 6654(d)(2) Lower Required Installment Where Annualized Income Installment
+                     Is Less Than Amount Determined Under Paragraph (1)
+
+
+I.R.C. § 6654(d)(2)(A) In General — 
+                     
+                     
+In  the case of any required installment, if the individual
+                        establishes that  the annualized income installment is less than the
+                        amount determined under  paragraph (1)— 
+
+I.R.C. § 6654(d)(2)(A)(i)  — 
+                        
+                        
+the amount of such required installment
+                           shall be the  annualized income installment, and 
+
+
+I.R.C. § 6654(d)(2)(A)(ii)  — 
+                        
+                        
+any reduction in a required installment
+                           resulting from  the application of this subparagraph shall be recaptured
+                           by increasing the  amount of the next required installment determined
+                           under paragraph (1) by
+                           the amount of such reduction (and by increasing subsequent required
+                           installments to the extent that the reduction has not previously
+                           been  recaptured under this clause). 
+
+
+
+I.R.C. § 6654(d)(2)(B) Determination Of Annualized Income Installment — 
+                     
+                     
+In  the case of any required installment, the annualized
+                        income installment is  the excess (if any) of— 
+
+I.R.C. § 6654(d)(2)(B)(i)  — 
+                        
+                        
+an amount equal to the applicable
+                           percentage of the tax  for the taxable year computed by placing on
+                           an annualized basis the  taxable income, alternative minimum taxable
+                           income, and adjusted  self-employment income for months in the taxable
+                           year ending before the  due date for the installment, over 
+
+
+I.R.C. § 6654(d)(2)(B)(ii)  — 
+                        
+                        
+the aggregate amount of any prior
+                           required installments  for the taxable year. 
+
+
+
+I.R.C. § 6654(d)(2)(C) Special Rules — 
+                     
+                     
+For  purposes of this paragraph— 
+
+I.R.C. § 6654(d)(2)(C)(i) Annualization — 
+                        
+                        
+The  taxable income, alternative minimum taxable income,
+                           and adjusted  self-employment income shall be placed on an annualized
+                           basis under  regulations prescribed by the Secretary. 
+
+
+I.R.C. § 6654(d)(2)(C)(ii) Applicable Percentage
+
+
+
+
+
+
+
+In the case of the following
+                                       required installments:
+The applicable percentage is:
+
+
+1st  … 
+22.5
+
+
+2nd  … 
+45
+
+
+3rd  … 
+67.5
+
+
+4th  … 
+90
+
+
+
+
+
+
+I.R.C. § 6654(d)(2)(C)(iii) Adjusted Self-Employment Income — 
+                        
+                        
+The  term “adjusted self-employment income” means self-employment
+                           income (as  defined in section 1402(b));
+                           except that section 1402(b) shall
+                           be applied  by placing wages (within the meaning of section 1402(b)) for months in the
+                           taxable year ending before the due date for the installment on an
+                           annualized basis consistent with clause (i). 
+
+
+
+I.R.C. § 6654(d)(2)(D) Treatment Of  Subpart F Income
+
+
+I.R.C. § 6654(d)(2)(D)(i) In General  — 
+                        
+                        
+Any  amounts required to be included in gross income
+                           under section 951(a) (and
+                           credits properly allocable thereto) shall be taken into  account in
+                           computing any annualized income installment under subparagraph  (B) in a manner similar
+                           to the manner under which partnership income  inclusions (and credits
+                           properly allocable thereto) are taken into  account. 
+
+
+I.R.C. § 6654(d)(2)(D)(ii) Prior Year Safe Harbor — 
+                        
+                        
+If  a taxpayer elects to have this clause apply to any
+                           taxable year— 
+
+I.R.C. § 6654(d)(2)(D)(ii)(I)  — 
+                           
+                           
+clause (i) shall not apply,
+                              and 
+
+
+I.R.C. § 6654(d)(2)(D)(ii)(II)  — 
+                           
+                           
+for purposes of computing any annualized
+                              income  installment for such taxable year, the taxpayer shall be treated
+                              as having  received ratably during such taxable year items of income
+                              and credit  described in clause (i) in an amount equal
+                              to the amount of such items  shown on the return of the taxpayer for
+                              the preceding taxable year (the  second preceding taxable year in
+                              the case of the first and second required  installments for such taxable
+                              year).
+I.R.C. § 6654(e) Exceptions
+
+
+I.R.C. § 6654(e)(1) Where Tax Is Small Amount — 
+                  
+                  
+No  addition to tax shall be imposed under subsection (a) for any taxable year  if
+                     the tax shown on the return for such taxable year (or, if no return
+                     is  filed, the tax), reduced by the credit allowable under section 31, is less  than $1,000. 
+
+
+I.R.C. § 6654(e)(2) Where No Tax Liability For Preceding Taxable Year — 
+                  
+                  
+No  addition to tax shall be imposed under subsection (a) for any taxable year  if— 
+
+I.R.C. § 6654(e)(2)(A)  — 
+                     
+                     
+the preceding taxable year was a
+                        taxable year of 12  months, 
+
+
+I.R.C. § 6654(e)(2)(B)  — 
+                     
+                     
+the individual did not have any
+                        liability for tax for  the preceding taxable year, and 
+
+
+I.R.C. § 6654(e)(2)(C)  — 
+                     
+                     
+the individual was a citizen or
+                        resident of the United  States throughout the preceding taxable year. 
+
+
+
+I.R.C. § 6654(e)(3) Waiver In Certain Cases
+
+
+I.R.C. § 6654(e)(3)(A) In General — 
+                     
+                     
+No  addition to tax shall be imposed under subsection (a) with respect to any  underpayment
+                        to the extent the Secretary determines that by reason of  casualty,
+                        disaster, or other unusual circumstances the imposition of such  addition
+                        to tax would be against equity and good conscience. 
+
+
+I.R.C. § 6654(e)(3)(B) Newly Retired Or Disabled Individuals — 
+                     
+                     
+No  addition to tax shall be imposed under subsection (a) with respect to any  underpayment
+                        if the Secretary determines that— 
+
+I.R.C. § 6654(e)(3)(B)(i)  — 
+                        
+                        
+the taxpayer— 
+
+I.R.C. § 6654(e)(3)(B)(i)(I)  — 
+                           
+                           
+retired after having attained age
+                              62, or 
+
+
+I.R.C. § 6654(e)(3)(B)(i)(II)  — 
+                           
+                           
+became disabled, in the taxable
+                              year for which estimated  payments were required to be made or in
+                              the taxable year preceding such  taxable year, and 
+
+
+
+I.R.C. § 6654(e)(3)(B)(ii)  — 
+                        
+                        
+such underpayment was due to reasonable
+                           cause and not to  willful neglect.
+I.R.C. § 6654(f) Tax Computed After Application Of Credits Against Tax — 
+               
+               
+For  purposes of this section, the
+                  term “tax” means— 
+
+I.R.C. § 6654(f)(1)  — 
+                  
+                  
+the tax imposed by chapter 1 (other than any increase
+                     in  such tax by reason of section 143(m)),
+                     plus 
+
+
+I.R.C. § 6654(f)(2)  — 
+                  
+                  
+the tax imposed by chapter 2, plus 
+
+
+I.R.C. § 6654(f)(3)  — 
+                  
+                  
+the tax imposed by chapter 2A, minus 
+
+
+I.R.C. § 6654(f)(4)  — 
+                  
+                  
+the credits against tax provided by part IV of  subchapter
+                     A of chapter 1, other than the credit against tax provided by  section 31 (relating to tax withheld on
+                     wages).
+I.R.C. § 6654(g) Application Of Section In Case Of Tax Withheld On Wages
+
+
+I.R.C. § 6654(g)(1) In General — 
+                  
+                  
+For  purposes of applying this section, the amount of
+                     the credit allowed under  section 31 for
+                     the taxable year shall be deemed a payment of estimated  tax, and
+                     an equal part of such amount shall be deemed paid on each due  date
+                     for such taxable year, unless the taxpayer establishes the dates on
+                     which all amounts were actually withheld, in which case the amounts
+                     so  withheld shall be deemed payments of estimated tax on the dates
+                     on which  such amounts were actually withheld. 
+
+
+I.R.C. § 6654(g)(2) Separate Application — 
+                  
+                  
+The  taxpayer may apply paragraph (1) separately with respect
+                     to— 
+
+I.R.C. § 6654(g)(2)(A)  — 
+                     
+                     
+wage withholding, and 
+
+
+I.R.C. § 6654(g)(2)(B)  — 
+                     
+                     
+all other amounts withheld for which
+                        credit is allowed  under section 31.
+I.R.C. § 6654(h) Special Rule Where Return Filed On Or Before January 31 — 
+               
+               
+If,  on or before January 31 of the following taxable
+                  year, the taxpayer files  a return for the taxable year and pays in
+                  full the amount computed on the  return as payable, then no addition
+                  to tax shall be imposed under  subsection (a) with respect to any underpayment
+                  of the 4th required  installment for the taxable year.
+I.R.C. § 6654(i) Special Rules For Farmers And Fishermen — 
+               
+               
+For  purposes of this section— 
+
+I.R.C. § 6654(i)(1) In General — 
+                  
+                  
+If  an individual is a farmer or fisherman for any taxable
+                     year— 
+
+I.R.C. § 6654(i)(1)(A)  — 
+                     
+                     
+there shall be only 1 required installment
+                        for the  taxable year, 
+
+
+I.R.C. § 6654(i)(1)(B)  — 
+                     
+                     
+the due date for such installment
+                        shall be January 15 of  the following taxable year, 
+
+
+I.R.C. § 6654(i)(1)(C)  — 
+                     
+                     
+the amount of such installment shall
+                        be equal to the  required annual payment determined under subsection (d)(1)(B) by  substituting
+                        “662/3 percent” for “90 percent” and without regard to  subparagraph (C) of subsection (d)(1), and 
+
+
+I.R.C. § 6654(i)(1)(D)  — 
+                     
+                     
+subsection (h) shall be applied— 
+
+I.R.C. § 6654(i)(1)(D)(i)  — 
+                        
+                        
+by substituting “March 1” for “January
+                           31”, and 
+
+
+I.R.C. § 6654(i)(1)(D)(ii)  — 
+                        
+                        
+by treating the required installment
+                           described in  subparagraph (A) of
+                           this paragraph as the 4th required installment. 
+
+
+
+
+I.R.C. § 6654(i)(2) Farmer Or Fisherman Defined — 
+                  
+                  
+An  individual is a farmer or fisherman for any taxable
+                     year if— 
+
+I.R.C. § 6654(i)(2)(A)  — 
+                     
+                     
+the individual's gross income from
+                        farming or fishing  (including oyster farming) for the taxable year
+                        is at least 662/3 percent  of the total gross income from all sources for
+                        the taxable year, or 
+
+
+I.R.C. § 6654(i)(2)(B)  — 
+                     
+                     
+such individual's gross income from
+                        farming or fishing  (including oyster farming) shown on the return
+                        of the individual for the  preceding taxable year is at least 662/3 percent
+                        of the total gross  income from all sources shown on such return.
+I.R.C. § 6654(j) Special Rules For Nonresident Aliens — 
+               
+               
+In  the case of a nonresident alien described in section 6072(c): 
+
+I.R.C. § 6654(j)(1) Payable In 3 Installments — 
+                  
+                  
+There  shall be 3 required installments for the taxable
+                     year. 
+
+
+I.R.C. § 6654(j)(2) Time For Payment Of Installments — 
+                  
+                  
+The  due dates for required installments under this
+                     subsection shall be  determined under the following table: 
+
+
+
+
+
+
+In the case of the following required installments:
+The due date is:
+
+
+1st  … 
+June 15
+
+
+2nd  … 
+September 15
+
+
+3rd  … 
+January 15 of the following taxable year.
+
+
+
+
+
+
+I.R.C. § 6654(j)(3) Amount Of Required Installments
+
+
+I.R.C. § 6654(j)(3)(A) First Required Installment — 
+                     
+                     
+In  the case of the first required installment, subsection (d) shall be  applied by substituting
+                        “50 percent” for “25 percent” in subsection  (d)(1)(A). 
+
+
+I.R.C. § 6654(j)(3)(B) Determination Of Applicable Percentage — 
+                     
+                     
+The applicable percentage for purposes of subsection (d)(2) shall be determined under the
+                        following table: 
+
+
+
+
+
+
+In the case of the following required
+                                    installments:
+The applicable percentage is:
+
+
+1st  … 
+45
+
+
+2nd  … 
+67.5
+
+
+3rd  … 
+90
+I.R.C. § 6654(k) Fiscal Years And Short Years
+
+
+I.R.C. § 6654(k)(1) Fiscal Years — 
+                  
+                  
+In  applying this section to a taxable year beginning
+                     on any date other than  January 1, there shall be substituted, for
+                     the months specified in this  section, the months which correspond
+                     thereto. 
+
+
+I.R.C. § 6654(k)(2) Short Taxable Year — 
+                  
+                  
+This  section shall be applied to taxable years of less
+                     than 12 months in  accordance with regulations prescribed by the Secretary.
+I.R.C. § 6654(l) Estates And Trusts
+
+
+I.R.C. § 6654(l)(1) In General — 
+                  
+                  
+Except  as otherwise provided in this subsection, this
+                     section shall apply to any  estate or trust. 
+
+
+I.R.C. § 6654(l)(2) Exception For Estates And Certain Trusts — 
+                  
+                  
+With  respect to any taxable year ending before the
+                     date 2 years after the date  of the decedent's death, this section
+                     shall not apply to— 
+
+I.R.C. § 6654(l)(2)(A)  — 
+                     
+                     
+the estate of such decedent, or 
+
+
+I.R.C. § 6654(l)(2)(B)  — 
+                     
+                     
+any trust— 
+
+I.R.C. § 6654(l)(2)(B)(i)  — 
+                        
+                        
+all of which was treated (under
+                           subpart E of part I of  subchapter J of chapter 1) as owned by the
+                           decedent, and 
+
+
+I.R.C. § 6654(l)(2)(B)(ii)  — 
+                        
+                        
+to which the residue of the decedent's
+                           estate will pass  under his will (or, if no will is admitted to probate,
+                           which is the trust  primarily responsible for paying debts, taxes,
+                           and expenses of  administration). 
+
+
+
+
+I.R.C. § 6654(l)(3) Exception For Charitable Trusts And Private Foundations — 
+                  
+                  
+This  section shall not apply to any trust which is
+                     subject to the tax imposed  by section 511 or
+                     which is a private foundation. 
+
+
+I.R.C. § 6654(l)(4) Special Rule For Annualizations — 
+                  
+                  
+In  the case of any estate or trust to which this section
+                     applies, subsection  (d)(2)(B)(i) shall
+                     be applied by  substituting “ending before the date 1 month before
+                     the due date for the  installment” for “ending before the due date
+                     for the installment”.
+I.R.C. § 6654(m) Special Rule For Medicare Tax — 
+               
+               
+For purposes of this section, the
+                  tax imposed under section 3101(b)(2) (to
+                  the extent not withheld) shall be treated as a tax imposed under chapter
+                  2.
+I.R.C. § 6654(n) Regulations — 
+               
+               
+The  Secretary shall prescribe such
+                  regulations as may be necessary to carry  out the purposes of this
+                  section.

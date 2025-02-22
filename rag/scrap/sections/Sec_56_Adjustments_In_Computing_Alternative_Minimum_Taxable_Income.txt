@@ -1,0 +1,510 @@
+Sec. 56. Adjustments In Computing Alternative Minimum Taxable Income
+
+I.R.C. § 56(a) Adjustments Applicable To All Taxpayers — 
+               
+               
+In determining the amount of the alternative minimum taxable income for any taxable
+                  year the following treatment shall apply (in lieu of the treatment applicable for
+                  purposes of computing the regular tax): 
+
+I.R.C. § 56(a)(1) Depreciation
+
+
+I.R.C. § 56(a)(1)(A) In General
+
+
+I.R.C. § 56(a)(1)(A)(i) Property Other Than Certain Personal Property — 
+                        
+                        
+Except as provided in clause (ii), the depreciation deduction allowable under section 167 with respect to any tangible property placed in service after December 31, 1986,
+                           shall be determined under the alternative system of section 168(g). In the case of property placed in service after December 31, 1998, the preceding
+                           sentence shall not apply but clause (ii) shall continue to apply. 
+
+
+I.R.C. § 56(a)(1)(A)(ii) 150-Percent Declining Balance Method For Certain Property — 
+                        
+                        
+The method of depreciation used shall be— 
+
+I.R.C. § 56(a)(1)(A)(ii)(I)  — 
+                           
+                           
+the 150 percent declining balance method, 
+
+
+I.R.C. § 56(a)(1)(A)(ii)(II)  — 
+                           
+                           
+switching to the straight line method for the 1st taxable year for which using the
+                              straight line method with respect to the adjusted basis as of the beginning of the
+                              year will yield a higher allowance. 
+
+
+The preceding sentence shall not apply to any section 1250 property (as defined in
+                              section 1250(c)) (and the straight line method shall be used for such section 1250 property) or to any other property if the depreciation deduction determined under
+                              section 168 with respect to such other property for purposes of the regular tax is determined
+                              by using the straight line method.
+
+
+
+
+I.R.C. § 56(a)(1)(B) Exception For Certain Property — 
+                     
+                     
+This paragraph shall not apply to property described in paragraph (1), (2), (3), or (4) of section 168(f), or in section 168(e)(3)(C)(iv). 
+
+
+I.R.C. § 56(a)(1)(C) Coordination With Transitional Rules
+
+
+I.R.C. § 56(a)(1)(C)(i) In General — 
+                        
+                        
+This paragraph shall not apply to property placed in service after December 31, 1986,
+                           to which the amendments made by section 201 of the Tax Reform Act of 1986 do not apply by reason of section 203, 204, or 251(d)
+                           of such Act. 
+
+
+I.R.C. § 56(a)(1)(C)(ii) Treatment Of Certain Property Placed In Service Before 1987 — 
+                        
+                        
+This paragraph shall apply to any property to which the amendments made by section
+                           201 of the Tax Reform Act of 1986 apply by reason of an election under section 203(a)(1)(B)
+                           of such Act without regard to the requirement of subparagraph (A) that the property
+                           be placed in service after December 31, 1986. 
+
+
+
+I.R.C. § 56(a)(1)(D) Normalization Rules — 
+                     
+                     
+With respect to public utility property described in section 168(i)(10), the Secretary shall prescribe the requirements of a normalization method of accounting
+                        for this section. 
+
+
+
+I.R.C. § 56(a)(2) Mining Exploration And Development Costs
+
+
+I.R.C. § 56(a)(2)(A) In General — 
+                     
+                     
+With respect to each mine or other natural deposit (other than an oil, gas, or geothermal
+                        well) of the taxpayer, the amount allowable as a deduction under section 616(a) or 617(a) (determined without regard to section 291(b)) in computing the regular tax for costs paid or incurred after December 31, 1986,
+                        shall be capitalized and amortized ratably over the 10-year period beginning with
+                        the taxable year in which the expenditures were made. 
+
+
+I.R.C. § 56(a)(2)(B) Loss Allowed — 
+                     
+                     
+If a loss is sustained with respect to any property described in subparagraph (A), a deduction shall be allowed for the expenditures described in subparagraph (A) for the taxable year in which such loss is sustained in an amount equal to the lesser
+                        of— 
+
+I.R.C. § 56(a)(2)(B)(i)  — 
+                        
+                        
+the amount allowable under section 165(a) for the expenditures if they had remained capitalized, or 
+
+
+I.R.C. § 56(a)(2)(B)(ii)  — 
+                        
+                        
+the amount of such expenditures which have not previously been amortized under subparagraph
+                           (A). 
+
+
+
+
+I.R.C. § 56(a)(3) Treatment Of Certain Long-Term Contracts — 
+                  
+                  
+In the case of any long-term contract entered into by the taxpayer on or after March
+                     1, 1986, the taxable income from such contract shall be determined under the percentage
+                     of completion method of accounting (as modified by section 460(b)). For purposes of the preceding sentence, in the case of a contract described in
+                     section 460(e)(1), the percentage of the contract completed shall be determined under section 460(b)(1) by using the simplified procedures for allocation of costs prescribed under section
+                     460(b)(3). The first sentence of this paragraph shall not apply to any home construction contract
+                     (as defined in section 460(e)(6)). 
+
+
+I.R.C. § 56(a)(4) Alternative Tax Net Operating Loss Deduction — 
+                  
+                  
+The alternative tax net operating loss deduction shall be allowed in lieu of the net
+                     operating loss deduction allowed under section 172. 
+
+
+I.R.C. § 56(a)(5) Pollution Control Facilities — 
+                  
+                  
+In the case of any certified pollution control facility placed in service after December
+                     31, 1986, the deduction allowable under section 169 (without regard to section 291) shall be determined under the alternative system of section 168(g). In the case of such a facility placed in service after December 31, 1998, such deduction
+                     shall be determined under section 168 using the straight line method. 
+
+
+I.R.C. § 56(a)(6) Adjusted Basis — 
+                  
+                  
+The adjusted basis of any property to which paragraph (1) or (5) applies (or with respect to which there are any expenditures to which paragraph (2) or subsection (b)(2) applies) shall be determined on the basis of the treatment prescribed in paragraph
+                     (1), (2), or (5), or subsection (b)(2), whichever applies. 
+
+
+I.R.C. § 56(a)(7) Section 87 Not Applicable — 
+                  
+                  
+Section 87 (relating to alcohol fuel credit) shall not apply.
+I.R.C. § 56(b) Adjustments Applicable To Individuals — 
+               
+               
+In determining the amount of the alternative minimum taxable income of any taxpayer
+                  (other than a corporation), the following treatment shall apply (in lieu of the treatment
+                  applicable for purposes of computing the regular tax): 
+
+I.R.C. § 56(b)(1) Limitation On Deductions
+
+
+I.R.C. § 56(b)(1)(A) In General — 
+                     
+                     
+No deduction shall be allowed— 
+
+I.R.C. § 56(b)(1)(A)(i)  — 
+                        
+                        
+for any miscellaneous itemized deduction (as defined in section 67(b)), or 
+
+
+I.R.C. § 56(b)(1)(A)(ii)  — 
+                        
+                        
+for any taxes described in paragraph (1), (2), or (3) of section 164(a) or clause (ii) of section 164(b)(5)(A). 
+
+
+Clause (ii) shall not apply to any amount allowable in computing adjusted gross income.
+
+
+
+I.R.C. § 56(b)(1)(B) Interest — 
+                     
+                     
+In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that— 
+
+I.R.C. § 56(b)(1)(B)(i)  — 
+                        
+                        
+in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as
+                           defined in subsection (e)), 
+
+
+I.R.C. § 56(b)(1)(B)(ii)  — 
+                        
+                        
+interest on any specified private activity bond (and any amount treated as interest
+                           on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of
+                           applying section 163(d), 
+
+
+I.R.C. § 56(b)(1)(B)(iii)  — 
+                        
+                        
+in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest
+                           (as defined in subsection (e)), and 
+
+
+I.R.C. § 56(b)(1)(B)(iv)  — 
+                        
+                        
+the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d). 
+
+
+
+I.R.C. § 56(b)(1)(C) Treatment Of Certain Recoveries — 
+                     
+                     
+No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative
+                        minimum taxable income. 
+
+
+I.R.C. § 56(b)(1)(D) Standard Deduction And Deduction For Personal Exemptions Not Allowed — 
+                     
+                     
+The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. 
+
+
+I.R.C. § 56(b)(1)(E) Section 68 Not Applicable — 
+                     
+                     
+Section 68 shall not apply. 
+
+
+
+I.R.C. § 56(b)(2) Circulation And Research And Experimental Expenditures
+
+
+I.R.C. § 56(b)(2)(A) In General — 
+                     
+                     
+The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986,
+                        shall be capitalized and— 
+
+I.R.C. § 56(b)(2)(A)(i)  — 
+                        
+                        
+in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year
+                           in which the expenditures were made, or 
+
+
+I.R.C. § 56(b)(2)(A)(ii)  — 
+                        
+                        
+in the case of research and experimental expenditures described in section 174(a), shall be amortized ratably over the 10-year period beginning with the taxable year
+                           in which the expenditures were made. 
+
+
+
+I.R.C. § 56(b)(2)(B) Loss Allowed — 
+                     
+                     
+If a loss is sustained with respect to any property described in subparagraph (A), a deduction shall be allowed for the expenditures described in subparagraph (A) for the taxable year in which such loss is sustained in an amount equal to the lesser
+                        of— 
+
+I.R.C. § 56(b)(2)(B)(i)  — 
+                        
+                        
+the amount allowable under section 165(a) for the expenditures if they had remained capitalized, or 
+
+
+I.R.C. § 56(b)(2)(B)(ii)  — 
+                        
+                        
+the amount of such expenditures which have not previously been amortized under subparagraph
+                           (A). 
+
+
+
+I.R.C. § 56(b)(2)(C) Exception for Certain Research and Experimental Expenditures.  — 
+                     
+                     
+If the taxpayer materially participates (within the meaning of section 469(h)) in an activity, this paragraph shall not apply to any amount allowable as a deduction
+                        under section 174(a) for expenditures paid or incurred in connection with such activity. 
+
+
+
+I.R.C. § 56(b)(3) Treatment Of Incentive Stock Options — 
+                  
+                  
+Section  421 shall not apply to the transfer of stock acquired pursuant to the exercise of an
+                     incentive stock option (as defined in section 422). Section 422(c)(2) shall apply in any case where the disposition and the inclusion for purposes of this
+                     part are within the same taxable year and such section shall not apply in any other
+                     case. The adjusted basis of any stock so acquired shall be determined on the basis
+                     of the treatment prescribed by this paragraph.
+I.R.C. § 56(c) Repealed — 
+               
+               
+[Repealed. Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017.]
+I.R.C. § 56(d) Alternative Tax Net Operating Loss Deduction Defined
+
+
+I.R.C. § 56(d)(1) In General — 
+                  
+                  
+For purposes of subsection (a)(4), the term “alternative tax net operating loss deduction” means the net operating
+                     loss deduction allowable for the taxable year under section 172, except that— 
+
+I.R.C. § 56(d)(1)(A)  — 
+                     
+                     
+the amount of such deduction shall not exceed the sum of— 
+
+I.R.C. § 56(d)(1)(A)(i)  — 
+                        
+                        
+the lesser of— 
+
+I.R.C. § 56(d)(1)(A)(i)(I)  — 
+                           
+                           
+the amount of such deduction attributable to net operating losses (other than the
+                              deduction described in clause (ii)(I), or 
+
+
+I.R.C. § 56(d)(1)(A)(i)(II)  — 
+                           
+                           
+90 percent of alternative minimum taxable income determined without regard to such
+                              deduction and the deduction under section 199, plus 
+
+
+
+I.R.C. § 56(d)(1)(A)(ii)  — 
+                        
+                        
+the lesser of— 
+
+I.R.C. § 56(d)(1)(A)(ii)(I)  — 
+                           
+                           
+the amount of such deduction attributable to an applicable net operating loss with
+                              respect to which an election is made under section 172(b)(1)(H) (as in effect before its repeal by the Tax Increase Prevention Act of 2014), or 
+
+
+I.R.C. § 56(d)(1)(A)(ii)(II)  — 
+                           
+                           
+alternative minimum taxable income determined without regard to such deduction and
+                              the deduction under section 199 reduced by the amount determined under clause (i), and 
+
+
+
+
+I.R.C. § 56(d)(1)(B)  — 
+                     
+                     
+in determining the amount of such deduction— 
+
+I.R.C. § 56(d)(1)(B)(i)  — 
+                        
+                        
+the net operating loss (within the meaning of section 172(c)) for any loss year shall be adjusted as provided in paragraph (2), and 
+
+
+I.R.C. § 56(d)(1)(B)(ii)  — 
+                        
+                        
+appropriate adjustments in the application of section 172(b)(2) shall be made to take into account the limitation of subparagraph (A). 
+
+
+
+
+I.R.C. § 56(d)(2) Adjustments To Net Operating Loss Computation
+
+
+I.R.C. § 56(d)(2)(A) Post-1986 Loss Years — 
+                     
+                     
+In the case of a loss year beginning after December 31, 1986, the net operating loss
+                        for such year under section 172(c) shall— 
+
+I.R.C. § 56(d)(2)(A)(i)  — 
+                        
+                        
+be determined with the adjustments provided in this section and section 58, and 
+
+
+I.R.C. § 56(d)(2)(A)(ii)  — 
+                        
+                        
+be reduced by the items of tax preference determined under section 57 for such year. 
+
+
+An item of tax preference shall be taken into account under clause (ii) only to the extent such item increased the amount of the net operating loss for the
+                           taxable year under section 172(c).
+
+
+
+I.R.C. § 56(d)(2)(B) Pre-1987 Years — 
+                     
+                     
+In the case of loss years beginning before January 1, 1987, the amount of the net
+                        operating loss which may be carried over to taxable years beginning after December
+                        31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be
+                        carried from the loss year to the first taxable year of the taxpayer beginning after
+                        December 31, 1986.
+I.R.C. § 56(e) Qualified Housing Interest — 
+               
+               
+For purposes of this part— 
+
+I.R.C. § 56(e)(1) In General — 
+                  
+                  
+The term “qualified housing interest” means interest which is qualified residence
+                     interest (as defined in section 163(h)(3)) and is paid or accrued during the taxable year on indebtedness which is incurred
+                     in acquiring, constructing, or substantially improving any property which— 
+
+I.R.C. § 56(e)(1)(A)  — 
+                     
+                     
+is the principal residence (within the meaning of section 121) of the taxpayer at the time such interest accrues, or 
+
+
+I.R.C. § 56(e)(1)(B)  — 
+                     
+                     
+is a qualified dwelling which is a qualified residence (within the meaning of section
+                        163(h)(4)). 
+
+
+Such term also includes interest on any indebtedness resulting from the refinancing
+                        of indebtedness meeting the requirements of the preceding sentence; but only to the
+                        extent that the amount of the indebtedness resulting from such refinancing does not
+                        exceed the amount of the refinanced indebtedness immediately before the refinancing.
+
+
+
+I.R.C. § 56(e)(2) Qualified Dwelling — 
+                  
+                  
+The term “qualified dwelling” means any— 
+
+I.R.C. § 56(e)(2)(A)  — 
+                     
+                     
+house, 
+
+
+I.R.C. § 56(e)(2)(B)  — 
+                     
+                     
+apartment, 
+
+
+I.R.C. § 56(e)(2)(C)  — 
+                     
+                     
+condominium, or 
+
+
+I.R.C. § 56(e)(2)(D)  — 
+                     
+                     
+mobile home not used on a transient basis (within the meaning of section 7701(a)(19)(C)(v)), including all structures or other property appurtenant thereto. 
+
+
+
+I.R.C. § 56(e)(3) Special Rule For Indebtedness Incurred Before July 1, 1982 — 
+                  
+                  
+The term “qualified housing interest” includes interest which is qualified residence
+                     interest (as defined in section 163(h)(3)) and is paid or accrued on indebtedness which— 
+
+I.R.C. § 56(e)(3)(A)  — 
+                     
+                     
+was incurred by the taxpayer before July 1, 1982, and 
+
+
+I.R.C. § 56(e)(3)(B)  — 
+                     
+                     
+is secured by property which, at the time such indebtedness was incurred, was— 
+
+I.R.C. § 56(e)(3)(B)(i)  — 
+                        
+                        
+the principal residence (within the meaning of section 121) of the taxpayer, or 
+
+
+I.R.C. § 56(e)(3)(B)(ii)  — 
+                        
+                        
+a qualified dwelling used by the taxpayer (or any member of his family (within the
+                           meaning of section 267(c)(4))).
+I.R.C. § 56(f) Repealed — 
+               
+               
+[Repealed Pub. L. 101-508, Sec. 11801(a)(3), Nov. 5, 1990, 104 Stat. 1388.]
+I.R.C. § 56(g) Repealed  — 
+               
+               
+[Repealed. Pub. L. 115-97, Sec. 12001(b)(8)(A), Dec. 22, 2017, 131 Stat. 2054.]

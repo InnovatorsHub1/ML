@@ -1,0 +1,1013 @@
+Sec. 223. Health Savings Accounts
+
+I.R.C. § 223(a) Deduction Allowed — 
+               
+               
+In the case of an individual who is an eligible individual for any month during the
+                  taxable year, there shall be allowed as a deduction for the taxable year an amount
+                  equal to the aggregate amount paid in cash during such taxable year by or on behalf
+                  of such individual to a health savings account of such individual.
+I.R.C. § 223(b) Limitations
+
+
+I.R.C. § 223(b)(1) In General — 
+                  
+                  
+The amount allowable as a deduction under subsection (a) to an individual for the
+                     taxable year shall not exceed the sum of the monthly limitations for months during
+                     such taxable year that the individual is an eligible individual. 
+
+
+I.R.C. § 223(b)(2) Monthly Limitation — 
+                  
+                  
+The monthly limitation for any month is 1/12 of— 
+
+I.R.C. § 223(b)(2)(A)  — 
+                     
+                     
+in the case of an eligible individual who has self-only coverage under a high deductible
+                        health plan as of the first day of such month, $2,250. 
+
+
+I.R.C. § 223(b)(2)(B)  — 
+                     
+                     
+in the case of an eligible individual who has family coverage under a high deductible
+                        health plan as of the first day of such month, $4,500. 
+
+
+
+I.R.C. § 223(b)(3) Additional Contributions For Individuals 55 Or Older
+
+
+I.R.C. § 223(b)(3)(A) In General — 
+                     
+                     
+In the case of an individual who has attained age 55 before the close of the taxable
+                        year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall
+                        be increased by the additional contribution amount. 
+
+
+I.R.C. § 223(b)(3)(B) Additional Contribution Amount — 
+                     
+                     
+For purposes of this section, the additional contribution amount is the amount determined
+                        in accordance with the following table: 
+
+
+
+
+
+
+For taxable years beginning in:
+The additional contribution is:
+
+
+2004
+$500
+
+
+2005
+$600
+
+
+2006
+$700
+
+
+2007
+$800
+
+
+2008
+$900
+
+
+2009 and therafter
+$1000.
+
+
+
+
+
+
+
+I.R.C. § 223(b)(4) Coordination With Other Contributions — 
+                  
+                  
+The limitation which would (but for this paragraph) apply under this subsection to
+                     an individual for any taxable year shall be reduced (but not below zero) by the sum
+                     of— 
+
+I.R.C. § 223(b)(4)(A)  — 
+                     
+                     
+the aggregate amount paid for such taxable year to Archer MSAs of such individual, 
+
+
+I.R.C. § 223(b)(4)(B)  — 
+                     
+                     
+the aggregate amount contributed to health savings accounts of such individual which
+                        is excludable from the taxpayer's gross income for such taxable year under section
+                        106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and 
+
+
+I.R.C. § 223(b)(4)(C)  — 
+                     
+                     
+the aggregate amount contributed to health savings accounts of such individual for
+                        such taxable year under section 408(d)(9) (and such amount shall not be allowed as a deduction under subsection (a)). 
+
+
+Subparagraph (A) shall not apply with respect to any individual to whom paragraph
+                        (5) applies.
+
+
+
+I.R.C. § 223(b)(5) Special Rule For Married Individuals — 
+                  
+                  
+In the case of individuals who are married to each other, if either spouse has family
+                     coverage— 
+
+I.R.C. § 223(b)(5)(A)  — 
+                     
+                     
+both spouses shall be treated as having only such family coverage (and if such spouses
+                        each have family coverage under different plans, as having the family coverage with
+                        the lowest annual deductible), and 
+
+
+I.R.C. § 223(b)(5)(B)  — 
+                     
+                     
+the limitation under paragraph (1) (after the application of subparagraph (A) and
+                        without regard to any additional contribution amount under paragraph (3))— 
+
+I.R.C. § 223(b)(5)(B)(i)  — 
+                        
+                        
+shall be reduced by the aggregate amount paid to Archer MSAs of such spouses for the
+                           taxable year, and 
+
+
+I.R.C. § 223(b)(5)(B)(ii)  — 
+                        
+                        
+after such reduction, shall be divided equally between them unless they agree on a
+                           different division. 
+
+
+
+
+I.R.C. § 223(b)(6) Denial Of Deduction To Dependents — 
+                  
+                  
+No deduction shall be allowed under this section to any individual with respect to
+                     whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year
+                     in which such individual's taxable year begins. 
+
+
+I.R.C. § 223(b)(7) Medicare Eligible Individuals — 
+                  
+                  
+The limitation under this subsection for any month with respect to an individual shall
+                     be zero for the first month such individual is entitled to benefits under title XVIII
+                     of the Social Security Act and for each month thereafter. 
+
+
+I.R.C. § 223(b)(8) Increase In Limit For Individuals Becoming Eligible Individuals After The Beginning
+                     Of The Year
+
+
+I.R.C. § 223(b)(8)(A) In General — 
+                     
+                     
+For purposes of computing the limitation under paragraph (1) for any taxable year,
+                        an individual who is an eligible individual during the last month of such taxable
+                        year shall be treated— 
+
+I.R.C. § 223(b)(8)(A)(i)  — 
+                        
+                        
+as having been an eligible individual during each of the months in such taxable year,
+                           and 
+
+
+I.R.C. § 223(b)(8)(A)(ii)  — 
+                        
+                        
+as having been enrolled, during each of the months such individual is treated as an
+                           eligible individual solely by reason of clause (i), in the same high deductible health
+                           plan in which the individual was enrolled for the last month of such taxable year. 
+
+
+
+I.R.C. § 223(b)(8)(B) Failure To Maintain High Deductible Health Plan Coverage
+
+
+I.R.C. § 223(b)(8)(B)(i) In General — 
+                        
+                        
+If, at any time during the testing period, the individual is not an eligible individual,
+                           then— 
+
+I.R.C. § 223(b)(8)(B)(i)(I)  — 
+                           
+                           
+gross income of the individual for the taxable year in which occurs the first month
+                              in the testing period for which such individual is not an eligible individual is increased
+                              by the aggregate amount of all contributions to the health savings account of the
+                              individual which could not have been made but for subparagraph (A), and 
+
+
+I.R.C. § 223(b)(8)(B)(i)(II)  — 
+                           
+                           
+the tax imposed by this chapter for any taxable year on the individual shall be increased
+                              by 10 percent of the amount of such increase. 
+
+
+
+I.R.C. § 223(b)(8)(B)(ii) Exception For Disability Or Death — 
+                        
+                        
+Subclauses (I) and (II) of clause (i) shall not apply if the individual ceased to
+                           be an eligible individual by reason of the death of the individual or the individual
+                           becoming disabled (within the meaning of section 72(m)(7)). 
+
+
+I.R.C. § 223(b)(8)(B)(iii) Testing Period — 
+                        
+                        
+The term “testing period” means the period beginning with the last month of the taxable
+                           year referred to in subparagraph (A) and ending on the last day of the 12th month
+                           following such month.
+I.R.C. § 223(c) Definitions And Special Rules — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 223(c)(1) Eligible Individual
+
+
+I.R.C. § 223(c)(1)(A) In General — 
+                     
+                     
+The term “eligible individual” means, with respect to any month, any individual if— 
+
+I.R.C. § 223(c)(1)(A)(i)  — 
+                        
+                        
+such individual is covered under a high deductible health plan as of the 1st day of
+                           such month, and 
+
+
+I.R.C. § 223(c)(1)(A)(ii)  — 
+                        
+                        
+such individual is not, while covered under a high deductible health plan, covered
+                           under any health plan— 
+
+I.R.C. § 223(c)(1)(A)(ii)(I)  — 
+                           
+                           
+which is not a high deductible health plan, and 
+
+
+I.R.C. § 223(c)(1)(A)(ii)(II)  — 
+                           
+                           
+which provides coverage for any benefit which is covered under the high deductible
+                              health plan. 
+
+
+
+
+I.R.C. § 223(c)(1)(B) Certain Coverage Disregarded — 
+                     
+                     
+Subparagraph (A)(ii) shall be applied without regard to— 
+
+I.R.C. § 223(c)(1)(B)(i)  — 
+                        
+                        
+coverage for any benefit provided by permitted insurance, 
+
+
+I.R.C. § 223(c)(1)(B)(ii)  — 
+                        
+                        
+coverage (whether through insurance or otherwise) for accidents, disability, dental
+                           care, vision care, or long-term care, or (in the case of months or plan years to which
+                           paragraph (2)(E) applies) telehealth and other remote care, and 
+
+
+I.R.C. § 223(c)(1)(B)(iii)  — 
+                        
+                        
+for taxable years beginning after December 31, 2006, coverage under a health flexible
+                           spending arrangement during any period immediately following the end of a plan year
+                           of such arrangement during which unused benefits or contributions remaining at the
+                           end of such plan year may be paid or reimbursed to plan participants for qualified
+                           benefit expenses incurred during such period if— 
+
+I.R.C. § 223(c)(1)(B)(iii)(I)  — 
+                           
+                           
+the balance in such arrangement at the end of such plan year is zero, or 
+
+
+I.R.C. § 223(c)(1)(B)(iii)(II)  — 
+                           
+                           
+the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of
+                              such plan year, in accordance with rules prescribed by the Secretary. 
+
+
+
+
+I.R.C. § 223(c)(1)(C) Special Rule For Individuals Eligible For Certain Veterans Benefits — 
+                     
+                     
+An individual shall not fail to be treated as an eligible individual for any period
+                        merely because the individual receives hospital care or medical services under any
+                        law administered by the Secretary of Veterans Affairs for a service-connected disability
+                        (within the meaning of section 101(16) of title 38, United States Code). 
+
+
+I.R.C. § 223(c)(1)(D) Special Rule For Individuals Receiving Benefits Subject To Surprise Billing Statutes — 
+                     
+                     
+An individual shall not fail to be treated as an eligible individual for any period
+                        merely because the individual receives benefits for medical care subject to and in
+                        accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717
+                        of the Employee Retirement Income Security Act of 1974, or any State law providing
+                        similar protections to such individual. 
+
+
+
+I.R.C. § 223(c)(2) High Deductible Health Plan
+
+
+I.R.C. § 223(c)(2)(A) In General — 
+                     
+                     
+The term “high deductible health plan” means a health plan— 
+
+I.R.C. § 223(c)(2)(A)(i)  — 
+                        
+                        
+which has an annual deductible which is not less than— 
+
+I.R.C. § 223(c)(2)(A)(i)(I)  — 
+                           
+                           
+$1,000 for self-only coverage, and 
+
+
+I.R.C. § 223(c)(2)(A)(i)(II)  — 
+                           
+                           
+twice the dollar amount in subclause (I) for family coverage, and 
+
+
+
+I.R.C. § 223(c)(2)(A)(ii)  — 
+                        
+                        
+the sum of the annual deductible and the other annual out-of-pocket expenses required
+                           to be paid under the plan (other than for premiums) for covered benefits does not
+                           exceed— 
+
+I.R.C. § 223(c)(2)(A)(ii)(I)  — 
+                           
+                           
+$5,000 for self-only coverage, and 
+
+
+I.R.C. § 223(c)(2)(A)(ii)(II)  — 
+                           
+                           
+twice the dollar amount in subclause (I) for family coverage. 
+
+
+
+
+I.R.C. § 223(c)(2)(B) Exclusion Of Certain Plans — 
+                     
+                     
+Such term does not include a health plan if substantially all of its coverage is coverage
+                        described in paragraph (1)(B). 
+
+
+I.R.C. § 223(c)(2)(C) Safe Harbor For Absence Of Preventive Care Deductible — 
+                     
+                     
+A plan shall not fail to be treated as a high deductible health plan by reason of
+                        failing to have a deductible for preventive care (within the meaning of section 1861
+                        of the Social Security Act, except as otherwise provided by the Secretary). 
+
+
+I.R.C. § 223(c)(2)(D) Special Rules For Network Plans — 
+                     
+                     
+In the case of a plan using a network of providers— 
+
+I.R.C. § 223(c)(2)(D)(i) Annual Out-Of-Pocket Limitation — 
+                        
+                        
+Such plan shall not fail to be treated as a high deductible health plan by reason
+                           of having an out-of-pocket limitation for services provided outside of such network
+                           which exceeds the applicable limitation under subparagraph (A)(ii). 
+
+
+I.R.C. § 223(c)(2)(D)(ii) Annual Deductible — 
+                        
+                        
+Such plan's annual deductible for services provided outside of such network shall
+                           not be taken into account for purposes of subsection (b)(2). 
+
+
+
+I.R.C. § 223(c)(2)(E) Safe Harbor For Absence Of Deductible For Telehealth — 
+                     
+                     
+In the case of — 
+
+I.R.C. § 223(c)(2)(E)(i)  — 
+                        
+                        
+months beginning after March 31, 2022, and before January 1, 2023, and 
+
+I.R.C. § 223(c)(2)(E)(i)(ii)  — 
+                           
+                           
+plan years beginning on or before December 31, 2021, or after December 31, 2022, and
+                              before January 1, 2025, 
+
+a plan shall not fail to be treated as a high deductible health plan by reason of
+                                 failing to have a deductible for telehealth and other remote care services.
+
+
+
+
+
+I.R.C. § 223(c)(2)(F) Special Rule For Surprise Billing — 
+                     
+                     
+A plan shall not fail to be treated as a high deductible health plan by reason of
+                        providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717
+                        of the Employee Retirement Income Security Act of 1974, or any State law providing
+                        similar protections to individuals, prior to the satisfaction of the deductible under
+                        paragraph (2)(A)(i). 
+
+
+I.R.C. § 223(c)(2)(G) Safe Harbor For Absence Of Deductible For Certain Insulin Products
+
+
+I.R.C. § 223(c)(2)(G)(i) In General — 
+                        
+                        
+A plan shall not fail to be treated as a high deductible health plan by reason of
+                           failing to have a deductible for selected insulin products. 
+
+
+I.R.C. § 223(c)(2)(G)(ii) Selected Insulin Products — 
+                        
+                        
+For purposes of this subparagraph— 
+
+I.R.C. § 223(c)(2)(G)(ii)(I) In General — 
+                           
+                           
+The term “selected insulin products” means any dosage form (such as vial, pump, or
+                              inhaler dosage forms) of any different type (such as rapid-acting, short-acting, intermediate-acting,
+                              long-acting, ultra long-acting, and premixed) of insulin. 
+
+
+I.R.C. § 223(c)(2)(G)(ii)(II) Insulin — 
+                           
+                           
+The term “insulin” means insulin that is licensed under subsection (a) or (k) of section
+                              351 of the Public Health Service Act (42 U.S.C. 262) and continues to be marketed
+                              under such section, including any insulin product that has been deemed to be licensed
+                              under section 351(a) of such Act pursuant to section 7002(e)(4) of the Biologics Price
+                              Competition and Innovation Act of 2009 (Public Law 111-148) and continues to be marketed
+                              pursuant to such licensure. 
+
+
+
+
+
+I.R.C. § 223(c)(3) Permitted Insurance — 
+                  
+                  
+The term “permitted insurance” means— 
+
+I.R.C. § 223(c)(3)(A)  — 
+                     
+                     
+insurance if substantially all of the coverage provided under such insurance relates
+                        to— 
+
+I.R.C. § 223(c)(3)(A)(i)  — 
+                        
+                        
+liabilities incurred under workers' compensation laws, 
+
+
+I.R.C. § 223(c)(3)(A)(ii)  — 
+                        
+                        
+tort liabilities, 
+
+
+I.R.C. § 223(c)(3)(A)(iii)  — 
+                        
+                        
+liabilities relating to ownership or use of property, or 
+
+
+I.R.C. § 223(c)(3)(A)(iv)  — 
+                        
+                        
+such other similar liabilities as the Secretary may specify by regulations, 
+
+
+
+I.R.C. § 223(c)(3)(B)  — 
+                     
+                     
+insurance for a specified disease or illness, and 
+
+
+I.R.C. § 223(c)(3)(C)  — 
+                     
+                     
+insurance paying a fixed amount per day (or other period) of hospitalization. 
+
+
+
+I.R.C. § 223(c)(4) Family Coverage — 
+                  
+                  
+The term “family coverage” means any coverage other than self-only coverage. 
+
+
+I.R.C. § 223(c)(5) Archer MSA — 
+                  
+                  
+The term “Archer MSA” has the meaning given such term in section 220(d).
+I.R.C. § 223(d) Health Savings Account — 
+               
+               
+For purposes of this section— 
+
+I.R.C. § 223(d)(1) In General — 
+                  
+                  
+The term “health savings account” means a trust created or organized in the United
+                     States as a health savings account exclusively for the purpose of paying the qualified
+                     medical expenses of the account beneficiary, but only if the written governing instrument
+                     creating the trust meets the following requirements: 
+
+I.R.C. § 223(d)(1)(A)  — 
+                     
+                     
+Except in the case of a rollover contribution described in subsection (f)(5) or section
+                        220(f)(5), no contribution will be accepted— 
+
+I.R.C. § 223(d)(1)(A)(i)  — 
+                        
+                        
+unless it is in cash, or 
+
+
+I.R.C. § 223(d)(1)(A)(ii)  — 
+                        
+                        
+to the extent such contribution, when added to previous contributions to the trust
+                           for the calendar year, exceeds the sum of— 
+
+I.R.C. § 223(d)(1)(A)(ii)(I)  — 
+                           
+                           
+the dollar amount in effect under subsection (b)(2)(B), and 
+
+
+I.R.C. § 223(d)(1)(A)(ii)(II)  — 
+                           
+                           
+the dollar amount in effect under subsection (b)(3)(B). 
+
+
+
+
+I.R.C. § 223(d)(1)(B)  — 
+                     
+                     
+The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the
+                        manner in which such person will administer the trust will be consistent with the
+                        requirements of this section. 
+
+
+I.R.C. § 223(d)(1)(C)  — 
+                     
+                     
+No part of the trust assets will be invested in life insurance contracts. 
+
+
+I.R.C. § 223(d)(1)(D)  — 
+                     
+                     
+The assets of the trust will not be commingled with other property except in a common
+                        trust fund or common investment fund. 
+
+
+I.R.C. § 223(d)(1)(E)  — 
+                     
+                     
+The interest of an individual in the balance in his account is nonforfeitable. 
+
+
+
+I.R.C. § 223(d)(2) Qualified Medical Expenses
+
+
+I.R.C. § 223(d)(2)(A) In General — 
+                     
+                     
+The term “qualified medical expenses” means, with respect to an account beneficiary,
+                        amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined
+                        in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)
+                        of such individual, but only to the extent such amounts are not compensated for by
+                        insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual
+                        care products shall be treated as paid for medical care. 
+
+
+I.R.C. § 223(d)(2)(B) Health Insurance May Not Be Purchased From Account — 
+                     
+                     
+Subparagraph (A) shall not apply to any payment for insurance. 
+
+
+I.R.C. § 223(d)(2)(C) Exceptions — 
+                     
+                     
+Subparagraph (B) shall not apply to any expense for coverage under— 
+
+I.R.C. § 223(d)(2)(C)(i)  — 
+                        
+                        
+a health plan during any period of continuation coverage required under any Federal
+                           law, 
+
+
+I.R.C. § 223(d)(2)(C)(ii)  — 
+                        
+                        
+a qualified long-term care insurance contract (as defined in section 7702B(b)), 
+
+
+I.R.C. § 223(d)(2)(C)(iii)  — 
+                        
+                        
+a health plan during a period in which the individual is receiving unemployment compensation
+                           under any Federal or State law, or 
+
+
+I.R.C. § 223(d)(2)(C)(iv)  — 
+                        
+                        
+in the case of an account beneficiary who has attained the age specified in section
+                           1811 of the Social Security Act, any health insurance other than a medicare supplemental
+                           policy (as defined in section 1882 of the Social Security Act). 
+
+
+
+I.R.C. § 223(d)(2)(D) Menstrual Care Product — 
+                     
+                     
+For purposes of this paragraph, the term “menstrual care product“ means a tampon,
+                        pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation
+                        or other genital-tract secretions. 
+
+
+
+I.R.C. § 223(d)(3) Account Beneficiary — 
+                  
+                  
+The term “account beneficiary” means the individual on whose behalf the health savings
+                     account was established. 
+
+
+I.R.C. § 223(d)(4) Certain Rules To Apply — 
+                  
+                  
+Rules similar to the following rules shall apply for purposes of this section: 
+
+I.R.C. § 223(d)(4)(A)  — 
+                     
+                     
+Section 219(d)(2) (relating to no deduction for rollovers). 
+
+
+I.R.C. § 223(d)(4)(B)  — 
+                     
+                     
+Section 219(f)(3) (relating to time when contributions deemed made). 
+
+
+I.R.C. § 223(d)(4)(C)  — 
+                     
+                     
+Except as provided in section 106(d), section 219(f)(5) (relating to employer payments). 
+
+
+I.R.C. § 223(d)(4)(D)  — 
+                     
+                     
+Section 408(g) (relating to community property laws). 
+
+
+I.R.C. § 223(d)(4)(E)  — 
+                     
+                     
+Section 408(h) (relating to custodial accounts).
+I.R.C. § 223(e) Tax Treatment Of Accounts
+
+
+I.R.C. § 223(e)(1) In General — 
+                  
+                  
+A health savings account is exempt from taxation under this subtitle unless such account
+                     has ceased to be a health savings account. Notwithstanding the preceding sentence,
+                     any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations). 
+
+
+I.R.C. § 223(e)(2) Account Terminations — 
+                  
+                  
+Rules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to health savings accounts, and any amount treated as distributed under
+                     such rules shall be treated as not used to pay qualified medical expenses.
+I.R.C. § 223(f) Tax Treatment Of Distributions
+
+
+I.R.C. § 223(f)(1) Amounts Used For Qualified Medical Expenses — 
+                  
+                  
+Any amount paid or distributed out of a health savings account which is used exclusively
+                     to pay qualified medical expenses of any account beneficiary shall not be includible
+                     in gross income. 
+
+
+I.R.C. § 223(f)(2) Inclusion Of Amounts Not Used For Qualified Medical Expenses — 
+                  
+                  
+Any amount paid or distributed out of a health savings account which is not used exclusively
+                     to pay the qualified medical expenses of the account beneficiary shall be included
+                     in the gross income of such beneficiary. 
+
+
+I.R.C. § 223(f)(3) Excess Contributions Returned Before Due Date Of Return
+
+
+I.R.C. § 223(f)(3)(A) In General — 
+                     
+                     
+If any excess contribution is contributed for a taxable year to any health savings
+                        account of an individual, paragraph (2) shall not apply to distributions from the
+                        health savings accounts of such individual (to the extent such distributions do not
+                        exceed the aggregate excess contributions to all such accounts of such individual
+                        for such year) if— 
+
+I.R.C. § 223(f)(3)(A)(i)  — 
+                        
+                        
+such distribution is received by the individual on or before the last day prescribed
+                           by law (including extensions of time) for filing such individual's return for such
+                           taxable year, and 
+
+
+I.R.C. § 223(f)(3)(A)(ii)  — 
+                        
+                        
+such distribution is accompanied by the amount of net income attributable to such
+                           excess contribution. 
+
+
+Any net income described in clause (ii) shall be included in the gross income of the
+                           individual for the taxable year in which it is received.
+
+
+
+I.R.C. § 223(f)(3)(B) Excess Contribution — 
+                     
+                     
+For purposes of subparagraph (A), the term “excess contribution” means any contribution
+                        (other than a rollover contribution described in paragraph (5) or section 220(f)(5)) which is neither excludable from gross income under section 106(d) nor deductible under this section. 
+
+
+
+I.R.C. § 223(f)(4) Additional Tax On Distributions Not Used For Qualified Medical Expenses
+
+
+I.R.C. § 223(f)(4)(A) In General — 
+                     
+                     
+The tax imposed by this chapter on the account beneficiary for any taxable year in
+                        which there is a payment or distribution from a health savings account of such beneficiary
+                        which is includible in gross income under paragraph (2) shall be increased by 20 percent
+                        of the amount which is so includible. 
+
+
+I.R.C. § 223(f)(4)(B) Exception For Disability Or Death — 
+                     
+                     
+Subparagraph (A) shall not apply if the payment or distribution is made after the
+                        account beneficiary becomes disabled within the meaning of section 72(m)(7) or dies. 
+
+
+I.R.C. § 223(f)(4)(C) Exception For Distributions After Medicare Eligibility — 
+                     
+                     
+Subparagraph (A) shall not apply to any payment or distribution after the date on
+                        which the account beneficiary attains the age specified in section 1811 of the Social Security Act. 
+
+
+
+I.R.C. § 223(f)(5) Rollover Contribution — 
+                  
+                  
+An amount is described in this paragraph as a rollover contribution if it meets the
+                     requirements of subparagraphs (A) and (B). 
+
+I.R.C. § 223(f)(5)(A) In General — 
+                     
+                     
+Paragraph (2) shall not apply to any amount paid or distributed from a health savings
+                        account to the account beneficiary to the extent the amount received is paid into
+                        a health savings account for the benefit of such beneficiary not later than the 60th
+                        day after the day on which the beneficiary receives the payment or distribution. 
+
+
+I.R.C. § 223(f)(5)(B) Limitation — 
+                     
+                     
+This paragraph shall not apply to any amount described in subparagraph (A) received
+                        by an individual from a health savings account if, at any time during the 1-year period
+                        ending on the day of such receipt, such individual received any other amount described
+                        in subparagraph (A) from a health savings account which was not includible in the
+                        individual's gross income because of the application of this paragraph. 
+
+
+
+I.R.C. § 223(f)(6) Coordination With Medical Expense Deduction — 
+                  
+                  
+For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical
+                     expenses shall not be treated as an expense paid for medical care. 
+
+
+I.R.C. § 223(f)(7) Transfer Of Account Incident To Divorce — 
+                  
+                  
+The transfer of an individual's interest in a health savings account to an individual's
+                     spouse or former spouse under a divorce or separation instrument described in clause
+                     (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding
+                     any other provision of this subtitle, and such interest shall, after such transfer,
+                     be treated as a health savings account with respect to which such spouse is the account
+                     beneficiary. 
+
+
+I.R.C. § 223(f)(8) Treatment After Death Of Account Beneficiary
+
+
+I.R.C. § 223(f)(8)(A) Treatment If Designated Beneficiary Is Spouse — 
+                     
+                     
+If the account beneficiary's surviving spouse acquires such beneficiary's interest
+                        in a health savings account by reason of being the designated beneficiary of such
+                        account at the death of the account beneficiary, such health savings account shall
+                        be treated as if the spouse were the account beneficiary. 
+
+
+I.R.C. § 223(f)(8)(B) Other Cases
+
+
+I.R.C. § 223(f)(8)(B)(i) In General — 
+                        
+                        
+If, by reason of the death of the account beneficiary, any person acquires the account
+                           beneficiary's interest in a health savings account in a case to which subparagraph
+                           (A) does not apply–- 
+
+I.R.C. § 223(f)(8)(B)(i)(I)  — 
+                           
+                           
+such account shall cease to be a health savings account as of the date of death, and 
+
+
+I.R.C. § 223(f)(8)(B)(i)(II)  — 
+                           
+                           
+an amount equal to the fair market value of the assets in such account on such date
+                              shall be includible if such person is not the estate of such beneficiary, in such
+                              person's gross income for the taxable year which includes such date, or if such person
+                              is the estate of such beneficiary, in such beneficiary's gross income for the last
+                              taxable year of such beneficiary. 
+
+
+
+I.R.C. § 223(f)(8)(B)(ii) Special Rules
+
+
+I.R.C. § 223(f)(8)(B)(ii)(I) Reduction Of Inclusion For Predeath Expenses — 
+                           
+                           
+The amount includible in gross income under clause (i) by any person (other than the
+                              estate) shall be reduced by the amount of qualified medical expenses which were incurred
+                              by the decedent before the date of the decedent's death and paid by such person within
+                              1 year after such date. 
+
+
+I.R.C. § 223(f)(8)(B)(ii)(II) Deduction For Estate Taxes — 
+                           
+                           
+An appropriate deduction shall be allowed under section 691(c) to any person (other than the decedent or the decedent's spouse) with respect to
+                              amounts included in gross income under clause (i) by such person.
+I.R.C. § 223(g) Cost-Of-Living Adjustment
+
+
+I.R.C. § 223(g)(1) In General — 
+                  
+                  
+Each dollar amount in subsections (b)(2) and (c)(2)(A) shall be increased by an amount
+                     equal to— 
+
+I.R.C. § 223(g)(1)(A)  — 
+                     
+                     
+such dollar amount, multiplied by 
+
+
+I.R.C. § 223(g)(1)(B)  — 
+                     
+                     
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting
+                        for “calendar year 2016” in subparagraph (A)(ii) thereof— 
+
+I.R.C. § 223(g)(1)(B)(i)  — 
+                        
+                        
+except as provided in clause (ii), “calendar year 1997“ and 
+
+
+I.R.C. § 223(g)(1)(B)(ii)  — 
+                        
+                        
+in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”. 
+
+
+In the case of adjustments made for any taxable year beginning after 2007, section
+                           1(f)(4) shall be applied for purposes of this paragraph by substituting “March 31” for “August
+                           31”, and the Secretary shall publish the adjusted amounts under subsections (b)(2)
+                           and (c)(2)(A) for taxable years beginning in any calendar year no later than June
+                           1 of the preceding calendar year.
+
+
+
+
+I.R.C. § 223(g)(2) Rounding — 
+                  
+                  
+If any increase under paragraph (1) is not a multiple of $50, such increase shall
+                     be rounded to the nearest multiple of $50.
+I.R.C. § 223(h) Reports — 
+               
+               
+The Secretary may require— 
+
+I.R.C. § 223(h)(1)  — 
+                  
+                  
+the trustee of a health savings account to make such reports regarding such account
+                     to the Secretary and to the account beneficiary with respect to contributions, distributions,
+                     the return of excess contributions, and such other matters as the Secretary determines
+                     appropriate, and 
+
+
+I.R.C. § 223(h)(2)  — 
+                  
+                  
+any person who provides an individual with a high deductible health plan to make such
+                     reports to the Secretary and to the account beneficiary with respect to such plan
+                     as the Secretary determines appropriate. 
+
+
+The reports required by this subsection shall be filed at such time and in such manner
+                     and furnished to such individuals at such time and in such manner as may be required
+                     by the Secretary.

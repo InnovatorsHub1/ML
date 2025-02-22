@@ -1,0 +1,311 @@
+Sec. 245. Dividends Received From Certain Foreign Corporations
+
+I.R.C. § 245(a) Dividends From 10-Percent Owned Foreign Corporations
+
+
+I.R.C. § 245(a)(1) In General — 
+                  
+                  
+In  the case of dividends received by a corporation from a qualified  10-percent owned
+                     foreign corporation, there shall be allowed as a  deduction an amount equal to the
+                     percent (specified in section 243 for the  taxable year) of the U.S.-source portion of such dividends. 
+
+
+I.R.C. § 245(a)(2) Qualified 10-Percent Owned Foreign Corporation — 
+                  
+                  
+For  purposes of this subsection, the term “qualified 10-percent owned foreign  corporation”
+                     means any foreign corporation
+                     (other than a passive foreign  investment company) if at least 10 percent of the stock
+                     of such  corporation (by vote and value) is owned by the taxpayer. 
+
+
+I.R.C. § 245(a)(3) U.S.-Source Portion — 
+                  
+                  
+For  purposes of this subsection, the U.S.-source portion of any dividend is an  amount
+                     which bears the same ratio to such dividend as— 
+
+I.R.C. § 245(a)(3)(A)  — 
+                     
+                     
+the  post-1986 undistributed U.S. earnings, bears to 
+
+
+I.R.C. § 245(a)(3)(B)  — 
+                     
+                     
+the  total post-1986 undistributed earnings. 
+
+
+
+I.R.C. § 245(a)(4) Post-1986 Undistributed Earnings — 
+                  
+                  
+The term “post-1986 undistributed earnings”
+                     means the amount of the earnings and profits of the foreign corporation
+                     (computed in accordance with sections 964(a) and 986) accumulated in taxable years
+                     beginning after December 31, 1986— 
+
+I.R.C. § 245(a)(4)(A)  — 
+                     
+                     
+as of the close of the taxable year of the foreign corporation in which the dividend
+                        is distributed, and 
+
+
+I.R.C. § 245(a)(4)(B)  — 
+                     
+                     
+without diminution by reason of dividends distributed during such taxable year. 
+
+
+
+I.R.C. § 245(a)(5) Post-1986 Undistributed U.S. Earnings — 
+                  
+                  
+For  purposes of this subsection, the term “post-1986 undistributed U.S.  earnings”
+                     means the portion of the post-1986 undistributed earnings which  is attributable to— 
+
+I.R.C. § 245(a)(5)(A)  — 
+                     
+                     
+income  of the qualified 10-percent owned foreign corporation which is effectively
+                        connected with the conduct of a trade or business within the United States  and subject
+                        to tax under this chapter, or 
+
+
+I.R.C. § 245(a)(5)(B)  — 
+                     
+                     
+any  dividend received (directly or through a wholly owned foreign corporation)  from
+                        a domestic corporation at least 80 percent of the stock of which (by  vote and value)
+                        is owned (directly or through such wholly owned foreign  corporation)
+                        by the qualified 10-percent owned foreign corporation. 
+
+
+
+I.R.C. § 245(a)(6) Special Rule — 
+                  
+                  
+If  the 1st day on which the requirements of paragraph
+                     (2) are met with  respect to any foreign corporation is in a taxable year of such
+                     corporation beginning after December 31, 1986, the post-1986 undistributed  earnings
+                     and the post-1986 undistributed U.S. earnings of such corporation  shall be determined
+                     by only taking into account periods beginning on and  after the 1st day of the 1st
+                     taxable year in which such requirements are  met. 
+
+
+I.R.C. § 245(a)(7) Coordination With Subsection (b) — 
+                  
+                  
+Earnings  and profits of any qualified 10-percent owned foreign corporation for any
+                     taxable year shall not be taken into account under this subsection if the  deduction
+                     provided by subsection
+                     (b) would be allowable with respect to  dividends paid out of such earnings and profits. 
+
+
+I.R.C. § 245(a)(8) Disallowance Of Foreign Tax Credit — 
+                  
+                  
+No  credit shall be allowed under section 901 for any taxes paid or accrued
+                     (or treated as paid or accrued) with respect to the United States-source
+                     portion of any dividend received by a corporation from a qualified
+                     10-percent-owned foreign corporation. 
+
+
+I.R.C. § 245(a)(9) Coordination With Section 904 — 
+                  
+                  
+For  purposes of section 904, the U.S.-source portion of any dividend received  by a corporation from a qualified
+                     10-percent owned foreign corporation  shall be treated as from sources in the United
+                     States. 
+
+
+I.R.C. § 245(a)(10) Coordination With Treaties — 
+                  
+                  
+If— 
+
+I.R.C. § 245(a)(10)(A)  — 
+                     
+                     
+any  portion of a dividend received by a corporation from a qualified  10-percent-owned
+                        foreign corporation would be treated as from sources in  the United States under paragraph
+                        (9), 
+
+
+I.R.C. § 245(a)(10)(B)  — 
+                     
+                     
+under  a treaty obligation of the United States (applied without regard to this  subsection),
+                        such portion would be treated as arising from sources outside  the United States,
+                        and 
+
+
+I.R.C. § 245(a)(10)(C)  — 
+                     
+                     
+the  taxpayer chooses the benefits of this paragraph, this subsection shall not
+                        apply to such dividend (but subsections (a), (b), and (c) of section 904  and sections 907 and 960 shall be applied separately with respect to  such portion of such dividend). 
+
+
+
+I.R.C. § 245(a)(11) Coordination With Section 1248 — 
+                  
+                  
+For  purposes of this subsection, the term “dividend"
+                     does not include any  amount treated as a dividend under section 1248. 
+
+
+I.R.C. § 245(a)(12) Dividends Derived From RICs And REITs Ineligible For Deduction — 
+                  
+                  
+Regulated investment companies and real estate investment trusts shall not be treated
+                     as domestic corporations for purposes of paragraph (5)(B).
+I.R.C. § 245(b) Certain Dividends Received From Wholly Owned Foreign Subsidiaries
+
+
+I.R.C. § 245(b)(1) In General — 
+                  
+                  
+In  the case of dividends described in paragraph (2)
+                     received from a foreign  corporation by a domestic corporation which, for its taxable
+                     year in which  such dividends are received, owns (directly or indirectly) all of the
+                     outstanding stock of such foreign corporation, there shall be allowed as a  deduction
+                     (in lieu of the deduction provided by subsection (a)) an amount  equal to 100 percent
+                     of such dividends. 
+
+
+I.R.C. § 245(b)(2) Eligible Dividends — 
+                  
+                  
+Paragraph  (1) shall apply only to dividends which are paid out of the earnings and
+                     profits of a foreign corporation for a taxable year during which— 
+
+I.R.C. § 245(b)(2)(A)  — 
+                     
+                     
+all  of its outstanding stock is owned
+                        (directly or indirectly) by the domestic  corporation to which such dividends are
+                        paid; and 
+
+
+I.R.C. § 245(b)(2)(B)  — 
+                     
+                     
+all  of its gross income from all sources is effectively connected with the  conduct
+                        of a trade or business within the United States. 
+
+
+
+I.R.C. § 245(b)(3) Exception — 
+                  
+                  
+Paragraph  (1) shall not apply to any dividends if an election under section 1562
+                     is  effective for either— 
+
+I.R.C. § 245(b)(3)(A)  — 
+                     
+                     
+the  taxable year of the domestic corporation in which such dividends are  received,
+                        or 
+
+
+I.R.C. § 245(b)(3)(B)  — 
+                     
+                     
+the  taxable year of the foreign corporation out of the earnings and profits of  which
+                        such dividends are paid.
+I.R.C. § 245(c) Certain Dividends Received From FSC
+
+
+I.R.C. § 245(c)(1) In General — 
+                  
+                  
+In  the case of a domestic corporation, there shall be allowed as a deduction  an
+                     amount equal to— 
+
+I.R.C. § 245(c)(1)(A)  — 
+                     
+                     
+100  percent of any dividend received from another corporation which is  distributed
+                        out of earnings and profits attributable to foreign trade  income for a period during
+                        which such other corporation was a FSC, and 
+
+
+I.R.C. § 245(c)(1)(B)  — 
+                     
+                     
+50  percent (65 percent in the case of dividends from a 20-percent owned  corporation
+                        as defined in section 243(c)(2)) of any dividend received from  another corporation which is distributed out of earnings
+                        and profits  attributable to effectively connected income received or accrued by such
+                        other corporation while such other corporation was a FSC. 
+
+
+
+I.R.C. § 245(c)(2) Exception For Certain Dividends — 
+                  
+                  
+Paragraph  (1) shall not apply to any dividend which is distributed out of earnings
+                     and profits attributable to foreign trade income which— 
+
+I.R.C. § 245(c)(2)(A)  — 
+                     
+                     
+is  section 923(a)(2) nonexempt income
+                        (within the meaning of section  927(d)(6)), or 
+
+
+I.R.C. § 245(c)(2)(B)  — 
+                     
+                     
+would  not, but for section 923(a)(4), be treated as exempt foreign trade income. 
+
+
+
+I.R.C. § 245(c)(3) No Deduction Under Subsection (a) Or (b) — 
+                  
+                  
+No  deduction shall be allowable under subsection (a)
+                     or (b) with respect to  any dividend which is distributed out of earnings and profits
+                     of a  corporation accumulated while such corporation was a FSC. 
+
+
+I.R.C. § 245(c)(4) Definitions — 
+                  
+                  
+For  purposes of this subsection— 
+
+I.R.C. § 245(c)(4)(A) Foreign Trade Income; Exempt Foreign Trade Income — 
+                     
+                     
+The  terms “foreign trade income” and “exempt foreign trade income” have the  respective
+                        meanings given such terms by section 923. 
+
+
+I.R.C. § 245(c)(4)(B) Effectively Connected Income — 
+                     
+                     
+The  term “effectively connected income” means any income which is effectively  connected
+                        (or treated as effectively connected)
+                        with the conduct of a  trade or business in the United States and is subject to tax
+                        under this  chapter. Such term shall not include any foreign trade  income. 
+
+
+I.R.C. § 245(c)(4)(C) FSC — 
+                     
+                     
+The term “FSC” has the meaning given such term by section 922. 
+
+
+
+I.R.C. § 245(c)(5) References To Prior Law — 
+                  
+                  
+Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by
+                     the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
+I.R.C. § 245(d)  — 
+               
+               
+Property  distributions [Repealed]
